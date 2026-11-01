@@ -1,0 +1,71 @@
+# Rebuilds the site and publishes it to GitHub Pages.
+#   - every day (the same refresh the local server does at 5am): newest FEC filings -> money -> races -> static site
+#   - on every push to main: just rebuilds and publishes the static site from the committed data
+#   - by hand: Actions tab -> "Refresh data and publish" -> Run workflow
+# One-time setup: Settings -> Pages -> Source: "GitHub Actions", and Settings -> Secrets and variables -> Actions -> add FEC_API_KEY.
+name: Refresh data and publish
+
+on:
+  schedule:
+    - cron: '17 9 * * *'   # 09:17 UTC, early morning in the U.S.
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['public/**', 'lib/**', 'scripts/**', 'data/**', '.github/workflows/pages.yml']
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Newest FEC filings (live e-filing feed)
+        if: github.event_name != 'push'
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: |
+          if [ -n "$FEC_API_KEY" ]; then node scripts/refresh-live.mjs || echo "live feed skipped"; else echo "No FEC_API_KEY secret: using the bulk files only"; fi
+
+      - name: Rebuild money and races
+        if: github.event_name != 'push'
+        run: |
+          node scripts/build-money.mjs
+          node scripts/build-races.mjs
+
+      - name: Save refreshed data to the repo
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "no data changes"; else git commit -m "Daily data refresh" && git push; fi
+
+      - name: Build the static site
+        run: node scripts/build-static.mjs
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
