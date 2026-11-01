@@ -476,3 +476,6 @@ a.tile:hover, a.tile:focus-visible { scale: 1.08; box-shadow: 0 24px 50px -12px 
 .bp-list { grid-auto-rows: 1fr; }
 .bp-list li { display: flex; }
 .bp-m { flex: 1; min-height: 92px; }
+
+/* phones: no floating portraits behind the headline */
+@media (max-width: 700px) { .hero-tiles { display: none; } }
