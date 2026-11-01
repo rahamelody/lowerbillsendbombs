@@ -1,0 +1,3 @@
+{
+  "_readme": "Credits for hand-added photos. Put an image in public/photos/ named after the candidate FEC id (e.g. S6MI00418.jpg), or \"Full Name|ST\" (spaces and punctuation become underscores) when there is no FEC id. Then add the key here with the credit text, e.g. \"S6MI00418\": \"Campaign photo\". Run: node scripts/build-photos.mjs"
+}

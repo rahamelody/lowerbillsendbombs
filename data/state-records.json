@@ -1,0 +1,266 @@
+{
+ "generated": "2026-11-01T19:51:03.231Z",
+ "records": {
+  "Jacqui Irwin|CA": {
+   "people_id": 16291,
+   "name": "Jacqui Irwin",
+   "chamber": "House/Assembly",
+   "district": "HD-042",
+   "state": "CA",
+   "rows": [
+    {
+     "topic": "housing",
+     "aligned": true,
+     "tier": "full",
+     "what": "tenant protections / social housing",
+     "vote": "Yea",
+     "bill": "AB11",
+     "title": "The Social Housing Act.",
+     "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB11",
+     "date": "2025-06-02",
+     "result": "47–20"
+    }
+   ],
+   "url": "https://legiscan.com/CA/people/jacqui-irwin/id/16291"
+  },
+  "Adrian Boafo|MD": {
+   "people_id": 24710,
+   "name": "Adrian Boafo",
+   "chamber": "House/Assembly",
+   "district": "HD-023",
+   "state": "MD",
+   "rows": [
+    {
+     "topic": "housing",
+     "aligned": true,
+     "tier": "full",
+     "what": "tenant protections / social housing",
+     "vote": "Yea",
+     "bill": "HB774",
+     "title": "Landlord and Tenant - Residential Leases and Holdover Tenancies - Local Good Cause Termination (Good Cause Eviction)",
+     "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0774?ys=2026RS",
+     "date": "2026-04-06",
+     "result": "84–41"
+    }
+   ],
+   "url": "https://legiscan.com/MD/people/adrian-boafo/id/24710"
+  },
+  "Donavan McKinney|MI": {
+   "people_id": 24329,
+   "name": "Donavan McKinney",
+   "chamber": "House/Assembly",
+   "district": "HD-011",
+   "state": "MI",
+   "rows": [
+    {
+     "topic": "housing",
+     "aligned": true,
+     "tier": "full",
+     "what": "tenant protections / social housing",
+     "role": "Cosponsor",
+     "bill": "HB4009",
+     "title": "Housing: affordable; rent control policies; allow local governments to establish. Repeals 1988 PA 226 (MCL 123.411).",
+     "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4009",
+     "session": "103rd Legislature"
+    }
+   ],
+   "url": "https://legiscan.com/MI/people/donavan-mckinney/id/24329"
+  },
+  "Micah Lasher|NY": {
+   "people_id": 25826,
+   "name": "Micah Lasher",
+   "chamber": "House/Assembly",
+   "district": "HD-069",
+   "state": "NY",
+   "rows": [
+    {
+     "topic": "health",
+     "aligned": true,
+     "tier": "full",
+     "what": "single-payer health care",
+     "role": "Cosponsor",
+     "bill": "A01466",
+     "title": "Establishes the New York Health program, a comprehensive system of access to health insurance for New York state residents; provides for administrative structure of the plan; provides for powers and duties of the board of trustees, the scope of benefits, payment methodologies and care coordination; establishes the New York Health Trust Fund which would hold monies from a variety of sources to be used solely to finance the plan; enacts provisions relating to financing of New York Health, including a payroll assessment, similar to the Medicare tax; establishes a temporary commission on implementation of the plan; provides for collective negotiations by health care providers with New York Health.",
+     "url": "https://www.nysenate.gov/legislation/bills/2025/A1466",
+     "session": "2025-2026 General Assembly"
+    },
+    {
+     "topic": "housing",
+     "aligned": true,
+     "tier": "full",
+     "what": "tenant protections / social housing",
+     "role": "Cosponsor",
+     "bill": "A01704",
+     "title": "Relates to establishing the housing access voucher program; provides that the commissioner of the division of housing and community renewal shall implement a program of rental assistance in the form of housing vouchers for eligible individuals and families who are homeless or who face an imminent loss of housing; provides that the commissioner shall designate housing access voucher local administrators in the state to administer the program.",
+     "url": "https://www.nysenate.gov/legislation/bills/2025/A1704",
+     "session": "2025-2026 General Assembly"
+    },
+    {
+     "topic": "housing",
+     "aligned": true,
+     "tier": "full",
+     "what": "tenant protections / social housing",
+     "role": "Cosponsor",
+     "bill": "A04877",
+     "title": "Relates to enacting the rent emergency stabilization for tenants act on local determinations of a housing emergency; authorizes a city with a population of one million or more to declare an emergency as to any class of housing accommodations if the vacancy rate for the housing accommodations in such class within such municipality is not in excess of five percent and a declaration of emergency may be made as to all housing accommodations if the vacancy rate for the housing accommodations within such municipality is not in excess of five percent; authorizes other cities, towns and villages to declare a housing emergency after considering publicly available data and holding public hearings.",
+     "url": "https://www.nysenate.gov/legislation/bills/2025/A4877",
+     "session": "2025-2026 General Assembly"
+    }
+   ],
+   "url": "https://legiscan.com/NY/people/micah-lasher/id/25826"
+  },
+  "Claire Valdez|NY": {
+   "people_id": 25833,
+   "name": "Claire Valdez",
+   "chamber": "House/Assembly",
+   "district": "HD-037",
+   "state": "NY",
+   "rows": [
+    {
+     "topic": "health",
+     "aligned": true,
+     "tier": "full",
+     "what": "single-payer health care",
+     "role": "Cosponsor",
+     "bill": "A01466",
+     "title": "Establishes the New York Health program, a comprehensive system of access to health insurance for New York state residents; provides for administrative structure of the plan; provides for powers and duties of the board of trustees, the scope of benefits, payment methodologies and care coordination; establishes the New York Health Trust Fund which would hold monies from a variety of sources to be used solely to finance the plan; enacts provisions relating to financing of New York Health, including a payroll assessment, similar to the Medicare tax; establishes a temporary commission on implementation of the plan; provides for collective negotiations by health care providers with New York Health.",
+     "url": "https://www.nysenate.gov/legislation/bills/2025/A1466",
+     "session": "2025-2026 General Assembly"
+    },
+    {
+     "topic": "housing",
+     "aligned": true,
+     "tier": "full",
+     "what": "tenant protections / social housing",
+     "role": "Cosponsor",
+     "bill": "A01704",
+     "title": "Relates to establishing the housing access voucher program; provides that the commissioner of the division of housing and community renewal shall implement a program of rental assistance in the form of housing vouchers for eligible individuals and families who are homeless or who face an imminent loss of housing; provides that the commissioner shall designate housing access voucher local administrators in the state to administer the program.",
+     "url": "https://www.nysenate.gov/legislation/bills/2025/A1704",
+     "session": "2025-2026 General Assembly"
+    },
+    {
+     "topic": "housing",
+     "aligned": true,
+     "tier": "full",
+     "what": "tenant protections / social housing",
+     "role": "Cosponsor",
+     "bill": "A04669",
+     "title": "Establishes the civil right to counsel in eviction proceedings in New York state; creates the New York state office of civil representation; requires that covered individuals be given notice of such right to counsel.",
+     "url": "https://www.nysenate.gov/legislation/bills/2025/A4669",
+     "session": "2025-2026 General Assembly"
+    },
+    {
+     "topic": "housing",
+     "aligned": true,
+     "tier": "full",
+     "what": "tenant protections / social housing",
+     "role": "Cosponsor",
+     "bill": "A04877",
+     "title": "Relates to enacting the rent emergency stabilization for tenants act on local determinations of a housing emergency; authorizes a city with a population of one million or more to declare an emergency as to any class of housing accommodations if the vacancy rate for the housing accommodations in such class within such municipality is not in excess of five percent and a declaration of emergency may be made as to all housing accommodations if the vacancy rate for the housing accommodations within such municipality is not in excess of five percent; authorizes other cities, towns and villages to declare a housing emergency after considering publicly available data and holding public hearings.",
+     "url": "https://www.nysenate.gov/legislation/bills/2025/A4877",
+     "session": "2025-2026 General Assembly"
+    },
+    {
+     "topic": "housing",
+     "aligned": true,
+     "tier": "full",
+     "what": "tenant protections / social housing",
+     "role": "Cosponsor",
+     "bill": "A06100",
+     "title": "Establishes the \"tenant opportunity to purchase act\"; prevents the displacement of lower-income tenants in New York and preserves affordable housing by providing an opportunity for tenants to own or remain renters in the properties in which they reside.",
+     "url": "https://www.nysenate.gov/legislation/bills/2025/A6100",
+     "session": "2025-2026 General Assembly"
+    },
+    {
+     "topic": "israel",
+     "aligned": true,
+     "tier": "partial",
+     "what": "ending funding of settlement activity",
+     "role": "Cosponsor",
+     "bill": "A06101",
+     "title": "Establishes the \"Not on our dime!: Ending New York funding of Israeli settler violence act\" to prohibit not-for-profit corporations from engaging in unauthorized support of Israeli settlement activity; allows for recovery of a civil penalty by the state attorney general; creates a private right of action for violations.",
+     "url": "https://www.nysenate.gov/legislation/bills/2025/A6101",
+     "session": "2025-2026 General Assembly"
+    },
+    {
+     "topic": "housing",
+     "aligned": true,
+     "tier": "full",
+     "what": "tenant protections / social housing",
+     "role": "Cosponsor",
+     "bill": "A06265",
+     "title": "Establishes the New York State social housing development authority as a public benefit corporation to increase the supply of permanently affordable housing in the state through the acquisition of land and renovation or rehabilitation of existing real property, and through the construction of new, permanently affordable housing.",
+     "url": "https://www.nysenate.gov/legislation/bills/2025/A6265",
+     "session": "2025-2026 General Assembly"
+    },
+    {
+     "topic": "israel",
+     "aligned": true,
+     "tier": "partial",
+     "what": "ending funding of settlement activity",
+     "role": "Cosponsor",
+     "bill": "A11289",
+     "title": "Establishes the \"Not on our dime!: Ending New York funding of Israeli settler violence act\" to prohibit not-for-profit corporations from engaging in unauthorized support of Israeli settlement activity; allows for recovery of a civil penalty by the state attorney general; creates a private right of action for violations.",
+     "url": "https://www.nysenate.gov/legislation/bills/2025/A11289",
+     "session": "2025-2026 General Assembly"
+    }
+   ],
+   "url": "https://legiscan.com/NY/people/claire-valdez/id/25833"
+  },
+  "Chris Rabb|PA": {
+   "people_id": 18231,
+   "name": "Christopher Rabb",
+   "chamber": "House/Assembly",
+   "district": "HD-200",
+   "state": "PA",
+   "rows": [
+    {
+     "topic": "health",
+     "aligned": true,
+     "tier": "full",
+     "what": "single-payer health care",
+     "role": "Cosponsor",
+     "bill": "HB2763",
+     "title": "Establishing the Office of Health Care for the purpose of creating a universal single-payer health care system; providing for powers and duties of the Office of Health Care; establishing the Pennsylvania Health Care Board; providing for eligible participants; establishing the Health Care Restricted Account; and providing for sources of revenue.",
+     "url": "https://www.palegis.us/legislation/bills/2025/hb2763",
+     "session": "2025-2026 Regular Session"
+    }
+   ],
+   "url": "https://legiscan.com/PA/people/christopher-rabb/id/18231"
+  },
+  "John Braun|WA": {
+   "people_id": 14828,
+   "name": "John Braun",
+   "chamber": "Senate",
+   "district": "SD-020",
+   "state": "WA",
+   "rows": [
+    {
+     "topic": "housing",
+     "aligned": true,
+     "tier": "full",
+     "what": "tenant protections / social housing",
+     "vote": "Nay",
+     "bill": "HB1687",
+     "title": "Concerning social housing public development authorities.",
+     "url": "https://app.leg.wa.gov/billsummary?BillNumber=1687&Year=2025&Initiative=false",
+     "date": "2026-02-28",
+     "result": "32–17"
+    },
+    {
+     "topic": "health",
+     "aligned": true,
+     "tier": "full",
+     "what": "single-payer health care",
+     "vote": "Nay",
+     "bill": "SJM8004",
+     "title": "Concerning Universal Health Care.",
+     "url": "https://app.leg.wa.gov/billsummary?BillNumber=8004&Year=2025&Initiative=false",
+     "date": "2025-02-12",
+     "result": "30–19"
+    }
+   ],
+   "url": "https://legiscan.com/WA/people/john-braun/id/14828"
+  }
+ }
+}

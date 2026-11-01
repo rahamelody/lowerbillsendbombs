@@ -1,0 +1,4 @@
+[
+  { "id": "C00797670", "name": "AIPAC PAC (American Israel Public Affairs Committee PAC)", "kind": "direct", "note": "Direct contributions to candidate campaigns" },
+  { "id": "C00799031", "name": "United Democracy Project (AIPAC's super PAC)", "kind": "independent", "note": "Independent expenditures supporting or opposing candidates" }
+]

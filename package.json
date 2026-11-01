@@ -1,0 +1,15 @@
+{
+  "name": "lower-my-bills-end-the-bombs",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "build-data": "node scripts/build-nominees.mjs && node scripts/build-votes.mjs && node scripts/build-cosponsors.mjs && node scripts/build-state-records.mjs && node scripts/build-money.mjs && node scripts/build-races.mjs && node scripts/build-photos.mjs",
+    "build-quotes": "node scripts/build-sites.mjs && node scripts/find-sites.mjs && node scripts/crawl-sites.mjs",
+    "refresh": "node scripts/refresh-live.mjs && node scripts/build-money.mjs && node scripts/build-races.mjs",
+    "build-state": "node scripts/build-state-records.mjs",
+    "build-important": "node scripts/build-important.mjs",
+    "find-sites": "node scripts/find-sites.mjs",
+    "build-static": "node scripts/build-static.mjs"
+  }
+}

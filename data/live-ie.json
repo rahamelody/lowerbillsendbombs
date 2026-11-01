@@ -1,0 +1,43 @@
+{
+ "fetchedAt": "2026-11-01T15:52:14.703Z",
+ "since": "2026-10-28",
+ "rows": [
+  {
+   "spe_id": "C00799031",
+   "cand_id": "S6MI00418",
+   "sup_opp": "O",
+   "amount": 73834,
+   "dissem": "2026-10-29",
+   "file_number": 2044441,
+   "tran_id": "EAB1C466706CF4EBBA6A"
+  },
+  {
+   "spe_id": "C00854299",
+   "cand_id": "H6FL09294",
+   "sup_opp": "O",
+   "amount": 120000,
+   "dissem": "2026-10-28",
+   "file_number": 2043358,
+   "tran_id": "500372963"
+  },
+  {
+   "spe_id": "C00950600",
+   "cand_id": "S6SC04239",
+   "sup_opp": "O",
+   "amount": 11568,
+   "dissem": "2026-10-29",
+   "file_number": 2044427,
+   "tran_id": "SE24.37917"
+  },
+  {
+   "spe_id": "C00863472",
+   "cand_id": "H6CA22208",
+   "sup_opp": "S",
+   "amount": 23006,
+   "dissem": "2027-05-21",
+   "file_number": 1985825,
+   "tran_id": "500328910"
+  }
+ ],
+ "transfers": []
+}

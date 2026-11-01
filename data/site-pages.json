@@ -1,0 +1,42 @@
+{
+  "_readme": "Extra pages to read for a candidate, beyond what the crawler finds from the homepage: hand-supplied issue/platform URLs. Keys match data/sites-manual.json. Same host as the site only; robots.txt still applies.",
+  "S6MN00556": [
+    "https://micheletafoya.com/issues/"
+  ],
+  "S6MT00261": [
+    "https://www.kyleaustinmt.com"
+  ],
+  "S6OH00395": [
+    "https://www.greg4senate.com/platform"
+  ],
+  "S6MN00572": [
+    "https://whiting4senate.us"
+  ],
+  "S6NC00415": [
+    "https://michaelwhatley.com/issues/"
+  ],
+  "S4NE00207": [
+    "https://www.osbornforsenate.com/plans"
+  ],
+  "S6MT00295": [
+    "https://almeforsenate.com/meet-kurt/"
+  ],
+  "S6SC04239": [
+    "https://drannieandrews.com/platform/"
+  ],
+  "S6KS00312": [
+    "https://hamiltonforkansas.com/issues/"
+  ],
+  "S6AR00199": [
+    "https://www.hallieshoffner.com/platform"
+  ],
+  "S6MT00253": [
+    "https://alaniformt.com/positions"
+  ],
+  "Ken Paxton|TX": [
+    "https://www.kenpaxton.com/issues"
+  ],
+  "H6NY10176": [
+    "https://www.bradlanderforcongress.com/issues"
+  ]
+}

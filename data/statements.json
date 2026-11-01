@@ -1,0 +1,131 @@
+{
+ "_readme": "Sourced public statements, keyed by bioguide id (if the person has served in Congress) or FEC candidate id. Each entry may have 'iran' and/or 'israel': { quotes:[{text, source, url, date}] } (shown only when the candidate has no voting record). RULES: quote text must be verbatim from the linked source (keep it short; use an ellipsis rather than paraphrase); date is when it was SAID or published; max 3 per topic; never attribute a quote to a speaker unless the source does. Optional 'stance'/'summary' fields are only used when we have no votes. Optional 'flag' (short text) marks a documented change of position. Optional 'badge': {tier: full|partial|mixed|against, label} sets the collapsed label by hand when a position can't be read from phrases (used for documented changes of position).",
+ "entries": {
+  "S6MI00418": {
+   "iran": {
+    "quotes": [
+     {
+      "text": "a war we don’t need to be fighting",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/michigan-senate-candidate-responds-backlash-over-khamenei-comments-iran-conflict-war-we-dont-need",
+      "date": "Apr. 1, 2026",
+      "kind": "news"
+     },
+     {
+      "text": "There is no legal authority for a war that Donald Trump is using to torch our tax dollars",
+      "source": "The State News (campus rally)",
+      "url": "https://statenews.com/article/2026/04/abdul-el-sayed-denounces-iran-war-calls-for-abolishing-ice-in-campus-rally",
+      "date": "Apr. 7, 2026",
+      "kind": "news"
+     },
+     {
+      "text": "Donald Trump is on the ballot through Mike Rogers. They are hip-to-hip on this war, and you are paying the cost",
+      "source": "Al Jazeera (Senate debate)",
+      "url": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash",
+      "date": "Oct. 22, 2026",
+      "kind": "news"
+     }
+    ]
+   },
+   "israel": {
+    "quotes": [
+     {
+      "text": "There is a word for annihilating 60,000-plus people",
+      "source": "The Intercept (on Gaza)",
+      "url": "https://theintercept.com/2025/11/20/abdul-el-sayed-michigan-senate-israel-gaza/",
+      "date": "Nov. 20, 2025",
+      "kind": "news"
+     },
+     {
+      "text": "I think Gaza was a Rorschach test on your values",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2025/11/20/abdul-el-sayed-michigan-senate-israel-gaza/",
+      "date": "Nov. 20, 2025",
+      "kind": "news"
+     }
+    ]
+   }
+  },
+  "S4MI00595": {
+   "iran": {
+    "quotes": [
+     {
+      "text": "Iran is an imminent threat to our country—and must not have a nuclear weapon.",
+      "source": "X post, via Bridge Michigan",
+      "url": "https://bridgemi.com/michigan-politics/fact-check-mike-rogers-john-james-shift-positions-on-iran-war/",
+      "date": "Feb. 28, 2026",
+      "kind": "news"
+     },
+     {
+      "text": "The war with Iran needs to end and end quickly.",
+      "source": "Campaign video, via Bridge Michigan",
+      "url": "https://bridgemi.com/michigan-politics/fact-check-mike-rogers-john-james-shift-positions-on-iran-war/",
+      "date": "Sept. 21, 2026",
+      "kind": "news"
+     },
+     {
+      "text": "Now's the time to start winding this thing up.",
+      "source": "Press conference, via Bridge Michigan",
+      "url": "https://bridgemi.com/michigan-politics/fact-check-mike-rogers-john-james-shift-positions-on-iran-war/",
+      "date": "late Sept. 2026",
+      "kind": "news"
+     }
+    ],
+    "flag": "Backed the war early in 2026, then called for ending it in September. Both are his own words, below.",
+    "badge": {
+     "tier": "mixed",
+     "label": "Changed position on the war"
+    }
+   },
+   "israel": {
+    "quotes": [
+     {
+      "text": "trying to out-left each other",
+      "source": "Washington Examiner (on Michigan Democrats' Israel stances)",
+      "url": "https://www.washingtonexaminer.com/?p=3761753",
+      "date": "Aug. 20, 2025",
+      "kind": "news"
+     },
+     {
+      "text": "[El-Sayed] is more worried about Gaza than your gas prices",
+      "source": "Social media post, via AP/WLOS",
+      "url": "https://wlos.com/news/nation-world/michigans-republican-gop-mike-rogers-looking-for-lead-in-senate-race-attacks-democrat-abdul-el-sayed-from-new-angles-midterm-elections",
+      "date": "Sept. 26, 2026",
+      "kind": "news"
+     }
+    ]
+   }
+  },
+  "H6NY14251": {
+   "health": {
+    "quotes": [
+     {
+      "text": "Get rid of waste and fraud, giving back to the people, not the insurance companies.",
+      "source": "Campaign website (his plan for NY-14)",
+      "url": "https://votefordiamant.com/diamants-plan-for-ny-14",
+      "date": "retrieved Nov 1, 2026",
+      "kind": "campaign-site"
+     }
+    ]
+   },
+   "housing": {
+    "quotes": [
+     {
+      "text": "Affordable Rent. Quality Homes",
+      "source": "Campaign website (home page)",
+      "url": "https://votefordiamant.com/",
+      "date": "retrieved Nov 1, 2026",
+      "kind": "campaign-site"
+     },
+     {
+      "text": "I'm a small business owner in construction, no one knows housing better than me.",
+      "source": "Campaign website (his plan for NY-14)",
+      "url": "https://votefordiamant.com/diamants-plan-for-ny-14",
+      "date": "retrieved Nov 1, 2026",
+      "kind": "campaign-site"
+     }
+    ]
+   }
+  }
+ }
+}

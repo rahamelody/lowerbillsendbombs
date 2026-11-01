@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lower my Bills, End the Bombs: A 2026 Voter Guide</title>
+<meta name="description" content="An openly progressive 2026 voter guide. Search your ballot to see who is fighting for affordable health care and housing, who backs the Iran war and unconditional aid to Israel, and who is funded by AIPAC.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=Instrument+Serif:ital@1&family=Newsreader:opsz,wght@6..72,400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="nav">
+  <a class="logo" href="./" aria-label="Lower my Bills, End the Bombs home"><span class="dot"></span><span>Lower my Bills, <b>End the Bombs</b></span></a>
+  <nav aria-label="Primary"><a href="bills.html">Who backs good bills</a><a href="#method">About this project</a></nav>
+</header>
+
+<section class="hero">
+  <div class="hero-tiles" id="tiles"></div>
+  <div class="hero-copy">
+    <p class="pill">2026 midterms · Nov. 3 · A voter guide with a point of view</p>
+    <h1>Bombs are increasing your bills.<br><em>Know who actually wants to fight for you.</em></h1>
+    <p class="lede">The cost of living crisis and US foreign policy status quo are part of the same story. Search your ballot to see which candidates have their priorities straight, and who’s taking AIPAC-linked money.</p>
+    <form id="form" class="search" autocomplete="on">
+      <label for="addr" class="sr">Search by name, ZIP code, state, city or address</label>
+      <div class="combo">
+        <svg class="mag" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="addr" name="address" type="text" placeholder="Address, ZIP, state, or a candidate’s name" required autocomplete="off" enterkeyhint="search" role="combobox" aria-expanded="false" aria-controls="sugg" aria-autocomplete="list" aria-haspopup="listbox">
+      </div>
+      <button type="button" id="locate" class="locate" aria-pressed="false" aria-label="Use my precise location" title="Use my precise location"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="3.5"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg></button>
+      <button type="submit" class="go-btn" aria-label="Search" title="Search"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button>
+      <ul id="sugg" class="sugg" role="listbox" hidden></ul>
+    </form>
+    <p class="examples">Try <a href="#" data-example="48226">48226</a> <a href="#" data-example="Georgia">Georgia</a> <a href="#" data-example="Ossoff">Ossoff</a> <a href="#" data-example="Rashida Tlaib">Rashida Tlaib</a> <a href="#" data-example="Ann Arbor, MI">Ann Arbor, MI</a></p>
+  </div>
+</section>
+
+<main class="wrap" id="results" aria-live="polite"></main>
+
+<section class="wrap" id="method">
+  <div class="panel-dark">
+    <p class="pill pill-dark">About this project</p>
+    <h2>This guide isn’t neutral.</h2>
+    <div class="cols lead one">
+      <div><h3>A voter guide with a point of view</h3><p>No guide can go deep on every subject, so this one looks at a few clear signals that show what a candidate prioritizes: Americans, corporations, or Israel. If a candidate wants to cut health care, take thousands from real estate and landlord PACs, be against ending the war in Iran, and continue backing Israel…then they don’t serve the needs of Americans today. So we look at:</p>
+      <ul class="signals">
+        <li>Do they cosponsor the <strong>Medicare for All Act</strong>, which would guarantee health care to everyone?</li>
+        <li>Do they cosponsor the <strong>Housing Is a Human Right Act</strong>, which would invest over $300 billion in affordable housing and homelessness services, including $27 billion a year for services, and fund alternatives to criminalizing homelessness?</li>
+        <li>Did they vote to send billions in <strong>military aid to Israel</strong>, or do they cosponsor the <strong>Block the Bombs Act</strong>?</li>
+        <li>Where do they stand on the <strong>war on Iran</strong>, in their votes and in their own words?</li>
+        <li>Do they take money from <strong>AIPAC-linked groups</strong>, or from health insurance, pharma, real estate and defense PACs?</li>
+        <li>No voting record? We read what they say on their own campaign website, with the exact quote and a link.</li>
+      </ul></div>
+    </div>
+    <div class="bills" id="bills">
+      <h3 class="bills-title">How bombs are increasing your bills</h3>
+      <p class="bills-lede">The U.S.–Iran war began in late February 2026. Since then the Strait of Hormuz has been largely closed to oil shipments, and the price of the fuel that moves everything has jumped. Here is what the numbers show, and where they come from.</p>
+  <div class="stats">
+    <article class="stat"><p class="stat-k">Gasoline</p><p class="stat-n">$4.12<small>/gal</small></p><p class="stat-d">up 47% from about $2.80 just before the war. Over the year to September, the CPI gasoline index rose 34.2%.<a class="fn" href="#src-pew">1</a><a class="fn" href="#src-bls">2</a></p></article>
+    <article class="stat"><p class="stat-k">Diesel</p><p class="stat-n">$6.35<small>/gal</small></p><p class="stat-d">up 67% from $3.81 in late February, after setting an all-time record above $6 in September.<a class="fn" href="#src-pew">1</a><a class="fn" href="#src-cnbc">3</a></p></article>
+    <article class="stat"><p class="stat-k">Inflation</p><p class="stat-n">3.7%</p><p class="stat-d">over the 12 months to September. Gasoline caused over half of September’s monthly rise, energy prices are up 20.4% on the year, and fuel oil is up 74.2%.<a class="fn" href="#src-bls">2</a></p></article>
+    <article class="stat"><p class="stat-k">30-year mortgage</p><p class="stat-n">7.24%</p><p class="stat-d">versus 6.17% a year ago. Mortgage rates follow Treasury yields, which rose when the war began; S&amp;P Global and Axios both reported the link.<a class="fn" href="#src-freddie">4</a><a class="fn" href="#src-mortgage">5</a></p></article>
+  </div>
+  <div class="flow-wrap">
+        <h3 class="flow-title">From the pump to the price tag</h3>
+        <div class="flow" role="list">
+          <div class="stage" role="listitem"><div class="node"><h4>Diesel moves nearly everything.</h4><p>It fuels the trucks, trains and farm equipment that carry food and goods. A freight executive told CNBC diesel “moves through freight rates, farm equipment, food delivery, and home heating.”<a class="fn" href="#src-cnbc">3</a></p></div></div>
+          <div class="arrow" aria-hidden="true"></div>
+          <div class="stage two" role="listitem"><div class="node"><h4>Shipping costs rise first.</h4><p>Producer prices for truck and water freight are up 19.3%, and the Postal Service raised prices 8% in April, citing transportation costs. UPS, FedEx and DHL add fuel surcharges.<a class="fn" href="#src-globe">6</a></p></div><div class="node"><h4>Farms pay more to grow it.</h4><p>USDA raised its 2026 estimates for fuel, lubricant and electricity costs on farms by 33% to 41%, and for major crops’ total costs by 9% to 13%.<a class="fn" href="#src-globe">6</a></p></div></div>
+          <div class="arrow" aria-hidden="true"></div>
+          <div class="stage" role="listitem"><div class="node"><h4>Then it reaches the shelf.</h4><p>Consumers tend to feel it last, “a few weeks after the spike, once surcharges work their way through the supply chain.” USDA now expects 2026 grocery prices to rise 2.4%, up from 1.7%. Airfares are up about 22% on the year, and footwear is up 3.4%.<a class="fn" href="#src-cnbc">3</a><a class="fn" href="#src-globe">6</a></p></div></div>
+        </div>
+        <p class="bills-total">Moody’s Analytics estimates the war is costing the average household nearly <strong>$2,000</strong>.<a class="fn" href="#src-cnn">7</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+<footer class="wrap foot" id="sources">
+  <h2>Where the data comes from</h2>
+  <div class="foot-cols">
+    <div><h3>Money</h3><ul>
+      <li><a href="https://www.fec.gov/data/browse-data/?tab=bulk-data" rel="noopener">Federal Election Commission bulk files</a>: candidates, committee contributions, independent expenditures</li>
+      <li><a href="https://api.open.fec.gov/developers/" rel="noopener">OpenFEC API</a>: newest e-filings, refreshed daily</li>
+    </ul></div>
+    <div><h3>Votes and bills</h3><ul>
+      <li><a href="https://voteview.com" rel="noopener">Voteview</a>: House and Senate roll-call votes</li>
+      <li><a href="https://www.govinfo.gov/bulkdata/BILLSTATUS" rel="noopener">GovInfo bill status data</a>: sponsors and cosponsors from Congress.gov records</li>
+      <li><a href="https://github.com/unitedstates/congress-legislators" rel="noopener">unitedstates/congress-legislators</a>: members, terms, IDs</li>
+      <li><a href="https://legiscan.com" rel="noopener">LegiScan</a>: state legislators’ bills and votes</li>
+    </ul></div>
+    <div><h3>Candidates and districts</h3><ul>
+      <li><a href="https://en.wikipedia.org/wiki/2026_United_States_elections" rel="noopener">Wikipedia</a>: 2026 nominees, race ratings and lead photos</li>
+      <li><a href="https://geocoding.geo.census.gov/geocoder/" rel="noopener">U.S. Census Bureau</a>: address and district lookup</li>
+      <li><a href="https://nominatim.openstreetmap.org" rel="noopener">OpenStreetMap Nominatim</a> and <a href="https://api.zippopotam.us" rel="noopener">Zippopotam.us</a>: places and ZIP codes</li>
+      <li><a href="https://unitedstates.github.io/images/congress/" rel="noopener">unitedstates/images</a> and <a href="https://github.com/openstates/people" rel="noopener">Open States</a>: official portraits and state legislator photos</li>
+      <li>Candidates’ own campaign websites: quotes, verbatim and linked on each card</li>
+    </ul></div>
+    <div class="foot-wide"><h3>The cost of the war</h3><ol>
+      <li id="src-pew">Pew Research Center, <a href="https://www.pewresearch.org/short-reads/2026/10/30/gas-prices-are-high-now-but-for-many-americans-they-were-even-higher-in-the-past/" rel="noopener">“Gas Prices Are High Now, but for Many Americans They Were Even Higher in the Past”</a> (Oct. 30, 2026), using U.S. Energy Information Administration weekly prices through Oct. 26.</li>
+      <li id="src-bls">U.S. Bureau of Labor Statistics, <a href="https://www.bls.gov/news.release/cpi.nr0.htm" rel="noopener">Consumer Price Index Summary, September 2026</a> (released Oct. 14), and <a href="https://www.bls.gov/opub/ted/2026/prices-for-gasoline-increased-34-2-percent-over-the-year-ended-september-2026.htm" rel="noopener">The Economics Daily</a>.</li>
+      <li id="src-cnbc">CNBC, <a href="https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html" rel="noopener">“How record diesel prices will rip through the U.S. economy”</a> (Sept. 17, 2026), and <a href="https://www.cnbc.com/2026/09/11/diesel-price-iran-strait-hormuz-ukraine-russia.html" rel="noopener">“U.S. diesel price tops $6 per gallon, a record high”</a> (Sept. 11, 2026).</li>
+      <li id="src-freddie">Freddie Mac, <a href="https://www.freddiemac.com/pmms" rel="noopener">Primary Mortgage Market Survey</a>, week of Oct. 29, 2026.</li>
+      <li id="src-mortgage">S&amp;P Global Market Intelligence, <a href="https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/3/us-mortgage-rates-may-have-hit-bottom-as-war-with-iran-pushes-up-bond-yields-99397697" rel="noopener">“U.S. mortgage rates may have hit bottom as war with Iran pushes up bond yields”</a> (March 2026); Axios, <a href="https://www.axios.com/2026/03/25/mortgage-rates-iran-war-housing-market" rel="noopener">“Mortgage rates rise as Iran war affects U.S. housing market”</a> (March 25, 2026).</li>
+      <li id="src-globe">The Boston Globe, <a href="https://www.bostonglobe.com/2026/10/17/business/iran-war-oil-prices-and-impact-on-us-consumers/" rel="noopener">“Retail price impacts from the Iran war are uneven. But they add up for US households before midterms”</a> (Oct. 17, 2026), citing BLS, USDA, USPS and Bureau of Transportation Statistics data.</li>
+      <li id="src-cnn">CNN, <a href="https://www.cnn.com/2026/10/13/economy/iran-war-oil-gas-prices-inflation" rel="noopener">“The Iran war is costing American households $2,000 each, Moody’s estimates”</a> (Oct. 13, 2026).</li>
+    </ol></div>
+  </div>
+  <div class="foot-wide foot-money"><h3>About the money figures</h3>
+    <p><strong>AIPAC-linked PAC money</strong> (under Israel / Palestine) = direct AIPAC PAC contributions plus United Democracy Project (AIPAC’s super PAC) spending in support, 2022–2026. Super PAC spending is ads and mailers, not a donation to the campaign. Hover an amount for the breakdown.</p>
+    <p class="asof" id="asof"></p></div>
+  <p class="foot-note">Lower my Bills, End the Bombs is an independent project with a point of view. It isn’t affiliated with any campaign, party or organization. Confirm your ballot at <a href="https://vote.gov" rel="noopener">vote.gov</a>.</p>
+  <p class="foot-note foot-ai"><strong>How AI was used.</strong> This site was built with AI assistance: Claude, by Anthropic, helped write the code, and find and read the sources above under the direction of the project’s author.</p>
+</footer>
+<script src="static-api.js" type="module"></script>
+<script src="app.js" type="module"></script>
+</body>
+</html>

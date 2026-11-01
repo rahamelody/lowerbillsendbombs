@@ -1,0 +1,7090 @@
+[
+ {
+  "name": "Maria Cantwell",
+  "party": "D",
+  "bioguide": "C000127",
+  "state": "WA",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2WA01054",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": -15500
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2024": 0
+   },
+   "realestate": {},
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": -15500,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/C000127.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Amy Klobuchar",
+  "party": "D",
+  "bioguide": "K000367",
+  "state": "MN",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6MN00267",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 10500
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 0
+   },
+   "realestate": {
+    "2024": 10000,
+    "2026": 2000
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 10500,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/K000367.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Bernie Sanders",
+  "party": "I",
+  "bioguide": "S000033",
+  "state": "VT",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4VT00033",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {},
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S000033.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Sheldon Whitehouse",
+  "party": "D",
+  "bioguide": "W000802",
+  "state": "RI",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6RI00221",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 11700
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": -500
+   },
+   "realestate": {
+    "2022": 750,
+    "2024": 24000
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 11700,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/W000802.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "John Barrasso",
+  "party": "R",
+  "bioguide": "B001261",
+  "state": "WY",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6WY00068",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": -3000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 22000,
+    "2024": 147000,
+    "2026": 15000
+   },
+   "realestate": {
+    "2024": 52500
+   },
+   "defense": {
+    "2022": 5500,
+    "2024": 54500,
+    "2026": 3500
+   }
+  },
+  "moneyTotals": {
+   "direct": -3000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/B001261.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Roger Wicker",
+  "party": "R",
+  "bioguide": "W000437",
+  "state": "MS",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S8MS00196",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 5000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 5000,
+    "2024": 60500
+   },
+   "realestate": {
+    "2024": 38500
+   },
+   "defense": {
+    "2022": 25000,
+    "2024": 116000,
+    "2026": 12000
+   }
+  },
+  "moneyTotals": {
+   "direct": 5000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/W000437.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "John Cornyn",
+  "party": "R",
+  "bioguide": "C001056",
+  "state": "TX",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2TX00106",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2026": 6994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 18500,
+    "2024": 35000,
+    "2026": 125125
+   },
+   "realestate": {
+    "2026": 50000
+   },
+   "defense": {
+    "2022": 10000,
+    "2024": 23500,
+    "2026": 72000
+   }
+  },
+  "moneyTotals": {
+   "direct": 6994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/C001056.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Richard Durbin",
+  "party": "D",
+  "bioguide": "D000563",
+  "state": "IL",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2IL20026",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2024": 2000
+   },
+   "realestate": {
+    "2022": 1000,
+    "2026": 1200
+   },
+   "defense": {
+    "2022": 2000,
+    "2024": 7500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/D000563.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Mitch McConnell",
+  "party": "R",
+  "bioguide": "M000355",
+  "state": "KY",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2KY00012",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 58500,
+    "2024": 10000,
+    "2026": -15100
+   },
+   "realestate": {
+    "2022": 7500,
+    "2024": 5010
+   },
+   "defense": {
+    "2022": 6500,
+    "2024": 1000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/M000355.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Jeanne Shaheen",
+  "party": "D",
+  "bioguide": "S001181",
+  "state": "NH",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0NH00219",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 11500,
+    "2024": 23700,
+    "2026": 0
+   },
+   "realestate": {
+    "2026": 8000
+   },
+   "defense": {
+    "2022": 15000,
+    "2024": 24000,
+    "2026": -6200
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S001181.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Kirsten Gillibrand",
+  "party": "D",
+  "bioguide": "G000555",
+  "state": "NY",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0NY00410",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 9500
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2022": 1000,
+    "2024": 16000,
+    "2026": 10000
+   },
+   "defense": {
+    "2026": 9000
+   }
+  },
+  "moneyTotals": {
+   "direct": 9500,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/G000555.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Tammy Baldwin",
+  "party": "D",
+  "bioguide": "B001230",
+  "state": "WI",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2WI00219",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 11500,
+    "2024": 17500,
+    "2026": 3500
+   },
+   "realestate": {
+    "2024": 30000
+   },
+   "defense": {
+    "2022": 4000,
+    "2024": 56500,
+    "2026": 5000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/B001230.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Michael Bennet",
+  "party": "D",
+  "bioguide": "B001267",
+  "state": "CO",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0CO00211",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": -2000
+   },
+   "realestate": {
+    "2022": 32500
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 10000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/B001267.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Marsha Blackburn",
+  "party": "R",
+  "bioguide": "B001243",
+  "state": "TN",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S8TN00337",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 5500
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 19000,
+    "2024": 123000,
+    "2026": 2500
+   },
+   "realestate": {
+    "2022": -3000,
+    "2024": 39500
+   },
+   "defense": {
+    "2022": 4000,
+    "2024": 50500,
+    "2026": 10000
+   }
+  },
+  "moneyTotals": {
+   "direct": 5500,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/B001243.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Richard Blumenthal",
+  "party": "D",
+  "bioguide": "B001277",
+  "state": "CT",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0CT00177",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 6500
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 28500
+   },
+   "realestate": {
+    "2022": 40000
+   },
+   "defense": {
+    "2022": 23000,
+    "2024": 4500,
+    "2026": 1000
+   }
+  },
+  "moneyTotals": {
+   "direct": 6500,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/B001277.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "John Boozman",
+  "party": "R",
+  "bioguide": "B001236",
+  "state": "AR",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0AR00150",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 63500,
+    "2026": 3500
+   },
+   "realestate": {
+    "2022": 42000
+   },
+   "defense": {
+    "2022": 74500,
+    "2024": 9000,
+    "2026": 7000
+   }
+  },
+  "moneyTotals": {
+   "direct": 7900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/B001236.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Vern Buchanan",
+  "party": "R",
+  "bioguide": "B001260",
+  "state": "FL",
+  "chamber": "house",
+  "district": 16,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H6FL13148",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 8500,
+    "2026": -6
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 162500,
+    "2024": 110500,
+    "2026": 64000
+   },
+   "realestate": {
+    "2022": 51500,
+    "2024": 37500,
+    "2026": 10000
+   },
+   "defense": {
+    "2022": 24500,
+    "2024": 12000,
+    "2026": 3000
+   }
+  },
+  "moneyTotals": {
+   "direct": 18494,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/B001260.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Bill Cassidy",
+  "party": "R",
+  "bioguide": "C001075",
+  "state": "LA",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4LA00107",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2026": 2994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 44900,
+    "2024": 93300,
+    "2026": 28100
+   },
+   "realestate": {
+    "2022": 500,
+    "2026": 22000
+   },
+   "defense": {
+    "2022": 9000,
+    "2024": 13500,
+    "2026": 21500
+   }
+  },
+  "moneyTotals": {
+   "direct": 2994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/C001075.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Steve Cohen",
+  "party": "D",
+  "bioguide": "C001068",
+  "state": "TN",
+  "chamber": "house",
+  "district": 9,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H6TN09068",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 2000,
+    "2026": 2500
+   },
+   "realestate": {
+    "2022": 7000,
+    "2024": 12500,
+    "2026": 4000
+   },
+   "defense": {
+    "2022": 1000,
+    "2024": 23500,
+    "2026": 14000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/C001068.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Joe Courtney",
+  "party": "D",
+  "bioguide": "C001069",
+  "state": "CT",
+  "chamber": "house",
+  "district": 2,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2CT02112",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": -500
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 12000,
+    "2024": 14500,
+    "2026": 7500
+   },
+   "realestate": {
+    "2022": 14000,
+    "2024": 10000,
+    "2026": 6000
+   },
+   "defense": {
+    "2022": 77500,
+    "2024": 82500,
+    "2026": 75500
+   }
+  },
+  "moneyTotals": {
+   "direct": 7400,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/C001069.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Mike Crapo",
+  "party": "R",
+  "bioguide": "C000880",
+  "state": "ID",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2ID02034",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 124500,
+    "2024": 54500,
+    "2026": 45500
+   },
+   "realestate": {
+    "2022": 47500,
+    "2024": 1000,
+    "2026": 2500
+   },
+   "defense": {
+    "2022": 16000,
+    "2024": 2000,
+    "2026": 11000
+   }
+  },
+  "moneyTotals": {
+   "direct": 7900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/C000880.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Danny Davis",
+  "party": "D",
+  "bioguide": "D000096",
+  "state": "IL",
+  "chamber": "house",
+  "district": 7,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4IL07037",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 22000,
+    "2024": 9500,
+    "2026": 0
+   },
+   "realestate": {
+    "2022": 26500,
+    "2024": 22500,
+    "2026": 3500
+   },
+   "defense": {
+    "2022": 2500,
+    "2024": 2500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/D000096.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Diana DeGette",
+  "party": "D",
+  "bioguide": "D000197",
+  "state": "CO",
+  "chamber": "house",
+  "district": 1,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H6CO01141",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 2900
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 64500,
+    "2024": 90500,
+    "2026": 117000
+   },
+   "realestate": {
+    "2022": 18000,
+    "2024": 12500,
+    "2026": 7500
+   },
+   "defense": {
+    "2022": 13500,
+    "2024": 5000,
+    "2026": 5000
+   }
+  },
+  "moneyTotals": {
+   "direct": 2900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/D000197.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Lloyd Doggett",
+  "party": "D",
+  "bioguide": "D000399",
+  "state": "TX",
+  "chamber": "house",
+  "district": 37,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4TX10028",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 0,
+    "2026": 0
+   },
+   "realestate": {
+    "2022": 25000,
+    "2024": 25000,
+    "2026": 8000
+   },
+   "defense": {
+    "2024": 3000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/D000399.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Chuck Grassley",
+  "party": "R",
+  "bioguide": "G000386",
+  "state": "IA",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0IA00028",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 66000,
+    "2024": 2000
+   },
+   "realestate": {
+    "2022": 51500,
+    "2026": 1000
+   },
+   "defense": {
+    "2022": 27000,
+    "2024": 1000
+   }
+  },
+  "moneyTotals": {
+   "direct": 7900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/G000386.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Sam Graves",
+  "party": "R",
+  "bioguide": "G000546",
+  "state": "MO",
+  "chamber": "house",
+  "district": 6,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H0MO06073",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 10000,
+    "2026": 7094
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 10500,
+    "2024": 4000,
+    "2026": 2500
+   },
+   "realestate": {
+    "2022": 32500,
+    "2024": 30000,
+    "2026": 15000
+   },
+   "defense": {
+    "2022": 83500,
+    "2024": 83000,
+    "2026": 44000
+   }
+  },
+  "moneyTotals": {
+   "direct": 27094,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/G000546.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Al Green",
+  "party": "D",
+  "bioguide": "G000553",
+  "state": "TX",
+  "chamber": "house",
+  "district": 9,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4TX09095",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 2000,
+    "2026": 0
+   },
+   "realestate": {
+    "2022": 22500,
+    "2024": 19500,
+    "2026": 3000
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/G000553.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Martin Heinrich",
+  "party": "D",
+  "bioguide": "H001046",
+  "state": "NM",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2NM00088",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 33000,
+    "2024": 60000,
+    "2026": 38000
+   },
+   "realestate": {
+    "2024": 28500
+   },
+   "defense": {
+    "2022": 26500,
+    "2024": 75500,
+    "2026": 10500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/H001046.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Mazie Hirono",
+  "party": "D",
+  "bioguide": "H001042",
+  "state": "HI",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2HI00106",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 29500,
+    "2024": 35500,
+    "2026": 23000
+   },
+   "realestate": {
+    "2024": 20000,
+    "2026": 1000
+   },
+   "defense": {
+    "2022": 9000,
+    "2024": 57500,
+    "2026": 4500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/H001042.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "John Hoeven",
+  "party": "R",
+  "bioguide": "H001061",
+  "state": "ND",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0ND00093",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7400
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 41500,
+    "2024": 11000,
+    "2026": 17125
+   },
+   "realestate": {
+    "2022": 27500
+   },
+   "defense": {
+    "2022": 32500,
+    "2024": 13500,
+    "2026": 1000
+   }
+  },
+  "moneyTotals": {
+   "direct": 7400,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/H001061.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Steny Hoyer",
+  "party": "D",
+  "bioguide": "H000874",
+  "state": "MD",
+  "chamber": "house",
+  "district": 5,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2MD05155",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 4200,
+    "2024": 10000,
+    "2026": -6
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 89500,
+    "2024": 30000,
+    "2026": 1000
+   },
+   "realestate": {
+    "2022": 52500,
+    "2024": 21000,
+    "2026": 8000
+   },
+   "defense": {
+    "2022": 97500,
+    "2024": 81000,
+    "2026": 26500
+   }
+  },
+  "moneyTotals": {
+   "direct": 14194,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/H000874.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Ron Johnson",
+  "party": "R",
+  "bioguide": "J000293",
+  "state": "WI",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0WI00197",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 3500
+   },
+   "realestate": {
+    "2022": 25000
+   },
+   "defense": {
+    "2022": 8000
+   }
+  },
+  "moneyTotals": {
+   "direct": 10000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/J000293.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "William Keating",
+  "party": "D",
+  "bioguide": "K000375",
+  "state": "MA",
+  "chamber": "house",
+  "district": 9,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H0MA10082",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 10000,
+    "2026": -6
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 6000,
+    "2024": 2500,
+    "2026": 2500
+   },
+   "realestate": {
+    "2022": 10500,
+    "2024": 15000,
+    "2026": 7500
+   },
+   "defense": {
+    "2022": 36500,
+    "2024": 38500,
+    "2026": 22000
+   }
+  },
+  "moneyTotals": {
+   "direct": 19994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/K000375.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "James Lankford",
+  "party": "R",
+  "bioguide": "L000575",
+  "state": "OK",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4OK00232",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 4200
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 112500,
+    "2024": 23500,
+    "2026": 4000
+   },
+   "realestate": {
+    "2022": 46500
+   },
+   "defense": {
+    "2022": 48500,
+    "2024": 13500,
+    "2026": 11500
+   }
+  },
+  "moneyTotals": {
+   "direct": 4200,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/L000575.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "John Larson",
+  "party": "D",
+  "bioguide": "L000557",
+  "state": "CT",
+  "chamber": "house",
+  "district": 1,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H8CT01046",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": 1700,
+    "2026": 10994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 52500,
+    "2024": 31000,
+    "2026": 42500
+   },
+   "realestate": {
+    "2022": 44500,
+    "2024": 33000,
+    "2026": 46500
+   },
+   "defense": {
+    "2022": 46500,
+    "2024": 46500,
+    "2026": 55500
+   }
+  },
+  "moneyTotals": {
+   "direct": 20594,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/L000557.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Mike Lee",
+  "party": "R",
+  "bioguide": "L000577",
+  "state": "UT",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0UT00165",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 69500,
+    "2024": 2500
+   },
+   "realestate": {
+    "2022": 36000
+   },
+   "defense": {
+    "2022": 17000
+   }
+  },
+  "moneyTotals": {
+   "direct": 10000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/L000577.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Michael McCaul",
+  "party": "R",
+  "bioguide": "M001157",
+  "state": "TX",
+  "chamber": "house",
+  "district": 10,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4TX10093",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": 15000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 18500,
+    "2024": 5000
+   },
+   "realestate": {
+    "2022": 25000,
+    "2024": 14500,
+    "2026": 3000
+   },
+   "defense": {
+    "2022": 66500,
+    "2024": 71500,
+    "2026": 6000
+   }
+  },
+  "moneyTotals": {
+   "direct": 22900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/M001157.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Jim McGovern",
+  "party": "D",
+  "bioguide": "M000312",
+  "state": "MA",
+  "chamber": "house",
+  "district": 2,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4MA03022",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2022": 15000,
+    "2024": 10000,
+    "2026": 5000
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/M000312.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Jerry Moran",
+  "party": "R",
+  "bioguide": "M000934",
+  "state": "KS",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0KS00091",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7500
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 70500,
+    "2024": 13400
+   },
+   "realestate": {
+    "2022": 49000,
+    "2026": 5000
+   },
+   "defense": {
+    "2022": 56500,
+    "2024": 26500,
+    "2026": 13000
+   }
+  },
+  "moneyTotals": {
+   "direct": 7500,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/M000934.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Lisa Murkowski",
+  "party": "R",
+  "bioguide": "M001153",
+  "state": "AK",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4AK00099",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 69000,
+    "2024": 7000,
+    "2026": 35500
+   },
+   "realestate": {
+    "2022": 35500
+   },
+   "defense": {
+    "2022": 58500,
+    "2024": 7000,
+    "2026": 10500
+   }
+  },
+  "moneyTotals": {
+   "direct": 10000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/M001153.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Christopher Murphy",
+  "party": "D",
+  "bioguide": "M001169",
+  "state": "CT",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2CT00132",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {},
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/M001169.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Patty Murray",
+  "party": "D",
+  "bioguide": "M001111",
+  "state": "WA",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2WA00189",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 4200
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 118000,
+    "2024": 11500,
+    "2026": 54500
+   },
+   "realestate": {
+    "2022": 46250
+   },
+   "defense": {
+    "2022": 87500,
+    "2024": 26000,
+    "2026": 5000
+   }
+  },
+  "moneyTotals": {
+   "direct": 4200,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/M001111.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Jerrold Nadler",
+  "party": "D",
+  "bioguide": "N000002",
+  "state": "NY",
+  "chamber": "house",
+  "district": 12,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2NY17071",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 5000,
+    "2024": 2500,
+    "2026": 5000
+   },
+   "realestate": {
+    "2022": 13000,
+    "2024": 12500,
+    "2026": 2500
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 7900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/N000002.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Eleanor Norton",
+  "party": "D",
+  "bioguide": "N000147",
+  "state": "DC",
+  "chamber": "house",
+  "district": 0,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H0DC00058",
+  "hasVotes": false,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2022": 9000,
+    "2024": 10000,
+    "2026": 1000
+   },
+   "defense": {
+    "2024": 1500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/N000147.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Rand Paul",
+  "party": "R",
+  "bioguide": "P000603",
+  "state": "KY",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0KY00156",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 54500,
+    "2024": 20000,
+    "2026": 18500
+   },
+   "realestate": {
+    "2022": 16500
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/P000603.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Nancy Pelosi",
+  "party": "D",
+  "bioguide": "P000197",
+  "state": "CA",
+  "chamber": "house",
+  "district": 11,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H8CA05035",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": 4000,
+    "2026": -188
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 45500,
+    "2024": 2500,
+    "2026": 1000
+   },
+   "realestate": {
+    "2022": 45000,
+    "2024": 15000
+   },
+   "defense": {
+    "2022": 48000,
+    "2024": 5000
+   }
+  },
+  "moneyTotals": {
+   "direct": 11712,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/P000197.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Gary Peters",
+  "party": "D",
+  "bioguide": "P000595",
+  "state": "MI",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4MI00355",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 17000,
+    "2024": 51300,
+    "2026": -7500
+   },
+   "realestate": {
+    "2026": 3000
+   },
+   "defense": {
+    "2022": 11500,
+    "2024": 37500,
+    "2026": -9000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/P000595.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Steve Scalise",
+  "party": "R",
+  "bioguide": "S001176",
+  "state": "LA",
+  "chamber": "house",
+  "district": 1,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H0LA01087",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7600,
+    "2024": 10000,
+    "2026": 4994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 108000,
+    "2024": 121000,
+    "2026": 119500
+   },
+   "realestate": {
+    "2022": 40000,
+    "2024": 34500,
+    "2026": 40000
+   },
+   "defense": {
+    "2022": 80500,
+    "2024": 78500,
+    "2026": 95000
+   }
+  },
+  "moneyTotals": {
+   "direct": 22594,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S001176.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Jan Schakowsky",
+  "party": "D",
+  "bioguide": "S001145",
+  "state": "IL",
+  "chamber": "house",
+  "district": 9,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H8IL09067",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 7500
+   },
+   "realestate": {
+    "2022": 12500,
+    "2024": 12500,
+    "2026": 3000
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S001145.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Adam Schiff",
+  "party": "D",
+  "bioguide": "S001150",
+  "state": "CA",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4CA00555",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": 2500
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 12500,
+    "2024": -4500,
+    "2026": 0
+   },
+   "realestate": {
+    "2022": 10000,
+    "2024": 24500,
+    "2026": 2000
+   },
+   "defense": {
+    "2022": 58000,
+    "2024": 5000,
+    "2026": -5000
+   }
+  },
+  "moneyTotals": {
+   "direct": 10400,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S001150.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Chuck Schumer",
+  "party": "D",
+  "bioguide": "S000148",
+  "state": "NY",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H0NY16010",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 2100
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 107300,
+    "2024": 5000,
+    "2026": 20000
+   },
+   "realestate": {
+    "2022": 53000
+   },
+   "defense": {
+    "2022": 43500,
+    "2024": 12000,
+    "2026": 8000
+   }
+  },
+  "moneyTotals": {
+   "direct": 2100,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S000148.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "David Schweikert",
+  "party": "R",
+  "bioguide": "S001183",
+  "state": "AZ",
+  "chamber": "house",
+  "district": 1,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H8AZ05097",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 10000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 26500,
+    "2024": 76500,
+    "2026": 38000
+   },
+   "realestate": {
+    "2022": 37500,
+    "2024": 50500,
+    "2026": 20000
+   },
+   "defense": {
+    "2022": 1000,
+    "2024": 12500,
+    "2026": 4000
+   }
+  },
+  "moneyTotals": {
+   "direct": 20000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S001183.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Tim Scott",
+  "party": "R",
+  "bioguide": "S001184",
+  "state": "SC",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4SC00240",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 6900
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 184000,
+    "2024": 39500,
+    "2026": 3500
+   },
+   "realestate": {
+    "2022": 67500
+   },
+   "defense": {
+    "2022": 57250,
+    "2024": 8000
+   }
+  },
+  "moneyTotals": {
+   "direct": 6900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S001184.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "John Thune",
+  "party": "R",
+  "bioguide": "T000250",
+  "state": "SD",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H6SD00085",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 2100
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 156300,
+    "2024": 21000,
+    "2026": 34500
+   },
+   "realestate": {
+    "2022": 58500,
+    "2024": 5030,
+    "2026": 26250
+   },
+   "defense": {
+    "2022": 60750,
+    "2024": 5000,
+    "2026": 9500
+   }
+  },
+  "moneyTotals": {
+   "direct": 2100,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/T000250.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Chris Van Hollen",
+  "party": "D",
+  "bioguide": "V000128",
+  "state": "MD",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6MD03441",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 7000
+   },
+   "realestate": {
+    "2022": 47500,
+    "2026": 500
+   },
+   "defense": {
+    "2022": 40500,
+    "2024": 2000,
+    "2026": 4500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/V000128.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Nydia Velázquez",
+  "party": "D",
+  "bioguide": "V000081",
+  "state": "NY",
+  "chamber": "house",
+  "district": 7,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2NY00010",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2022": 20000,
+    "2024": 22500,
+    "2026": 5500
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/V000081.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Daniel Webster",
+  "party": "R",
+  "bioguide": "W000806",
+  "state": "FL",
+  "chamber": "house",
+  "district": 11,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4FL00256",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 10000,
+    "2026": 4994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2022": 6000,
+    "2024": 13500,
+    "2026": 2000
+   },
+   "defense": {
+    "2022": 6500,
+    "2024": 10000,
+    "2026": 5000
+   }
+  },
+  "moneyTotals": {
+   "direct": 24994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/W000806.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Peter Welch",
+  "party": "D",
+  "bioguide": "W000800",
+  "state": "VT",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2VT00235",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2022": 37500
+   },
+   "defense": {
+    "2022": 0
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/W000800.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Frederica Wilson",
+  "party": "D",
+  "bioguide": "W000808",
+  "state": "FL",
+  "chamber": "house",
+  "district": 24,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H0FL17068",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 5000,
+    "2026": -6
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 6000
+   },
+   "realestate": {
+    "2022": 6000,
+    "2024": 8000,
+    "2026": 2000
+   },
+   "defense": {
+    "2022": 2000,
+    "2024": 3000
+   }
+  },
+  "moneyTotals": {
+   "direct": 14994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/W000808.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Ron Wyden",
+  "party": "D",
+  "bioguide": "W000779",
+  "state": "OR",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H0OR03026",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 2100
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 125000,
+    "2024": 17000,
+    "2026": 40000
+   },
+   "realestate": {
+    "2022": 55000,
+    "2024": 2500
+   },
+   "defense": {
+    "2022": 27000,
+    "2024": 4000,
+    "2026": 5000
+   }
+  },
+  "moneyTotals": {
+   "direct": 2100,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/W000779.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Todd Young",
+  "party": "R",
+  "bioguide": "Y000064",
+  "state": "IN",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6IN00191",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 2100
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 124400,
+    "2024": 9500,
+    "2026": 66000
+   },
+   "realestate": {
+    "2022": 50000,
+    "2026": 7000
+   },
+   "defense": {
+    "2022": 47000,
+    "2024": 3500,
+    "2026": 8000
+   }
+  },
+  "moneyTotals": {
+   "direct": 2100,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/Y000064.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Mark Amodei",
+  "party": "R",
+  "bioguide": "A000369",
+  "state": "NV",
+  "chamber": "house",
+  "district": 2,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0NV00237",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": -3500,
+    "2026": -6
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 3000,
+    "2024": 5000,
+    "2026": 4500
+   },
+   "realestate": {
+    "2022": 10000,
+    "2024": 15000
+   },
+   "defense": {
+    "2022": 32500,
+    "2024": 43000,
+    "2026": 21500
+   }
+  },
+  "moneyTotals": {
+   "direct": 4394,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/A000369.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Thomas Massie",
+  "party": "R",
+  "bioguide": "M001184",
+  "state": "KY",
+  "chamber": "house",
+  "district": 4,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2KY04121",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {
+    "2024": 319783.3,
+    "2026": 3576968.08
+   },
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 2000,
+    "2024": 4500,
+    "2026": 2000
+   },
+   "realestate": {
+    "2022": 11000,
+    "2024": 2000,
+    "2026": 3000
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 3896751.38,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/M001184.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Brian Schatz",
+  "party": "D",
+  "bioguide": "S001194",
+  "state": "HI",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H6HI02244",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 2500,
+    "2026": 35000
+   },
+   "realestate": {
+    "2022": 28000
+   },
+   "defense": {
+    "2022": 54000,
+    "2024": 15500,
+    "2026": 11000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S001194.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Julia Brownley",
+  "party": "D",
+  "bioguide": "B001285",
+  "state": "CA",
+  "chamber": "house",
+  "district": 26,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2CA00120",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": 8000,
+    "2026": -6
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 28000,
+    "2024": 32000,
+    "2026": 17500
+   },
+   "realestate": {
+    "2022": 12000,
+    "2024": 15500,
+    "2026": 4000
+   },
+   "defense": {
+    "2022": 19000,
+    "2024": 22500,
+    "2026": 7000
+   }
+  },
+  "moneyTotals": {
+   "direct": 15894,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/B001285.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Tammy Duckworth",
+  "party": "D",
+  "bioguide": "D000622",
+  "state": "IL",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6IL00292",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 59500,
+    "2024": 18000,
+    "2026": 23500
+   },
+   "realestate": {
+    "2022": 25000,
+    "2026": 1000
+   },
+   "defense": {
+    "2022": 52000,
+    "2024": 12500,
+    "2026": 4000
+   }
+  },
+  "moneyTotals": {
+   "direct": 10000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/D000622.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Elizabeth Warren",
+  "party": "D",
+  "bioguide": "W000817",
+  "state": "MA",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2MA00170",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {},
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/W000817.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Angus King",
+  "party": "I",
+  "bioguide": "K000383",
+  "state": "ME",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2ME00109",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 5000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 2500,
+    "2024": 26000
+   },
+   "realestate": {
+    "2024": 32500
+   },
+   "defense": {
+    "2022": 2000,
+    "2024": 72000
+   }
+  },
+  "moneyTotals": {
+   "direct": 5000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/K000383.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Steve Daines",
+  "party": "R",
+  "bioguide": "D000618",
+  "state": "MT",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2MT00096",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2026": 9994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 11500,
+    "2024": 57000,
+    "2026": 42000
+   },
+   "realestate": {
+    "2022": 2500,
+    "2024": 10000,
+    "2026": 17500
+   },
+   "defense": {
+    "2022": 3000,
+    "2024": 4000,
+    "2026": 25000
+   }
+  },
+  "moneyTotals": {
+   "direct": 9994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/D000618.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Kevin Cramer",
+  "party": "R",
+  "bioguide": "C001096",
+  "state": "ND",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S8ND00120",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 4500
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 2500,
+    "2024": 5000
+   },
+   "realestate": {
+    "2022": 3500,
+    "2024": 41500
+   },
+   "defense": {
+    "2022": 7500,
+    "2024": 54000,
+    "2026": 6000
+   }
+  },
+  "moneyTotals": {
+   "direct": 4500,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/C001096.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Deb Fischer",
+  "party": "R",
+  "bioguide": "F000463",
+  "state": "NE",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2NE00094",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 9000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 12000,
+    "2024": 50000,
+    "2026": -5000
+   },
+   "realestate": {
+    "2022": 2000,
+    "2024": 43500,
+    "2026": 1000
+   },
+   "defense": {
+    "2022": 15000,
+    "2024": 70500,
+    "2026": 12000
+   }
+  },
+  "moneyTotals": {
+   "direct": 9000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/F000463.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Ted Cruz",
+  "party": "R",
+  "bioguide": "C001098",
+  "state": "TX",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2TX00312",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 8500
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {
+    "2024": 315000
+   }
+  },
+  "industry": {
+   "health": {
+    "2026": 1000
+   },
+   "realestate": {
+    "2024": 14000,
+    "2026": 5000
+   },
+   "defense": {
+    "2026": 30000
+   }
+  },
+  "moneyTotals": {
+   "direct": 8500,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 315000
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/C001098.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Marc Veasey",
+  "party": "D",
+  "bioguide": "V000131",
+  "state": "TX",
+  "chamber": "house",
+  "district": 33,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2TX33073",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 5000,
+    "2024": 10000,
+    "2026": -6
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 94500,
+    "2024": 80000,
+    "2026": 41500
+   },
+   "realestate": {
+    "2022": 32000,
+    "2024": 32500,
+    "2026": 5500
+   },
+   "defense": {
+    "2022": 69000,
+    "2024": 66500,
+    "2026": 21000
+   }
+  },
+  "moneyTotals": {
+   "direct": 14994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/V000131.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Tim Kaine",
+  "party": "D",
+  "bioguide": "K000384",
+  "state": "VA",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2VA00142",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 23500,
+    "2024": 91000,
+    "2026": 13500
+   },
+   "realestate": {
+    "2024": 46000
+   },
+   "defense": {
+    "2022": 12000,
+    "2024": 92000,
+    "2026": 10000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/K000384.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Robin Kelly",
+  "party": "D",
+  "bioguide": "K000385",
+  "state": "IL",
+  "chamber": "house",
+  "district": 2,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6IL00474",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 118000,
+    "2024": 112500,
+    "2026": 42000
+   },
+   "realestate": {
+    "2022": 25500,
+    "2024": 22500,
+    "2026": 8000
+   },
+   "defense": {
+    "2022": 2000,
+    "2024": 5500,
+    "2026": 1500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/K000385.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Jason Smith",
+  "party": "R",
+  "bioguide": "S001195",
+  "state": "MO",
+  "chamber": "house",
+  "district": 8,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4MO08162",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 10000,
+    "2026": 4994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 117000,
+    "2024": 188500,
+    "2026": 163500
+   },
+   "realestate": {
+    "2022": 42500,
+    "2024": 60000,
+    "2026": 65000
+   },
+   "defense": {
+    "2022": 9500,
+    "2024": 47000,
+    "2026": 38500
+   }
+  },
+  "moneyTotals": {
+   "direct": 24994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S001195.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Ruben Gallego",
+  "party": "D",
+  "bioguide": "G000574",
+  "state": "AZ",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4AZ00139",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 31500,
+    "2024": 18500,
+    "2026": 31500
+   },
+   "realestate": {
+    "2022": 21500,
+    "2024": 9500,
+    "2026": 11000
+   },
+   "defense": {
+    "2022": 75000,
+    "2024": 29500,
+    "2026": 4500
+   }
+  },
+  "moneyTotals": {
+   "direct": 7900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/G000574.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Buddy Carter",
+  "party": "R",
+  "bioguide": "C001103",
+  "state": "GA",
+  "chamber": "house",
+  "district": 1,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6GA00374",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": -3000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 73000,
+    "2024": 106500,
+    "2026": 72000
+   },
+   "realestate": {
+    "2022": 9500,
+    "2024": 15000,
+    "2026": 4000
+   },
+   "defense": {
+    "2022": 27500,
+    "2024": 29000,
+    "2026": 5000
+   }
+  },
+  "moneyTotals": {
+   "direct": 4900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/C001103.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Barry Loudermilk",
+  "party": "R",
+  "bioguide": "L000583",
+  "state": "GA",
+  "chamber": "house",
+  "district": 11,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4GA11061",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": 10000,
+    "2026": -6
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2022": 34000,
+    "2024": 43100,
+    "2026": 12000
+   },
+   "defense": {
+    "2022": 10000,
+    "2024": 8000,
+    "2026": 4000
+   }
+  },
+  "moneyTotals": {
+   "direct": 17894,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/L000583.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Seth Moulton",
+  "party": "D",
+  "bioguide": "M001196",
+  "state": "MA",
+  "chamber": "house",
+  "district": 6,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6MA00296",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 10000,
+    "2026": -32301
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 6500,
+    "2024": 1000,
+    "2026": 2500
+   },
+   "realestate": {
+    "2022": 11500,
+    "2024": 15000,
+    "2026": 2500
+   },
+   "defense": {
+    "2022": 49500,
+    "2024": 67000,
+    "2026": 20000
+   }
+  },
+  "moneyTotals": {
+   "direct": -22301,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/M001196.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Bonnie Watson Coleman",
+  "party": "D",
+  "bioguide": "W000822",
+  "state": "NJ",
+  "chamber": "house",
+  "district": 12,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4NJ12149",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 64500,
+    "2024": 73000
+   },
+   "realestate": {
+    "2022": 14500,
+    "2024": 10000
+   },
+   "defense": {
+    "2022": 12500,
+    "2024": 4000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/W000822.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Elise Stefanik",
+  "party": "R",
+  "bioguide": "S001196",
+  "state": "NY",
+  "chamber": "house",
+  "district": 21,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4NY21079",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 4200,
+    "2024": 5000,
+    "2026": 4994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 29000,
+    "2024": 42000,
+    "2026": 3500
+   },
+   "realestate": {
+    "2022": 25000,
+    "2024": 32000,
+    "2026": 1000
+   },
+   "defense": {
+    "2022": 62500,
+    "2024": 61500,
+    "2026": 8500
+   }
+  },
+  "moneyTotals": {
+   "direct": 14194,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S001196.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Stacey Plaskett",
+  "party": "D",
+  "bioguide": "P000610",
+  "state": "VI",
+  "chamber": "house",
+  "district": 0,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2VI00082",
+  "hasVotes": false,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 23500,
+    "2024": 22000,
+    "2026": 13500
+   },
+   "realestate": {
+    "2022": 26500,
+    "2024": 15500,
+    "2026": 19500
+   },
+   "defense": {
+    "2024": 5500,
+    "2026": 2000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/P000610.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Dan Newhouse",
+  "party": "R",
+  "bioguide": "N000189",
+  "state": "WA",
+  "chamber": "house",
+  "district": 4,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4WA04104",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 7000,
+    "2026": -6
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 12000,
+    "2024": 11000,
+    "2026": 1000
+   },
+   "realestate": {
+    "2022": 11500,
+    "2024": 15000,
+    "2026": 2000
+   },
+   "defense": {
+    "2022": 40500,
+    "2024": 57000,
+    "2026": 19500
+   }
+  },
+  "moneyTotals": {
+   "direct": 16994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/N000189.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Aumua Amata Radewagen",
+  "party": "R",
+  "bioguide": "R000600",
+  "state": "AS",
+  "chamber": "house",
+  "district": 0,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4AS00036",
+  "hasVotes": false,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {},
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/R000600.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Joni Ernst",
+  "party": "R",
+  "bioguide": "E000295",
+  "state": "IA",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4IA00129",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 5000,
+    "2024": 31000,
+    "2026": 19625
+   },
+   "realestate": {
+    "2026": 14000
+   },
+   "defense": {
+    "2022": 3500,
+    "2024": 16500,
+    "2026": 30500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/E000295.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Thom Tillis",
+  "party": "R",
+  "bioguide": "T000476",
+  "state": "NC",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4NC00162",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 16500,
+    "2024": 42000,
+    "2026": 50625
+   },
+   "realestate": {
+    "2024": 7500,
+    "2026": 16500
+   },
+   "defense": {
+    "2022": 3000,
+    "2024": 12500,
+    "2026": 18500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/T000476.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Dwight Evans",
+  "party": "D",
+  "bioguide": "E000296",
+  "state": "PA",
+  "chamber": "house",
+  "district": 3,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H6PA02171",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 30000,
+    "2024": 16500,
+    "2026": 1000
+   },
+   "realestate": {
+    "2022": 35000,
+    "2024": 28500,
+    "2026": 3500
+   },
+   "defense": {
+    "2022": 14500,
+    "2024": 6500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/E000296.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "John Kennedy",
+  "party": "R",
+  "bioguide": "K000393",
+  "state": "LA",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4LA00065",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 4200,
+    "2024": -2100
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 16500,
+    "2024": 1000,
+    "2026": 1000
+   },
+   "realestate": {
+    "2022": 33500
+   },
+   "defense": {
+    "2022": 33500,
+    "2024": 1000,
+    "2026": 2000
+   }
+  },
+  "moneyTotals": {
+   "direct": 2100,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/K000393.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Maggie Hassan",
+  "party": "D",
+  "bioguide": "H001076",
+  "state": "NH",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6NH00091",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 62000,
+    "2024": 26500,
+    "2026": 59000
+   },
+   "realestate": {
+    "2022": 58000,
+    "2024": 15000
+   },
+   "defense": {
+    "2022": 43000,
+    "2024": 8000,
+    "2026": 6000
+   }
+  },
+  "moneyTotals": {
+   "direct": 10000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/H001076.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Catherine Cortez Masto",
+  "party": "D",
+  "bioguide": "C001113",
+  "state": "NV",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6NV00200",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 143000,
+    "2024": 10000,
+    "2026": 20500
+   },
+   "realestate": {
+    "2022": 63000
+   },
+   "defense": {
+    "2022": 51000,
+    "2026": 5500
+   }
+  },
+  "moneyTotals": {
+   "direct": 7900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/C001113.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Andy Biggs",
+  "party": "R",
+  "bioguide": "B001302",
+  "state": "AZ",
+  "chamber": "house",
+  "district": 5,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H6AZ05083",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": -6000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2022": 3000,
+    "2024": 6000
+   },
+   "defense": {
+    "2022": 1000
+   }
+  },
+  "moneyTotals": {
+   "direct": 4000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/B001302.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Lisa Blunt Rochester",
+  "party": "D",
+  "bioguide": "B001303",
+  "state": "DE",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4DE00060",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 97200,
+    "2024": 146550,
+    "2026": 36000
+   },
+   "realestate": {
+    "2022": 34000,
+    "2024": 40500,
+    "2026": 1000
+   },
+   "defense": {
+    "2022": 17000,
+    "2024": 12500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/B001303.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Neal Dunn",
+  "party": "R",
+  "bioguide": "D000628",
+  "state": "FL",
+  "chamber": "house",
+  "district": 2,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H6FL02208",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 2900,
+    "2024": 10000,
+    "2026": 4994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 23500,
+    "2024": 70500,
+    "2026": 32000
+   },
+   "realestate": {
+    "2022": 3000,
+    "2024": 11500,
+    "2026": 2000
+   },
+   "defense": {
+    "2022": 9000,
+    "2024": 10000,
+    "2026": 5000
+   }
+  },
+  "moneyTotals": {
+   "direct": 17894,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/D000628.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "John Rutherford",
+  "party": "R",
+  "bioguide": "R000609",
+  "state": "FL",
+  "chamber": "house",
+  "district": 5,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H6FL04105",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 10000,
+    "2026": 5994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 8500,
+    "2024": 7000,
+    "2026": 7000
+   },
+   "realestate": {
+    "2022": 22500,
+    "2024": 22500,
+    "2026": 20000
+   },
+   "defense": {
+    "2022": 53500,
+    "2024": 87000,
+    "2026": 80000
+   }
+  },
+  "moneyTotals": {
+   "direct": 25994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/R000609.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Raja Krishnamoorthi",
+  "party": "D",
+  "bioguide": "K000391",
+  "state": "IL",
+  "chamber": "house",
+  "district": 8,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6IL00482",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": 5000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 18500,
+    "2024": 12000,
+    "2026": 10000
+   },
+   "realestate": {
+    "2022": 6000,
+    "2024": 9000,
+    "2026": 3000
+   },
+   "defense": {
+    "2022": 32500,
+    "2024": 46500,
+    "2026": 16500
+   }
+  },
+  "moneyTotals": {
+   "direct": 12900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/K000391.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Jim Banks",
+  "party": "R",
+  "bioguide": "B001299",
+  "state": "IN",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4IN00196",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": 0
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 30500,
+    "2024": 60000,
+    "2026": 54500
+   },
+   "realestate": {
+    "2022": 24000,
+    "2024": 25000
+   },
+   "defense": {
+    "2022": 80000,
+    "2024": 57000,
+    "2026": 20500
+   }
+  },
+  "moneyTotals": {
+   "direct": 7900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/B001299.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Clay Higgins",
+  "party": "R",
+  "bioguide": "H001077",
+  "state": "LA",
+  "chamber": "house",
+  "district": 3,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H6LA03148",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 5000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 1000
+   },
+   "realestate": {
+    "2022": 9000,
+    "2024": 8000,
+    "2026": 5000
+   },
+   "defense": {
+    "2022": 7500,
+    "2024": 4000,
+    "2026": 3000
+   }
+  },
+  "moneyTotals": {
+   "direct": 15000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/H001077.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Mike Johnson",
+  "party": "R",
+  "bioguide": "J000299",
+  "state": "LA",
+  "chamber": "house",
+  "district": 4,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H6LA04138",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 10000,
+    "2026": 4994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 9500,
+    "2024": 95000,
+    "2026": 126000
+   },
+   "realestate": {
+    "2022": 15000,
+    "2024": 40000,
+    "2026": 35000
+   },
+   "defense": {
+    "2022": 52000,
+    "2024": 73500,
+    "2026": 106000
+   }
+  },
+  "moneyTotals": {
+   "direct": 24994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/J000299.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Ted Budd",
+  "party": "R",
+  "bioguide": "B001305",
+  "state": "NC",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2NC00505",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 25000,
+    "2024": 19500,
+    "2026": 21000
+   },
+   "realestate": {
+    "2022": 22500,
+    "2024": 6000
+   },
+   "defense": {
+    "2024": 9500,
+    "2026": 9000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/B001305.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Don Bacon",
+  "party": "R",
+  "bioguide": "B001298",
+  "state": "NE",
+  "chamber": "house",
+  "district": 2,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H6NE02125",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 2100,
+    "2024": -1000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 22500,
+    "2024": 34000,
+    "2026": 9500
+   },
+   "realestate": {
+    "2022": 20000,
+    "2024": 32500,
+    "2026": 2000
+   },
+   "defense": {
+    "2022": 70000,
+    "2024": 81500,
+    "2026": 6000
+   }
+  },
+  "moneyTotals": {
+   "direct": 1100,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/B001298.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Jacky Rosen",
+  "party": "D",
+  "bioguide": "R000608",
+  "state": "NV",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S8NV00156",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 4000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 60000,
+    "2024": 107500,
+    "2026": 33000
+   },
+   "realestate": {
+    "2022": 1000,
+    "2024": 46500
+   },
+   "defense": {
+    "2022": 23000,
+    "2024": 57000,
+    "2026": 11000
+   }
+  },
+  "moneyTotals": {
+   "direct": 4000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/R000608.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Adriano Espaillat",
+  "party": "D",
+  "bioguide": "E000297",
+  "state": "NY",
+  "chamber": "house",
+  "district": 13,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2NY13096",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 4200,
+    "2024": 10000,
+    "2026": 4994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {
+    "2026": 1367927.9
+   },
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 2000,
+    "2024": 2000,
+    "2026": 4500
+   },
+   "realestate": {
+    "2022": 11500,
+    "2024": 17300,
+    "2026": 8500
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 19194,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 1367927.9,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/E000297.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Jodey Arrington",
+  "party": "R",
+  "bioguide": "A000375",
+  "state": "TX",
+  "chamber": "house",
+  "district": 19,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H6TX19099",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": -2500,
+    "2026": -6
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 71000,
+    "2024": 106500,
+    "2026": 43500
+   },
+   "realestate": {
+    "2022": 45000,
+    "2024": 46000,
+    "2026": 9000
+   },
+   "defense": {
+    "2022": 13500,
+    "2024": 28000,
+    "2026": 12000
+   }
+  },
+  "moneyTotals": {
+   "direct": 5394,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/A000375.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Ralph Norman",
+  "party": "R",
+  "bioguide": "N000190",
+  "state": "SC",
+  "chamber": "house",
+  "district": 5,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6SC04445",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {
+    "2026": 3187086.68
+   }
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2022": 23000,
+    "2024": 21500,
+    "2026": 1000
+   },
+   "defense": {
+    "2022": 5000,
+    "2024": 2000
+   }
+  },
+  "moneyTotals": {
+   "direct": 7900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 3187086.68
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/N000190.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "John Curtis",
+  "party": "R",
+  "bioguide": "C001114",
+  "state": "UT",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4UT00282",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": 7000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 131500,
+    "2024": 120000,
+    "2026": 21000
+   },
+   "realestate": {
+    "2022": 22500,
+    "2024": 23000,
+    "2026": -2500
+   },
+   "defense": {
+    "2022": 17000,
+    "2024": 17500,
+    "2026": 6500
+   }
+  },
+  "moneyTotals": {
+   "direct": 14900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/C001114.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Tina Smith",
+  "party": "D",
+  "bioguide": "S001203",
+  "state": "MN",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S8MN00578",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 3500,
+    "2024": 6500
+   },
+   "realestate": {
+    "2024": 3500,
+    "2026": 3000
+   },
+   "defense": {
+    "2022": 1000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S001203.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Elissa Slotkin",
+  "party": "D",
+  "bioguide": "S001208",
+  "state": "MI",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4MI00470",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 0
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2026": 0
+   },
+   "realestate": {
+    "2022": 8500,
+    "2024": 2500
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S001208.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Haley Stevens",
+  "party": "D",
+  "bioguide": "S001215",
+  "state": "MI",
+  "chamber": "house",
+  "district": 11,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6MI00426",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7100,
+    "2024": 10000,
+    "2026": 5000
+   },
+   "ieSupport": {
+    "2022": 3878030.46,
+    "2026": 10498735.229999999
+   },
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 47500,
+    "2024": 47500,
+    "2026": 40000
+   },
+   "realestate": {
+    "2022": 23000,
+    "2024": 11000,
+    "2026": 3500
+   },
+   "defense": {
+    "2022": 27000,
+    "2024": 34500,
+    "2026": 8500
+   }
+  },
+  "moneyTotals": {
+   "direct": 22100,
+   "ieSupport": 14376765.689999998,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S001215.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Angie Craig",
+  "party": "D",
+  "bioguide": "C001119",
+  "state": "MN",
+  "chamber": "house",
+  "district": 2,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6MN00499",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": -1000,
+    "2026": 5000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 68500,
+    "2024": 75000,
+    "2026": 38000
+   },
+   "realestate": {
+    "2022": 29500,
+    "2024": 23500,
+    "2026": 8000
+   },
+   "defense": {
+    "2022": 16000,
+    "2024": 12000
+   }
+  },
+  "moneyTotals": {
+   "direct": 14000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/C001119.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Andy Kim",
+  "party": "D",
+  "bioguide": "K000394",
+  "state": "NJ",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4NJ00466",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2022": 20000,
+    "2024": 15000,
+    "2026": 1000
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/K000394.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Dusty Johnson",
+  "party": "R",
+  "bioguide": "J000301",
+  "state": "SD",
+  "chamber": "house",
+  "district": 0,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H8SD01055",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": 10000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 7500,
+    "2024": 24500,
+    "2026": 4000
+   },
+   "realestate": {
+    "2022": 9500,
+    "2024": 27000,
+    "2026": 6500
+   },
+   "defense": {
+    "2022": 12000,
+    "2024": 5000,
+    "2026": 5500
+   }
+  },
+  "moneyTotals": {
+   "direct": 17900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/J000301.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "John Rose",
+  "party": "R",
+  "bioguide": "R000612",
+  "state": "TN",
+  "chamber": "house",
+  "district": 6,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H8TN06094",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 10000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 2500,
+    "2024": 2000
+   },
+   "realestate": {
+    "2022": 29500,
+    "2024": 29500
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 20000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/R000612.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Dan Crenshaw",
+  "party": "R",
+  "bioguide": "C001120",
+  "state": "TX",
+  "chamber": "house",
+  "district": 2,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H8TX02166",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": 5500,
+    "2026": 9994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 73000,
+    "2024": 54000,
+    "2026": 34000
+   },
+   "realestate": {
+    "2022": 19500,
+    "2024": 21000,
+    "2026": 7500
+   },
+   "defense": {
+    "2022": 11000,
+    "2024": 15000,
+    "2026": 7000
+   }
+  },
+  "moneyTotals": {
+   "direct": 23394,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/C001120.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Chip Roy",
+  "party": "R",
+  "bioguide": "R000614",
+  "state": "TX",
+  "chamber": "house",
+  "district": 21,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H8TX21307",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 0,
+    "2026": 0
+   },
+   "realestate": {
+    "2022": 6000,
+    "2024": 6000,
+    "2026": 3000
+   },
+   "defense": {
+    "2022": 5000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/R000614.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Rick Scott",
+  "party": "R",
+  "bioguide": "S001217",
+  "state": "FL",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S8FL00273",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 15000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2024": 48000,
+    "2026": 7000
+   },
+   "realestate": {
+    "2022": 1000,
+    "2024": 18500
+   },
+   "defense": {
+    "2022": 4000,
+    "2024": 36000,
+    "2026": 3000
+   }
+  },
+  "moneyTotals": {
+   "direct": 15000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S001217.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Josh Hawley",
+  "party": "R",
+  "bioguide": "H001089",
+  "state": "MO",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S8MO00160",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 5938
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2024": 9000,
+    "2026": 2000
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 5938,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/H001089.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Jared Golden",
+  "party": "D",
+  "bioguide": "G000592",
+  "state": "ME",
+  "chamber": "house",
+  "district": 2,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H8ME02185",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": 5000,
+    "2026": 4994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2022": 14000,
+    "2024": 10000,
+    "2026": 3000
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 17894,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/G000592.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Thomas Tiffany",
+  "party": "R",
+  "bioguide": "T000165",
+  "state": "WI",
+  "chamber": "house",
+  "district": 7,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H0WI07101",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 5000,
+    "2026": -5000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 1000
+   },
+   "realestate": {
+    "2022": 6000,
+    "2024": 8000,
+    "2026": 3000
+   },
+   "defense": {
+    "2022": 2500
+   }
+  },
+  "moneyTotals": {
+   "direct": 10000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/T000165.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Mark Kelly",
+  "party": "D",
+  "bioguide": "K000377",
+  "state": "AZ",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0AZ00350",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 5000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {
+    "2022": 561254.54
+   },
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 1000
+   },
+   "realestate": {
+    "2022": 37500
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 5000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 561254.54,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/K000377.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Cynthia Lummis",
+  "party": "R",
+  "bioguide": "L000571",
+  "state": "WY",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0WY00137",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2026": -6
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 2000,
+    "2024": 3500,
+    "2026": 1500
+   },
+   "realestate": {
+    "2026": 21500
+   },
+   "defense": {
+    "2022": -3000,
+    "2024": 2000,
+    "2026": 17500
+   }
+  },
+  "moneyTotals": {
+   "direct": -6,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/L000571.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Darrell Issa",
+  "party": "R",
+  "bioguide": "I000056",
+  "state": "CA",
+  "chamber": "house",
+  "district": 48,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S8CA00135",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": 10000,
+    "2026": 4994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 5000,
+    "2024": 14500,
+    "2026": 1500
+   },
+   "realestate": {
+    "2022": 6000,
+    "2024": 10000,
+    "2026": 3000
+   },
+   "defense": {
+    "2022": 11000,
+    "2024": 11000,
+    "2026": 11500
+   }
+  },
+  "moneyTotals": {
+   "direct": 22894,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/I000056.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Tommy Tuberville",
+  "party": "R",
+  "bioguide": "T000278",
+  "state": "AL",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0AL00230",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 8500,
+    "2024": 3500,
+    "2026": 5000
+   },
+   "realestate": {
+    "2024": 1000,
+    "2026": 5000
+   },
+   "defense": {
+    "2022": 15500,
+    "2024": 13000,
+    "2026": -1500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/T000278.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "C. Franklin",
+  "party": "R",
+  "bioguide": "F000472",
+  "state": "FL",
+  "chamber": "house",
+  "district": 18,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H0FL15104",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 5000,
+    "2026": 4994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 2000
+   },
+   "realestate": {
+    "2022": 12500,
+    "2024": 10500,
+    "2026": 5000
+   },
+   "defense": {
+    "2022": 41500,
+    "2024": 59500,
+    "2026": 51000
+   }
+  },
+  "moneyTotals": {
+   "direct": 19994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/F000472.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Byron Donalds",
+  "party": "R",
+  "bioguide": "D000032",
+  "state": "FL",
+  "chamber": "house",
+  "district": 19,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2FL14186",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 10000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 6000,
+    "2024": 9000,
+    "2026": 2500
+   },
+   "realestate": {
+    "2022": 9000,
+    "2024": 18000,
+    "2026": 2000
+   },
+   "defense": {
+    "2022": 3000
+   }
+  },
+  "moneyTotals": {
+   "direct": 10000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/D000032.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Randy Feenstra",
+  "party": "R",
+  "bioguide": "F000446",
+  "state": "IA",
+  "chamber": "house",
+  "district": 4,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H0IA04145",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": 10000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 42500,
+    "2024": 110000,
+    "2026": 33500
+   },
+   "realestate": {
+    "2022": 19000,
+    "2024": 35500,
+    "2026": 7000
+   },
+   "defense": {
+    "2022": 3000,
+    "2024": 10500,
+    "2026": 1000
+   }
+  },
+  "moneyTotals": {
+   "direct": 17900,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/F000446.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Nancy Mace",
+  "party": "R",
+  "bioguide": "M000194",
+  "state": "SC",
+  "chamber": "house",
+  "district": 1,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H0SC01394",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 7900,
+    "2024": 9900
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 19500,
+    "2024": 12500
+   },
+   "realestate": {
+    "2022": 18000,
+    "2024": 7500
+   },
+   "defense": {
+    "2022": 21000,
+    "2024": 38000,
+    "2026": 1500
+   }
+  },
+  "moneyTotals": {
+   "direct": 17800,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/M000194.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Burgess Owens",
+  "party": "R",
+  "bioguide": "O000086",
+  "state": "UT",
+  "chamber": "house",
+  "district": 4,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H0UT04076",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 5000,
+    "2026": -6
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 1000
+   },
+   "realestate": {
+    "2022": 4000,
+    "2024": 13900,
+    "2026": 1000
+   },
+   "defense": {
+    "2022": 5000,
+    "2024": 23000,
+    "2026": 6000
+   }
+  },
+  "moneyTotals": {
+   "direct": 14994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/O000086.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Scott Fitzgerald",
+  "party": "R",
+  "bioguide": "F000471",
+  "state": "WI",
+  "chamber": "house",
+  "district": 5,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H0WI05113",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 10000,
+    "2026": 4994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 4500,
+    "2024": 7000,
+    "2026": 4500
+   },
+   "realestate": {
+    "2022": 10500,
+    "2024": 28000,
+    "2026": 25500
+   },
+   "defense": {
+    "2022": 4500,
+    "2024": 4500,
+    "2026": 9500
+   }
+  },
+  "moneyTotals": {
+   "direct": 24994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/F000471.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Alex Padilla",
+  "party": "D",
+  "bioguide": "P000145",
+  "state": "CA",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2CA00955",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 5000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 45000,
+    "2024": 5000,
+    "2026": -7500
+   },
+   "realestate": {
+    "2022": 22500,
+    "2026": 2000
+   },
+   "defense": {
+    "2022": 53500,
+    "2024": 15500,
+    "2026": 3500
+   }
+  },
+  "moneyTotals": {
+   "direct": 5000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/P000145.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Raphael Warnock",
+  "party": "D",
+  "bioguide": "W000790",
+  "state": "GA",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S0GA00559",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {
+    "2022": 186666.65000000002
+   },
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": -2800
+   },
+   "realestate": {
+    "2022": 35500,
+    "2024": 500
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 186666.65000000002,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/W000790.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Troy Carter",
+  "party": "D",
+  "bioguide": "C001125",
+  "state": "LA",
+  "chamber": "house",
+  "district": 2,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2LA02149",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 9400
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 10500,
+    "2024": 33000,
+    "2026": 104000
+   },
+   "realestate": {
+    "2022": 16500,
+    "2024": 23000,
+    "2026": 15000
+   },
+   "defense": {
+    "2022": 10000,
+    "2024": 13000,
+    "2026": 22000
+   }
+  },
+  "moneyTotals": {
+   "direct": 19400,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/C001125.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Ryan Zinke",
+  "party": "R",
+  "bioguide": "Z000018",
+  "state": "MT",
+  "chamber": "house",
+  "district": 1,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4MT01041",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2024": 2000
+   },
+   "realestate": {
+    "2022": 10000
+   },
+   "defense": {
+    "2022": 1000,
+    "2024": 30500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/Z000018.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Katie Britt",
+  "party": "R",
+  "bioguide": "B001319",
+  "state": "AL",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2AL00145",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 5000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 50000,
+    "2024": 24500,
+    "2026": 19500
+   },
+   "realestate": {
+    "2022": 47500,
+    "2024": 6500,
+    "2026": 1000
+   },
+   "defense": {
+    "2022": 50000,
+    "2024": 41500,
+    "2026": 17000
+   }
+  },
+  "moneyTotals": {
+   "direct": 5000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/B001319.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Eric Schmitt",
+  "party": "R",
+  "bioguide": "S001227",
+  "state": "MO",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2MO00544",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 12500,
+    "2024": 25500,
+    "2026": 13500
+   },
+   "realestate": {
+    "2022": 12900
+   },
+   "defense": {
+    "2022": 2500,
+    "2024": 19500,
+    "2026": 15000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S001227.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "John Fetterman",
+  "party": "D",
+  "bioguide": "F000479",
+  "state": "PA",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2029-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6PA00274",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {},
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/F000479.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Cory Mills",
+  "party": "R",
+  "bioguide": "M001216",
+  "state": "FL",
+  "chamber": "house",
+  "district": 7,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2FL07156",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 5000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2022": 10000,
+    "2024": 12000,
+    "2026": 3000
+   },
+   "defense": {
+    "2024": 18500,
+    "2026": 1000
+   }
+  },
+  "moneyTotals": {
+   "direct": 5000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/M001216.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "James (Jim) Moylan",
+  "party": "R",
+  "bioguide": "M001219",
+  "state": "GU",
+  "chamber": "house",
+  "district": 0,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2GU01031",
+  "hasVotes": false,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2026": 1000
+   },
+   "defense": {
+    "2026": 5000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/M001219.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "John James",
+  "party": "R",
+  "bioguide": "J000307",
+  "state": "MI",
+  "chamber": "house",
+  "district": 10,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S8MI00372",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 10000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 2000,
+    "2024": 27000,
+    "2026": 2500
+   },
+   "realestate": {
+    "2024": 13000,
+    "2026": 3000
+   },
+   "defense": {
+    "2022": 10000,
+    "2024": 22500,
+    "2026": 3000
+   }
+  },
+  "moneyTotals": {
+   "direct": 10000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/J000307.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Shri Thanedar",
+  "party": "D",
+  "bioguide": "T000488",
+  "state": "MI",
+  "chamber": "house",
+  "district": 13,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2MI13204",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 10000,
+    "2026": 4994
+   },
+   "ieSupport": {},
+   "ieOppose": {
+    "2022": 1428679.1800000002
+   },
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2024": 3000
+   },
+   "realestate": {
+    "2022": 5000,
+    "2024": 6000,
+    "2026": 5000
+   },
+   "defense": {
+    "2024": 2000,
+    "2026": 1000
+   }
+  },
+  "moneyTotals": {
+   "direct": 14994,
+   "ieSupport": 0,
+   "ieOppose": 1428679.1800000002,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/T000488.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Charles (Chuck) Edwards",
+  "party": "R",
+  "bioguide": "E000246",
+  "state": "NC",
+  "chamber": "house",
+  "district": 11,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2NC14050",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 10000,
+    "2026": 9994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 7500,
+    "2026": 2500
+   },
+   "realestate": {
+    "2022": 12500,
+    "2024": 20000,
+    "2026": 10000
+   },
+   "defense": {
+    "2022": 5000,
+    "2024": 6000,
+    "2026": 8500
+   }
+  },
+  "moneyTotals": {
+   "direct": 29994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/E000246.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Dan Goldman",
+  "party": "D",
+  "bioguide": "G000599",
+  "state": "NY",
+  "chamber": "house",
+  "district": 10,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2NY10308",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 10000,
+    "2026": -6
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2022": 5000,
+    "2024": 8000,
+    "2026": 12500
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 9994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/G000599.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Andrew Ogles",
+  "party": "R",
+  "bioguide": "O000175",
+  "state": "TN",
+  "chamber": "house",
+  "district": 5,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2TN05446",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 10000,
+    "2024": 10000,
+    "2026": 4994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2026": 2000
+   },
+   "realestate": {
+    "2024": 14500,
+    "2026": 2000
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 24994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/O000175.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Morgan Luttrell",
+  "party": "R",
+  "bioguide": "L000603",
+  "state": "TX",
+  "chamber": "house",
+  "district": 8,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2TX08182",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 5000,
+    "2024": 10000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2024": 2500,
+    "2026": -1000
+   },
+   "realestate": {
+    "2022": 7500,
+    "2024": 6000
+   },
+   "defense": {
+    "2022": 3500,
+    "2024": 27000,
+    "2026": 7000
+   }
+  },
+  "moneyTotals": {
+   "direct": 15000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/L000603.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Jasmine Crockett",
+  "party": "D",
+  "bioguide": "C001130",
+  "state": "TX",
+  "chamber": "house",
+  "district": 30,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6TX00552",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 1000,
+    "2024": 36500,
+    "2026": 9500
+   },
+   "realestate": {
+    "2022": 5000,
+    "2024": 19500,
+    "2026": 5500
+   },
+   "defense": {
+    "2022": 2500,
+    "2024": 17000,
+    "2026": 4500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/C001130.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Wesley Hunt",
+  "party": "R",
+  "bioguide": "H001095",
+  "state": "TX",
+  "chamber": "house",
+  "district": 38,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S6TX00511",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2022": 5000,
+    "2024": 5000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2022": 2500,
+    "2024": 1000
+   },
+   "realestate": {
+    "2022": 7500,
+    "2024": 8500,
+    "2026": 2000
+   },
+   "defense": {
+    "2022": 2000,
+    "2024": 1000,
+    "2026": 1000
+   }
+  },
+  "moneyTotals": {
+   "direct": 10000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/H001095.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Marie Gluesenkamp Perez",
+  "party": "D",
+  "bioguide": "G000600",
+  "state": "WA",
+  "chamber": "house",
+  "district": 3,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H2WA03217",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 10000,
+    "2026": 9994
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2024": 0
+   },
+   "realestate": {
+    "2024": 10000,
+    "2026": 6000
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 19994,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/G000600.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Cleo Fields",
+  "party": "D",
+  "bioguide": "F000110",
+  "state": "LA",
+  "chamber": "house",
+  "district": 6,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4LA06211",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2026": 6000
+   },
+   "realestate": {
+    "2024": 5000,
+    "2026": 11500
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/F000110.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Angela Alsobrooks",
+  "party": "D",
+  "bioguide": "A000382",
+  "state": "MD",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4MD00327",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2024": 7500,
+    "2026": 45500
+   },
+   "realestate": {
+    "2024": 5000,
+    "2026": 6000
+   },
+   "defense": {
+    "2026": 7000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/A000382.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Tim Sheehy",
+  "party": "R",
+  "bioguide": "S001232",
+  "state": "MT",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4MT00183",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2024": 14000,
+    "2026": 22000
+   },
+   "realestate": {
+    "2024": 20000,
+    "2026": 500
+   },
+   "defense": {
+    "2024": 29000,
+    "2026": 14500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/S001232.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Bernie Moreno",
+  "party": "R",
+  "bioguide": "M001242",
+  "state": "OH",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4OH00192",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2024": 21000,
+    "2026": 13500
+   },
+   "realestate": {
+    "2024": 10000
+   },
+   "defense": {
+    "2024": 7500,
+    "2026": 5000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/M001242.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Dave McCormick",
+  "party": "R",
+  "bioguide": "M001243",
+  "state": "PA",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S2PA00661",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2024": 22500,
+    "2026": 24000
+   },
+   "realestate": {
+    "2024": 10000,
+    "2026": 5500
+   },
+   "defense": {
+    "2024": 8500,
+    "2026": 5500
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/M001243.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Kimberlyn King-Hinds",
+  "party": "R",
+  "bioguide": "K000404",
+  "state": "MP",
+  "chamber": "house",
+  "district": 0,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4MP01022",
+  "hasVotes": false,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {
+    "2026": 2000
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/K000404.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Pablo José Hernández Rivera",
+  "party": "D",
+  "bioguide": "H001103",
+  "state": "PR",
+  "chamber": "house",
+  "district": 0,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4PR01010",
+  "hasVotes": false,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2024": 5000,
+    "2026": 15000
+   },
+   "realestate": {
+    "2026": 2000
+   },
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/H001103.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Julie Johnson",
+  "party": "D",
+  "bioguide": "J000310",
+  "state": "TX",
+  "chamber": "house",
+  "district": 32,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H4TX32089",
+  "hasVotes": true,
+  "money": {
+   "direct": {
+    "2024": 5000
+   },
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2024": 6500
+   },
+   "realestate": {
+    "2024": 17500
+   },
+   "defense": {
+    "2024": 2000
+   }
+  },
+  "moneyTotals": {
+   "direct": 5000,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/J000310.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Jim Justice",
+  "party": "R",
+  "bioguide": "J000312",
+  "state": "WV",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2031-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "S4WV00332",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {
+    "2024": 17500
+   },
+   "realestate": {
+    "2024": 20000
+   },
+   "defense": {
+    "2024": 10000
+   }
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/J000312.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Alan Armstrong",
+  "party": "R",
+  "bioguide": "A000383",
+  "state": "OK",
+  "chamber": "senate",
+  "district": null,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": null,
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {},
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/A000383.jpg",
+  "notOnBallot": true
+ },
+ {
+  "name": "Everton Blair",
+  "party": "D",
+  "bioguide": "B001328",
+  "state": "GA",
+  "chamber": "house",
+  "district": 13,
+  "termEnds": "2027-01-03",
+  "incumbent": true,
+  "formerMember": false,
+  "fecId": "H6GA13062",
+  "hasVotes": true,
+  "money": {
+   "direct": {},
+   "ieSupport": {},
+   "ieOppose": {},
+   "conduitSupport": {},
+   "conduitOppose": {}
+  },
+  "industry": {
+   "health": {},
+   "realestate": {},
+   "defense": {}
+  },
+  "moneyTotals": {
+   "direct": 0,
+   "ieSupport": 0,
+   "ieOppose": 0,
+   "conduitSupport": 0,
+   "conduitOppose": 0
+  },
+  "photo": "https://unitedstates.github.io/images/congress/225x275/B001328.jpg",
+  "notOnBallot": true
+ }
+]

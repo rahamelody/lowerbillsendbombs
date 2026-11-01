@@ -1,0 +1,353 @@
+{
+ "_readme": "Candidates this project endorses. The home page portraits are drawn at random from this list, and clicking one opens their record. Edit freely: keep or delete entries, or add { \"id\": \"<bioguide or FEC id>\", \"name\": \"...\", \"race\": \"XX-1\" }. \"id\" is what matters; the other fields are for you. Whatever is listed, the home page only shows a candidate whose CURRENT record is aligned or partially aligned on every issue we have a record for and who took no AIPAC-linked money. Seeded by scripts/seed-endorsed.mjs.",
+ "endorsed": [
+  {
+   "id": "G000606",
+   "name": "Adelita Grijalva",
+   "race": "AZ-7",
+   "party": "D"
+  },
+  {
+   "id": "W000832",
+   "name": "Aisha Wahab",
+   "race": "CA-14",
+   "party": "D"
+  },
+  {
+   "id": "O000172",
+   "name": "Alexandria Ocasio-Cortez",
+   "race": "NY-14",
+   "party": "D/WFP"
+  },
+  {
+   "id": "M001246",
+   "name": "Analilia Mejia",
+   "race": "NJ-11",
+   "party": "D"
+  },
+  {
+   "id": "C001072",
+   "name": "André Carson",
+   "race": "IN-7",
+   "party": "D"
+  },
+  {
+   "id": "P000617",
+   "name": "Ayanna Pressley",
+   "race": "MA-7",
+   "party": "D"
+  },
+  {
+   "id": "B001318",
+   "name": "Becca Balint",
+   "race": "VT-AL",
+   "party": "D"
+  },
+  {
+   "id": "L000570",
+   "name": "Ben Luján",
+   "race": "NM-S",
+   "party": "D"
+  },
+  {
+   "id": "T000193",
+   "name": "Bennie Thompson",
+   "race": "MS-2",
+   "party": "D"
+  },
+  {
+   "id": "M001143",
+   "name": "Betty McCollum",
+   "race": "MN-4",
+   "party": "D"
+  },
+  {
+   "id": "F000454",
+   "name": "Bill Foster",
+   "race": "IL-11",
+   "party": "D"
+  },
+  {
+   "id": "P000597",
+   "name": "Chellie Pingree",
+   "race": "ME-1",
+   "party": "D"
+  },
+  {
+   "id": "M001245",
+   "name": "Christian Menefee",
+   "race": "TX-18",
+   "party": "D"
+  },
+  {
+   "id": "G000586",
+   "name": "Chuy García",
+   "race": "IL-4",
+   "party": "D"
+  },
+  {
+   "id": "M001241",
+   "name": "Dave Min",
+   "race": "CA-47",
+   "party": "D"
+  },
+  {
+   "id": "D000624",
+   "name": "Debbie Dingell",
+   "race": "MI-6",
+   "party": "D"
+  },
+  {
+   "id": "R000617",
+   "name": "Delia Ramirez",
+   "race": "IL-3",
+   "party": "D"
+  },
+  {
+   "id": "T000491",
+   "name": "Derek Tran",
+   "race": "CA-45",
+   "party": "D"
+  },
+  {
+   "id": "B001292",
+   "name": "Donald Beyer",
+   "race": "VA-8",
+   "party": "D"
+  },
+  {
+   "id": "M000133",
+   "name": "Ed Markey",
+   "race": "MA-S",
+   "party": "D"
+  },
+  {
+   "id": "V000136",
+   "name": "Gabriel (Gabe) Vasquez",
+   "race": "NM-2",
+   "party": "D"
+  },
+  {
+   "id": "C001131",
+   "name": "Gregorio Casar",
+   "race": "TX-37",
+   "party": "D"
+  },
+  {
+   "id": "J000288",
+   "name": "Hank Johnson",
+   "race": "GA-4",
+   "party": "D"
+  },
+  {
+   "id": "O000173",
+   "name": "Ilhan Omar",
+   "race": "MN-5",
+   "party": "D"
+  },
+  {
+   "id": "R000606",
+   "name": "Jamie Raskin",
+   "race": "MD-8",
+   "party": "D"
+  },
+  {
+   "id": "H001068",
+   "name": "Jared Huffman",
+   "race": "CA-2",
+   "party": "D"
+  },
+  {
+   "id": "M001176",
+   "name": "Jeff Merkley",
+   "race": "OR-S",
+   "party": "D"
+  },
+  {
+   "id": "C001091",
+   "name": "Joaquin Castro",
+   "race": "TX-20",
+   "party": "D"
+  },
+  {
+   "id": "G000559",
+   "name": "John Garamendi",
+   "race": "CA-8",
+   "party": "D"
+  },
+  {
+   "id": "O000174",
+   "name": "Jon Ossoff",
+   "race": "GA-S",
+   "party": "D"
+  },
+  {
+   "id": "C001080",
+   "name": "Judy Chu",
+   "race": "CA-28",
+   "party": "D"
+  },
+  {
+   "id": "M001229",
+   "name": "LaMonica McIver",
+   "race": "NJ-10",
+   "party": "D"
+  },
+  {
+   "id": "S001231",
+   "name": "Lateefah Simon",
+   "race": "CA-12",
+   "party": "D"
+  },
+  {
+   "id": "U000040",
+   "name": "Lauren Underwood",
+   "race": "IL-14",
+   "party": "D"
+  },
+  {
+   "id": "D000631",
+   "name": "Madeleine Dean",
+   "race": "PA-4",
+   "party": "D"
+  },
+  {
+   "id": "D000623",
+   "name": "Mark DeSaulnier",
+   "race": "CA-10",
+   "party": "D"
+  },
+  {
+   "id": "P000607",
+   "name": "Mark Pocan",
+   "race": "WI-2",
+   "party": "D"
+  },
+  {
+   "id": "T000472",
+   "name": "Mark Takano",
+   "race": "CA-39",
+   "party": "D"
+  },
+  {
+   "id": "S001205",
+   "name": "Mary Scanlon",
+   "race": "PA-5",
+   "party": "D"
+  },
+  {
+   "id": "D000635",
+   "name": "Maxine Dexter",
+   "race": "OR-3",
+   "party": "D"
+  },
+  {
+   "id": "W000187",
+   "name": "Maxine Waters",
+   "race": "CA-43",
+   "party": "D"
+  },
+  {
+   "id": "F000476",
+   "name": "Maxwell Frost",
+   "race": "FL-10",
+   "party": "D"
+  },
+  {
+   "id": "S001218",
+   "name": "Melanie Stansbury",
+   "race": "NM-1",
+   "party": "D"
+  },
+  {
+   "id": "T000460",
+   "name": "Mike Thompson",
+   "race": "CA-4",
+   "party": "D"
+  },
+  {
+   "id": "B001300",
+   "name": "Nanette Barragán",
+   "race": "CA-44",
+   "party": "D"
+  },
+  {
+   "id": "R000579",
+   "name": "Patrick Ryan",
+   "race": "NY-18",
+   "party": "D/WFP"
+  },
+  {
+   "id": "T000469",
+   "name": "Paul Tonko",
+   "race": "NY-20",
+   "party": "D/WFP"
+  },
+  {
+   "id": "J000298",
+   "name": "Pramila Jayapal",
+   "race": "WA-7",
+   "party": "D"
+  },
+  {
+   "id": "T000481",
+   "name": "Rashida Tlaib",
+   "race": "MI-12",
+   "party": "D"
+  },
+  {
+   "id": "K000389",
+   "name": "Ro Khanna",
+   "race": "CA-17",
+   "party": "D"
+  },
+  {
+   "id": "J000305",
+   "name": "Sara Jacobs",
+   "race": "CA-51",
+   "party": "D"
+  },
+  {
+   "id": "L000562",
+   "name": "Stephen Lynch",
+   "race": "MA-8",
+   "party": "D"
+  },
+  {
+   "id": "L000602",
+   "name": "Summer Lee",
+   "race": "PA-12",
+   "party": "D"
+  },
+  {
+   "id": "H001094",
+   "name": "Valerie Hoyle",
+   "race": "OR-4",
+   "party": "D"
+  },
+  {
+   "id": "E000299",
+   "name": "Veronica Escobar",
+   "race": "TX-16",
+   "party": "D"
+  },
+  {
+   "id": "D000626",
+   "name": "Warren Davidson",
+   "race": "OH-8",
+   "party": "R"
+  },
+  {
+   "id": "A000381",
+   "name": "Yassamin Ansari",
+   "race": "AZ-3",
+   "party": "D"
+  },
+  {
+   "id": "L000397",
+   "name": "Zoe Lofgren",
+   "race": "CA-18",
+   "party": "D"
+  }
+ ]
+}

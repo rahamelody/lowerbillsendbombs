@@ -1,0 +1,9897 @@
+{
+ "AL-1": {
+  "type": "house",
+  "state": "AL",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Jerry Carl",
+    "party": "R",
+    "wiki": "Jerry Carl"
+   },
+   {
+    "name": "Clyde Jones",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "AL-2": {
+  "type": "house",
+  "state": "AL",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Shomari Figures (incumbent)",
+    "party": "D",
+    "wiki": "Shomari Figures"
+   },
+   {
+    "name": "Rhett Marques",
+    "party": "R",
+    "wiki": "Rhett Marques"
+   }
+  ]
+ },
+ "AL-3": {
+  "type": "house",
+  "state": "AL",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Mike Rogers (incumbent)",
+    "party": "R",
+    "wiki": "Mike Rogers (Alabama politician)"
+   },
+   {
+    "name": "Lee McInnis",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "AL-4": {
+  "type": "house",
+  "state": "AL",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Robert Aderholt (incumbent)",
+    "party": "R",
+    "wiki": "Robert Aderholt"
+   },
+   {
+    "name": "Amanda Pusczek",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "AL-5": {
+  "type": "house",
+  "state": "AL",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Dale Strong (incumbent)",
+    "party": "R",
+    "wiki": "Dale Strong"
+   },
+   {
+    "name": "Andrew Sneed",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "AL-6": {
+  "type": "house",
+  "state": "AL",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Gary Palmer (incumbent)",
+    "party": "R",
+    "wiki": "Gary Palmer"
+   },
+   {
+    "name": "Maurice Mercer",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "AL-7": {
+  "type": "house",
+  "state": "AL",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Terri Sewell (incumbent)",
+    "party": "D",
+    "wiki": "Terri Sewell"
+   },
+   {
+    "name": "Ammie Akin",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "AL-S": {
+  "type": "senate",
+  "state": "AL",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Barry Moore",
+    "party": "R",
+    "wiki": "Barry Moore (American politician)"
+   },
+   {
+    "name": "Everett Wess",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "AK-AL": {
+  "type": "house",
+  "state": "AK",
+  "district": 0,
+  "candidates": [
+   {
+    "name": "Nick Begich III (incumbent)",
+    "party": "R",
+    "wiki": "Nick Begich III"
+   },
+   {
+    "name": "Bill Hill",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "TBD",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "TBD",
+    "party": "?",
+    "wiki": null
+   }
+  ]
+ },
+ "AK-S": {
+  "type": "senate",
+  "state": "AK",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Daniel J. Sullivan Jr.",
+    "party": "R",
+    "fromList": true,
+    "wiki": "U.S. Forest Service"
+   },
+   {
+    "name": "Gerald L. Heikes",
+    "party": "R",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Mary Peltola",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Mary Peltola"
+   }
+  ]
+ },
+ "AZ-1": {
+  "type": "house",
+  "state": "AZ",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Jay Feely",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Jay Feely"
+   },
+   {
+    "name": "Amish Shah",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Amish Shah"
+   },
+   {
+    "name": "Monica Alponte",
+    "party": "L",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "AZ-2": {
+  "type": "house",
+  "state": "AZ",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Eli Crane",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Eli Crane"
+   },
+   {
+    "name": "Jonathan Nez",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Jonathan Nez"
+   },
+   {
+    "name": "Curtis Goodwin",
+    "party": "L",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "AZ-3": {
+  "type": "house",
+  "state": "AZ",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Yassamin Ansari",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Yassamin Ansari"
+   },
+   {
+    "name": "Jacob Parkman",
+    "party": "R",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Alan Aversa",
+    "party": "Other",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "David Redkey",
+    "party": "G",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "AZ-4": {
+  "type": "house",
+  "state": "AZ",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Greg Stanton",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Greg Stanton"
+   },
+   {
+    "name": "Zuhdi Jasser",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Zuhdi Jasser"
+   },
+   {
+    "name": "Tisha Benoit",
+    "party": "Other",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "AZ-5": {
+  "type": "house",
+  "state": "AZ",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Elizabeth Lee",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Federal Election Commission"
+   }
+  ]
+ },
+ "AZ-6": {
+  "type": "house",
+  "state": "AZ",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Juan Ciscomani",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Juan Ciscomani"
+   },
+   {
+    "name": "JoAnna Mendoza",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Tom O'Halleran"
+   },
+   {
+    "name": "Jereme Peters",
+    "party": "L",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Gary Swing",
+    "party": "G",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "AZ-7": {
+  "type": "house",
+  "state": "AZ",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Adelita Grijalva",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Adelita Grijalva"
+   },
+   {
+    "name": "Daniel Butierez",
+    "party": "R",
+    "fromList": true,
+    "wiki": "2024 United States House of Representatives elections in Arizona"
+   }
+  ]
+ },
+ "AZ-8": {
+  "type": "house",
+  "state": "AZ",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Abraham Hamadeh",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Abraham Hamadeh"
+   },
+   {
+    "name": "Bernadette Greene-Placentia",
+    "party": "D",
+    "fromList": true,
+    "wiki": "The State Press"
+   }
+  ]
+ },
+ "AZ-9": {
+  "type": "house",
+  "state": "AZ",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Paul Gosar",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Paul Gosar"
+   },
+   {
+    "name": "Danielle Sterbinsky",
+    "party": "D",
+    "fromList": true,
+    "wiki": "U.S. Navy"
+   }
+  ]
+ },
+ "AR-1": {
+  "type": "house",
+  "state": "AR",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Rick Crawford (incumbent)",
+    "party": "R",
+    "wiki": "Rick Crawford (politician)"
+   },
+   {
+    "name": "Terri Yarbrough",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Steve Parsons",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "AR-2": {
+  "type": "house",
+  "state": "AR",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "French Hill (incumbent)",
+    "party": "R",
+    "wiki": "French Hill (politician)"
+   },
+   {
+    "name": "Chris Jones",
+    "party": "D",
+    "wiki": "Chris Jones (Arkansas politician)"
+   }
+  ]
+ },
+ "AR-3": {
+  "type": "house",
+  "state": "AR",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Steve Womack (incumbent)",
+    "party": "R",
+    "wiki": "Steve Womack"
+   },
+   {
+    "name": "Robb Ryerse",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Bobby Wilson",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "AR-4": {
+  "type": "house",
+  "state": "AR",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Bruce Westerman (incumbent)",
+    "party": "R",
+    "wiki": "Bruce Westerman"
+   },
+   {
+    "name": "James Russell",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "AR-S": {
+  "type": "senate",
+  "state": "AR",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Tom Cotton (incumbent)",
+    "party": "R",
+    "wiki": "Tom Cotton"
+   },
+   {
+    "name": "Hallie Shoffner",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Jeff Wadlin",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-1": {
+  "type": "house",
+  "state": "CA",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "James Gallagher (incumbent)",
+    "party": "R",
+    "wiki": "James Gallagher (California politician)"
+   },
+   {
+    "name": "Mike McGuire",
+    "party": "D",
+    "wiki": "Mike McGuire (politician)"
+   }
+  ]
+ },
+ "CA-2": {
+  "type": "house",
+  "state": "CA",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Jared Huffman (incumbent)",
+    "party": "D",
+    "wiki": "Jared Huffman"
+   },
+   {
+    "name": "Robin Littau",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-3": {
+  "type": "house",
+  "state": "CA",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Ami Bera (incumbent)",
+    "party": "D",
+    "wiki": "Ami Bera"
+   },
+   {
+    "name": "Robb Tucker",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-4": {
+  "type": "house",
+  "state": "CA",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Mike Thompson (incumbent)",
+    "party": "D",
+    "wiki": "Mike Thompson"
+   },
+   {
+    "name": "Eric Jones",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-5": {
+  "type": "house",
+  "state": "CA",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Tom McClintock (incumbent)",
+    "party": "R",
+    "wiki": "Tom McClintock"
+   },
+   {
+    "name": "Michael Masuda",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-6": {
+  "type": "house",
+  "state": "CA",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Kevin Kiley (incumbent)",
+    "party": "NPA",
+    "wiki": "Kevin Kiley (politician)"
+   },
+   {
+    "name": "Richard Pan",
+    "party": "D",
+    "wiki": "Richard Pan"
+   }
+  ]
+ },
+ "CA-7": {
+  "type": "house",
+  "state": "CA",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Doris Matsui (incumbent)",
+    "party": "D",
+    "wiki": "Doris Matsui"
+   },
+   {
+    "name": "Mai Vang",
+    "party": "D",
+    "wiki": "Mai Vang"
+   }
+  ]
+ },
+ "CA-8": {
+  "type": "house",
+  "state": "CA",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "John Garamendi (incumbent)",
+    "party": "D",
+    "wiki": "John Garamendi"
+   },
+   {
+    "name": "Rudy Recile",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-9": {
+  "type": "house",
+  "state": "CA",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Josh Harder (incumbent)",
+    "party": "D",
+    "wiki": "Josh Harder"
+   },
+   {
+    "name": "John McBride",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-10": {
+  "type": "house",
+  "state": "CA",
+  "district": 10,
+  "candidates": [
+   {
+    "name": "Mark DeSaulnier (incumbent)",
+    "party": "D",
+    "wiki": "Mark DeSaulnier"
+   },
+   {
+    "name": "Jeff Frese",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-11": {
+  "type": "house",
+  "state": "CA",
+  "district": 11,
+  "candidates": [
+   {
+    "name": "Scott Wiener",
+    "party": "D",
+    "wiki": "Scott Wiener"
+   },
+   {
+    "name": "Connie Chan",
+    "party": "D",
+    "wiki": "Connie Chan (politician)"
+   }
+  ]
+ },
+ "CA-12": {
+  "type": "house",
+  "state": "CA",
+  "district": 12,
+  "candidates": [
+   {
+    "name": "Lateefah Simon (incumbent)",
+    "party": "D",
+    "wiki": "Lateefah Simon"
+   },
+   {
+    "name": "Jamie Joyce",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-13": {
+  "type": "house",
+  "state": "CA",
+  "district": 13,
+  "candidates": [
+   {
+    "name": "Adam Gray (incumbent)",
+    "party": "D",
+    "wiki": "Adam Gray"
+   },
+   {
+    "name": "Kevin Lincoln",
+    "party": "R",
+    "wiki": "Kevin Lincoln (politician)"
+   }
+  ]
+ },
+ "CA-14": {
+  "type": "house",
+  "state": "CA",
+  "district": 14,
+  "candidates": [
+   {
+    "name": "Aisha Wahab (incumbent)",
+    "party": "D",
+    "wiki": "Aisha Wahab"
+   },
+   {
+    "name": "Melissa Hernandez",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-15": {
+  "type": "house",
+  "state": "CA",
+  "district": 15,
+  "candidates": [
+   {
+    "name": "Kevin Mullin (incumbent)",
+    "party": "D",
+    "wiki": "Kevin Mullin"
+   },
+   {
+    "name": "Charles Hoelter",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-16": {
+  "type": "house",
+  "state": "CA",
+  "district": 16,
+  "candidates": [
+   {
+    "name": "Sam Liccardo (incumbent)",
+    "party": "D",
+    "wiki": "Sam Liccardo"
+   },
+   {
+    "name": "Peter Sundin Soulé",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-17": {
+  "type": "house",
+  "state": "CA",
+  "district": 17,
+  "candidates": [
+   {
+    "name": "Ro Khanna (incumbent)",
+    "party": "D",
+    "wiki": "Ro Khanna"
+   },
+   {
+    "name": "Ritesh Tandon",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-18": {
+  "type": "house",
+  "state": "CA",
+  "district": 18,
+  "candidates": [
+   {
+    "name": "Zoe Lofgren (incumbent)",
+    "party": "D",
+    "wiki": "Zoe Lofgren"
+   },
+   {
+    "name": "Shane Lewis",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-19": {
+  "type": "house",
+  "state": "CA",
+  "district": 19,
+  "candidates": [
+   {
+    "name": "Jimmy Panetta (incumbent)",
+    "party": "D",
+    "wiki": "Jimmy Panetta"
+   },
+   {
+    "name": "Peter Verbica",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-20": {
+  "type": "house",
+  "state": "CA",
+  "district": 20,
+  "candidates": [
+   {
+    "name": "Vince Fong (incumbent)",
+    "party": "R",
+    "wiki": "Vince Fong"
+   },
+   {
+    "name": "Sandra Van Scotter",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-21": {
+  "type": "house",
+  "state": "CA",
+  "district": 21,
+  "candidates": [
+   {
+    "name": "Jim Costa (incumbent)",
+    "party": "D",
+    "wiki": "Jim Costa"
+   },
+   {
+    "name": "Kyle Kirkland",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-22": {
+  "type": "house",
+  "state": "CA",
+  "district": 22,
+  "candidates": [
+   {
+    "name": "David Valadao (incumbent)",
+    "party": "R",
+    "wiki": "David Valadao"
+   },
+   {
+    "name": "Randy Villegas",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-23": {
+  "type": "house",
+  "state": "CA",
+  "district": 23,
+  "candidates": [
+   {
+    "name": "Jay Obernolte (incumbent)",
+    "party": "R",
+    "wiki": "Jay Obernolte"
+   },
+   {
+    "name": "Tessa Lynn Hodge",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-24": {
+  "type": "house",
+  "state": "CA",
+  "district": 24,
+  "candidates": [
+   {
+    "name": "Salud Carbajal (incumbent)",
+    "party": "D",
+    "wiki": "Salud Carbajal"
+   },
+   {
+    "name": "Bob Smith",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-25": {
+  "type": "house",
+  "state": "CA",
+  "district": 25,
+  "candidates": [
+   {
+    "name": "Raul Ruiz (incumbent)",
+    "party": "D",
+    "wiki": "Raul Ruiz (politician)"
+   },
+   {
+    "name": "Joe Males",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-26": {
+  "type": "house",
+  "state": "CA",
+  "district": 26,
+  "candidates": [
+   {
+    "name": "Jacqui Irwin",
+    "party": "D",
+    "wiki": "Jacqui Irwin"
+   },
+   {
+    "name": "Sam Gallucci",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-27": {
+  "type": "house",
+  "state": "CA",
+  "district": 27,
+  "candidates": [
+   {
+    "name": "George Whitesides (incumbent)",
+    "party": "D",
+    "wiki": "George T. Whitesides"
+   },
+   {
+    "name": "Jason Gibbs",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-28": {
+  "type": "house",
+  "state": "CA",
+  "district": 28,
+  "candidates": [
+   {
+    "name": "Judy Chu (incumbent)",
+    "party": "D",
+    "wiki": "Judy Chu"
+   },
+   {
+    "name": "April Verlato",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-29": {
+  "type": "house",
+  "state": "CA",
+  "district": 29,
+  "candidates": [
+   {
+    "name": "Luz Rivas (incumbent)",
+    "party": "D",
+    "wiki": "Luz Rivas"
+   },
+   {
+    "name": "Angélica María Dueñas",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-30": {
+  "type": "house",
+  "state": "CA",
+  "district": 30,
+  "candidates": [
+   {
+    "name": "Laura Friedman (incumbent)",
+    "party": "D",
+    "wiki": "Laura Friedman"
+   },
+   {
+    "name": "Scott Meyers",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-31": {
+  "type": "house",
+  "state": "CA",
+  "district": 31,
+  "candidates": [
+   {
+    "name": "Gil Cisneros (incumbent)",
+    "party": "D",
+    "wiki": "Gil Cisneros"
+   },
+   {
+    "name": "Eric Ching",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-32": {
+  "type": "house",
+  "state": "CA",
+  "district": 32,
+  "candidates": [
+   {
+    "name": "Brad Sherman (incumbent)",
+    "party": "D",
+    "wiki": "Brad Sherman"
+   },
+   {
+    "name": "Larry Thompson",
+    "party": "R",
+    "wiki": "Larry A. Thompson"
+   }
+  ]
+ },
+ "CA-33": {
+  "type": "house",
+  "state": "CA",
+  "district": 33,
+  "candidates": [
+   {
+    "name": "Pete Aguilar (incumbent)",
+    "party": "D",
+    "wiki": "Pete Aguilar"
+   },
+   {
+    "name": "Stephanie Vargas",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-34": {
+  "type": "house",
+  "state": "CA",
+  "district": 34,
+  "candidates": [
+   {
+    "name": "Jimmy Gomez (incumbent)",
+    "party": "D",
+    "wiki": "Jimmy Gomez"
+   },
+   {
+    "name": "Angela Gonzales-Torres",
+    "party": "D",
+    "wiki": "Angela Gonzales-Torres"
+   }
+  ]
+ },
+ "CA-35": {
+  "type": "house",
+  "state": "CA",
+  "district": 35,
+  "candidates": [
+   {
+    "name": "Norma Torres (incumbent)",
+    "party": "D",
+    "wiki": "Norma Torres"
+   },
+   {
+    "name": "Mike Cargile",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-36": {
+  "type": "house",
+  "state": "CA",
+  "district": 36,
+  "candidates": [
+   {
+    "name": "Ted Lieu (incumbent)",
+    "party": "D",
+    "wiki": "Ted Lieu"
+   },
+   {
+    "name": "Houston Brignano",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-37": {
+  "type": "house",
+  "state": "CA",
+  "district": 37,
+  "candidates": [
+   {
+    "name": "Sydney Kamlager-Dove (incumbent)",
+    "party": "D",
+    "wiki": "Sydney Kamlager-Dove"
+   },
+   {
+    "name": "Samantha Mota",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-38": {
+  "type": "house",
+  "state": "CA",
+  "district": 38,
+  "candidates": [
+   {
+    "name": "Pedro Casas",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Hilda Solis",
+    "party": "D",
+    "wiki": "Hilda Solis"
+   }
+  ]
+ },
+ "CA-39": {
+  "type": "house",
+  "state": "CA",
+  "district": 39,
+  "candidates": [
+   {
+    "name": "Mark Takano (incumbent)",
+    "party": "D",
+    "wiki": "Mark Takano"
+   },
+   {
+    "name": "Steve Manos",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-40": {
+  "type": "house",
+  "state": "CA",
+  "district": 40,
+  "candidates": [
+   {
+    "name": "Ken Calvert (incumbent)",
+    "party": "R",
+    "wiki": "Ken Calvert"
+   },
+   {
+    "name": "Young Kim (incumbent)",
+    "party": "R",
+    "wiki": "Young Kim"
+   }
+  ]
+ },
+ "CA-41": {
+  "type": "house",
+  "state": "CA",
+  "district": 41,
+  "candidates": [
+   {
+    "name": "Linda Sánchez (incumbent)",
+    "party": "D",
+    "wiki": "Linda Sánchez"
+   },
+   {
+    "name": "Mitch Clemmons",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-42": {
+  "type": "house",
+  "state": "CA",
+  "district": 42,
+  "candidates": [
+   {
+    "name": "Robert Garcia (incumbent)",
+    "party": "D",
+    "wiki": "Robert Garcia (California congressman)"
+   },
+   {
+    "name": "Brian Burley",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-43": {
+  "type": "house",
+  "state": "CA",
+  "district": 43,
+  "candidates": [
+   {
+    "name": "Maxine Waters (incumbent)",
+    "party": "D",
+    "wiki": "Maxine Waters"
+   },
+   {
+    "name": "Cristian Morales",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-44": {
+  "type": "house",
+  "state": "CA",
+  "district": 44,
+  "candidates": [
+   {
+    "name": "Nanette Barragán (incumbent)",
+    "party": "D",
+    "wiki": "Nanette Barragán"
+   },
+   {
+    "name": "Genevieve Angel",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-45": {
+  "type": "house",
+  "state": "CA",
+  "district": 45,
+  "candidates": [
+   {
+    "name": "Derek Tran (incumbent)",
+    "party": "D",
+    "wiki": "Derek Tran"
+   },
+   {
+    "name": "Chuong Vo",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-46": {
+  "type": "house",
+  "state": "CA",
+  "district": 46,
+  "candidates": [
+   {
+    "name": "Lou Correa (incumbent)",
+    "party": "D",
+    "wiki": "Lou Correa"
+   },
+   {
+    "name": "David Pan",
+    "party": "R",
+    "wiki": "David Pan"
+   }
+  ]
+ },
+ "CA-47": {
+  "type": "house",
+  "state": "CA",
+  "district": 47,
+  "candidates": [
+   {
+    "name": "Dave Min (incumbent)",
+    "party": "D",
+    "wiki": "Dave Min"
+   },
+   {
+    "name": "Jenny Le Roux",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-48": {
+  "type": "house",
+  "state": "CA",
+  "district": 48,
+  "candidates": [
+   {
+    "name": "Jim Desmond",
+    "party": "R",
+    "wiki": "Jim Desmond"
+   },
+   {
+    "name": "Marni von Wilpert",
+    "party": "D",
+    "wiki": "Marni von Wilpert"
+   }
+  ]
+ },
+ "CA-49": {
+  "type": "house",
+  "state": "CA",
+  "district": 49,
+  "candidates": [
+   {
+    "name": "Mike Levin (incumbent)",
+    "party": "D",
+    "wiki": "Mike Levin"
+   },
+   {
+    "name": "Armen Kurdian",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-50": {
+  "type": "house",
+  "state": "CA",
+  "district": 50,
+  "candidates": [
+   {
+    "name": "Scott Peters (incumbent)",
+    "party": "D",
+    "wiki": "Scott Peters (politician)"
+   },
+   {
+    "name": "Steve Cohen",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-51": {
+  "type": "house",
+  "state": "CA",
+  "district": 51,
+  "candidates": [
+   {
+    "name": "Sara Jacobs (incumbent)",
+    "party": "D",
+    "wiki": "Sara Jacobs"
+   },
+   {
+    "name": "Ricardo Cabrera",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CA-52": {
+  "type": "house",
+  "state": "CA",
+  "district": 52,
+  "candidates": [
+   {
+    "name": "Juan Vargas (incumbent)",
+    "party": "D",
+    "wiki": "Juan Vargas"
+   },
+   {
+    "name": "Jeff Belle",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CO-1": {
+  "type": "house",
+  "state": "CO",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Melat Kiros",
+    "party": "D",
+    "wiki": "Melat Kiros"
+   },
+   {
+    "name": "Christy Peterson",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CO-2": {
+  "type": "house",
+  "state": "CO",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Joe Neguse (incumbent)",
+    "party": "D",
+    "wiki": "Joe Neguse"
+   },
+   {
+    "name": "Kelley Dennison",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CO-3": {
+  "type": "house",
+  "state": "CO",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Jeff Hurd (incumbent)",
+    "party": "R",
+    "wiki": "Jeff Hurd"
+   },
+   {
+    "name": "Dwayne Romero",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "CO-4": {
+  "type": "house",
+  "state": "CO",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Lauren Boebert (incumbent)",
+    "party": "R",
+    "wiki": "Lauren Boebert"
+   },
+   {
+    "name": "Eileen Laubacher",
+    "party": "D",
+    "wiki": "Eileen Laubacher"
+   }
+  ]
+ },
+ "CO-5": {
+  "type": "house",
+  "state": "CO",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Jeff Crank (incumbent)",
+    "party": "R",
+    "wiki": "Jeff Crank"
+   },
+   {
+    "name": "Jessica Killin",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "CO-6": {
+  "type": "house",
+  "state": "CO",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Jason Crow (incumbent)",
+    "party": "D",
+    "wiki": "Jason Crow"
+   },
+   {
+    "name": "Jason Clark",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CO-7": {
+  "type": "house",
+  "state": "CO",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Brittany Pettersen (incumbent)",
+    "party": "D",
+    "wiki": "Brittany Pettersen"
+   },
+   {
+    "name": "Tim Bennett",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "CO-8": {
+  "type": "house",
+  "state": "CO",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Gabe Evans (incumbent)",
+    "party": "R",
+    "wiki": "Gabe Evans"
+   },
+   {
+    "name": "Manny Rutinel",
+    "party": "D",
+    "wiki": "Manny Rutinel"
+   }
+  ]
+ },
+ "CO-S": {
+  "type": "senate",
+  "state": "CO",
+  "special": false,
+  "candidates": [
+   {
+    "name": "John Hickenlooper (incumbent)",
+    "party": "D",
+    "wiki": "John Hickenlooper"
+   },
+   {
+    "name": "Mark Baisley",
+    "party": "R",
+    "wiki": "Mark Baisley"
+   },
+   {
+    "name": "Christopher Baum",
+    "party": "Other",
+    "wiki": null
+   },
+   {
+    "name": "Bob Chew",
+    "party": "F",
+    "wiki": null
+   },
+   {
+    "name": "Blake Huber",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Adam Withrow",
+    "party": "Unity",
+    "wiki": null
+   }
+  ]
+ },
+ "CT-1": {
+  "type": "house",
+  "state": "CT",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Luke Bronin",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Luke Bronin"
+   },
+   {
+    "name": "Amy Chai",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Independent Party of Connecticut"
+   }
+  ]
+ },
+ "CT-2": {
+  "type": "house",
+  "state": "CT",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "George Austin",
+    "party": "R",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "CT-3": {
+  "type": "house",
+  "state": "CT",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Rosa DeLauro",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Rosa DeLauro"
+   },
+   {
+    "name": "Christopher Lancia",
+    "party": "R",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Thomas Egan",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "CT-4": {
+  "type": "house",
+  "state": "CT",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Jim Himes",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Jim Himes"
+   },
+   {
+    "name": "Michael Goldstein",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Greenwich, Connecticut"
+   }
+  ]
+ },
+ "CT-5": {
+  "type": "house",
+  "state": "CT",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Jahana Hayes",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Jahana Hayes"
+   },
+   {
+    "name": "Chris Shea",
+    "party": "R",
+    "fromList": true,
+    "wiki": "CT Mirror"
+   }
+  ]
+ },
+ "DE-AL": {
+  "type": "house",
+  "state": "DE",
+  "district": 0,
+  "candidates": [
+   {
+    "name": "Sarah McBride",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Sarah McBride"
+   },
+   {
+    "name": "Joseph Arminio",
+    "party": "R",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "DE-S": {
+  "type": "senate",
+  "state": "DE",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Chris Coons (incumbent)",
+    "party": "D",
+    "wiki": "Chris Coons"
+   },
+   {
+    "name": "Michael Katz",
+    "party": "R",
+    "wiki": "Michael Katz (politician)"
+   }
+  ]
+ },
+ "FL-1": {
+  "type": "house",
+  "state": "FL",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Jimmy Patronis (incumbent)",
+    "party": "R",
+    "wiki": "Jimmy Patronis"
+   },
+   {
+    "name": "Gay Valimont",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Tyler Davis",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "FL-2": {
+  "type": "house",
+  "state": "FL",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Austin Rogers",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Amanda Green",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "FL-3": {
+  "type": "house",
+  "state": "FL",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Kat Cammack (incumbent)",
+    "party": "R",
+    "wiki": "Kat Cammack"
+   },
+   {
+    "name": "Seth Harp",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Mike Klein",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "FL-4": {
+  "type": "house",
+  "state": "FL",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Aaron Bean",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Aaron Bean"
+   },
+   {
+    "name": "LaShonda \"L.J.\" Holloway",
+    "party": "D",
+    "fromList": true,
+    "wiki": "District of Columbia"
+   },
+   {
+    "name": "Mike Sell",
+    "party": "Other",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Todd Schaefer",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "FL-5": {
+  "type": "house",
+  "state": "FL",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Rachel Grage",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Florida's 16th House of Representatives district"
+   }
+  ]
+ },
+ "FL-6": {
+  "type": "house",
+  "state": "FL",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Randy Fine",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Randy Fine"
+   },
+   {
+    "name": "Eric Yonce",
+    "party": "D",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Andrew Parrott",
+    "party": "L",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Michael Gist",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Alec Pavlik",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "FL-7": {
+  "type": "house",
+  "state": "FL",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Ryan Elijah",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Bale Dalton",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Christopher Dennison",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "FL-8": {
+  "type": "house",
+  "state": "FL",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Mike Haridopolos (incumbent)",
+    "party": "R",
+    "wiki": "Mike Haridopolos"
+   },
+   {
+    "name": "Jennifer Jenkins",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "FL-9": {
+  "type": "house",
+  "state": "FL",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Darren Soto (incumbent)",
+    "party": "D",
+    "wiki": "Darren Soto"
+   },
+   {
+    "name": "Dan Green",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "FL-10": {
+  "type": "house",
+  "state": "FL",
+  "district": 10,
+  "candidates": [
+   {
+    "name": "Maxwell Frost",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Maxwell Frost"
+   }
+  ]
+ },
+ "FL-11": {
+  "type": "house",
+  "state": "FL",
+  "district": 11,
+  "candidates": [
+   {
+    "name": "Joe Strada",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Florida Politics"
+   },
+   {
+    "name": "James Pericola",
+    "party": "D",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Ralph Groves",
+    "party": "L",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "FL-12": {
+  "type": "house",
+  "state": "FL",
+  "district": 12,
+  "candidates": [
+   {
+    "name": "Gus Bilirakis",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Gus Bilirakis"
+   },
+   {
+    "name": "Kimberly Overman",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Hillsborough County, Florida"
+   },
+   {
+    "name": "Branden Scrivener",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "FL-13": {
+  "type": "house",
+  "state": "FL",
+  "district": 13,
+  "candidates": [
+   {
+    "name": "Anna Paulina Luna",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Anna Paulina Luna"
+   },
+   {
+    "name": "Leela Gray",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Brigadier general (United States)"
+   },
+   {
+    "name": "Tony D'Arrigo",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "FL-14": {
+  "type": "house",
+  "state": "FL",
+  "district": 14,
+  "candidates": [
+   {
+    "name": "Kathy Castor (incumbent)",
+    "party": "D",
+    "wiki": "Kathy Castor"
+   },
+   {
+    "name": "Mike Beltran",
+    "party": "R",
+    "wiki": "Mike Beltran"
+   },
+   {
+    "name": "Brian Lambert",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "FL-15": {
+  "type": "house",
+  "state": "FL",
+  "district": 15,
+  "candidates": [
+   {
+    "name": "Laurel Lee",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Laurel Lee"
+   },
+   {
+    "name": "Robert People",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Tampa Bay Times"
+   },
+   {
+    "name": "Angie Boone",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "FL-16": {
+  "type": "house",
+  "state": "FL",
+  "district": 16,
+  "candidates": [
+   {
+    "name": "Sydney Gruters",
+    "party": "R",
+    "fromList": true,
+    "wiki": "New College of Florida"
+   },
+   {
+    "name": "Kelly Kirschner",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Sarasota, Florida"
+   },
+   {
+    "name": "Mark Davis",
+    "party": "I",
+    "fromList": true,
+    "wiki": "United States Air Force"
+   }
+  ]
+ },
+ "FL-17": {
+  "type": "house",
+  "state": "FL",
+  "district": 17,
+  "candidates": [
+   {
+    "name": "Greg Steube",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Greg Steube"
+   },
+   {
+    "name": "Matthew Montavon",
+    "party": "D",
+    "fromList": true,
+    "wiki": "United Nations"
+   },
+   {
+    "name": "Michael Quirk",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "FL-18": {
+  "type": "house",
+  "state": "FL",
+  "district": 18,
+  "candidates": [
+   {
+    "name": "Curtis Gibson",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Lake Wales"
+   },
+   {
+    "name": "Deva Simmons",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "FL-19": {
+  "type": "house",
+  "state": "FL",
+  "district": 19,
+  "candidates": [
+   {
+    "name": "Jim Schwartzel",
+    "party": "R",
+    "fromList": true,
+    "wiki": "WFSX-FM"
+   },
+   {
+    "name": "Victor Arias",
+    "party": "D",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Seth Haskins",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "FL-20": {
+  "type": "house",
+  "state": "FL",
+  "district": 20,
+  "candidates": [
+   {
+    "name": "Debbie Wasserman Schultz",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Debbie Wasserman Schultz"
+   },
+   {
+    "name": "Brent Andersen",
+    "party": "R",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Kedner Maxime",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "FL-21": {
+  "type": "house",
+  "state": "FL",
+  "district": 21,
+  "candidates": [
+   {
+    "name": "Brian Mast",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Brian Mast"
+   },
+   {
+    "name": "James Martin",
+    "party": "D",
+    "fromList": true,
+    "wiki": "U.S. Coast Guard Reserve"
+   },
+   {
+    "name": "Alexander Cooke",
+    "party": "I",
+    "fromList": true,
+    "wiki": "Juno Beach, Florida"
+   },
+   {
+    "name": "David Fabrikant",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "FL-22": {
+  "type": "house",
+  "state": "FL",
+  "district": 22,
+  "candidates": [
+   {
+    "name": "Pia Dandiya",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Casey Askar",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "FL-23": {
+  "type": "house",
+  "state": "FL",
+  "district": 23,
+  "candidates": [
+   {
+    "name": "Lois Frankel",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Lois Frankel"
+   },
+   {
+    "name": "Deborah Adeimy",
+    "party": "R",
+    "fromList": true,
+    "wiki": "2022 United States House of Representatives elections in Florida"
+   }
+  ]
+ },
+ "FL-24": {
+  "type": "house",
+  "state": "FL",
+  "district": 24,
+  "candidates": [
+   {
+    "name": "Oliver Gilbert",
+    "party": "D",
+    "wiki": "Oliver Gilbert"
+   },
+   {
+    "name": "Mayonna Te Brown",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Andy Daro",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "FL-25": {
+  "type": "house",
+  "state": "FL",
+  "district": 25,
+  "candidates": [
+   {
+    "name": "Jared Moskowitz (incumbent)",
+    "party": "D",
+    "wiki": "Jared Moskowitz"
+   },
+   {
+    "name": "Scott Singer",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Peter Jassenoff",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "FL-26": {
+  "type": "house",
+  "state": "FL",
+  "district": 26,
+  "candidates": [
+   {
+    "name": "Mario Díaz-Balart (incumbent)",
+    "party": "R",
+    "wiki": "Mario Díaz-Balart"
+   },
+   {
+    "name": "Nicole Locklin",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Deborah Ann Meidinger Hosey",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "FL-27": {
+  "type": "house",
+  "state": "FL",
+  "district": 27,
+  "candidates": [
+   {
+    "name": "María Elvira Salazar (incumbent)",
+    "party": "R",
+    "wiki": "María Elvira Salazar"
+   },
+   {
+    "name": "Eliott Rodriguez",
+    "party": "D",
+    "wiki": "Eliott Rodriguez"
+   }
+  ]
+ },
+ "FL-28": {
+  "type": "house",
+  "state": "FL",
+  "district": 28,
+  "candidates": [
+   {
+    "name": "Carlos Giménez (incumbent)",
+    "party": "R",
+    "wiki": "Carlos A. Giménez"
+   },
+   {
+    "name": "Phil Ehr",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Eddy Rojas",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "FL-S": {
+  "type": "senate",
+  "state": "FL",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Ashley Moody (incumbent)",
+    "party": "R",
+    "wiki": "Ashley Moody"
+   },
+   {
+    "name": "Angie Nixon",
+    "party": "D",
+    "wiki": "Angie Nixon"
+   },
+   {
+    "name": "Neil J. Gillespie",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "FL-S2": {
+  "type": "senate",
+  "state": "FL",
+  "special": true,
+  "candidates": [
+   {
+    "name": "Ashley Moody (incumbent)",
+    "party": "R",
+    "wiki": "Ashley Moody"
+   },
+   {
+    "name": "Angie Nixon",
+    "party": "D",
+    "wiki": "Angie Nixon"
+   },
+   {
+    "name": "Neil J. Gillespie",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "GA-1": {
+  "type": "house",
+  "state": "GA",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Jim Kingston",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Amanda Hollowell",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "GA-2": {
+  "type": "house",
+  "state": "GA",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Sanford Bishop (incumbent)",
+    "party": "D",
+    "wiki": "Sanford Bishop"
+   },
+   {
+    "name": "Matt Day",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "GA-3": {
+  "type": "house",
+  "state": "GA",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Brian Jack (incumbent)",
+    "party": "R",
+    "wiki": "Brian Jack"
+   },
+   {
+    "name": "Maura Keller",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "GA-4": {
+  "type": "house",
+  "state": "GA",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Hank Johnson (incumbent)",
+    "party": "D",
+    "wiki": "Hank Johnson"
+   },
+   {
+    "name": "James Duffe",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "GA-5": {
+  "type": "house",
+  "state": "GA",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Nikema Williams (incumbent)",
+    "party": "D",
+    "wiki": "Nikema Williams"
+   },
+   {
+    "name": "John Salvesen",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "GA-6": {
+  "type": "house",
+  "state": "GA",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Lucy McBath (incumbent)",
+    "party": "D",
+    "wiki": "Lucy McBath"
+   },
+   {
+    "name": "Kevin Martin",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "GA-7": {
+  "type": "house",
+  "state": "GA",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Rich McCormick (incumbent)",
+    "party": "R",
+    "wiki": "Rich McCormick"
+   },
+   {
+    "name": "Anthony Kozycki",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "GA-8": {
+  "type": "house",
+  "state": "GA",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Austin Scott (incumbent)",
+    "party": "R",
+    "wiki": "Austin Scott"
+   },
+   {
+    "name": "Kelly Esti",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "GA-9": {
+  "type": "house",
+  "state": "GA",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Andrew Clyde (incumbent)",
+    "party": "R",
+    "wiki": "Andrew Clyde"
+   },
+   {
+    "name": "Caitlyn Gegan",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "GA-10": {
+  "type": "house",
+  "state": "GA",
+  "district": 10,
+  "candidates": [
+   {
+    "name": "Houston Gaines",
+    "party": "R",
+    "wiki": "Houston Gaines"
+   },
+   {
+    "name": "Pamela DeLancy",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "GA-11": {
+  "type": "house",
+  "state": "GA",
+  "district": 11,
+  "candidates": [
+   {
+    "name": "John Cowan",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Chris Harden",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "GA-12": {
+  "type": "house",
+  "state": "GA",
+  "district": 12,
+  "candidates": [
+   {
+    "name": "Rick Allen (incumbent)",
+    "party": "R",
+    "wiki": "Rick Allen (politician)"
+   },
+   {
+    "name": "Ceretta Smith",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "GA-13": {
+  "type": "house",
+  "state": "GA",
+  "district": 13,
+  "candidates": [
+   {
+    "name": "Jasmine Clark",
+    "party": "D",
+    "wiki": "Jasmine Clark"
+   },
+   {
+    "name": "Jonathan Chavez",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "GA-14": {
+  "type": "house",
+  "state": "GA",
+  "district": 14,
+  "candidates": [
+   {
+    "name": "Clay Fuller (incumbent)",
+    "party": "R",
+    "wiki": "Clay Fuller"
+   },
+   {
+    "name": "Shawn Harris",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "GA-S": {
+  "type": "senate",
+  "state": "GA",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Jon Ossoff (incumbent)",
+    "party": "D",
+    "wiki": "Jon Ossoff"
+   },
+   {
+    "name": "Mike Collins",
+    "party": "R",
+    "wiki": "Mike Collins (politician)"
+   }
+  ]
+ },
+ "HI-1": {
+  "type": "house",
+  "state": "HI",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Ed Case",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Ed Case"
+   },
+   {
+    "name": "Adriel Lam",
+    "party": "R",
+    "fromList": true,
+    "wiki": "2024 United States Senate election in Hawaii"
+   },
+   {
+    "name": "Nathan Berning",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Jordan Conley",
+    "party": "G",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "HI-2": {
+  "type": "house",
+  "state": "HI",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Jill Tokuda",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Jill Tokuda"
+   },
+   {
+    "name": "Brenton Awa",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Brenton Awa"
+   }
+  ]
+ },
+ "ID-1": {
+  "type": "house",
+  "state": "ID",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Russ Fulcher (incumbent)",
+    "party": "R",
+    "wiki": "Russ Fulcher"
+   },
+   {
+    "name": "Kaylee Peterson",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Brendan Gomez",
+    "party": "C",
+    "wiki": null
+   },
+   {
+    "name": "Sarah Zabel Peterson",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "ID-2": {
+  "type": "house",
+  "state": "ID",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Mike Simpson (incumbent)",
+    "party": "R",
+    "wiki": "Mike Simpson"
+   },
+   {
+    "name": "Ellie Gilbreath",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Will Johanson",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Carta Sierra Peterson",
+    "party": "C",
+    "wiki": null
+   },
+   {
+    "name": "Emre Houser",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Tripp Hutchinson",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "ID-S": {
+  "type": "senate",
+  "state": "ID",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Jim Risch (incumbent)",
+    "party": "R",
+    "wiki": "Jim Risch"
+   },
+   {
+    "name": "Todd Achilles",
+    "party": "I",
+    "wiki": "Todd Achilles"
+   },
+   {
+    "name": "Matt Loesby",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Natalie Fleming",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-1": {
+  "type": "house",
+  "state": "IL",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Jonathan Jackson (incumbent)",
+    "party": "D",
+    "wiki": "Jonathan Jackson (Illinois politician)"
+   },
+   {
+    "name": "Christian Maxwell",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-2": {
+  "type": "house",
+  "state": "IL",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Donna Miller",
+    "party": "D",
+    "wiki": "Donna Miller"
+   },
+   {
+    "name": "Michael Noack",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Ashley Banks",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-3": {
+  "type": "house",
+  "state": "IL",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Delia Ramirez (Incumbent)",
+    "party": "D",
+    "wiki": "Delia Ramirez"
+   },
+   {
+    "name": "Angel Oakley",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-4": {
+  "type": "house",
+  "state": "IL",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Patty Garcia",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Lupe Castillo",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Ed Hershey",
+    "party": "Other",
+    "wiki": null
+   },
+   {
+    "name": "Chris Getty",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Lindsay Church",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-5": {
+  "type": "house",
+  "state": "IL",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Mike Quigley (Incumbent)",
+    "party": "D",
+    "wiki": "Mike Quigley"
+   },
+   {
+    "name": "Tommy Hanson",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-6": {
+  "type": "house",
+  "state": "IL",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Sean Casten (Incumbent)",
+    "party": "D",
+    "wiki": "Sean Casten"
+   },
+   {
+    "name": "Niki Conforti",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-7": {
+  "type": "house",
+  "state": "IL",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "La Shawn Ford",
+    "party": "D",
+    "wiki": "La Shawn Ford"
+   },
+   {
+    "name": "Chad Koppie",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-8": {
+  "type": "house",
+  "state": "IL",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Melissa Bean",
+    "party": "D",
+    "wiki": "Melissa Bean"
+   },
+   {
+    "name": "Jennifer Davis",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-9": {
+  "type": "house",
+  "state": "IL",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Daniel Biss",
+    "party": "D",
+    "wiki": "Daniel Biss"
+   },
+   {
+    "name": "John Elleson",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-10": {
+  "type": "house",
+  "state": "IL",
+  "district": 10,
+  "candidates": [
+   {
+    "name": "Brad Schneider (Incumbent)",
+    "party": "D",
+    "wiki": "Brad Schneider"
+   },
+   {
+    "name": "Carl Lambrecht",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-11": {
+  "type": "house",
+  "state": "IL",
+  "district": 11,
+  "candidates": [
+   {
+    "name": "Bill Foster (Incumbent)",
+    "party": "D",
+    "wiki": "Bill Foster (politician)"
+   },
+   {
+    "name": "Jeff Walter",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-12": {
+  "type": "house",
+  "state": "IL",
+  "district": 12,
+  "candidates": [
+   {
+    "name": "Mike Bost (Incumbent)",
+    "party": "R",
+    "wiki": "Mike Bost"
+   },
+   {
+    "name": "Julie Fortier",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-13": {
+  "type": "house",
+  "state": "IL",
+  "district": 13,
+  "candidates": [
+   {
+    "name": "Nikki Budzinski (Incumbent)",
+    "party": "D",
+    "wiki": "Nikki Budzinski"
+   },
+   {
+    "name": "Jeff Wilson",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-14": {
+  "type": "house",
+  "state": "IL",
+  "district": 14,
+  "candidates": [
+   {
+    "name": "Lauren Underwood (Incumbent)",
+    "party": "D",
+    "wiki": "Lauren Underwood"
+   },
+   {
+    "name": "James Marter",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-15": {
+  "type": "house",
+  "state": "IL",
+  "district": 15,
+  "candidates": [
+   {
+    "name": "Mary Miller (Incumbent)",
+    "party": "R",
+    "wiki": "Mary Miller (politician)"
+   },
+   {
+    "name": "Jennifer Todd",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-16": {
+  "type": "house",
+  "state": "IL",
+  "district": 16,
+  "candidates": [
+   {
+    "name": "Darin LaHood (Incumbent)",
+    "party": "R",
+    "wiki": "Darin LaHood"
+   },
+   {
+    "name": "Paul Nolley",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-17": {
+  "type": "house",
+  "state": "IL",
+  "district": 17,
+  "candidates": [
+   {
+    "name": "Eric Sorensen (Incumbent)",
+    "party": "D",
+    "wiki": "Eric Sorensen (politician)"
+   },
+   {
+    "name": "Dillan Vancil",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "IL-S": {
+  "type": "senate",
+  "state": "IL",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Juliana Stratton",
+    "party": "D",
+    "wiki": "Juliana Stratton"
+   },
+   {
+    "name": "Don Tracy",
+    "party": "R",
+    "wiki": "Don Tracy"
+   },
+   {
+    "name": "Whitfield Harrington Jr.",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "IN-1": {
+  "type": "house",
+  "state": "IN",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Frank Mrvan",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Frank J. Mrvan"
+   },
+   {
+    "name": "Barb Regnitz",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Porter County"
+   }
+  ]
+ },
+ "IN-2": {
+  "type": "house",
+  "state": "IN",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Rudy Yakym",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Rudy Yakym"
+   },
+   {
+    "name": "Jamee Decio",
+    "party": "D",
+    "fromList": true,
+    "wiki": "WNDU-TV"
+   }
+  ]
+ },
+ "IN-3": {
+  "type": "house",
+  "state": "IN",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Marlin Stutzman (incumbent)",
+    "party": "R",
+    "wiki": "Marlin Stutzman"
+   },
+   {
+    "name": "Kelly Thompson",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "IN-4": {
+  "type": "house",
+  "state": "IN",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Jim Baird (incumbent)",
+    "party": "R",
+    "wiki": "Jim Baird (politician)"
+   },
+   {
+    "name": "Drew Cox",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "IN-5": {
+  "type": "house",
+  "state": "IN",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Victoria Spartz (incumbent)",
+    "party": "R",
+    "wiki": "Victoria Spartz"
+   },
+   {
+    "name": "J.D. Ford",
+    "party": "D",
+    "wiki": "J.D. Ford"
+   }
+  ]
+ },
+ "IN-6": {
+  "type": "house",
+  "state": "IN",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Jefferson Shreve (incumbent)",
+    "party": "R",
+    "wiki": "Jefferson Shreve"
+   },
+   {
+    "name": "Cynthia Wirth",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "IN-7": {
+  "type": "house",
+  "state": "IN",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "André Carson (incumbent)",
+    "party": "D",
+    "wiki": "André Carson"
+   },
+   {
+    "name": "Patrick McAuley",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "James Sceniak",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "IN-8": {
+  "type": "house",
+  "state": "IN",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Mark Messmer (incumbent)",
+    "party": "R",
+    "wiki": "Mark Messmer"
+   },
+   {
+    "name": "Mary Allen",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "IN-9": {
+  "type": "house",
+  "state": "IN",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Erin Houchin (incumbent)",
+    "party": "R",
+    "wiki": "Erin Houchin"
+   },
+   {
+    "name": "Brad Meyer",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Tonya Hudson",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Floyd Taylor",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "IA-1": {
+  "type": "house",
+  "state": "IA",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Mariannette Miller-Meeks (incumbent)",
+    "party": "R",
+    "wiki": "Mariannette Miller-Meeks"
+   },
+   {
+    "name": "Christina Bohannan",
+    "party": "D",
+    "wiki": "Christina Bohannan"
+   },
+   {
+    "name": "Michael Bridgford",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "IA-2": {
+  "type": "house",
+  "state": "IA",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Joe Mitchell",
+    "party": "R",
+    "wiki": "Joe Mitchell (politician)"
+   },
+   {
+    "name": "Lindsay James",
+    "party": "D",
+    "wiki": "Lindsay James (politician)"
+   },
+   {
+    "name": "Dave Bushaw",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "IA-3": {
+  "type": "house",
+  "state": "IA",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Zach Nunn (incumbent)",
+    "party": "R",
+    "wiki": "Zach Nunn"
+   },
+   {
+    "name": "Sarah Trone Garriott",
+    "party": "D",
+    "wiki": "Sarah Trone Garriott"
+   }
+  ]
+ },
+ "IA-4": {
+  "type": "house",
+  "state": "IA",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Chris McGowan",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Dave Dawson",
+    "party": "D",
+    "wiki": "David Dawson (politician)"
+   }
+  ]
+ },
+ "IA-S": {
+  "type": "senate",
+  "state": "IA",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Ashley Hinson",
+    "party": "R",
+    "wiki": "Ashley Hinson"
+   },
+   {
+    "name": "Josh Turek",
+    "party": "D",
+    "wiki": "Josh Turek"
+   },
+   {
+    "name": "Thomas Laehn",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "KS-1": {
+  "type": "house",
+  "state": "KS",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Tracey Mann (incumbent)",
+    "party": "R",
+    "wiki": "Tracey Mann"
+   },
+   {
+    "name": "Lauren Reinhold",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Steven Jacob",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "KS-2": {
+  "type": "house",
+  "state": "KS",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Derek Schmidt (incumbent)",
+    "party": "R",
+    "wiki": "Derek Schmidt"
+   },
+   {
+    "name": "Don Coover",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "John Hauer",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "KS-3": {
+  "type": "house",
+  "state": "KS",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Sharice Davids (incumbent)",
+    "party": "D",
+    "wiki": "Sharice Davids"
+   },
+   {
+    "name": "Eric Jenkins",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Steven A. Hohe",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "KS-4": {
+  "type": "house",
+  "state": "KS",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Ron Estes (incumbent)",
+    "party": "R",
+    "wiki": "Ron Estes"
+   },
+   {
+    "name": "Katy Tyndell",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Drew Cranmer",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "KS-S": {
+  "type": "senate",
+  "state": "KS",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Roger Marshall (incumbent)",
+    "party": "R",
+    "wiki": "Roger Marshall"
+   },
+   {
+    "name": "Adam Hamilton",
+    "party": "D",
+    "wiki": "Adam Hamilton (pastor)"
+   },
+   {
+    "name": "David Graham",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "KY-1": {
+  "type": "house",
+  "state": "KY",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "James R. Comer (incumbent)",
+    "party": "R",
+    "wiki": "James R. Comer"
+   },
+   {
+    "name": "John \"Drew\" Williams",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "KY-2": {
+  "type": "house",
+  "state": "KY",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "S. Brett Guthrie (incumbent)",
+    "party": "R",
+    "wiki": "S. Brett Guthrie"
+   },
+   {
+    "name": "Megan Wingfield",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Thomas A. Loecken",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "KY-3": {
+  "type": "house",
+  "state": "KY",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Morgan McGarvey (incumbent)",
+    "party": "D",
+    "wiki": "Morgan McGarvey"
+   },
+   {
+    "name": "Maria Teresa Rodriguez",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "KY-4": {
+  "type": "house",
+  "state": "KY",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Ed Gallrein",
+    "party": "R",
+    "wiki": "Ed Gallrein"
+   },
+   {
+    "name": "Melissa Claire Strange",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Jeremy Todd",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "KY-5": {
+  "type": "house",
+  "state": "KY",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Hal Rogers (incumbent)",
+    "party": "R",
+    "wiki": "Hal Rogers"
+   },
+   {
+    "name": "Ned Pillersdorf",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Gerardo Serrano",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Mikel Wein",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "KY-6": {
+  "type": "house",
+  "state": "KY",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Ralph Alvarado",
+    "party": "R",
+    "wiki": "Ralph Alvarado"
+   },
+   {
+    "name": "Zach Dembo",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Pete Lynch",
+    "party": "Kentucky",
+    "wiki": null
+   },
+   {
+    "name": "Jay J. Bowman",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "KY-S": {
+  "type": "senate",
+  "state": "KY",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Andy Barr",
+    "party": "R",
+    "wiki": "Andy Barr"
+   },
+   {
+    "name": "Charles Booker",
+    "party": "D",
+    "wiki": "Charles Booker (American politician)"
+   },
+   {
+    "name": "Christopher Campbell",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "LA-5": {
+  "type": "house",
+  "state": "LA",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Stewart Cathey Jr.",
+    "party": "R",
+    "wiki": "Stewart Cathey Jr."
+   },
+   {
+    "name": "Misti Cordell",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Michael Echols",
+    "party": "R",
+    "wiki": "Michael Echols"
+   },
+   {
+    "name": "Gabe Firment",
+    "party": "R",
+    "wiki": "Gabe Firment"
+   },
+   {
+    "name": "Austin Magee",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Oscar Dantzler",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Dan McKay",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Patricia Moore",
+    "party": "D",
+    "wiki": "Pat Moore (Louisiana politician)"
+   },
+   {
+    "name": "Antonio Wilson",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "LA-6": {
+  "type": "house",
+  "state": "LA",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Monique Appeaning",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Chauna Banks",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Rufus Craig",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Larry Davis",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Rick Edmonds",
+    "party": "R",
+    "wiki": "Rick Edmonds"
+   },
+   {
+    "name": "Pat Forbes",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Lindsay Garcia",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Michael Mebruer",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Blake Miguez",
+    "party": "R",
+    "wiki": "Blake Miguez"
+   },
+   {
+    "name": "Stephen Wagley",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "LA-S": {
+  "type": "senate",
+  "state": "LA",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Julia Letlow",
+    "party": "R",
+    "wiki": "Julia Letlow"
+   },
+   {
+    "name": "Jamie Davis",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "ME-1": {
+  "type": "house",
+  "state": "ME",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Chellie Pingree (incumbent)",
+    "party": "D",
+    "wiki": "Chellie Pingree"
+   },
+   {
+    "name": "Ronald Russell",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "ME-2": {
+  "type": "house",
+  "state": "ME",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Matthew Dunlap",
+    "party": "D",
+    "wiki": "Matthew Dunlap"
+   },
+   {
+    "name": "Paul LePage",
+    "party": "R",
+    "wiki": "Paul LePage"
+   }
+  ]
+ },
+ "ME-S": {
+  "type": "senate",
+  "state": "ME",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Susan Collins (incumbent)",
+    "party": "R",
+    "wiki": "Susan Collins"
+   },
+   {
+    "name": "Troy Jackson",
+    "party": "D",
+    "wiki": "Troy Jackson"
+   }
+  ]
+ },
+ "MD-1": {
+  "type": "house",
+  "state": "MD",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Andy Harris (incumbent)",
+    "party": "R",
+    "wiki": "Andy Harris (politician)"
+   },
+   {
+    "name": "Dan Schwartz",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "MD-2": {
+  "type": "house",
+  "state": "MD",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Johnny Olszewski (incumbent)",
+    "party": "D",
+    "wiki": "Johnny Olszewski"
+   },
+   {
+    "name": "Dave Wallace",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "MD-3": {
+  "type": "house",
+  "state": "MD",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Sarah Elfreth (incumbent)",
+    "party": "D",
+    "wiki": "Sarah Elfreth"
+   },
+   {
+    "name": "Berney Flowers",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "MD-4": {
+  "type": "house",
+  "state": "MD",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Glenn Ivey (incumbent)",
+    "party": "D",
+    "wiki": "Glenn Ivey"
+   },
+   {
+    "name": "George McDermott",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Sam Husseini",
+    "party": "G",
+    "wiki": "Sam Husseini"
+   }
+  ]
+ },
+ "MD-5": {
+  "type": "house",
+  "state": "MD",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Adrian Boafo",
+    "party": "D",
+    "wiki": "Adrian Boafo"
+   },
+   {
+    "name": "Chris Chaffee",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "MD-6": {
+  "type": "house",
+  "state": "MD",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "April McClain Delaney (incumbent)",
+    "party": "D",
+    "wiki": "April McClain Delaney"
+   },
+   {
+    "name": "Robin Ficker",
+    "party": "R",
+    "wiki": "Robin Ficker"
+   }
+  ]
+ },
+ "MD-7": {
+  "type": "house",
+  "state": "MD",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Kweisi Mfume (incumbent)",
+    "party": "D",
+    "wiki": "Kweisi Mfume"
+   },
+   {
+    "name": "Scott Collier",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "MD-8": {
+  "type": "house",
+  "state": "MD",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Jamie Raskin (incumbent)",
+    "party": "D",
+    "wiki": "Jamie Raskin"
+   },
+   {
+    "name": "Cheryl Riley",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "MA-1": {
+  "type": "house",
+  "state": "MA",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Richard Neal",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Richard Neal"
+   },
+   {
+    "name": "Nadia Milleron",
+    "party": "I",
+    "fromList": true,
+    "wiki": "Nadia Milleron"
+   }
+  ]
+ },
+ "MA-3": {
+  "type": "house",
+  "state": "MA",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Lori Trahan",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Lori Trahan"
+   },
+   {
+    "name": "Gary Grossi",
+    "party": "R",
+    "fromList": true,
+    "wiki": "U.S. Army"
+   },
+   {
+    "name": "Dennis R. Conlon",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "MA-4": {
+  "type": "house",
+  "state": "MA",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Jake Auchincloss",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Jake Auchincloss"
+   },
+   {
+    "name": "Tom Stalcup",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Fall River Reporter"
+   }
+  ]
+ },
+ "MA-5": {
+  "type": "house",
+  "state": "MA",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Katherine Clark",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Katherine Clark"
+   }
+  ]
+ },
+ "MA-6": {
+  "type": "house",
+  "state": "MA",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Dan Koh",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Dan Koh"
+   },
+   {
+    "name": "Micah Jones",
+    "party": "R",
+    "fromList": true,
+    "wiki": "United States Army"
+   }
+  ]
+ },
+ "MA-7": {
+  "type": "house",
+  "state": "MA",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Ayanna Pressley",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Ayanna Pressley"
+   }
+  ]
+ },
+ "MA-8": {
+  "type": "house",
+  "state": "MA",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Stephen Lynch",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Stephen F. Lynch"
+   },
+   {
+    "name": "Robert Burke",
+    "party": "R",
+    "fromList": true,
+    "wiki": "2022 United States House of Representatives elections in Massachusetts"
+   },
+   {
+    "name": "Rasheed Nicholas Walters",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "MA-9": {
+  "type": "house",
+  "state": "MA",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Tyler MacAllister",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Mattapoisett, Massachusetts"
+   }
+  ]
+ },
+ "MA-S": {
+  "type": "senate",
+  "state": "MA",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Ed Markey (incumbent)",
+    "party": "D",
+    "wiki": "Ed Markey"
+   },
+   {
+    "name": "John Deaton",
+    "party": "R",
+    "wiki": "John Deaton"
+   },
+   {
+    "name": "Joe Tache",
+    "party": "Other",
+    "wiki": null
+   },
+   {
+    "name": "Shiva Ayyadurai",
+    "party": "I",
+    "wiki": "Shiva Ayyadurai"
+   }
+  ]
+ },
+ "MI-1": {
+  "type": "house",
+  "state": "MI",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Jack Bergman (incumbent)",
+    "party": "R",
+    "wiki": "Jack Bergman"
+   },
+   {
+    "name": "Callie Barr",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Arnett Satterla",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Doc Kovaly",
+    "party": "C",
+    "wiki": null
+   },
+   {
+    "name": "LaVeta Davenport",
+    "party": "G",
+    "wiki": null
+   },
+   {
+    "name": "Liz Hakola",
+    "party": "Other",
+    "wiki": null
+   },
+   {
+    "name": "Zebulon Featherly",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "MI-2": {
+  "type": "house",
+  "state": "MI",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "John Moolenaar (incumbent)",
+    "party": "R",
+    "wiki": "John Moolenaar"
+   },
+   {
+    "name": "Benjamin Ambrose",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Charlotta Magoon",
+    "party": "G",
+    "wiki": null
+   },
+   {
+    "name": "Richard Sills",
+    "party": "NL",
+    "wiki": null
+   }
+  ]
+ },
+ "MI-3": {
+  "type": "house",
+  "state": "MI",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Hillary Scholten (incumbent)",
+    "party": "D",
+    "wiki": "Hillary Scholten"
+   },
+   {
+    "name": "Terri DeBoer",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Joe Jock",
+    "party": "G",
+    "wiki": null
+   }
+  ]
+ },
+ "MI-4": {
+  "type": "house",
+  "state": "MI",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Bill Huizenga (incumbent)",
+    "party": "R",
+    "wiki": "Bill Huizenga"
+   },
+   {
+    "name": "Sean McCann",
+    "party": "D",
+    "wiki": "Sean McCann (politician)"
+   },
+   {
+    "name": "Shafina Che Barnett",
+    "party": "G",
+    "wiki": null
+   }
+  ]
+ },
+ "MI-5": {
+  "type": "house",
+  "state": "MI",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Tim Walberg (incumbent)",
+    "party": "R",
+    "wiki": "Tim Walberg"
+   },
+   {
+    "name": "Christian Vukasovich",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Ronald A. Muszynski",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Sharon Marie Reiner",
+    "party": "C",
+    "wiki": null
+   },
+   {
+    "name": "Jim Bronke",
+    "party": "G",
+    "wiki": null
+   }
+  ]
+ },
+ "MI-6": {
+  "type": "house",
+  "state": "MI",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Debbie Dingell (incumbent)",
+    "party": "D",
+    "wiki": "Debbie Dingell"
+   },
+   {
+    "name": "Heather Smiley",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Timothy Teagan",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Mike Mickevicius",
+    "party": "C",
+    "wiki": null
+   },
+   {
+    "name": "Clyde Shabazz",
+    "party": "G",
+    "wiki": null
+   },
+   {
+    "name": "Linda Rayburn",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "MI-7": {
+  "type": "house",
+  "state": "MI",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Tom Barrett (incumbent)",
+    "party": "R",
+    "wiki": "Tom Barrett (Michigan politician)"
+   },
+   {
+    "name": "William Lawrence",
+    "party": "D",
+    "wiki": "William Lawrence (activist)"
+   },
+   {
+    "name": "Shane Dedrick",
+    "party": "G",
+    "wiki": null
+   }
+  ]
+ },
+ "MI-8": {
+  "type": "house",
+  "state": "MI",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Kristen McDonald Rivet (incumbent)",
+    "party": "D",
+    "wiki": "Kristen McDonald Rivet"
+   },
+   {
+    "name": "Thomas J. Smith",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "C. Mia Pettus",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Jim Casha",
+    "party": "G",
+    "wiki": null
+   },
+   {
+    "name": "Kathy Goodwin",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "MI-9": {
+  "type": "house",
+  "state": "MI",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Lisa McClain (incumbent)",
+    "party": "R",
+    "wiki": "Lisa McClain"
+   },
+   {
+    "name": "Ray Pooley",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Kevin Vayko",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "John Vlahos",
+    "party": "C",
+    "wiki": null
+   },
+   {
+    "name": "Destiny Clayton",
+    "party": "G",
+    "wiki": null
+   },
+   {
+    "name": "Jim Walkowicz",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "MI-10": {
+  "type": "house",
+  "state": "MI",
+  "district": 10,
+  "candidates": [
+   {
+    "name": "Michael Bouchard Jr.",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Christina Hines",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Mike Saliba",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Kwabena Nkromo",
+    "party": "G",
+    "wiki": null
+   },
+   {
+    "name": "Andrea L. Kirby",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "MI-11": {
+  "type": "house",
+  "state": "MI",
+  "district": 11,
+  "candidates": [
+   {
+    "name": "Jeremy Moss",
+    "party": "D",
+    "wiki": "Jeremy Moss"
+   },
+   {
+    "name": "Ethan Baker",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Farid Ishac",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Ryan Teasdale",
+    "party": "G",
+    "wiki": null
+   },
+   {
+    "name": "Anil Kumar",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "MI-12": {
+  "type": "house",
+  "state": "MI",
+  "district": 12,
+  "candidates": [
+   {
+    "name": "Rashida Tlaib (incumbent)",
+    "party": "D",
+    "wiki": "Rashida Tlaib"
+   },
+   {
+    "name": "James D. Hooper",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Marc Sosnowski",
+    "party": "C",
+    "wiki": null
+   },
+   {
+    "name": "Brenda K. Sanders",
+    "party": "G",
+    "wiki": null
+   },
+   {
+    "name": "Gary Walkowicz",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "MI-13": {
+  "type": "house",
+  "state": "MI",
+  "district": 13,
+  "candidates": [
+   {
+    "name": "Donavan McKinney",
+    "party": "D",
+    "wiki": "Donavan McKinney"
+   },
+   {
+    "name": "T.P. Nykoriak",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Chris Dardzinski",
+    "party": "C",
+    "wiki": null
+   },
+   {
+    "name": "Raelynn Light",
+    "party": "G",
+    "wiki": null
+   },
+   {
+    "name": "Simone R. Coleman",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "MI-S": {
+  "type": "senate",
+  "state": "MI",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Abdul El-Sayed",
+    "party": "D",
+    "wiki": "Abdul El-Sayed"
+   },
+   {
+    "name": "Mike Rogers",
+    "party": "R",
+    "wiki": "Mike Rogers (Michigan politician)"
+   },
+   {
+    "name": "Lydia Christensen",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Tim Long",
+    "party": "C",
+    "wiki": null
+   },
+   {
+    "name": "Douglas P. Marsh",
+    "party": "G",
+    "wiki": null
+   },
+   {
+    "name": "Walter P. Kristy",
+    "party": "NL",
+    "wiki": null
+   }
+  ]
+ },
+ "MN-1": {
+  "type": "house",
+  "state": "MN",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Brad Finstad",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Brad Finstad"
+   },
+   {
+    "name": "Jake Johnson",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Post-Bulletin"
+   }
+  ]
+ },
+ "MN-2": {
+  "type": "house",
+  "state": "MN",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Matt Little",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Matt Little"
+   },
+   {
+    "name": "Eric Pratt",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Eric Pratt"
+   }
+  ]
+ },
+ "MN-3": {
+  "type": "house",
+  "state": "MN",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Kelly Morrison",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Kelly Morrison"
+   },
+   {
+    "name": "Tyler Bass",
+    "party": "R",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "MN-4": {
+  "type": "house",
+  "state": "MN",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Betty McCollum",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Betty McCollum"
+   },
+   {
+    "name": "Paul Wikstrom",
+    "party": "R",
+    "fromList": true,
+    "wiki": "2024 Minnesota House of Representatives election"
+   }
+  ]
+ },
+ "MN-5": {
+  "type": "house",
+  "state": "MN",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Ilhan Omar",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Ilhan Omar"
+   },
+   {
+    "name": "John Nagel",
+    "party": "R",
+    "fromList": true,
+    "wiki": "2024 Minnesota House of Representatives election"
+   },
+   {
+    "name": "DeVelle Jackson",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "MN-6": {
+  "type": "house",
+  "state": "MN",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Tom Emmer",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Tom Emmer"
+   },
+   {
+    "name": "Doug Chapin",
+    "party": "D",
+    "fromList": true,
+    "wiki": "KSNI"
+   }
+  ]
+ },
+ "MN-7": {
+  "type": "house",
+  "state": "MN",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Michelle Fischbach",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Michelle Fischbach"
+   },
+   {
+    "name": "Erik Osberg",
+    "party": "D",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "MN-8": {
+  "type": "house",
+  "state": "MN",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Pete Stauber",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Pete Stauber"
+   },
+   {
+    "name": "Trina Swanson",
+    "party": "D",
+    "fromList": true,
+    "wiki": "U.S. Citizenship and Immigration Services"
+   }
+  ]
+ },
+ "MN-S": {
+  "type": "senate",
+  "state": "MN",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Peggy Flanagan",
+    "party": "Other",
+    "wiki": "Peggy Flanagan"
+   },
+   {
+    "name": "Michele Tafoya",
+    "party": "R",
+    "wiki": "Michele Tafoya"
+   },
+   {
+    "name": "Marisa Simonetti",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Rebecca Whiting",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "MS-1": {
+  "type": "house",
+  "state": "MS",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Trent Kelly (incumbent)",
+    "party": "R",
+    "wiki": "Trent Kelly (politician)"
+   },
+   {
+    "name": "Cliff Johnson",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "MS-2": {
+  "type": "house",
+  "state": "MS",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Bennie Thompson (incumbent)",
+    "party": "D",
+    "wiki": "Bennie Thompson"
+   },
+   {
+    "name": "Ron Eller",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "MS-3": {
+  "type": "house",
+  "state": "MS",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Michael Guest (incumbent)",
+    "party": "R",
+    "wiki": "Michael Guest (politician)"
+   },
+   {
+    "name": "Michael Chiaradio",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Erik Kiehle",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "MS-4": {
+  "type": "house",
+  "state": "MS",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Mike Ezell (incumbent)",
+    "party": "R",
+    "wiki": "Mike Ezell"
+   },
+   {
+    "name": "Jeffrey Hulum III",
+    "party": "D",
+    "wiki": "Jeffrey Hulum III"
+   },
+   {
+    "name": "Carl Boyanton",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "MS-S": {
+  "type": "senate",
+  "state": "MS",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Cindy Hyde-Smith (incumbent)",
+    "party": "R",
+    "wiki": "Cindy Hyde-Smith"
+   },
+   {
+    "name": "Scott Colom",
+    "party": "D",
+    "wiki": "Scott Colom"
+   },
+   {
+    "name": "Ty Pinkins",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "MO-1": {
+  "type": "house",
+  "state": "MO",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Wesley Bell",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Wesley Bell"
+   },
+   {
+    "name": "Paul Berry",
+    "party": "R",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Tom Schmitz",
+    "party": "L",
+    "fromList": true,
+    "wiki": "Libertarian Party of Missouri"
+   }
+  ]
+ },
+ "MO-2": {
+  "type": "house",
+  "state": "MO",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Ann Wagner",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Ann Wagner"
+   },
+   {
+    "name": "Fred Wellman",
+    "party": "D",
+    "fromList": true,
+    "wiki": "St. Louis Post-Dispatch"
+   },
+   {
+    "name": "Brandon Coulter Daugherty",
+    "party": "L",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "MO-3": {
+  "type": "house",
+  "state": "MO",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Bob Onder",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Bob Onder"
+   },
+   {
+    "name": "Bethany Mann",
+    "party": "D",
+    "fromList": true,
+    "wiki": "2022 United States House of Representatives elections in Missouri"
+   },
+   {
+    "name": "Jim Higgins",
+    "party": "L",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "MO-4": {
+  "type": "house",
+  "state": "MO",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Mark Alford",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Mark Alford"
+   },
+   {
+    "name": "Jordan Herrera",
+    "party": "D",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Thomas Holbrook",
+    "party": "L",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "MO-5": {
+  "type": "house",
+  "state": "MO",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Emanuel Cleaver",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Emanuel Cleaver"
+   },
+   {
+    "name": "Rick Brattin",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Rick Brattin"
+   },
+   {
+    "name": "Randall \"Randy\" Langkraehr",
+    "party": "L",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "MO-6": {
+  "type": "house",
+  "state": "MO",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Chris Stigall",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Chris Stigall"
+   },
+   {
+    "name": "Josh Smead",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Excelsior Citizen"
+   },
+   {
+    "name": "Andy Maidment",
+    "party": "L",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "MO-7": {
+  "type": "house",
+  "state": "MO",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Eric Burlison",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Eric Burlison"
+   },
+   {
+    "name": "Missi Hesketh",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Forsyth, Missouri"
+   },
+   {
+    "name": "Kevin Craig",
+    "party": "L",
+    "fromList": true,
+    "wiki": "Christian anarchism"
+   }
+  ]
+ },
+ "MO-8": {
+  "type": "house",
+  "state": "MO",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Christopher Reichard",
+    "party": "D",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Rebecca Sharpe Lombard",
+    "party": "L",
+    "fromList": true,
+    "wiki": "Libertarian Party of Missouri"
+   }
+  ]
+ },
+ "MT-1": {
+  "type": "house",
+  "state": "MT",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Aaron Flint",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Sam Forstag",
+    "party": "D",
+    "wiki": "Sam Forstag"
+   },
+   {
+    "name": "Nick Sheedy",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Kimberly Persico",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "MT-2": {
+  "type": "house",
+  "state": "MT",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Troy Downing (incumbent)",
+    "party": "R",
+    "wiki": "Troy Downing"
+   },
+   {
+    "name": "Brian Miller",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Michael Eisenhauer",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "MT-S": {
+  "type": "senate",
+  "state": "MT",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Kurt Alme",
+    "party": "R",
+    "wiki": "Kurt Alme"
+   },
+   {
+    "name": "Alani Bankhead",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Kyle Austin",
+    "party": "Other",
+    "wiki": null
+   },
+   {
+    "name": "Seth Bodnar",
+    "party": "I",
+    "wiki": "Seth Bodnar"
+   }
+  ]
+ },
+ "NE-1": {
+  "type": "house",
+  "state": "NE",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Mike Flood (incumbent)",
+    "party": "R",
+    "wiki": "Mike Flood (politician)"
+   },
+   {
+    "name": "Chris Backemeyer",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Nik Sandman",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Daniel Hartong",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "NE-2": {
+  "type": "house",
+  "state": "NE",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Brinker Harding",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Denise Powell",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Eric Foreman",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "NE-3": {
+  "type": "house",
+  "state": "NE",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Adrian Smith",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Becky Stille",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "David Else",
+    "party": "Other",
+    "wiki": null
+   },
+   {
+    "name": "Macey Budke",
+    "party": "Other",
+    "wiki": null
+   },
+   {
+    "name": "Mark Cohen",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "NE-S": {
+  "type": "senate",
+  "state": "NE",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Pete Ricketts (incumbent)",
+    "party": "R",
+    "wiki": "Pete Ricketts"
+   },
+   {
+    "name": "Dan Osborn",
+    "party": "I",
+    "wiki": "Dan Osborn"
+   },
+   {
+    "name": "Mike Marvin (withdrawn)",
+    "party": "Other",
+    "wiki": null
+   },
+   {
+    "name": "Chuck Conboy",
+    "party": "Other",
+    "wiki": null
+   },
+   {
+    "name": "Robin Richards",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "NV-1": {
+  "type": "house",
+  "state": "NV",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Dina Titus (incumbent)",
+    "party": "D",
+    "wiki": "Dina Titus"
+   },
+   {
+    "name": "Carrie Buck",
+    "party": "R",
+    "wiki": "Carrie Buck (politician)"
+   }
+  ]
+ },
+ "NV-2": {
+  "type": "house",
+  "state": "NV",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "David Flippo",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Teresa Benitez-Thompson",
+    "party": "D",
+    "wiki": "Teresa Benitez-Thompson"
+   },
+   {
+    "name": "Lynn Chapman",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "NV-3": {
+  "type": "house",
+  "state": "NV",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Susie Lee (incumbent)",
+    "party": "D",
+    "wiki": "Susie Lee"
+   },
+   {
+    "name": "Martin O'Donnell",
+    "party": "R",
+    "wiki": "Martin O'Donnell"
+   }
+  ]
+ },
+ "NV-4": {
+  "type": "house",
+  "state": "NV",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Steven Horsford (incumbent)",
+    "party": "D",
+    "wiki": "Steven Horsford"
+   },
+   {
+    "name": "Cody Whipple",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "NH-1": {
+  "type": "house",
+  "state": "NH",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Stefany Shaheen",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Portsmouth, New Hampshire"
+   },
+   {
+    "name": "Anthony DiLorenzo",
+    "party": "R",
+    "fromList": true,
+    "wiki": "WMUR"
+   }
+  ]
+ },
+ "NH-2": {
+  "type": "house",
+  "state": "NH",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Maggie Goodlander",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Maggie Goodlander"
+   },
+   {
+    "name": "Lily Tang Williams",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Lily Tang Williams"
+   },
+   {
+    "name": "Robbie Mahrou",
+    "party": "Other",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "NH-S": {
+  "type": "senate",
+  "state": "NH",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Chris Pappas",
+    "party": "D",
+    "wiki": "Chris Pappas (American politician)"
+   },
+   {
+    "name": "John E. Sununu",
+    "party": "R",
+    "wiki": "John E. Sununu"
+   },
+   {
+    "name": "Edmond J. LaPlante Jr.",
+    "party": "C",
+    "wiki": null
+   }
+  ]
+ },
+ "NJ-1": {
+  "type": "house",
+  "state": "NJ",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Donald Norcross (incumbent)",
+    "party": "D",
+    "wiki": "Donald Norcross"
+   },
+   {
+    "name": "Damon Galdo",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "NJ-2": {
+  "type": "house",
+  "state": "NJ",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Jeff Van Drew (incumbent)",
+    "party": "R",
+    "wiki": "Jeff Van Drew"
+   },
+   {
+    "name": "Zack Mullock",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Ramon Mora Jr.",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "NJ-3": {
+  "type": "house",
+  "state": "NJ",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Herb Conaway (incumbent)",
+    "party": "D",
+    "wiki": "Herb Conaway"
+   },
+   {
+    "name": "Michael McGuire",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Ryan Michael Kelly",
+    "party": "Other",
+    "wiki": null
+   },
+   {
+    "name": "Steven Welzer",
+    "party": "G",
+    "wiki": null
+   }
+  ]
+ },
+ "NJ-4": {
+  "type": "house",
+  "state": "NJ",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Chris Smith (incumbent)",
+    "party": "R",
+    "wiki": "Chris Smith (New Jersey politician)"
+   },
+   {
+    "name": "Rachel Peace",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "NJ-5": {
+  "type": "house",
+  "state": "NJ",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Josh Gottheimer (incumbent)",
+    "party": "D",
+    "wiki": "Josh Gottheimer"
+   },
+   {
+    "name": "Sean Kirrane",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Adam Rueda",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "NJ-6": {
+  "type": "house",
+  "state": "NJ",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Frank Pallone (incumbent)",
+    "party": "D",
+    "wiki": "Frank Pallone"
+   },
+   {
+    "name": "Hillary Herzig",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "NJ-7": {
+  "type": "house",
+  "state": "NJ",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Thomas Kean Jr. (incumbent)",
+    "party": "R",
+    "wiki": "Thomas Kean Jr."
+   },
+   {
+    "name": "Rebecca Bennett",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Seamus Patrick O'Toole",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "NJ-8": {
+  "type": "house",
+  "state": "NJ",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Rob Menendez (incumbent)",
+    "party": "D",
+    "wiki": "Rob Menendez"
+   },
+   {
+    "name": "Aristotle Eliopoulos",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Craig Honts",
+    "party": "SWP",
+    "wiki": null
+   },
+   {
+    "name": "Da’Shone Hughey",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "NJ-9": {
+  "type": "house",
+  "state": "NJ",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Nellie Pou (incumbent)",
+    "party": "D",
+    "wiki": "Nellie Pou"
+   },
+   {
+    "name": "Rosie Pino",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Terrisa Bukovinac",
+    "party": "Other",
+    "wiki": "Terrisa Bukovinac"
+   }
+  ]
+ },
+ "NJ-10": {
+  "type": "house",
+  "state": "NJ",
+  "district": 10,
+  "candidates": [
+   {
+    "name": "LaMonica McIver (incumbent)",
+    "party": "D",
+    "wiki": "LaMonica McIver"
+   },
+   {
+    "name": "Carmen Bucco",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "NJ-11": {
+  "type": "house",
+  "state": "NJ",
+  "district": 11,
+  "candidates": [
+   {
+    "name": "Analilia Mejia (incumbent)",
+    "party": "D",
+    "wiki": "Analilia Mejia"
+   },
+   {
+    "name": "Joe Hathaway",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Alan B. Bond",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "NJ-12": {
+  "type": "house",
+  "state": "NJ",
+  "district": 12,
+  "candidates": [
+   {
+    "name": "Adam Hamawy",
+    "party": "D",
+    "wiki": "Adam Hamawy"
+   },
+   {
+    "name": "Gregg Mele",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Andres Jinete",
+    "party": "G",
+    "wiki": null
+   },
+   {
+    "name": "Winston Jordan",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "NJ-S": {
+  "type": "senate",
+  "state": "NJ",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Cory Booker (incumbent)",
+    "party": "D",
+    "wiki": "Cory Booker"
+   },
+   {
+    "name": "Justin Murphy",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Veronica Fernandez",
+    "party": "Other",
+    "wiki": null
+   },
+   {
+    "name": "Joanne Kuniansky",
+    "party": "SWP",
+    "wiki": null
+   },
+   {
+    "name": "Eduardo Castillo",
+    "party": "Write-in",
+    "wiki": null
+   }
+  ]
+ },
+ "NM-1": {
+  "type": "house",
+  "state": "NM",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Melanie Stansbury (incumbent)",
+    "party": "D",
+    "wiki": "Melanie Stansbury"
+   },
+   {
+    "name": "Didi Okapareke",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "NM-2": {
+  "type": "house",
+  "state": "NM",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Gabe Vasquez (incumbent)",
+    "party": "D",
+    "wiki": "Gabe Vasquez"
+   },
+   {
+    "name": "Greg Cunningham",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "NM-3": {
+  "type": "house",
+  "state": "NM",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Teresa Leger Fernández (incumbent)",
+    "party": "D",
+    "wiki": "Teresa Leger Fernández"
+   },
+   {
+    "name": "Martin Zamora",
+    "party": "R",
+    "wiki": "Martin Zamora"
+   }
+  ]
+ },
+ "NM-S": {
+  "type": "senate",
+  "state": "NM",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Ben Ray Luján (incumbent)",
+    "party": "D",
+    "wiki": "Ben Ray Luján"
+   },
+   {
+    "name": "Larry Marker",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-1": {
+  "type": "house",
+  "state": "NY",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Nick LaLota",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Nick LaLota",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Nick LaLota (incumbent)",
+    "party": "Total",
+    "wiki": "Nick LaLota"
+   },
+   {
+    "name": "Chris Gallant",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-2": {
+  "type": "house",
+  "state": "NY",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Andrew Garbarino",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Andrew Garbarino",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Andrew Garbarino (incumbent)",
+    "party": "Total",
+    "wiki": "Andrew Garbarino"
+   },
+   {
+    "name": "Patrick Halpin",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Patrick Halpin",
+    "party": "WFP",
+    "wiki": null
+   },
+   {
+    "name": "Patrick Halpin",
+    "party": "Total",
+    "wiki": "Patrick G. Halpin"
+   }
+  ]
+ },
+ "NY-3": {
+  "type": "house",
+  "state": "NY",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Tom Suozzi (incumbent)",
+    "party": "D",
+    "wiki": "Tom Suozzi"
+   },
+   {
+    "name": "Mike LiPetri",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Mike LiPetri",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Mike LiPetri",
+    "party": "Total",
+    "wiki": "Mike LiPetri"
+   }
+  ]
+ },
+ "NY-4": {
+  "type": "house",
+  "state": "NY",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Laura Gillen (incumbent)",
+    "party": "D",
+    "wiki": "Laura Gillen"
+   },
+   {
+    "name": "Jeanine Driscoll",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Jeanine Driscoll",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Jeanine Driscoll",
+    "party": "Total",
+    "wiki": null
+   },
+   {
+    "name": "Blay Tarnoff",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-5": {
+  "type": "house",
+  "state": "NY",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Gregory Meeks (incumbent)",
+    "party": "D",
+    "wiki": "Gregory Meeks"
+   },
+   {
+    "name": "George Marsh",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "George Marsh",
+    "party": "Other",
+    "wiki": null
+   },
+   {
+    "name": "George Marsh",
+    "party": "Total",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-6": {
+  "type": "house",
+  "state": "NY",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Grace Meng (incumbent)",
+    "party": "D",
+    "wiki": "Grace Meng"
+   },
+   {
+    "name": "Joseph Chou",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Joseph Chou",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Joseph Chou",
+    "party": "Total",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-7": {
+  "type": "house",
+  "state": "NY",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Claire Valdez",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Claire Valdez",
+    "party": "WFP",
+    "wiki": null
+   },
+   {
+    "name": "Claire Valdez",
+    "party": "Total",
+    "wiki": "Claire Valdez"
+   },
+   {
+    "name": "Melvin Rivera",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Melvin Rivera",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Melvin Rivera",
+    "party": "Total",
+    "wiki": null
+   },
+   {
+    "name": "Priscilla Ghaznavi",
+    "party": "Our Future",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-8": {
+  "type": "house",
+  "state": "NY",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Hakeem Jeffries (incumbent)",
+    "party": "D",
+    "wiki": "Hakeem Jeffries"
+   },
+   {
+    "name": "Lewis Mizrahi",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Lewis Mizrahi",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Lewis Mizrahi",
+    "party": "Total",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-9": {
+  "type": "house",
+  "state": "NY",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Yvette Clarke (incumbent)",
+    "party": "D",
+    "wiki": "Yvette Clarke"
+   },
+   {
+    "name": "Joel Anabilah-Azumah",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Joel Anabilah-Azumah",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Joel Anabilah-Azumah",
+    "party": "Total",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-10": {
+  "type": "house",
+  "state": "NY",
+  "district": 10,
+  "candidates": [
+   {
+    "name": "Brad Lander",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Brad Lander",
+    "party": "WFP",
+    "wiki": null
+   },
+   {
+    "name": "Brad Lander",
+    "party": "Total",
+    "wiki": "Brad Lander"
+   },
+   {
+    "name": "Jennifer Moore",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Jennifer Moore",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Jennifer Moore",
+    "party": "Total",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-11": {
+  "type": "house",
+  "state": "NY",
+  "district": 11,
+  "candidates": [
+   {
+    "name": "Nicole Malliotakis",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Nicole Malliotakis",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Nicole Malliotakis (incumbent)",
+    "party": "Total",
+    "wiki": "Nicole Malliotakis"
+   },
+   {
+    "name": "Michael DeCillis",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-12": {
+  "type": "house",
+  "state": "NY",
+  "district": 12,
+  "candidates": [
+   {
+    "name": "Micah Lasher",
+    "party": "D",
+    "wiki": "Micah Lasher"
+   },
+   {
+    "name": "Caroline Shinkle",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Caroline Shinkle",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Caroline Shinkle",
+    "party": "Total",
+    "wiki": null
+   },
+   {
+    "name": "Wilneida Negron",
+    "party": "Other",
+    "wiki": null
+   },
+   {
+    "name": "Karen Ortiz",
+    "party": "Other",
+    "wiki": "Karen Ortiz"
+   }
+  ]
+ },
+ "NY-13": {
+  "type": "house",
+  "state": "NY",
+  "district": 13,
+  "candidates": [
+   {
+    "name": "Darializa Avila Chevalier",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Darializa Avila Chevalier",
+    "party": "WFP",
+    "wiki": null
+   },
+   {
+    "name": "Darializa Avila Chevalier",
+    "party": "Total",
+    "wiki": "Darializa Avila Chevalier"
+   },
+   {
+    "name": "Jomo Williams",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-14": {
+  "type": "house",
+  "state": "NY",
+  "district": 14,
+  "candidates": [
+   {
+    "name": "Alexandria Ocasio-Cortez",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Alexandria Ocasio-Cortez",
+    "party": "WFP",
+    "wiki": null
+   },
+   {
+    "name": "Alexandria Ocasio-Cortez (incumbent)",
+    "party": "Total",
+    "wiki": "Alexandria Ocasio-Cortez"
+   },
+   {
+    "name": "Diamant Hysenaj",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Diamant Hysenaj",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Diamant Hysenaj",
+    "party": "Total",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-15": {
+  "type": "house",
+  "state": "NY",
+  "district": 15,
+  "candidates": [
+   {
+    "name": "Ritchie Torres (incumbent)",
+    "party": "D",
+    "wiki": "Ritchie Torres"
+   },
+   {
+    "name": "Stylo Sapaskis",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Gonzalo Duran",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Andre Easton",
+    "party": "Other",
+    "wiki": null
+   },
+   {
+    "name": "Jose Vega",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-16": {
+  "type": "house",
+  "state": "NY",
+  "district": 16,
+  "candidates": [
+   {
+    "name": "George Latimer (incumbent)",
+    "party": "D",
+    "wiki": "George Latimer (New York politician)"
+   },
+   {
+    "name": "Joseph Cinquemani",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-17": {
+  "type": "house",
+  "state": "NY",
+  "district": 17,
+  "candidates": [
+   {
+    "name": "Mike Lawler",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Mike Lawler",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Mike Lawler (incumbent)",
+    "party": "Total",
+    "wiki": "Mike Lawler"
+   },
+   {
+    "name": "Cait Conley",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Cait Conley",
+    "party": "WFP",
+    "wiki": null
+   },
+   {
+    "name": "Cait Conley",
+    "party": "Total",
+    "wiki": "Cait Conley"
+   }
+  ]
+ },
+ "NY-18": {
+  "type": "house",
+  "state": "NY",
+  "district": 18,
+  "candidates": [
+   {
+    "name": "Pat Ryan",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Pat Ryan",
+    "party": "WFP",
+    "wiki": null
+   },
+   {
+    "name": "Pat Ryan (incumbent)",
+    "party": "Total",
+    "wiki": "Pat Ryan (politician)"
+   },
+   {
+    "name": "Jacqueline Auringer",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Jacqueline Auringer",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Jacqueline Auringer",
+    "party": "Total",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-19": {
+  "type": "house",
+  "state": "NY",
+  "district": 19,
+  "candidates": [
+   {
+    "name": "Josh Riley",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Josh Riley",
+    "party": "WFP",
+    "wiki": null
+   },
+   {
+    "name": "Josh Riley (incumbent)",
+    "party": "Total",
+    "wiki": "Josh Riley"
+   },
+   {
+    "name": "Peter Oberacker",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Peter Oberacker",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Peter Oberacker",
+    "party": "Total",
+    "wiki": "Peter Oberacker"
+   }
+  ]
+ },
+ "NY-20": {
+  "type": "house",
+  "state": "NY",
+  "district": 20,
+  "candidates": [
+   {
+    "name": "Paul Tonko",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Paul Tonko",
+    "party": "WFP",
+    "wiki": null
+   },
+   {
+    "name": "Paul Tonko (incumbent)",
+    "party": "Total",
+    "wiki": "Paul Tonko"
+   },
+   {
+    "name": "Ralph Ambrosio",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Ralph Ambrosio",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Ralph Ambrosio",
+    "party": "Total",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-21": {
+  "type": "house",
+  "state": "NY",
+  "district": 21,
+  "candidates": [
+   {
+    "name": "Anthony Constantino",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Anthony Constantino",
+    "party": "Other",
+    "wiki": null
+   },
+   {
+    "name": "Anthony Constantino",
+    "party": "Total",
+    "wiki": null
+   },
+   {
+    "name": "Blake Gendebien",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-22": {
+  "type": "house",
+  "state": "NY",
+  "district": 22,
+  "candidates": [
+   {
+    "name": "John Mannion",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "John Mannion",
+    "party": "WFP",
+    "wiki": null
+   },
+   {
+    "name": "John Mannion (incumbent)",
+    "party": "Total",
+    "wiki": "John Mannion (American politician)"
+   },
+   {
+    "name": "Kailee Buller",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Kailee Buller",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Kailee Buller",
+    "party": "Total",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-23": {
+  "type": "house",
+  "state": "NY",
+  "district": 23,
+  "candidates": [
+   {
+    "name": "Nick Langworthy",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Nick Langworthy",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Nick Langworthy (incumbent)",
+    "party": "Total",
+    "wiki": "Nick Langworthy"
+   },
+   {
+    "name": "Aaron Gies",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Aaron Gies",
+    "party": "WFP",
+    "wiki": null
+   },
+   {
+    "name": "Aaron Gies",
+    "party": "Total",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-24": {
+  "type": "house",
+  "state": "NY",
+  "district": 24,
+  "candidates": [
+   {
+    "name": "Claudia Tenney",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Claudia Tenney",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Claudia Tenney (incumbent)",
+    "party": "Total",
+    "wiki": "Claudia Tenney"
+   },
+   {
+    "name": "Alissa Ellman",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Alissa Ellman",
+    "party": "WFP",
+    "wiki": null
+   },
+   {
+    "name": "Alissa Ellman",
+    "party": "Total",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-25": {
+  "type": "house",
+  "state": "NY",
+  "district": 25,
+  "candidates": [
+   {
+    "name": "Joseph Morelle",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Joseph Morelle",
+    "party": "WFP",
+    "wiki": null
+   },
+   {
+    "name": "Joseph Morelle (incumbent)",
+    "party": "Total",
+    "wiki": "Joseph Morelle"
+   },
+   {
+    "name": "Virginia McIntyre",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Virginia McIntyre",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Virginia McIntyre",
+    "party": "Total",
+    "wiki": null
+   }
+  ]
+ },
+ "NY-26": {
+  "type": "house",
+  "state": "NY",
+  "district": 26,
+  "candidates": [
+   {
+    "name": "Tim Kennedy (incumbent)",
+    "party": "D",
+    "wiki": "Tim Kennedy (politician)"
+   },
+   {
+    "name": "Dennis Hannon",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Dennis Hannon",
+    "party": "CON",
+    "wiki": null
+   },
+   {
+    "name": "Dennis Hannon",
+    "party": "Total",
+    "wiki": null
+   }
+  ]
+ },
+ "NC-1": {
+  "type": "house",
+  "state": "NC",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Don Davis (incumbent)",
+    "party": "D",
+    "wiki": "Don Davis (North Carolina politician)"
+   },
+   {
+    "name": "Laurie Buckhout",
+    "party": "R",
+    "wiki": "Laurie Buckhout"
+   },
+   {
+    "name": "Tom Bailey",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "NC-2": {
+  "type": "house",
+  "state": "NC",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Deborah Ross (incumbent)",
+    "party": "D",
+    "wiki": "Deborah Ross (politician)"
+   },
+   {
+    "name": "Eugene Douglass",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Matthew Laszacs",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "NC-3": {
+  "type": "house",
+  "state": "NC",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Greg Murphy (incumbent)",
+    "party": "R",
+    "wiki": "Greg Murphy (politician)"
+   },
+   {
+    "name": "Raymond Smith Jr.",
+    "party": "D",
+    "wiki": "Raymond Smith Jr."
+   },
+   {
+    "name": "Daniel Cavender",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "NC-4": {
+  "type": "house",
+  "state": "NC",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Valerie Foushee (incumbent)",
+    "party": "D",
+    "wiki": "Valerie Foushee"
+   },
+   {
+    "name": "Max Ganorkar",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Guy Meilleur",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "NC-5": {
+  "type": "house",
+  "state": "NC",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Virginia Foxx (incumbent)",
+    "party": "R",
+    "wiki": "Virginia Foxx"
+   },
+   {
+    "name": "Chuck Hubbard",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Robert Luffman",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "NC-6": {
+  "type": "house",
+  "state": "NC",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Addison McDowell (incumbent)",
+    "party": "R",
+    "wiki": "Addison McDowell"
+   },
+   {
+    "name": "Cyril Jefferson",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "NC-7": {
+  "type": "house",
+  "state": "NC",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "David Rouzer (incumbent)",
+    "party": "R",
+    "wiki": "David Rouzer"
+   },
+   {
+    "name": "Kimberly Hardy",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Maad Abu-Ghazalah",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "NC-8": {
+  "type": "house",
+  "state": "NC",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Mark Harris (incumbent)",
+    "party": "R",
+    "wiki": "Mark Harris (North Carolina politician)"
+   },
+   {
+    "name": "Colby Watson",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Bo Whitehead",
+    "party": "G",
+    "wiki": null
+   }
+  ]
+ },
+ "NC-9": {
+  "type": "house",
+  "state": "NC",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Richard Hudson (incumbent)",
+    "party": "R",
+    "wiki": "Richard Hudson (North Carolina politician)"
+   },
+   {
+    "name": "Richard Ojeda",
+    "party": "D",
+    "wiki": "Richard Ojeda"
+   }
+  ]
+ },
+ "NC-10": {
+  "type": "house",
+  "state": "NC",
+  "district": 10,
+  "candidates": [
+   {
+    "name": "Pat Harrigan (incumbent)",
+    "party": "R",
+    "wiki": "Pat Harrigan"
+   },
+   {
+    "name": "Ashley Bell",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Steve Feldman",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "NC-11": {
+  "type": "house",
+  "state": "NC",
+  "district": 11,
+  "candidates": [
+   {
+    "name": "Jennifer Balkcom",
+    "party": "R",
+    "wiki": "Jennifer Balkcom"
+   },
+   {
+    "name": "Jamie Ager",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Travis Groo",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "NC-12": {
+  "type": "house",
+  "state": "NC",
+  "district": 12,
+  "candidates": [
+   {
+    "name": "Alma Adams (incumbent)",
+    "party": "D",
+    "wiki": "Alma Adams"
+   },
+   {
+    "name": "Jack Codiga",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "NC-13": {
+  "type": "house",
+  "state": "NC",
+  "district": 13,
+  "candidates": [
+   {
+    "name": "Brad Knott (incumbent)",
+    "party": "R",
+    "wiki": "Brad Knott"
+   },
+   {
+    "name": "Paul Barringer",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Steven Swinton",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "NC-14": {
+  "type": "house",
+  "state": "NC",
+  "district": 14,
+  "candidates": [
+   {
+    "name": "Tim Moore (incumbent)",
+    "party": "R",
+    "wiki": "Tim Moore (North Carolina politician)"
+   },
+   {
+    "name": "LaKesha Womack",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "NC-S": {
+  "type": "senate",
+  "state": "NC",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Michael Whatley",
+    "party": "R",
+    "wiki": "Michael Whatley"
+   },
+   {
+    "name": "Roy Cooper",
+    "party": "D",
+    "wiki": "Roy Cooper"
+   },
+   {
+    "name": "Shannon W. Bray",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Michael Dublin",
+    "party": "G",
+    "wiki": null
+   }
+  ]
+ },
+ "ND-AL": {
+  "type": "house",
+  "state": "ND",
+  "district": 0,
+  "candidates": [
+   {
+    "name": "Julie Fedorchak (incumbent)",
+    "party": "R",
+    "wiki": "Julie Fedorchak"
+   },
+   {
+    "name": "Trygve Hammer",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-1": {
+  "type": "house",
+  "state": "OH",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Greg Landsman (incumbent)",
+    "party": "D",
+    "wiki": "Greg Landsman"
+   },
+   {
+    "name": "Eric Conroy",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Nathan Weise",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-2": {
+  "type": "house",
+  "state": "OH",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "David Taylor (incumbent)",
+    "party": "R",
+    "wiki": "David Taylor (Ohio politician)"
+   },
+   {
+    "name": "Jennifer Mazzuckelli",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-3": {
+  "type": "house",
+  "state": "OH",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Joyce Beatty (incumbent)",
+    "party": "D",
+    "wiki": "Joyce Beatty"
+   },
+   {
+    "name": "Cleophus Dulaney",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-4": {
+  "type": "house",
+  "state": "OH",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Jim Jordan (incumbent)",
+    "party": "R",
+    "wiki": "Jim Jordan"
+   },
+   {
+    "name": "Joshua Kolasinski",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Tracey Tackett",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-5": {
+  "type": "house",
+  "state": "OH",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Bob Latta (incumbent)",
+    "party": "R",
+    "wiki": "Bob Latta"
+   },
+   {
+    "name": "Brian Shaver",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Michael Veloff",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-6": {
+  "type": "house",
+  "state": "OH",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Michael Rulli (incumbent)",
+    "party": "R",
+    "wiki": "Michael Rulli"
+   },
+   {
+    "name": "Elizabeth Kirtley",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-7": {
+  "type": "house",
+  "state": "OH",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Max Miller (incumbent)",
+    "party": "R",
+    "wiki": "Max Miller (politician)"
+   },
+   {
+    "name": "Brian Poindexter",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-8": {
+  "type": "house",
+  "state": "OH",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Warren Davidson (incumbent)",
+    "party": "R",
+    "wiki": "Warren Davidson"
+   },
+   {
+    "name": "Vanessa Enoch",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-9": {
+  "type": "house",
+  "state": "OH",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Marcy Kaptur (incumbent)",
+    "party": "D",
+    "wiki": "Marcy Kaptur"
+   },
+   {
+    "name": "Derek Merrin",
+    "party": "R",
+    "wiki": "Derek Merrin"
+   },
+   {
+    "name": "Matthew Althaus",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-10": {
+  "type": "house",
+  "state": "OH",
+  "district": 10,
+  "candidates": [
+   {
+    "name": "Mike Turner (incumbent)",
+    "party": "R",
+    "wiki": "Mike Turner"
+   },
+   {
+    "name": "Kristina Knickerbocker",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Thomas McMasters",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-11": {
+  "type": "house",
+  "state": "OH",
+  "district": 11,
+  "candidates": [
+   {
+    "name": "Shontel Brown (incumbent)",
+    "party": "D",
+    "wiki": "Shontel Brown"
+   },
+   {
+    "name": "Mike Krichner",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-12": {
+  "type": "house",
+  "state": "OH",
+  "district": 12,
+  "candidates": [
+   {
+    "name": "Troy Balderson (incumbent)",
+    "party": "R",
+    "wiki": "Troy Balderson"
+   },
+   {
+    "name": "Jerrad Christian",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-13": {
+  "type": "house",
+  "state": "OH",
+  "district": 13,
+  "candidates": [
+   {
+    "name": "Emilia Sykes (incumbent)",
+    "party": "D",
+    "wiki": "Emilia Sykes"
+   },
+   {
+    "name": "Carey Coleman",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Sandeep Dixit",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-14": {
+  "type": "house",
+  "state": "OH",
+  "district": 14,
+  "candidates": [
+   {
+    "name": "David Joyce (incumbent)",
+    "party": "R",
+    "wiki": "David Joyce (politician)"
+   },
+   {
+    "name": "Maria Jukic",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-15": {
+  "type": "house",
+  "state": "OH",
+  "district": 15,
+  "candidates": [
+   {
+    "name": "Mike Carey (incumbent)",
+    "party": "R",
+    "wiki": "Mike Carey (politician)"
+   },
+   {
+    "name": "Don Leonard",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Brennan Barrington",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-S": {
+  "type": "senate",
+  "state": "OH",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Jon Husted (incumbent)",
+    "party": "R",
+    "wiki": "Jon Husted"
+   },
+   {
+    "name": "Sherrod Brown",
+    "party": "D",
+    "wiki": "Sherrod Brown"
+   },
+   {
+    "name": "Bill Redpath",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Greg Levy",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "OH-S2": {
+  "type": "senate",
+  "state": "OH",
+  "special": true,
+  "candidates": [
+   {
+    "name": "Jon Husted (incumbent)",
+    "party": "R",
+    "wiki": "Jon Husted"
+   },
+   {
+    "name": "Sherrod Brown",
+    "party": "D",
+    "wiki": "Sherrod Brown"
+   },
+   {
+    "name": "Bill Redpath",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Greg Levy",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "OK-1": {
+  "type": "house",
+  "state": "OK",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Mark Tedford",
+    "party": "R",
+    "wiki": "Mark Tedford"
+   },
+   {
+    "name": "John Croisant",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "OK-2": {
+  "type": "house",
+  "state": "OK",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Josh Brecheen (incumbent)",
+    "party": "R",
+    "wiki": "Josh Brecheen"
+   },
+   {
+    "name": "Brandon Wade",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Ronnie Hopkins",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "OK-3": {
+  "type": "house",
+  "state": "OK",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Frank Lucas (incumbent)",
+    "party": "R",
+    "wiki": "Frank Lucas (Oklahoma politician)"
+   },
+   {
+    "name": "Suzie Byrd",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "OK-4": {
+  "type": "house",
+  "state": "OK",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Tom Cole (incumbent)",
+    "party": "R",
+    "wiki": "Tom Cole"
+   },
+   {
+    "name": "Mitchell Jacob",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Rocco Bonacci",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "OK-5": {
+  "type": "house",
+  "state": "OK",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Stephanie Bice (incumbent)",
+    "party": "R",
+    "wiki": "Stephanie Bice"
+   },
+   {
+    "name": "Jena Nelson",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Robert Henri",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Austin Nieves",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "OK-S": {
+  "type": "senate",
+  "state": "OK",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Kevin Hern",
+    "party": "R",
+    "wiki": "Kevin Hern"
+   },
+   {
+    "name": "N'Kiyla Jasmine Thomas",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Sevier White",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Ron Meinhardt",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Curtis Stinnett",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "OR-1": {
+  "type": "house",
+  "state": "OR",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Suzanne Bonamici (incumbent)",
+    "party": "D",
+    "wiki": "Suzanne Bonamici"
+   },
+   {
+    "name": "Barbara Kahl",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "OR-2": {
+  "type": "house",
+  "state": "OR",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Cliff Bentz (incumbent)",
+    "party": "R",
+    "wiki": "Cliff Bentz"
+   },
+   {
+    "name": "Chris Beck",
+    "party": "D",
+    "wiki": "Chris Beck (politician)"
+   }
+  ]
+ },
+ "OR-3": {
+  "type": "house",
+  "state": "OR",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Maxine Dexter (incumbent)",
+    "party": "D",
+    "wiki": "Maxine Dexter"
+   },
+   {
+    "name": "Loran Ayles",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "OR-4": {
+  "type": "house",
+  "state": "OR",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Val Hoyle (incumbent)",
+    "party": "D",
+    "wiki": "Val Hoyle"
+   },
+   {
+    "name": "Monique DeSpain",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Justin Filip",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "OR-5": {
+  "type": "house",
+  "state": "OR",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Janelle Bynum (incumbent)",
+    "party": "D",
+    "wiki": "Janelle Bynum"
+   },
+   {
+    "name": "Patti Adair",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Andrea Townsend",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "OR-6": {
+  "type": "house",
+  "state": "OR",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Andrea Salinas (incumbent)",
+    "party": "D",
+    "wiki": "Andrea Salinas"
+   },
+   {
+    "name": "David Russ",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "OR-S": {
+  "type": "senate",
+  "state": "OR",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Jeff Merkley (incumbent)",
+    "party": "D",
+    "wiki": "Jeff Merkley"
+   },
+   {
+    "name": "David Brock Smith",
+    "party": "R",
+    "wiki": "David Brock Smith"
+   },
+   {
+    "name": "Gary Dye",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Chris Henry",
+    "party": "Other",
+    "wiki": null
+   }
+  ]
+ },
+ "PA-1": {
+  "type": "house",
+  "state": "PA",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Brian Fitzpatrick (incumbent)",
+    "party": "R",
+    "wiki": "Brian Fitzpatrick (American politician)"
+   },
+   {
+    "name": "Bob Harvie",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "PA-2": {
+  "type": "house",
+  "state": "PA",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Brendan Boyle (incumbent)",
+    "party": "D",
+    "wiki": "Brendan Boyle"
+   },
+   {
+    "name": "Jessica Arriaga",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "PA-3": {
+  "type": "house",
+  "state": "PA",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Chris Rabb",
+    "party": "D",
+    "wiki": "Chris Rabb"
+   },
+   {
+    "name": "Dennis Mahoney",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "PA-4": {
+  "type": "house",
+  "state": "PA",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Madeleine Dean (incumbent)",
+    "party": "D",
+    "wiki": "Madeleine Dean"
+   },
+   {
+    "name": "Aurora Stuski",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "PA-5": {
+  "type": "house",
+  "state": "PA",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Mary Gay Scanlon (incumbent)",
+    "party": "D",
+    "wiki": "Mary Gay Scanlon"
+   },
+   {
+    "name": "Nicholas Manganaro",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "PA-6": {
+  "type": "house",
+  "state": "PA",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Chrissy Houlahan (incumbent)",
+    "party": "D",
+    "wiki": "Chrissy Houlahan"
+   },
+   {
+    "name": "Marty Young",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "PA-7": {
+  "type": "house",
+  "state": "PA",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Ryan Mackenzie (incumbent)",
+    "party": "R",
+    "wiki": "Ryan Mackenzie"
+   },
+   {
+    "name": "Bob Brooks",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "PA-8": {
+  "type": "house",
+  "state": "PA",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Rob Bresnahan (incumbent)",
+    "party": "R",
+    "wiki": "Rob Bresnahan"
+   },
+   {
+    "name": "Paige Cognetti",
+    "party": "D",
+    "wiki": "Paige Cognetti"
+   }
+  ]
+ },
+ "PA-9": {
+  "type": "house",
+  "state": "PA",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Dan Meuser (incumbent)",
+    "party": "R",
+    "wiki": "Dan Meuser"
+   },
+   {
+    "name": "Rachel Wallace",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "PA-10": {
+  "type": "house",
+  "state": "PA",
+  "district": 10,
+  "candidates": [
+   {
+    "name": "Scott Perry (incumbent)",
+    "party": "R",
+    "wiki": "Scott Perry"
+   },
+   {
+    "name": "Janelle Stelson",
+    "party": "D",
+    "wiki": "Janelle Stelson"
+   }
+  ]
+ },
+ "PA-11": {
+  "type": "house",
+  "state": "PA",
+  "district": 11,
+  "candidates": [
+   {
+    "name": "Lloyd Smucker (incumbent)",
+    "party": "R",
+    "wiki": "Lloyd Smucker"
+   },
+   {
+    "name": "Nancy Mannion",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "PA-12": {
+  "type": "house",
+  "state": "PA",
+  "district": 12,
+  "candidates": [
+   {
+    "name": "Summer Lee (incumbent)",
+    "party": "D",
+    "wiki": "Summer Lee"
+   },
+   {
+    "name": "James Hayes",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "PA-13": {
+  "type": "house",
+  "state": "PA",
+  "district": 13,
+  "candidates": [
+   {
+    "name": "John Joyce (incumbent)",
+    "party": "R",
+    "wiki": "John Joyce (American politician)"
+   },
+   {
+    "name": "Beth Farnham",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "PA-14": {
+  "type": "house",
+  "state": "PA",
+  "district": 14,
+  "candidates": [
+   {
+    "name": "Guy Reschenthaler (incumbent)",
+    "party": "R",
+    "wiki": "Guy Reschenthaler"
+   },
+   {
+    "name": "Alan Bradstock",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "PA-15": {
+  "type": "house",
+  "state": "PA",
+  "district": 15,
+  "candidates": [
+   {
+    "name": "Glenn Thompson (incumbent)",
+    "party": "R",
+    "wiki": "Glenn Thompson (politician)"
+   },
+   {
+    "name": "Ray Bilger",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "PA-16": {
+  "type": "house",
+  "state": "PA",
+  "district": 16,
+  "candidates": [
+   {
+    "name": "Mike Kelly (incumbent)",
+    "party": "R",
+    "wiki": "Mike Kelly (Pennsylvania politician)"
+   },
+   {
+    "name": "Justin Wagner",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "PA-17": {
+  "type": "house",
+  "state": "PA",
+  "district": 17,
+  "candidates": [
+   {
+    "name": "Chris Deluzio (incumbent)",
+    "party": "D",
+    "wiki": "Chris Deluzio"
+   },
+   {
+    "name": "Tony Guy",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "RI-1": {
+  "type": "house",
+  "state": "RI",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Gabe Amo",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Gabe Amo"
+   },
+   {
+    "name": "Kellie Keenan",
+    "party": "R",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Pedro DeSouza",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "RI-2": {
+  "type": "house",
+  "state": "RI",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Seth Magaziner",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Seth Magaziner"
+   },
+   {
+    "name": "Victor Mellor",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Foreign Agents Registration Act"
+   }
+  ]
+ },
+ "RI-S": {
+  "type": "senate",
+  "state": "RI",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Jack Reed (incumbent)",
+    "party": "D",
+    "wiki": "Jack Reed (Rhode Island politician)"
+   },
+   {
+    "name": "Raymond McKay",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Michael Bahry",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "SC-1": {
+  "type": "house",
+  "state": "SC",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Jenny Costa Honeycutt",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Nancy Lacore",
+    "party": "D",
+    "wiki": "Nancy Lacore"
+   },
+   {
+    "name": "Bill Reeside Jr.",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Margo Ellis",
+    "party": "Alliance",
+    "wiki": null
+   }
+  ]
+ },
+ "SC-2": {
+  "type": "house",
+  "state": "SC",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Joe Wilson (incumbent)",
+    "party": "R",
+    "wiki": "Joe Wilson"
+   },
+   {
+    "name": "Zyon Khalifa",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "SC-3": {
+  "type": "house",
+  "state": "SC",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Sheri Biggs (incumbent)",
+    "party": "R",
+    "wiki": "Sheri Biggs"
+   },
+   {
+    "name": "Eunice Lehmacher",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "SC-4": {
+  "type": "house",
+  "state": "SC",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "William Timmons (incumbent)",
+    "party": "R",
+    "wiki": "William Timmons"
+   },
+   {
+    "name": "Courtney McClain",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "SC-5": {
+  "type": "house",
+  "state": "SC",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Wes Climer",
+    "party": "R",
+    "wiki": "Wes Climer"
+   },
+   {
+    "name": "Mallory Dittmer",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "SC-6": {
+  "type": "house",
+  "state": "SC",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Jim Clyburn (incumbent)",
+    "party": "D",
+    "wiki": "Jim Clyburn"
+   },
+   {
+    "name": "John Peterson",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "SC-7": {
+  "type": "house",
+  "state": "SC",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Russell Fry (incumbent)",
+    "party": "R",
+    "wiki": "Russell Fry"
+   },
+   {
+    "name": "John Vincent",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "SC-S": {
+  "type": "senate",
+  "state": "SC",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Darline Graham (incumbent)",
+    "party": "R",
+    "wiki": "Darline Graham"
+   },
+   {
+    "name": "Annie Andrews",
+    "party": "D",
+    "wiki": "Annie Andrews (pediatrician)"
+   },
+   {
+    "name": "Kasie Whitener",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Mark Hackett",
+    "party": "C",
+    "wiki": null
+   }
+  ]
+ },
+ "SD-AL": {
+  "type": "house",
+  "state": "SD",
+  "district": 0,
+  "candidates": [
+   {
+    "name": "Marty Jackley",
+    "party": "R",
+    "wiki": "Marty Jackley"
+   },
+   {
+    "name": "Nicole Gronli",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "SD-S": {
+  "type": "senate",
+  "state": "SD",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Mike Rounds (incumbent)",
+    "party": "R",
+    "wiki": "Mike Rounds"
+   },
+   {
+    "name": "Brian Bengs",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "TN-1": {
+  "type": "house",
+  "state": "TN",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Diana Harshbarger",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Diana Harshbarger"
+   },
+   {
+    "name": "Kristi Burke",
+    "party": "D",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Joshua Ray Ashburn",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Richard G. Baker",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Billy Cody",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Chris Campbell",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Tyler Brice Mitchell McClain",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "TN-2": {
+  "type": "house",
+  "state": "TN",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Tim Burchett",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Tim Burchett"
+   },
+   {
+    "name": "Michaela Barnett",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Knoxville News Sentinel"
+   },
+   {
+    "name": "Bruce Fine",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Adam Heimerman",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "TN-3": {
+  "type": "house",
+  "state": "TN",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Chuck Fleischmann",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Chuck Fleischmann"
+   },
+   {
+    "name": "Anna Golladay",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Chattanooga Times Free Press"
+   },
+   {
+    "name": "Dean Arnold",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Jean Howard-Hill",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Rodney Joe King",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Donnie Lynn Ownby",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Edward John Roland",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "TN-4": {
+  "type": "house",
+  "state": "TN",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Scott DesJarlais",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Scott DesJarlais"
+   },
+   {
+    "name": "Victoria Broderick",
+    "party": "D",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Jacob Anders",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Clay Faircloth",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "TN-5": {
+  "type": "house",
+  "state": "TN",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Charlie Hatcher",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Charlie Hatcher"
+   },
+   {
+    "name": "Chaz Molder",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Columbia, Tennessee"
+   },
+   {
+    "name": "James A. Johnson",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Micheál",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "TN-6": {
+  "type": "house",
+  "state": "TN",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Mike Croley",
+    "party": "D",
+    "fromList": true,
+    "wiki": "States Newsroom"
+   },
+   {
+    "name": "Chris Monday",
+    "party": "I",
+    "fromList": true,
+    "wiki": "United States House of Representatives elections in Tennessee, 2018"
+   },
+   {
+    "name": "Angus Purdy",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "TN-7": {
+  "type": "house",
+  "state": "TN",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Matt Van Epps",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Matt Van Epps"
+   },
+   {
+    "name": "Darden Copeland",
+    "party": "D",
+    "fromList": true,
+    "wiki": "2025 Tennessee's 7th congressional district special election"
+   },
+   {
+    "name": "Andrew J. Koontz",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Lowell Reynolds",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "TN-8": {
+  "type": "house",
+  "state": "TN",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "David Kustoff",
+    "party": "R",
+    "fromList": true,
+    "wiki": "David Kustoff"
+   },
+   {
+    "name": "Heidi Kuhn",
+    "party": "D",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Adam D. Austill",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Wendell \"Wells\" Blankenship",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Antonio Futch",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Pamela Jeanine \"P.\" Moses",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Horace Taylor",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Henry J. Ward  II",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "TN-9": {
+  "type": "house",
+  "state": "TN",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Justin Pearson",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Justin J. Pearson"
+   },
+   {
+    "name": "Dennis Clark",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Michelle Davis Head",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "TN-S": {
+  "type": "senate",
+  "state": "TN",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Bill Hagerty (incumbent)",
+    "party": "R",
+    "wiki": "Bill Hagerty"
+   },
+   {
+    "name": "Marquita Bradshaw",
+    "party": "D",
+    "wiki": "Marquita Bradshaw"
+   },
+   {
+    "name": "Tharon Chandler",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Andrew Gerena",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Jeremy Hearn",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Robert Jones",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "James Macon III",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Yoshi Matthews",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "David Sutman Jr.",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Catherine Whitson",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-1": {
+  "type": "house",
+  "state": "TX",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Nathaniel Moran (incumbent)",
+    "party": "R",
+    "wiki": "Nathaniel Moran"
+   },
+   {
+    "name": "Yolanda Prince",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Sonia Canciola",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-2": {
+  "type": "house",
+  "state": "TX",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Steve Toth",
+    "party": "R",
+    "wiki": "Steve Toth"
+   },
+   {
+    "name": "Shaun Finnie",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-3": {
+  "type": "house",
+  "state": "TX",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Keith Self (incumbent)",
+    "party": "R",
+    "wiki": "Keith Self"
+   },
+   {
+    "name": "Evan Hunt",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-4": {
+  "type": "house",
+  "state": "TX",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Pat Fallon (incumbent)",
+    "party": "R",
+    "wiki": "Pat Fallon"
+   },
+   {
+    "name": "Jason Pearce",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-5": {
+  "type": "house",
+  "state": "TX",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Lance Gooden (incumbent)",
+    "party": "R",
+    "wiki": "Lance Gooden"
+   },
+   {
+    "name": "Chelsey Hockett",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-6": {
+  "type": "house",
+  "state": "TX",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Jake Ellzey (incumbent)",
+    "party": "R",
+    "wiki": "Jake Ellzey"
+   },
+   {
+    "name": "Danny Minton",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-7": {
+  "type": "house",
+  "state": "TX",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Lizzie Fletcher (incumbent)",
+    "party": "D",
+    "wiki": "Lizzie Fletcher"
+   },
+   {
+    "name": "Alexander Hale",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Espoir Ngabo",
+    "party": "G",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-8": {
+  "type": "house",
+  "state": "TX",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Jessica Steinmann",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Laura Jones",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-9": {
+  "type": "house",
+  "state": "TX",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Leticia Gutierrez",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Alex Mealer",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-10": {
+  "type": "house",
+  "state": "TX",
+  "district": 10,
+  "candidates": [
+   {
+    "name": "Chris Gober",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Caitlin Rourk",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-11": {
+  "type": "house",
+  "state": "TX",
+  "district": 11,
+  "candidates": [
+   {
+    "name": "August Pfluger (incumbent)",
+    "party": "R",
+    "wiki": "August Pfluger"
+   },
+   {
+    "name": "Claire Reynolds",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-12": {
+  "type": "house",
+  "state": "TX",
+  "district": 12,
+  "candidates": [
+   {
+    "name": "Craig Goldman (incumbent)",
+    "party": "R",
+    "wiki": "Craig Goldman"
+   },
+   {
+    "name": "Angela Rodriguez Prilliman",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-13": {
+  "type": "house",
+  "state": "TX",
+  "district": 13,
+  "candidates": [
+   {
+    "name": "Ronny Jackson (incumbent)",
+    "party": "R",
+    "wiki": "Ronny Jackson"
+   },
+   {
+    "name": "Mark Nair",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-14": {
+  "type": "house",
+  "state": "TX",
+  "district": 14,
+  "candidates": [
+   {
+    "name": "Randy Weber (incumbent)",
+    "party": "R",
+    "wiki": "Randy Weber"
+   },
+   {
+    "name": "Thurman Bartie",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-15": {
+  "type": "house",
+  "state": "TX",
+  "district": 15,
+  "candidates": [
+   {
+    "name": "Monica De La Cruz (incumbent)",
+    "party": "R",
+    "wiki": "Monica De La Cruz"
+   },
+   {
+    "name": "Bobby Pulido",
+    "party": "D",
+    "wiki": "Bobby Pulido"
+   }
+  ]
+ },
+ "TX-16": {
+  "type": "house",
+  "state": "TX",
+  "district": 16,
+  "candidates": [
+   {
+    "name": "Veronica Escobar (incumbent)",
+    "party": "D",
+    "wiki": "Veronica Escobar"
+   },
+   {
+    "name": "Adam Bauman",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-17": {
+  "type": "house",
+  "state": "TX",
+  "district": 17,
+  "candidates": [
+   {
+    "name": "Pete Sessions (incumbent)",
+    "party": "R",
+    "wiki": "Pete Sessions"
+   },
+   {
+    "name": "Casey Shepard",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-18": {
+  "type": "house",
+  "state": "TX",
+  "district": 18,
+  "candidates": [
+   {
+    "name": "Christian Menefee (incumbent)",
+    "party": "D",
+    "wiki": "Christian Menefee"
+   },
+   {
+    "name": "Ronald Whitfield",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-19": {
+  "type": "house",
+  "state": "TX",
+  "district": 19,
+  "candidates": [
+   {
+    "name": "Tom Sell",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Kyle Rable",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-20": {
+  "type": "house",
+  "state": "TX",
+  "district": 20,
+  "candidates": [
+   {
+    "name": "Joaquin Castro (incumbent)",
+    "party": "D",
+    "wiki": "Joaquin Castro"
+   },
+   {
+    "name": "Edgardo Baez",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-21": {
+  "type": "house",
+  "state": "TX",
+  "district": 21,
+  "candidates": [
+   {
+    "name": "Mark Teixeira",
+    "party": "R",
+    "wiki": "Mark Teixeira"
+   },
+   {
+    "name": "Kristin Hook",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-22": {
+  "type": "house",
+  "state": "TX",
+  "district": 22,
+  "candidates": [
+   {
+    "name": "Trever Nehls",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Marquette Greene-Scott",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-23": {
+  "type": "house",
+  "state": "TX",
+  "district": 23,
+  "candidates": [
+   {
+    "name": "Brandon Herrera",
+    "party": "R",
+    "wiki": "Brandon Herrera"
+   },
+   {
+    "name": "Katy Padilla Stout",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-24": {
+  "type": "house",
+  "state": "TX",
+  "district": 24,
+  "candidates": [
+   {
+    "name": "Beth Van Duyne (incumbent)",
+    "party": "R",
+    "wiki": "Beth Van Duyne"
+   },
+   {
+    "name": "Kevin Burge",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-25": {
+  "type": "house",
+  "state": "TX",
+  "district": 25,
+  "candidates": [
+   {
+    "name": "Roger Williams (incumbent)",
+    "party": "R",
+    "wiki": "Roger Williams"
+   },
+   {
+    "name": "Dione Sims",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-26": {
+  "type": "house",
+  "state": "TX",
+  "district": 26,
+  "candidates": [
+   {
+    "name": "Brandon Gill (incumbent)",
+    "party": "R",
+    "wiki": "Brandon Gill"
+   },
+   {
+    "name": "Steven Shook",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-27": {
+  "type": "house",
+  "state": "TX",
+  "district": 27,
+  "candidates": [
+   {
+    "name": "Michael Cloud (incumbent)",
+    "party": "R",
+    "wiki": "Michael Cloud"
+   },
+   {
+    "name": "Tanya Lloyd",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Dan McQueen",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-28": {
+  "type": "house",
+  "state": "TX",
+  "district": 28,
+  "candidates": [
+   {
+    "name": "Henry Cuellar (incumbent)",
+    "party": "D",
+    "wiki": "Henry Cuellar"
+   },
+   {
+    "name": "Tano Tijerina",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-29": {
+  "type": "house",
+  "state": "TX",
+  "district": 29,
+  "candidates": [
+   {
+    "name": "Sylvia Garcia (incumbent)",
+    "party": "D",
+    "wiki": "Sylvia Garcia"
+   },
+   {
+    "name": "Martha Fierro",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-30": {
+  "type": "house",
+  "state": "TX",
+  "district": 30,
+  "candidates": [
+   {
+    "name": "Frederick Haynes III",
+    "party": "D",
+    "wiki": "Frederick Haynes III"
+   },
+   {
+    "name": "Everett Jackson",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-31": {
+  "type": "house",
+  "state": "TX",
+  "district": 31,
+  "candidates": [
+   {
+    "name": "John Carter (incumbent)",
+    "party": "R",
+    "wiki": "John Carter (Texas politician)"
+   },
+   {
+    "name": "Justin Early",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-32": {
+  "type": "house",
+  "state": "TX",
+  "district": 32,
+  "candidates": [
+   {
+    "name": "Dan Barrios",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Jace Yarbrough",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-33": {
+  "type": "house",
+  "state": "TX",
+  "district": 33,
+  "candidates": [
+   {
+    "name": "Colin Allred",
+    "party": "D",
+    "wiki": "Colin Allred"
+   },
+   {
+    "name": "Patrick Gillespie",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-34": {
+  "type": "house",
+  "state": "TX",
+  "district": 34,
+  "candidates": [
+   {
+    "name": "Vicente Gonzalez (incumbent)",
+    "party": "D",
+    "wiki": "Vicente Gonzalez (American politician)"
+   },
+   {
+    "name": "Eric Flores",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-35": {
+  "type": "house",
+  "state": "TX",
+  "district": 35,
+  "candidates": [
+   {
+    "name": "Johnny Garcia",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Carlos De La Cruz",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-36": {
+  "type": "house",
+  "state": "TX",
+  "district": 36,
+  "candidates": [
+   {
+    "name": "Brian Babin (incumbent)",
+    "party": "R",
+    "wiki": "Brian Babin"
+   },
+   {
+    "name": "Rhonda Hart",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-37": {
+  "type": "house",
+  "state": "TX",
+  "district": 37,
+  "candidates": [
+   {
+    "name": "Greg Casar (incumbent)",
+    "party": "D",
+    "wiki": "Greg Casar"
+   },
+   {
+    "name": "Lauren Peña",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-38": {
+  "type": "house",
+  "state": "TX",
+  "district": 38,
+  "candidates": [
+   {
+    "name": "Jon Bonck",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Melissa McDonough",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "TX-S": {
+  "type": "senate",
+  "state": "TX",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Ken Paxton",
+    "party": "R",
+    "wiki": "Ken Paxton"
+   },
+   {
+    "name": "James Talarico",
+    "party": "D",
+    "wiki": "James Talarico"
+   },
+   {
+    "name": "Ted Brown",
+    "party": "L",
+    "wiki": null
+   }
+  ]
+ },
+ "UT-1": {
+  "type": "house",
+  "state": "UT",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Riley Owen",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Ben McAdams",
+    "party": "D",
+    "wiki": "Ben McAdams"
+   }
+  ]
+ },
+ "UT-2": {
+  "type": "house",
+  "state": "UT",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Blake Moore (incumbent)",
+    "party": "R",
+    "wiki": "Blake Moore"
+   },
+   {
+    "name": "Peter Crosby",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "UT-3": {
+  "type": "house",
+  "state": "UT",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Celeste Maloy (incumbent)",
+    "party": "R",
+    "wiki": "Celeste Maloy"
+   },
+   {
+    "name": "Kent Udell",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "UT-4": {
+  "type": "house",
+  "state": "UT",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Mike Kennedy (incumbent)",
+    "party": "R",
+    "wiki": "Mike Kennedy"
+   },
+   {
+    "name": "Jonny Larsen",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "VT-AL": {
+  "type": "house",
+  "state": "VT",
+  "district": 0,
+  "candidates": [
+   {
+    "name": "Becca Balint (incumbent)",
+    "party": "D",
+    "wiki": "Becca Balint"
+   },
+   {
+    "name": "Gerald Malloy",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "VA-1": {
+  "type": "house",
+  "state": "VA",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Rob Wittman (incumbent)",
+    "party": "R",
+    "wiki": "Rob Wittman"
+   },
+   {
+    "name": "Shannon Taylor",
+    "party": "D",
+    "wiki": "Shannon Taylor (attorney)"
+   }
+  ]
+ },
+ "VA-2": {
+  "type": "house",
+  "state": "VA",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Jen Kiggans (incumbent)",
+    "party": "R",
+    "wiki": "Jen Kiggans"
+   },
+   {
+    "name": "Elaine Luria",
+    "party": "D",
+    "wiki": "Elaine Luria"
+   },
+   {
+    "name": "Matt Baker",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Bishop Staten",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "VA-3": {
+  "type": "house",
+  "state": "VA",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Bobby Scott (incumbent)",
+    "party": "D",
+    "wiki": "Bobby Scott (politician)"
+   },
+   {
+    "name": "Edwin Rivera",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Makiba Gaines",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Steve Woll",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "VA-4": {
+  "type": "house",
+  "state": "VA",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Jennifer McClellan (incumbent)",
+    "party": "D",
+    "wiki": "Jennifer McClellan"
+   },
+   {
+    "name": "Robert Murray",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Joan Andrews Bell",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "VA-5": {
+  "type": "house",
+  "state": "VA",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "John McGuire (incumbent)",
+    "party": "R",
+    "wiki": "John McGuire (Virginia politician)"
+   },
+   {
+    "name": "Tom Perriello",
+    "party": "D",
+    "wiki": "Tom Perriello"
+   },
+   {
+    "name": "Cooke Harvey",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "VA-6": {
+  "type": "house",
+  "state": "VA",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Ben Cline (incumbent)",
+    "party": "R",
+    "wiki": "Ben Cline"
+   },
+   {
+    "name": "Beth Macy",
+    "party": "D",
+    "wiki": "Beth Macy"
+   }
+  ]
+ },
+ "VA-7": {
+  "type": "house",
+  "state": "VA",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Eugene Vindman (incumbent)",
+    "party": "D",
+    "wiki": "Eugene Vindman"
+   },
+   {
+    "name": "Doug Ollivant",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Alaha Ahrar",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Joshua Ertle",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Taner Lopez",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Randall Terry",
+    "party": "I",
+    "wiki": "Randall Terry"
+   }
+  ]
+ },
+ "VA-8": {
+  "type": "house",
+  "state": "VA",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Don Beyer (incumbent)",
+    "party": "D",
+    "wiki": "Don Beyer"
+   },
+   {
+    "name": "Tony Sabio",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Shelly Arnoldi",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Tim Sharman",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "VA-9": {
+  "type": "house",
+  "state": "VA",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Morgan Griffith (incumbent)",
+    "party": "R",
+    "wiki": "Morgan Griffith"
+   },
+   {
+    "name": "Joy Powers",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "VA-10": {
+  "type": "house",
+  "state": "VA",
+  "district": 10,
+  "candidates": [
+   {
+    "name": "Suhas Subramanyam (incumbent)",
+    "party": "D",
+    "wiki": "Suhas Subramanyam"
+   },
+   {
+    "name": "Dave Beckwith",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Ahsen Malik",
+    "party": "I",
+    "wiki": null
+   }
+  ]
+ },
+ "VA-11": {
+  "type": "house",
+  "state": "VA",
+  "district": 11,
+  "candidates": [
+   {
+    "name": "James Walkinshaw (incumbent)",
+    "party": "D",
+    "wiki": "James Walkinshaw"
+   },
+   {
+    "name": "Arthur Purves",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Dianne Blais",
+    "party": "G",
+    "wiki": null
+   }
+  ]
+ },
+ "VA-S": {
+  "type": "senate",
+  "state": "VA",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Mark Warner (incumbent)",
+    "party": "D",
+    "wiki": "Mark Warner"
+   },
+   {
+    "name": "Bert Mizusawa",
+    "party": "R",
+    "wiki": "Bert Mizusawa"
+   }
+  ]
+ },
+ "WA-1": {
+  "type": "house",
+  "state": "WA",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Suzan DelBene (incumbent)",
+    "party": "D",
+    "wiki": "Suzan DelBene"
+   },
+   {
+    "name": "Mary Silva",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "WA-2": {
+  "type": "house",
+  "state": "WA",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Rick Larsen (incumbent)",
+    "party": "D",
+    "wiki": "Rick Larsen"
+   },
+   {
+    "name": "Edwin H. Feller",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "WA-3": {
+  "type": "house",
+  "state": "WA",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "John Braun",
+    "party": "R",
+    "wiki": "John Braun"
+   }
+  ]
+ },
+ "WA-4": {
+  "type": "house",
+  "state": "WA",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Amanda McKinney",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "John Duresky",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "WA-5": {
+  "type": "house",
+  "state": "WA",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Michael Baumgartner (incumbent)",
+    "party": "R",
+    "wiki": "Michael Baumgartner"
+   },
+   {
+    "name": "Carmela Conroy",
+    "party": "D",
+    "wiki": "Carmela Conroy"
+   }
+  ]
+ },
+ "WA-6": {
+  "type": "house",
+  "state": "WA",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Emily Randall (incumbent)",
+    "party": "D",
+    "wiki": "Emily Randall"
+   },
+   {
+    "name": "Teresa Fox",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "WA-7": {
+  "type": "house",
+  "state": "WA",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Pramila Jayapal (incumbent)",
+    "party": "D",
+    "wiki": "Pramila Jayapal"
+   },
+   {
+    "name": "Nirav Sheth",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "WA-8": {
+  "type": "house",
+  "state": "WA",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Kim Schrier (incumbent)",
+    "party": "D",
+    "wiki": "Kim Schrier"
+   },
+   {
+    "name": "Spencer Meline",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "WA-9": {
+  "type": "house",
+  "state": "WA",
+  "district": 9,
+  "candidates": [
+   {
+    "name": "Adam Smith (incumbent)",
+    "party": "D",
+    "wiki": "Adam Smith (Washington politician)"
+   },
+   {
+    "name": "Doug Basler",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "WA-10": {
+  "type": "house",
+  "state": "WA",
+  "district": 10,
+  "candidates": [
+   {
+    "name": "Marilyn Strickland (incumbent)",
+    "party": "D",
+    "wiki": "Marilyn Strickland"
+   },
+   {
+    "name": "Chris D. Chung",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "WV-1": {
+  "type": "house",
+  "state": "WV",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Carol Miller (incumbent)",
+    "party": "R",
+    "wiki": "Carol Miller (politician)"
+   },
+   {
+    "name": "Vince George",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Belinda Fox-Spencer",
+    "party": "C",
+    "wiki": null
+   }
+  ]
+ },
+ "WV-2": {
+  "type": "house",
+  "state": "WV",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Riley Moore (incumbent)",
+    "party": "R",
+    "wiki": "Riley Moore"
+   },
+   {
+    "name": "Ace Parsi",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "WV-S": {
+  "type": "senate",
+  "state": "WV",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Shelley Moore Capito (incumbent)",
+    "party": "R",
+    "wiki": "Shelley Moore Capito"
+   },
+   {
+    "name": "Rachel Fetty Anderson",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "S. Marshall Wilson",
+    "party": "C",
+    "wiki": "S. Marshall Wilson"
+   }
+  ]
+ },
+ "WI-1": {
+  "type": "house",
+  "state": "WI",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Bryan Steil",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Bryan Steil"
+   },
+   {
+    "name": "Mitchell Berman",
+    "party": "D",
+    "fromList": true,
+    "wiki": "WisPolitics"
+   }
+  ]
+ },
+ "WI-2": {
+  "type": "house",
+  "state": "WI",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Mark Pocan",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Mark Pocan"
+   }
+  ]
+ },
+ "WI-3": {
+  "type": "house",
+  "state": "WI",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Derrick Van Orden",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Derrick Van Orden"
+   },
+   {
+    "name": "Alexander Kent",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Rustin Provance",
+    "party": "I",
+    "fromList": true,
+    "wiki": "2024 United States House of Representatives elections in Wisconsin"
+   }
+  ]
+ },
+ "WI-4": {
+  "type": "house",
+  "state": "WI",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Gwen Moore",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Gwen Moore"
+   },
+   {
+    "name": "Tim Rogers",
+    "party": "R",
+    "fromList": true,
+    "wiki": null
+   },
+   {
+    "name": "Arthur Burks",
+    "party": "I",
+    "fromList": true,
+    "wiki": null
+   }
+  ]
+ },
+ "WI-5": {
+  "type": "house",
+  "state": "WI",
+  "district": 5,
+  "candidates": [
+   {
+    "name": "Andrew Beck",
+    "party": "D",
+    "fromList": true,
+    "wiki": "The Cap Times"
+   }
+  ]
+ },
+ "WI-6": {
+  "type": "house",
+  "state": "WI",
+  "district": 6,
+  "candidates": [
+   {
+    "name": "Glenn Grothman",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Glenn Grothman"
+   },
+   {
+    "name": "Brad Smith",
+    "party": "D",
+    "fromList": true,
+    "wiki": "KFIZ (AM)"
+   },
+   {
+    "name": "Elizabeth Fitzgibbon",
+    "party": "I",
+    "fromList": true,
+    "wiki": "WisPolitics"
+   },
+   {
+    "name": "Michael Thurow",
+    "party": "I",
+    "fromList": true,
+    "wiki": "WisPolitics"
+   }
+  ]
+ },
+ "WI-7": {
+  "type": "house",
+  "state": "WI",
+  "district": 7,
+  "candidates": [
+   {
+    "name": "Michael Alfonso",
+    "party": "R",
+    "fromList": true,
+    "wiki": "United States Secretary of Transportation"
+   }
+  ]
+ },
+ "WI-8": {
+  "type": "house",
+  "state": "WI",
+  "district": 8,
+  "candidates": [
+   {
+    "name": "Tony Wied",
+    "party": "R",
+    "fromList": true,
+    "wiki": "Tony Wied"
+   },
+   {
+    "name": "Rick Crosson",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Green Bay, Wisconsin"
+   }
+  ]
+ },
+ "WY-AL": {
+  "type": "house",
+  "state": "WY",
+  "district": 0,
+  "candidates": [
+   {
+    "name": "Lisa F. Kinney",
+    "party": "D",
+    "fromList": true,
+    "wiki": "Lisa F. Kinney"
+   },
+   {
+    "name": "Jeffrey Haggit",
+    "party": "I",
+    "fromList": true,
+    "wiki": "Constitution Party (United States)"
+   },
+   {
+    "name": "Shawn Johnson",
+    "party": "I",
+    "fromList": true,
+    "wiki": "Libertarian Party of Wyoming"
+   }
+  ]
+ },
+ "WY-S": {
+  "type": "senate",
+  "state": "WY",
+  "special": false,
+  "candidates": [
+   {
+    "name": "Harriet Hageman",
+    "party": "R",
+    "wiki": "Harriet Hageman"
+   },
+   {
+    "name": "James Byrd",
+    "party": "D",
+    "wiki": "James W. Byrd"
+   }
+  ]
+ }
+}

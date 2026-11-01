@@ -1,0 +1,808 @@
+{
+ "AL-2": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "likely",
+   "likely",
+   "lean"
+  ]
+ },
+ "AK-AL": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "likely",
+   "likely",
+   "likely",
+   "lean"
+  ]
+ },
+ "AK-S": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "lean",
+   "lean",
+   "lean",
+   "lean"
+  ]
+ },
+ "AZ-1": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "likely"
+  ]
+ },
+ "AZ-2": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "likely",
+   "likely",
+   "likely",
+   "lean"
+  ]
+ },
+ "AZ-6": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "lean"
+  ]
+ },
+ "AR-S": {
+  "level": "likely",
+  "ratings": [
+   "solid",
+   "safe",
+   "likely",
+   "safe",
+   "solid",
+   "solid",
+   "solid",
+   "safe",
+   "solid",
+   "safe"
+  ]
+ },
+ "CA-6": {
+  "level": "lean",
+  "ratings": [
+   "safe",
+   "lean",
+   "solid",
+   "likely",
+   "safe"
+  ]
+ },
+ "CA-13": {
+  "level": "tilt",
+  "ratings": [
+   "likely",
+   "tilt",
+   "lean",
+   "lean",
+   "likely"
+  ]
+ },
+ "CA-22": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "lean",
+   "lean"
+  ]
+ },
+ "CA-48": {
+  "level": "tilt",
+  "ratings": [
+   "likely",
+   "tilt",
+   "lean",
+   "lean",
+   "likely"
+  ]
+ },
+ "CO-3": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "likely",
+   "likely",
+   "likely",
+   "lean"
+  ]
+ },
+ "CO-5": {
+  "level": "tilt",
+  "ratings": [
+   "likely",
+   "lean",
+   "tilt",
+   "lean",
+   "likely"
+  ]
+ },
+ "FL-7": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "likely",
+   "likely",
+   "likely",
+   "likely"
+  ]
+ },
+ "FL-9": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "likely",
+   "likely",
+   "likely"
+  ]
+ },
+ "FL-11": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "solid",
+   "solid",
+   "safe",
+   "lean"
+  ]
+ },
+ "FL-13": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "lean",
+   "lean",
+   "likely",
+   "likely"
+  ]
+ },
+ "FL-14": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "safe"
+  ]
+ },
+ "FL-16": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "solid",
+   "likely",
+   "likely",
+   "lean"
+  ]
+ },
+ "FL-22": {
+  "level": "tilt",
+  "ratings": [
+   "tilt"
+  ]
+ },
+ "FL-25": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "lean"
+  ]
+ },
+ "FL-27": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "lean",
+   "lean",
+   "lean",
+   "safe"
+  ]
+ },
+ "FL-S": {
+  "level": "lean",
+  "ratings": [
+   "solid",
+   "likely",
+   "likely",
+   "likely",
+   "solid",
+   "solid",
+   "likely",
+   "lean",
+   "safe",
+   "likely",
+   "likely"
+  ]
+ },
+ "FL-S2": {
+  "level": "lean",
+  "ratings": [
+   "solid",
+   "likely",
+   "likely",
+   "likely",
+   "solid",
+   "solid",
+   "likely",
+   "lean",
+   "safe",
+   "likely",
+   "likely"
+  ]
+ },
+ "GA-S": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "likely",
+   "likely",
+   "likely",
+   "safe",
+   "likely",
+   "lean",
+   "lean",
+   "lean",
+   "likely",
+   "safe",
+   "safe"
+  ]
+ },
+ "ID-S": {
+  "level": "likely",
+  "ratings": [
+   "solid",
+   "safe",
+   "likely",
+   "safe",
+   "solid",
+   "solid",
+   "solid",
+   "safe",
+   "solid",
+   "safe"
+  ]
+ },
+ "IA-1": {
+  "level": "tilt",
+  "ratings": [
+   "lean",
+   "likely",
+   "tilt",
+   "lean",
+   "lean"
+  ]
+ },
+ "IA-2": {
+  "level": "tilt",
+  "ratings": [
+   "tilt"
+  ]
+ },
+ "IA-3": {
+  "level": "tilt",
+  "ratings": [
+   "lean",
+   "lean",
+   "tilt",
+   "likely"
+  ]
+ },
+ "IA-S": {
+  "level": "tilt",
+  "ratings": [
+   "lean",
+   "tilt",
+   "lean"
+  ]
+ },
+ "KS-S": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "lean",
+   "lean",
+   "likely"
+  ]
+ },
+ "KY-6": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "lean",
+   "lean",
+   "lean"
+  ]
+ },
+ "LA-S": {
+  "level": "likely",
+  "ratings": [
+   "solid",
+   "likely",
+   "likely",
+   "likely",
+   "solid",
+   "solid",
+   "solid",
+   "safe",
+   "solid",
+   "safe"
+  ]
+ },
+ "ME-2": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "likely",
+   "lean"
+  ]
+ },
+ "ME-S": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "lean",
+   "lean"
+  ]
+ },
+ "MI-4": {
+  "level": "tilt",
+  "ratings": [
+   "lean",
+   "tilt",
+   "lean"
+  ]
+ },
+ "MI-7": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean"
+  ]
+ },
+ "MI-10": {
+  "level": "tilt",
+  "ratings": [
+   "tilt",
+   "likely",
+   "lean"
+  ]
+ },
+ "MI-S": {
+  "level": "tilt",
+  "ratings": [
+   "lean",
+   "lean",
+   "lean",
+   "tilt",
+   "lean",
+   "likely",
+   "lean"
+  ]
+ },
+ "MN-S": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "likely",
+   "lean",
+   "likely",
+   "likely",
+   "lean",
+   "lean",
+   "lean",
+   "likely",
+   "likely"
+  ]
+ },
+ "MS-S": {
+  "level": "likely",
+  "ratings": [
+   "solid",
+   "likely",
+   "likely",
+   "safe",
+   "solid",
+   "solid",
+   "solid",
+   "likely",
+   "solid",
+   "safe"
+  ]
+ },
+ "MO-2": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "likely",
+   "solid",
+   "lean"
+  ]
+ },
+ "MT-1": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "lean",
+   "lean"
+  ]
+ },
+ "MT-S": {
+  "level": "likely",
+  "ratings": [
+   "solid",
+   "likely",
+   "safe",
+   "likely",
+   "solid",
+   "solid",
+   "likely",
+   "safe",
+   "solid",
+   "safe"
+  ]
+ },
+ "NE-2": {
+  "level": "tilt",
+  "ratings": [
+   "likely",
+   "likely",
+   "tilt",
+   "likely"
+  ]
+ },
+ "NE-S": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "likely",
+   "lean",
+   "likely",
+   "likely",
+   "lean",
+   "likely",
+   "lean",
+   "lean",
+   "lean",
+   "lean"
+  ]
+ },
+ "NV-1": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "likely",
+   "lean",
+   "likely"
+  ]
+ },
+ "NV-3": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "likely",
+   "lean",
+   "lean"
+  ]
+ },
+ "NH-1": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "likely",
+   "lean",
+   "lean"
+  ]
+ },
+ "NH-S": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "likely",
+   "likely",
+   "likely",
+   "lean",
+   "lean",
+   "lean",
+   "likely",
+   "likely",
+   "likely"
+  ]
+ },
+ "NJ-7": {
+  "level": "tilt",
+  "ratings": [
+   "lean",
+   "likely",
+   "tilt",
+   "lean",
+   "likely"
+  ]
+ },
+ "NM-2": {
+  "level": "tilt",
+  "ratings": [
+   "likely",
+   "lean",
+   "tilt",
+   "lean"
+  ]
+ },
+ "NM-S": {
+  "level": "likely",
+  "ratings": [
+   "solid",
+   "safe",
+   "safe",
+   "safe",
+   "solid",
+   "solid",
+   "likely",
+   "safe",
+   "solid",
+   "safe"
+  ]
+ },
+ "NY-1": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "solid",
+   "solid",
+   "likely"
+  ]
+ },
+ "NY-3": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "likely",
+   "lean",
+   "lean"
+  ]
+ },
+ "NY-4": {
+  "level": "tilt",
+  "ratings": [
+   "likely",
+   "likely",
+   "tilt",
+   "lean"
+  ]
+ },
+ "NC-1": {
+  "level": "tilt",
+  "ratings": [
+   "tilt"
+  ]
+ },
+ "NC-11": {
+  "level": "lean",
+  "ratings": [
+   "lean"
+  ]
+ },
+ "NC-S": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "likely",
+   "likely",
+   "likely",
+   "likely",
+   "likely",
+   "lean",
+   "lean",
+   "likely",
+   "lean",
+   "solid",
+   "safe"
+  ]
+ },
+ "OH-1": {
+  "level": "tilt",
+  "ratings": [
+   "likely",
+   "lean",
+   "tilt",
+   "lean"
+  ]
+ },
+ "OH-7": {
+  "level": "tossup",
+  "ratings": [
+   "tossup"
+  ]
+ },
+ "OH-9": {
+  "level": "tilt",
+  "ratings": [
+   "lean",
+   "tilt"
+  ]
+ },
+ "OH-15": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "likely",
+   "likely",
+   "likely",
+   "lean"
+  ]
+ },
+ "OH-S": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "lean",
+   "lean"
+  ]
+ },
+ "OH-S2": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "lean",
+   "lean"
+  ]
+ },
+ "PA-1": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "lean",
+   "lean"
+  ]
+ },
+ "PA-7": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "lean"
+  ]
+ },
+ "PA-10": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean"
+  ]
+ },
+ "SC-1": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "likely",
+   "likely",
+   "likely"
+  ]
+ },
+ "SC-S": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "lean",
+   "lean",
+   "lean",
+   "likely",
+   "likely",
+   "likely",
+   "lean",
+   "likely",
+   "likely",
+   "likely"
+  ]
+ },
+ "SD-S": {
+  "level": "likely",
+  "ratings": [
+   "solid",
+   "safe",
+   "likely",
+   "safe",
+   "solid",
+   "solid",
+   "solid",
+   "safe",
+   "solid",
+   "likely"
+  ]
+ },
+ "TX-15": {
+  "level": "tilt",
+  "ratings": [
+   "tilt"
+  ]
+ },
+ "TX-28": {
+  "level": "tilt",
+  "ratings": [
+   "likely",
+   "lean",
+   "tilt",
+   "lean"
+  ]
+ },
+ "TX-34": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean"
+  ]
+ },
+ "TX-35": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "lean"
+  ]
+ },
+ "TX-S": {
+  "level": "tilt",
+  "ratings": [
+   "tilt",
+   "lean",
+   "lean"
+  ]
+ },
+ "VA-1": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean"
+  ]
+ },
+ "VA-2": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "lean"
+  ]
+ },
+ "VA-5": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "likely",
+   "likely",
+   "lean"
+  ]
+ },
+ "WA-3": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "lean",
+   "lean",
+   "likely"
+  ]
+ },
+ "WI-1": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "likely",
+   "lean"
+  ]
+ }
+}

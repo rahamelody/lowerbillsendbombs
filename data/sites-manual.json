@@ -1,0 +1,22 @@
+{
+  "_readme": "Hand-verified campaign sites. Keys are FEC candidate ids (or 'Name|ST' when none). A value of null removes a wrong site that auto-discovery found. These override data/sites.json.",
+  "S6TX00479": "https://jamestalarico.com/",
+  "Ken Paxton|TX": "https://www.kenpaxton.com/",
+  "S6IL00458": "https://www.julianastratton.com/",
+  "S6MA00304": null,
+  "S6IL00615": "https://dontracyforil.com/",
+  "S6MN00556": "https://micheletafoya.com/",
+  "_note_deaton": "Deaton's homepage embeds an interview transcript with unlabeled speakers, so we can't attribute sentences from it.",
+  "H6NY14251": "https://votefordiamant.com/",
+  "S6MT00261": "https://www.kyleaustinmt.com/",
+  "S6OH00395": "https://www.greg4senate.com/",
+  "S6MN00572": "https://whiting4senate.us/",
+  "S6NC00415": "https://michaelwhatley.com/",
+  "S4NE00207": "https://www.osbornforsenate.com/",
+  "S6MT00295": "https://almeforsenate.com/",
+  "S6SC04239": "https://drannieandrews.com/",
+  "S6KS00312": "https://hamiltonforkansas.com/",
+  "S6AR00199": "https://www.hallieshoffner.com/",
+  "S6MT00253": "https://alaniformt.com/",
+  "H6NY10176": "https://www.bradlanderforcongress.com/"
+}
