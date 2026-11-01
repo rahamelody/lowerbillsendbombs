@@ -1,6 +1,9 @@
 // Crawls candidates' own websites for sentences about Iran / Israel-Palestine and stores them VERBATIM with the page URL.
 // No model is involved, so nothing can be paraphrased or invented: if a site doesn't say it, we don't show it.
 // Polite: honors robots.txt "Disallow: /", identifies itself, small per-site page budget, delay between requests.
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
 import { readJSON, writeJSON, isBadSiteHost, DATA } from './lib.mjs';
 import { classify } from '../lib/stance.mjs';
 
@@ -32,7 +35,18 @@ function embeddedHtml(html) {
   }
   return out.length ? '\n<div>' + out.join('</div>\n<div>') + '</div>' : '';
 }
-async function get(url, ms = 12000) {
+// RENDER=1: read pages the way a browser shows them (headless Chrome), for sites that build their copy with JavaScript.
+// Only used for candidates whose plain crawl found little (see THIN below); robots.txt is still checked with a plain request.
+const RENDER = process.env.RENDER === '1';
+const CHROME = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
+async function rendered(url) {
+  const { execFile } = await import('node:child_process');
+  const profile = fs.mkdtempSync(path.join(os.tmpdir(), 'crawl-chrome-'));
+  return new Promise(resolve => execFile(CHROME, ['--headless=new', '--disable-gpu', '--no-sandbox', '--hide-scrollbars', `--user-data-dir=${profile}`, '--virtual-time-budget=12000', '--dump-dom', url],
+    { timeout: 40000, maxBuffer: 20_000_000 }, (err, out) => { fs.rmSync(profile, { recursive: true, force: true }); resolve(!err && out && out.length > 500 ? { url, html: out.slice(0, 1_500_000) } : null); }));
+}
+async function get(url, ms = 12000, plain = false) {
+  if (RENDER && !plain) { const r = await rendered(url); if (r) return r; }
   try {
     const r = await fetch(url, { headers: { 'user-agent': UA, accept: 'text/html' }, redirect: 'follow', signal: AbortSignal.timeout(ms) });
     if (!r.ok || !/html|text/.test(r.headers.get('content-type') || '')) return null;
@@ -41,7 +55,7 @@ async function get(url, ms = 12000) {
   } catch { return null; }
 }
 async function robotsAllows(origin) {
-  const r = await get(origin + '/robots.txt', 6000);
+  const r = await get(origin + '/robots.txt', 6000, true);
   if (!r) return true;
   let applies = false;
   for (const line of r.html.split('\n')) {
@@ -148,7 +162,10 @@ async function crawl(key, site, lastName) {
 
 const races = readJSON(`${DATA}/races.json`).races, names = {};
 for (const r of Object.values(races)) for (const c of r.candidates) names[c.fecId || `${c.name}|${r.state}`] = c.name.replace(/\b(jr|sr|ii|iii|iv)\b\.?/gi, '').trim();
-const entries = Object.entries(sites), result = {}, stats = { crawled: 0, withIran: 0, withIsrael: 0, robots: 0, unreachable: 0, 'wrong-site': 0 };
+const existing = readJSON(`${DATA}/site-quotes.json`, { entries: {} }).entries;
+const topicsWith = e => ['iran', 'israel', 'health', 'housing'].filter(t => e?.[t]?.quotes?.length).length;
+const THIN = key => topicsWith(existing[key]) < 2;   // a rendered re-crawl only for sites the plain crawl barely read
+const entries = Object.entries(sites).filter(([k]) => !RENDER || THIN(k)), result = {}, stats = { crawled: 0, withIran: 0, withIsrael: 0, robots: 0, unreachable: 0, 'wrong-site': 0 };
 let i = 0;
 await Promise.all(Array.from({ length: 6 }, async () => {
   while (i < entries.length) {
@@ -162,6 +179,7 @@ await Promise.all(Array.from({ length: 6 }, async () => {
     if (['iran', 'israel', 'health', 'housing'].some(t => r[t].length)) result[key] = Object.fromEntries(['iran', 'israel', 'health', 'housing'].map(t => [t, { quotes: r[t] }]));
   }
 }));
-if (process.env.ONLY) console.log(JSON.stringify(result, null, 1));   // debugging run: show, never overwrite the full crawl
+if (RENDER) { for (const [k, v] of Object.entries(result)) if (topicsWith(v) > topicsWith(existing[k])) existing[k] = v; if (!process.env.ONLY) writeJSON(`${DATA}/site-quotes.json`, { generated: new Date().toISOString(), entries: existing }); else console.log(JSON.stringify(result, null, 1)); }
+else if (process.env.ONLY) console.log(JSON.stringify(result, null, 1));   // debugging run: show, never overwrite the full crawl
 else writeJSON(`${DATA}/site-quotes.json`, { generated: new Date().toISOString(), entries: result });
 console.log(stats, 'candidates with any quote:', Object.keys(result).length);

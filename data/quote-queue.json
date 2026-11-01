@@ -1,0 +1,173 @@
+{
+  "_readme": "Quotes found in news coverage, debates and interviews, each checked verbatim against the article text and waiting for review. Run `node scripts/apply-quotes.mjs` to move the pending ones into data/statements.json (they then show on the cards). Keys: FEC candidate id, or 'Name|ST'.",
+  "status": "pending",
+  "entries": {
+    "S6NC00415": {
+      "name": "Michael Whatley",
+      "iran": [
+        {
+          "text": "I absolutely support the president’s decision to ensure that Iran will never have a nuclear weapon",
+          "source": "WFAE (on the Iran war)",
+          "url": "https://www.wfae.org/politics/2026-07-23/whatley-says-he-will-make-things-cost-less-says-cooper-was-the-states-worst-governor",
+          "date": "Jul. 23, 2026",
+          "kind": "news"
+        }
+      ]
+    },
+    "S6MN00556": {
+      "name": "Michele Tafoya",
+      "israel": [
+        {
+          "text": "I stand with Israel",
+          "source": "Minnesota Reformer (Oct. 16 Senate debate)",
+          "url": "https://www.kaxe.org/local-news/2026-10-23/in-senate-debate-tafoya-and-flanagan-cant-shake-ties-to-unpopular-men",
+          "date": "Oct. 23, 2026",
+          "kind": "news"
+        },
+        {
+          "text": "Calling it a genocide is an absolute misrepresentation",
+          "source": "Minnesota Reformer (Oct. 16 Senate debate, on Gaza)",
+          "url": "https://www.kaxe.org/local-news/2026-10-23/in-senate-debate-tafoya-and-flanagan-cant-shake-ties-to-unpopular-men",
+          "date": "Oct. 23, 2026",
+          "kind": "news"
+        }
+      ],
+      "health": [
+        {
+          "text": "a pipedream",
+          "source": "Minnesota Reformer (Oct. 16 Senate debate, on Medicare for All)",
+          "url": "https://www.kaxe.org/local-news/2026-10-23/in-senate-debate-tafoya-and-flanagan-cant-shake-ties-to-unpopular-men",
+          "date": "Oct. 23, 2026",
+          "kind": "news"
+        }
+      ]
+    },
+    "S6MT00295": {
+      "name": "Kurt Alme",
+      "iran": [
+        {
+          "text": "I will never support sending our sons and daughters boots on the ground into another forever war",
+          "source": "NBC Montana (Senate candidates on the Iran war)",
+          "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+          "date": "Oct. 18, 2026",
+          "kind": "news"
+        },
+        {
+          "text": "when we get an enemy regime like the Iranian regime threatening us with nuclear weapons we need to respond",
+          "source": "NBC Montana (Senate candidates on the Iran war)",
+          "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+          "date": "Oct. 18, 2026",
+          "kind": "news"
+        }
+      ],
+      "housing": [
+        {
+          "text": "we’ve got to rein in Washington spending. If we can do that, we’ll lower inflation",
+          "source": "NBC Montana (on housing costs)",
+          "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+          "date": "Oct. 18, 2026",
+          "kind": "news"
+        }
+      ]
+    },
+    "S6MT00253": {
+      "name": "Alani Bankhead",
+      "iran": [
+        {
+          "text": "I do not support the war in Iran",
+          "source": "NBC Montana (Senate candidates on the Iran war)",
+          "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+          "date": "Oct. 18, 2026",
+          "kind": "news"
+        }
+      ],
+      "housing": [
+        {
+          "text": "providing tax incentives to construction companies that create affordable housing",
+          "source": "NBC Montana (on housing costs)",
+          "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+          "date": "Oct. 18, 2026",
+          "kind": "news"
+        }
+      ]
+    },
+    "S6MT00287": {
+      "name": "Seth Bodnar",
+      "iran": [
+        {
+          "text": "it’s congresses’ job to make the decision to send our sons and daughters into harm’s way",
+          "source": "NBC Montana (Senate candidates on the Iran war)",
+          "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+          "date": "Oct. 18, 2026",
+          "kind": "news"
+        }
+      ],
+      "housing": [
+        {
+          "text": "incentivizing the type of zoning and code reform to unlock more supply",
+          "source": "NBC Montana (on housing costs)",
+          "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+          "date": "Oct. 18, 2026",
+          "kind": "news"
+        }
+      ]
+    },
+    "S6MT00261": {
+      "name": "Kyle Austin",
+      "iran": [
+        {
+          "text": "we need to get out of Iran and we need to bring our troops home",
+          "source": "NBC Montana (Senate candidates on the Iran war)",
+          "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+          "date": "Oct. 18, 2026",
+          "kind": "news"
+        }
+      ]
+    },
+    "S4NE00207": {
+      "name": "Dan Osborn",
+      "iran": [
+        {
+          "text": "We were promised no new foreign wars, but here we are 185 days into a new foreign war and Nebraskans are paying the price",
+          "source": "KLKN-TV (Sept. 1 debate, on the Iran war)",
+          "url": "https://www.klkntv.com/?p=5194424",
+          "date": "Sept. 2, 2026",
+          "kind": "news"
+        }
+      ],
+      "housing": [
+        {
+          "text": "Homeownership is becoming unattainable for the future generations and it’s because tariffs are driving this",
+          "source": "KLKN-TV (Sept. 1 debate)",
+          "url": "https://www.klkntv.com/?p=5194424",
+          "date": "Sept. 2, 2026",
+          "kind": "news"
+        }
+      ]
+    },
+    "S6NH00208": {
+      "name": "John E. Sununu",
+      "iran": [
+        {
+          "text": "I’m smart enough to know that money has to be part of it",
+          "source": "NHPR (Oct. 28 debate, on a deal to end the Iran war)",
+          "url": "https://www.nhpr.org/nh-news/2026-10-29/sununu-pappas-wmur-debate-senate-race-nh-newhampshire",
+          "date": "Oct. 29, 2026",
+          "kind": "news"
+        }
+      ]
+    },
+    "Ken Paxton|TX": {
+      "name": "Ken Paxton",
+      "iran": [
+        {
+          "text": "An open-ended war? I don’t have any intelligence, but I don’t think that’s Trump’s idea. He wants to get this over with",
+          "source": "Associated Press (on the Iran war)",
+          "url": "https://www.news4jax.com/news/politics/2026/03/03/war-in-iran-jolts-final-day-of-campaigning-in-texas-primary/",
+          "date": "Mar. 2, 2026",
+          "kind": "news"
+        }
+      ]
+    }
+  }
+}
