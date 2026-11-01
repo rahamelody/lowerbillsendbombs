@@ -7,6 +7,8 @@ const BILLS = [
   { id: 'hr3069', topic: 'm4a', chamber: 'house', type: 'hr', num: 3069, label: 'Medicare for All Act (H.R. 3069)', url: 'https://www.congress.gov/bill/119th-congress/house-bill/3069' },
   { id: 's1506', topic: 'm4a', chamber: 'senate', type: 's', num: 1506, label: 'Medicare for All Act (S. 1506)', url: 'https://www.congress.gov/bill/119th-congress/senate-bill/1506' },
   { id: 'hr4457', topic: 'housing', chamber: 'house', type: 'hr', num: 4457, label: 'Housing Is a Human Right Act (H.R. 4457)', url: 'https://www.congress.gov/bill/119th-congress/house-bill/4457' },
+  { id: 'hr10063', topic: 'gndph', chamber: 'house', type: 'hr', num: 10063, label: 'Green New Deal for Public Housing Act (H.R. 10063)', url: 'https://www.congress.gov/bill/119th-congress/house-bill/10063' },
+  { id: 's5284', topic: 'gndph', chamber: 'senate', type: 's', num: 5284, label: 'Green New Deal for Public Housing Act (S. 5284)', url: 'https://www.congress.gov/bill/119th-congress/senate-bill/5284' },
   { id: 'hr3565', topic: 'blockbombs', chamber: 'house', type: 'hr', num: 3565, label: 'Block the Bombs Act (H.R. 3565)', url: 'https://www.congress.gov/bill/119th-congress/house-bill/3565' },
 ];
 const out = { generated: new Date().toISOString(), bills: [] };

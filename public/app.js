@@ -43,7 +43,7 @@ function industryChip(ind) {
 // extras shown under a topic's badge: cosponsorship, industry money, the defense-budget record
 function extras(topic, r, rec) {
   if (topic === 'health') return cosponsorChip(r.cosponsor) + industryChip(rec.industry.health);
-  if (topic === 'housing') return cosponsorChip(r.cosponsor) + industryChip(rec.industry.realestate);
+  if (topic === 'housing') return cosponsorChip(r.cosponsor) + cosponsorChip(r.cosponsor2) + industryChip(rec.industry.realestate);
   if (topic === 'israel') return cosponsorChip(r.cosponsor) + aipacLines(rec);
   if (topic === 'iran') {
     const m = rec.military;
