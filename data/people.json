@@ -2099,7 +2099,7 @@
    "direct": {
     "2022": 7600,
     "2024": 10000,
-    "2026": 4994
+    "2026": 9994
    },
    "ieSupport": {},
    "ieOppose": {},
@@ -2124,7 +2124,7 @@
    }
   },
   "moneyTotals": {
-   "direct": 22594,
+   "direct": 27594,
    "ieSupport": 0,
    "ieOppose": 0,
    "conduitSupport": 0,
@@ -3371,7 +3371,7 @@
    "direct": {
     "2022": 10000,
     "2024": 10000,
-    "2026": 4994
+    "2026": 9994
    },
    "ieSupport": {},
    "ieOppose": {},
@@ -3396,7 +3396,7 @@
    }
   },
   "moneyTotals": {
-   "direct": 24994,
+   "direct": 29994,
    "ieSupport": 0,
    "ieOppose": 0,
    "conduitSupport": 0,
@@ -4245,7 +4245,7 @@
    "direct": {
     "2022": 10000,
     "2024": 10000,
-    "2026": 5994
+    "2026": 9994
    },
    "ieSupport": {},
    "ieOppose": {},
@@ -4270,7 +4270,7 @@
    }
   },
   "moneyTotals": {
-   "direct": 25994,
+   "direct": 29994,
    "ieSupport": 0,
    "ieOppose": 0,
    "conduitSupport": 0,
@@ -4391,7 +4391,8 @@
   "money": {
    "direct": {
     "2022": 10000,
-    "2024": 5000
+    "2024": 5000,
+    "2026": 5000
    },
    "ieSupport": {},
    "ieOppose": {},
@@ -4414,7 +4415,7 @@
    }
   },
   "moneyTotals": {
-   "direct": 15000,
+   "direct": 20000,
    "ieSupport": 0,
    "ieOppose": 0,
    "conduitSupport": 0,
@@ -4439,7 +4440,7 @@
    "direct": {
     "2022": 10000,
     "2024": 10000,
-    "2026": 4994
+    "2026": 9994
    },
    "ieSupport": {},
    "ieOppose": {},
@@ -4464,7 +4465,7 @@
    }
   },
   "moneyTotals": {
-   "direct": 24994,
+   "direct": 29994,
    "ieSupport": 0,
    "ieOppose": 0,
    "conduitSupport": 0,
@@ -5585,7 +5586,7 @@
    "direct": {
     "2022": 10000,
     "2024": 5000,
-    "2026": 4994
+    "2026": 9994
    },
    "ieSupport": {},
    "ieOppose": {},
@@ -5608,7 +5609,7 @@
    }
   },
   "moneyTotals": {
-   "direct": 19994,
+   "direct": 24994,
    "ieSupport": 0,
    "ieOppose": 0,
    "conduitSupport": 0,
@@ -5823,7 +5824,7 @@
    "direct": {
     "2022": 10000,
     "2024": 10000,
-    "2026": 4994
+    "2026": 9994
    },
    "ieSupport": {},
    "ieOppose": {},
@@ -5848,7 +5849,7 @@
    }
   },
   "moneyTotals": {
-   "direct": 24994,
+   "direct": 29994,
    "ieSupport": 0,
    "ieOppose": 0,
    "conduitSupport": 0,

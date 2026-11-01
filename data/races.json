@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-01T23:17:09.848Z",
- "moneyAsOf": "2026-11-01T15:52:17.995Z",
+ "generated": "2026-11-01T23:22:23.101Z",
+ "moneyAsOf": "2026-11-01T23:22:21.364Z",
  "filingsThrough": "2026-11-01",
  "liveCheckedAt": "2026-11-01T15:52:14.703Z",
  "races": {
@@ -213,7 +213,7 @@
      "money": {
       "direct": {
        "2022": 2100,
-       "2026": 1494
+       "2026": 6494
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -238,7 +238,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 3594,
+      "direct": 8594,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -309,7 +309,7 @@
       "direct": {
        "2022": 7800,
        "2024": -10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -334,7 +334,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 2794,
+      "direct": 7794,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -405,7 +405,7 @@
       "direct": {
        "2022": 10000,
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -430,7 +430,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19994,
+      "direct": 24994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -501,7 +501,7 @@
       "direct": {
        "2022": 2100,
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -525,7 +525,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 12094,
+      "direct": 17094,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -874,7 +874,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -897,7 +897,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -1585,7 +1585,7 @@
      "money": {
       "direct": {
        "2024": 6700,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -1611,7 +1611,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 11694,
+      "direct": 16694,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -1834,7 +1834,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -1854,7 +1854,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -2010,7 +2010,7 @@
       "direct": {
        "2022": 7900,
        "2024": 5250,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -2031,7 +2031,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 18144,
+      "direct": 23144,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -2136,7 +2136,7 @@
       "direct": {
        "2022": 7900,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -2161,7 +2161,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 22894,
+      "direct": 27894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -2234,7 +2234,7 @@
       "direct": {
        "2022": 7900,
        "2024": 15000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -2259,7 +2259,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 27894,
+      "direct": 32894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -4593,7 +4593,7 @@
       "direct": {
        "2022": 7900,
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -4618,7 +4618,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 17894,
+      "direct": 22894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -4960,7 +4960,9 @@
      "fecId": "H4CA27111",
      "hasVotes": true,
      "money": {
-      "direct": {},
+      "direct": {
+       "2026": 5000
+      },
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
@@ -4979,7 +4981,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 0,
+      "direct": 5000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -5322,7 +5324,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -5339,7 +5341,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -5410,7 +5412,7 @@
       "direct": {
        "2022": 7900,
        "2024": 10000,
-       "2026": 5494
+       "2026": 10494
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -5433,7 +5435,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 23394,
+      "direct": 28394,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -6998,7 +7000,7 @@
       "direct": {
        "2022": 7900,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -7017,7 +7019,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 22894,
+      "direct": 27894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -7536,7 +7538,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 6869
+       "2026": 11869
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -7558,7 +7560,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 6869,
+      "direct": 11869,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -8930,7 +8932,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 14994
+       "2026": 19994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -8951,7 +8953,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -9134,7 +9136,7 @@
       "direct": {
        "2022": 10000,
        "2024": -6000,
-       "2026": -6
+       "2026": 4994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -9159,7 +9161,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 3994,
+      "direct": 8994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -9474,7 +9476,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 9994
+       "2026": 14994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -9495,7 +9497,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 9994,
+      "direct": 14994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -10056,7 +10058,9 @@
      "fecId": "H6FL11332",
      "hasVotes": false,
      "money": {
-      "direct": {},
+      "direct": {
+       "2026": 5000
+      },
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
@@ -10068,7 +10072,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": 0,
+      "direct": 5000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -10395,7 +10399,7 @@
       "direct": {
        "2022": 10000,
        "2024": -1500,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -10420,7 +10424,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 13494,
+      "direct": 18494,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -10527,7 +10531,7 @@
       "direct": {
        "2022": 5000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -10552,7 +10556,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19994,
+      "direct": 24994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -10781,7 +10785,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -10806,7 +10810,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -11024,7 +11028,9 @@
      "fecId": "H6FL19137",
      "hasVotes": false,
      "money": {
-      "direct": {},
+      "direct": {
+       "2026": 5000
+      },
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
@@ -11038,7 +11044,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 0,
+      "direct": 5000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -11239,7 +11245,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -11260,7 +11266,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -11483,7 +11489,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 5244
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -11508,7 +11514,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 25244,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -11697,7 +11703,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 9994
+       "2026": 14994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -11721,7 +11727,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 29994,
+      "direct": 34994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -11826,7 +11832,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -11851,7 +11857,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -11956,7 +11962,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -11980,7 +11986,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -12051,7 +12057,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -12076,7 +12082,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -12179,7 +12185,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -12198,7 +12204,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -12303,7 +12309,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -12322,7 +12328,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -12460,7 +12466,9 @@
      "fecId": "H6GA01109",
      "hasVotes": false,
      "money": {
-      "direct": {},
+      "direct": {
+       "2026": 5000
+      },
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
@@ -12476,7 +12484,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 0,
+      "direct": 5000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -12790,7 +12798,7 @@
       "direct": {
        "2022": 7900,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -12815,7 +12823,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 22894,
+      "direct": 27894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -12886,7 +12894,7 @@
       "direct": {
        "2022": 7900,
        "2024": 9750,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -12909,7 +12917,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 22644,
+      "direct": 27644,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -12980,7 +12988,7 @@
       "direct": {
        "2022": 10000,
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -13004,7 +13012,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19994,
+      "direct": 24994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -13075,7 +13083,7 @@
       "direct": {
        "2022": 7900,
        "2024": 10000,
-       "2026": 3994
+       "2026": 8994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -13096,7 +13104,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 21894,
+      "direct": 26894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -13287,7 +13295,7 @@
      "hasVotes": false,
      "money": {
       "direct": {
-       "2026": 5000
+       "2026": 10000
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -13302,7 +13310,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": 5000,
+      "direct": 10000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -13419,7 +13427,7 @@
       "direct": {
        "2022": 10000,
        "2024": -4000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -13443,7 +13451,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 10994,
+      "direct": 15994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -13594,7 +13602,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 10000
+       "2026": 15000
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -13613,7 +13621,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 10000,
+      "direct": 15000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -14428,7 +14436,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -14453,7 +14461,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -15524,7 +15532,7 @@
       "direct": {
        "2022": 4200,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -15549,7 +15557,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19194,
+      "direct": 24194,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -15807,7 +15815,7 @@
      "money": {
       "direct": {
        "2024": 5000,
-       "2026": -6
+       "2026": 4994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -15829,7 +15837,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -15985,7 +15993,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": -6
+       "2026": 4994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -15998,7 +16006,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": -6,
+      "direct": 4994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -16069,7 +16077,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -16094,7 +16102,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -16656,7 +16664,7 @@
       "direct": {
        "2022": 10000,
        "2024": -5500,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -16681,7 +16689,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 9494,
+      "direct": 14494,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -16752,7 +16760,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": -6
+       "2026": 4994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -16774,7 +16782,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19994,
+      "direct": 24994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -16846,7 +16854,7 @@
      "money": {
       "direct": {
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -16867,7 +16875,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 9994,
+      "direct": 14994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -17063,7 +17071,7 @@
      "money": {
       "direct": {
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -17084,7 +17092,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 9994,
+      "direct": 14994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -17153,7 +17161,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -17177,7 +17185,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -17316,7 +17324,7 @@
       "direct": {
        "2022": 7900,
        "2024": 10000,
-       "2026": 5994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -17343,7 +17351,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 23894,
+      "direct": 27894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -17567,7 +17575,7 @@
      "money": {
       "direct": {
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -17589,7 +17597,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -18259,7 +18267,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -18284,7 +18292,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -18387,7 +18395,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 3994
+       "2026": 8994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -18410,7 +18418,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 3994,
+      "direct": 8994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -18517,7 +18525,7 @@
       "direct": {
        "2022": 7900,
        "2024": 3000,
-       "2026": -6
+       "2026": 4994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -18542,7 +18550,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 10894,
+      "direct": 15894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -18613,7 +18621,7 @@
       "direct": {
        "2022": 5000,
        "2024": 10000,
-       "2026": -6
+       "2026": 4994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -18638,7 +18646,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -18957,7 +18965,7 @@
       "direct": {
        "2022": 2100,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -18980,7 +18988,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 17094,
+      "direct": 22094,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -19153,7 +19161,7 @@
      "hasVotes": false,
      "money": {
       "direct": {
-       "2026": 5000
+       "2026": 10000
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -19168,7 +19176,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": 5000,
+      "direct": 10000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -19308,7 +19316,8 @@
      "money": {
       "direct": {
        "2022": 2100,
-       "2024": -4000
+       "2024": -4000,
+       "2026": 5000
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -19332,7 +19341,7 @@
       }
      },
      "moneyTotals": {
-      "direct": -1900,
+      "direct": 3100,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -20113,7 +20122,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": -6
+       "2026": 4994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -20138,7 +20147,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19994,
+      "direct": 24994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -20534,7 +20543,7 @@
      "money": {
       "direct": {
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -20556,7 +20565,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -20926,7 +20935,7 @@
      "money": {
       "direct": {
        "2024": 10000,
-       "2026": -6
+       "2026": 4994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -20948,7 +20957,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 9994,
+      "direct": 14994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -22050,7 +22059,7 @@
       "direct": {
        "2022": 10000,
        "2024": 3500,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -22075,7 +22084,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 18494,
+      "direct": 23494,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -22316,7 +22325,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 5994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -22341,7 +22350,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 25994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -22479,7 +22488,7 @@
      "money": {
       "direct": {
        "2024": 5000,
-       "2026": 26884
+       "2026": 30384
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -22503,7 +22512,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 31884,
+      "direct": 35384,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -22608,7 +22617,7 @@
       "direct": {
        "2022": 10000,
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -22633,7 +22642,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19994,
+      "direct": 24994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -22740,7 +22749,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -22765,7 +22774,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -23164,7 +23173,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -23184,7 +23193,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -23480,7 +23489,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -23505,7 +23514,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -25243,7 +25252,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -25267,7 +25276,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -25338,7 +25347,7 @@
       "direct": {
        "2022": 10000,
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -25363,7 +25372,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19994,
+      "direct": 24994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -25586,7 +25595,7 @@
       "direct": {
        "2022": 7900,
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -25609,7 +25618,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 17894,
+      "direct": 22894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -25772,7 +25781,7 @@
       "direct": {
        "2022": 7900,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -25797,7 +25806,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 22894,
+      "direct": 27894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -25902,7 +25911,7 @@
       "direct": {
        "2022": 5000,
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -25923,7 +25932,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -26286,7 +26295,7 @@
       "direct": {
        "2022": 4200,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -26311,7 +26320,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19194,
+      "direct": 24194,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -26415,7 +26424,7 @@
      "money": {
       "direct": {
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -26436,7 +26445,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 9994,
+      "direct": 14994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -26671,7 +26680,8 @@
      "money": {
       "direct": {
        "2022": 10000,
-       "2024": 500
+       "2024": 500,
+       "2026": 5000
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -26695,7 +26705,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 10500,
+      "direct": 15500,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -26920,7 +26930,7 @@
       "direct": {
        "2022": 5000,
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -26943,7 +26953,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -27279,7 +27289,7 @@
      "money": {
       "direct": {
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -27301,7 +27311,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -27838,7 +27848,7 @@
       "direct": {
        "2022": 5000,
        "2024": 10000,
-       "2026": 4995
+       "2026": 9995
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -27863,7 +27873,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19995,
+      "direct": 24995,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -28229,7 +28239,7 @@
       "direct": {
        "2022": 7859,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -28254,7 +28264,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 22853,
+      "direct": 27853,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -28358,7 +28368,9 @@
      "fecId": "H4NV04108",
      "hasVotes": false,
      "money": {
-      "direct": {},
+      "direct": {
+       "2026": 5000
+      },
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
@@ -28370,7 +28382,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": 0,
+      "direct": 5000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -28968,7 +28980,7 @@
       "direct": {
        "2022": 7900,
        "2024": 4000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -28993,7 +29005,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 16894,
+      "direct": 21894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -29443,7 +29455,7 @@
       "direct": {
        "2022": 7900,
        "2024": 10000,
-       "2026": 70724
+       "2026": 75724
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -29468,7 +29480,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 88624,
+      "direct": 93624,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -31277,7 +31289,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -31298,7 +31310,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -32585,7 +32597,7 @@
      "money": {
       "direct": {
        "2024": 7000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {
        "2024": 4682560.29
@@ -32609,7 +32621,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 11994,
+      "direct": 16994,
       "ieSupport": 4682560.29,
       "ieOppose": 84325.84,
       "conduitSupport": 0,
@@ -33209,7 +33221,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -33232,7 +33244,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -33303,7 +33315,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -33328,7 +33340,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -33494,7 +33506,7 @@
      "money": {
       "direct": {
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -33516,7 +33528,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -34105,7 +34117,7 @@
       "direct": {
        "2022": 7900,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -34129,7 +34141,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 22894,
+      "direct": 27894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -34325,7 +34337,7 @@
       "direct": {
        "2022": 7900,
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -34350,7 +34362,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 17894,
+      "direct": 22894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -34454,7 +34466,7 @@
      "money": {
       "direct": {
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -34472,7 +34484,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -34577,7 +34589,7 @@
       "direct": {
        "2022": 5000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -34602,7 +34614,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19994,
+      "direct": 24994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -34674,7 +34686,7 @@
      "money": {
       "direct": {
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -34696,7 +34708,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -35007,7 +35019,7 @@
      "money": {
       "direct": {
        "2024": 10000,
-       "2026": 5000
+       "2026": 10000
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -35029,7 +35041,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 15000,
+      "direct": 20000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -35133,7 +35145,7 @@
      "money": {
       "direct": {
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -35154,7 +35166,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 9994,
+      "direct": 14994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -35591,7 +35603,7 @@
      "money": {
       "direct": {
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -35612,7 +35624,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -35907,7 +35919,7 @@
       "direct": {
        "2022": 7900,
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -35932,7 +35944,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 17894,
+      "direct": 22894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -36036,7 +36048,7 @@
      "money": {
       "direct": {
        "2024": 15000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -36058,7 +36070,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19994,
+      "direct": 24994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -36444,7 +36456,7 @@
       "direct": {
        "2022": 7900,
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -36468,7 +36480,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 17894,
+      "direct": 22894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -36671,7 +36683,7 @@
       "direct": {
        "2022": 5000,
        "2024": -4500,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -36696,7 +36708,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 5494,
+      "direct": 10494,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -36893,7 +36905,7 @@
       "direct": {
        "2022": 5000,
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -36918,7 +36930,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -37117,7 +37129,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -37136,7 +37148,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -37284,7 +37296,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -37303,7 +37315,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -37484,7 +37496,9 @@
      "fecId": "H6OK01235",
      "hasVotes": false,
      "money": {
-      "direct": {},
+      "direct": {
+       "2026": 5000
+      },
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
@@ -37502,7 +37516,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 0,
+      "direct": 5000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -37539,7 +37553,7 @@
       "direct": {
        "2022": 5000,
        "2024": 10000,
-       "2026": -6
+       "2026": 4994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -37560,7 +37574,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -37664,7 +37678,7 @@
      "money": {
       "direct": {
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -37689,7 +37703,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -37760,7 +37774,7 @@
       "direct": {
        "2022": 10000,
        "2024": -3000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -37785,7 +37799,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 11994,
+      "direct": 16994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -37890,7 +37904,7 @@
       "direct": {
        "2022": 10000,
        "2024": 4000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -37915,7 +37929,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 18994,
+      "direct": 23994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -39014,7 +39028,7 @@
       "direct": {
        "2022": 2100,
        "2024": 10000,
-       "2026": 5494
+       "2026": 10494
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -39039,7 +39053,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 17594,
+      "direct": 22594,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -40307,7 +40321,7 @@
       "direct": {
        "2022": 7900,
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -40331,7 +40345,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 17894,
+      "direct": 22894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -41181,7 +41195,7 @@
      "money": {
       "direct": {
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -41203,7 +41217,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -41274,7 +41288,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -41298,7 +41312,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -41403,7 +41417,7 @@
      "hasVotes": false,
      "money": {
       "direct": {
-       "2026": 5000
+       "2026": 10000
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -41422,7 +41436,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 5000,
+      "direct": 10000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -41554,7 +41568,7 @@
       "direct": {
        "2022": 5000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -41578,7 +41592,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19994,
+      "direct": 24994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -41839,7 +41853,7 @@
      "hasVotes": false,
      "money": {
       "direct": {
-       "2026": 5000
+       "2026": 10000
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -41854,7 +41868,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": 5000,
+      "direct": 10000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -41889,7 +41903,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -41914,7 +41928,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -41987,7 +42001,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -42012,7 +42026,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -42253,7 +42267,7 @@
       "direct": {
        "2022": 10000,
        "2024": -12500,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -42277,7 +42291,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 2494,
+      "direct": 7494,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -42418,7 +42432,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -42443,7 +42457,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -42684,7 +42698,7 @@
       "direct": {
        "2022": 7900,
        "2024": -1500,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -42705,7 +42719,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 11394,
+      "direct": 16394,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -42879,7 +42893,9 @@
      "fecId": "H6TN05405",
      "hasVotes": false,
      "money": {
-      "direct": {},
+      "direct": {
+       "2026": 5000
+      },
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
@@ -42891,7 +42907,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": 0,
+      "direct": 5000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -43106,7 +43122,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 13494
+       "2026": 18494
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -43125,7 +43141,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 13494,
+      "direct": 18494,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -43266,7 +43282,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -43291,7 +43307,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -43678,7 +43694,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -43703,7 +43719,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -44048,7 +44064,7 @@
       "direct": {
        "2022": 5000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -44072,7 +44088,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19994,
+      "direct": 24994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -44255,7 +44271,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -44272,7 +44288,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -44439,7 +44455,7 @@
       "direct": {
        "2022": 5000,
        "2024": 10000,
-       "2026": 4767
+       "2026": 9767
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -44464,7 +44480,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19767,
+      "direct": 24767,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -44791,7 +44807,9 @@
      "fecId": "H6TX08209",
      "hasVotes": false,
      "money": {
-      "direct": {},
+      "direct": {
+       "2026": 10000
+      },
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
@@ -44803,7 +44821,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": 0,
+      "direct": 10000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -44869,7 +44887,9 @@
      "fecId": "H6TX09140",
      "hasVotes": false,
      "money": {
-      "direct": {},
+      "direct": {
+       "2026": 5000
+      },
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
@@ -44881,7 +44901,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": 0,
+      "direct": 5000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -44947,7 +44967,9 @@
      "fecId": "H6TX10221",
      "hasVotes": false,
      "money": {
-      "direct": {},
+      "direct": {
+       "2026": 10000
+      },
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
@@ -44959,7 +44981,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": 0,
+      "direct": 10000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -45089,7 +45111,7 @@
      "money": {
       "direct": {
        "2024": 5000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -45110,7 +45132,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 9994,
+      "direct": 14994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -45181,7 +45203,7 @@
       "direct": {
        "2022": 5000,
        "2024": 20000,
-       "2026": 4767
+       "2026": 9767
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -45204,7 +45226,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 29767,
+      "direct": 34767,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -45560,7 +45582,7 @@
       "direct": {
        "2022": 7900,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -45585,7 +45607,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 22894,
+      "direct": 27894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -45771,7 +45793,9 @@
      "fecId": "H6TX19206",
      "hasVotes": false,
      "money": {
-      "direct": {},
+      "direct": {
+       "2026": 5000
+      },
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
@@ -45785,7 +45809,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": 0,
+      "direct": 5000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -45937,7 +45961,9 @@
      "fecId": "H6TX21301",
      "hasVotes": false,
      "money": {
-      "direct": {},
+      "direct": {
+       "2026": 10000
+      },
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
@@ -45949,7 +45975,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": 0,
+      "direct": 10000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -46161,7 +46187,7 @@
       "direct": {
        "2022": 5000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -46186,7 +46212,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 19994,
+      "direct": 24994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -46257,7 +46283,7 @@
       "direct": {
        "2022": 7100,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -46278,7 +46304,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 22094,
+      "direct": 27094,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -46348,7 +46374,7 @@
      "money": {
       "direct": {
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -46369,7 +46395,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 14994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -46846,7 +46872,7 @@
       "direct": {
        "2022": 5000,
        "2024": -8500,
-       "2026": 4767
+       "2026": 9767
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -46869,7 +46895,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 1267,
+      "direct": 6267,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -46972,7 +46998,7 @@
      "hasVotes": false,
      "money": {
       "direct": {
-       "2026": 5000
+       "2026": 10000
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -46989,7 +47015,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": 5000,
+      "direct": 10000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -47287,7 +47313,7 @@
       "direct": {
        "2022": 8400,
        "2024": -1500,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -47308,7 +47334,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 11894,
+      "direct": 16894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -47493,7 +47519,9 @@
      "fecId": "H6TX02244",
      "hasVotes": false,
      "money": {
-      "direct": {},
+      "direct": {
+       "2026": 5000
+      },
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
@@ -47507,7 +47535,7 @@
       "defense": {}
      },
      "moneyTotals": {
-      "direct": 0,
+      "direct": 5000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -48105,7 +48133,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 5994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -48129,7 +48157,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 25994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -48201,7 +48229,7 @@
      "money": {
       "direct": {
        "2024": 5000,
-       "2026": 5994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -48226,7 +48254,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 10994,
+      "direct": 14994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -48781,7 +48809,7 @@
       "direct": {
        "2022": 10000,
        "2024": 1000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -48806,7 +48834,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 15994,
+      "direct": 20994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -49263,7 +49291,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -49288,7 +49316,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -49700,7 +49728,7 @@
       "direct": {
        "2022": 7900,
        "2024": 8000,
-       "2026": -6
+       "2026": 4994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -49725,7 +49753,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 15894,
+      "direct": 20894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -49796,7 +49824,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 5000
+       "2026": 10000
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -49821,7 +49849,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 25000,
+      "direct": 30000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -50283,7 +50311,7 @@
       "direct": {
        "2022": 7900,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -50305,7 +50333,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 22894,
+      "direct": 27894,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -50568,7 +50596,7 @@
       "direct": {
        "2022": 7100,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -50593,7 +50621,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 22094,
+      "direct": 27094,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -50696,7 +50724,8 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2024": 10000
+       "2024": 10000,
+       "2026": 5000
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -50717,7 +50746,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 10000,
+      "direct": 15000,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -50786,7 +50815,7 @@
      "hasVotes": true,
      "money": {
       "direct": {
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -50811,7 +50840,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 4994,
+      "direct": 9994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -50916,7 +50945,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -50941,7 +50970,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -51061,7 +51090,7 @@
      "money": {
       "direct": {
        "2024": 10000,
-       "2026": 5994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -51086,7 +51115,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 15994,
+      "direct": 19994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
@@ -51363,7 +51392,7 @@
       "direct": {
        "2022": 10000,
        "2024": 10000,
-       "2026": 4994
+       "2026": 9994
       },
       "ieSupport": {},
       "ieOppose": {},
@@ -51386,7 +51415,7 @@
       }
      },
      "moneyTotals": {
-      "direct": 24994,
+      "direct": 29994,
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
