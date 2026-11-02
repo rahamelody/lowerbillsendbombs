@@ -525,6 +525,20 @@
           "url": "https://jewishinsider.com/2025/09/josh-turek-iowa-state-democratic-senate-candidate-u-s-israel/"
         }
       }
+    },
+    "S6KS00312": {
+      "iran": {
+        "quotes": [],
+        "badge": {
+          "tier": "partial",
+          "label": "Criticizes the Iran war"
+        },
+        "note": {
+          "text": "Based on his campaign website, where he lists the war in Iran among government choices hurting Kansas, and on news reporting that he argues against it. Not a vote.",
+          "source": "KCUR, Oct. 26, 2026",
+          "url": "https://www.kcur.org/podcast/up-to-date/2026-10-26/u-s-senate-candidate-adam-hamilton-blasts-trumps-tariffs-for-hurting-kansas-businesses"
+        }
+      }
     }
   }
 }

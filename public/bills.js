@@ -7,7 +7,9 @@ const seat = m => m.chamber === 'senate' ? `Senate · ${m.state}` : `House · ${
 let data, current = new URLSearchParams(location.search).get('bill') || 'm4a', chamber = 'all', q = '';
 
 function tabs() {
-  $('#tabs').innerHTML = data.bills.map(b => `<button type="button" role="tab" class="bp-tab" aria-selected="${b.key === current}" data-k="${b.key}">${esc(b.title)} <span>${b.count}</span></button>`).join('');
+  const tab = b => `<button type="button" role="tab" class="bp-tab ${b.bad ? 'bad' : 'good'}" aria-selected="${b.key === current}" data-k="${b.key}">${esc(b.title)} <span>${b.count}</span></button>`;
+  const good = data.bills.filter(b => !b.bad), bad = data.bills.filter(b => b.bad);
+  $('#tabs').innerHTML = `<div class="bp-group"><span class="bp-glabel">Good bills</span>${good.map(tab).join('')}</div>${bad.length ? `<div class="bp-group"><span class="bp-glabel bad">Bad bills</span>${bad.map(tab).join('')}</div>` : ''}`;
 }
 function panel() {
   const b = data.bills.find(x => x.key === current) || data.bills[0];
@@ -15,8 +17,8 @@ function panel() {
   const rows = b.members.filter(m => (chamber === 'all' || m.chamber === chamber) && (!needle || `${m.name} ${m.state}`.toLowerCase().includes(needle)));
   const chips = [['all', `All ${b.count}`], ['house', `House ${b.house}`], ...(b.senate ? [['senate', `Senate ${b.senate}`]] : [])];
   $('#panel').innerHTML = `
-    <div class="bp-head">
-      <h2>${esc(b.title)}</h2>
+    <div class="bp-head ${b.bad ? 'bad' : 'good'}">
+      <h2>${esc(b.title)}<span class="bp-opp${b.bad ? '' : ' good'}">${b.bad ? 'Opposed' : 'Backed'} by this guide</span></h2>
       <p>${esc(b.what)} <a href="${esc(b.whatSource.url)}" rel="noopener">${esc(b.whatSource.label)} ↗</a></p>
       <p class="bp-links">${b.links.map(l => `<a href="${esc(l.url)}" rel="noopener">${esc(l.label)} on Congress.gov ↗</a>`).join('')}</p>
     </div>

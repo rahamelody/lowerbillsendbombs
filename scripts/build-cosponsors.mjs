@@ -9,6 +9,8 @@ const BILLS = [
   { id: 'hr4457', topic: 'housing', chamber: 'house', type: 'hr', num: 4457, label: 'Housing Is a Human Right Act (H.R. 4457)', url: 'https://www.congress.gov/bill/119th-congress/house-bill/4457' },
   { id: 'hr10063', topic: 'gndph', chamber: 'house', type: 'hr', num: 10063, label: 'Green New Deal for Public Housing Act (H.R. 10063)', url: 'https://www.congress.gov/bill/119th-congress/house-bill/10063' },
   { id: 's5284', topic: 'gndph', chamber: 'senate', type: 's', num: 5284, label: 'Green New Deal for Public Housing Act (S. 5284)', url: 'https://www.congress.gov/bill/119th-congress/senate-bill/5284' },
+  { id: 'hr1229', topic: 'baddefense', chamber: 'house', type: 'hr', num: 1229, label: 'United States-Israel Defense Partnership Act (H.R. 1229)', url: 'https://www.congress.gov/bill/119th-congress/house-bill/1229' },
+  { id: 's554', topic: 'baddefense', chamber: 'senate', type: 's', num: 554, label: 'United States-Israel Defense Partnership Act (S. 554)', url: 'https://www.congress.gov/bill/119th-congress/senate-bill/554' },
   { id: 'hr3565', topic: 'blockbombs', chamber: 'house', type: 'hr', num: 3565, label: 'Block the Bombs Act (H.R. 3565)', url: 'https://www.congress.gov/bill/119th-congress/house-bill/3565' },
 ];
 const out = { generated: new Date().toISOString(), bills: [] };

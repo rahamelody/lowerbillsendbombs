@@ -29,9 +29,11 @@ function quotesHTML(quotes) {
   return quotes.map(q => `<figure class="quote"><blockquote>“${esc(q.text)}”</blockquote><figcaption>${q.url ? `<a href="${esc(q.url)}" rel="noopener" target="_blank">${esc(q.source || 'Source')}</a>` : esc(q.source || '')}${q.date ? ` · ${esc(q.date)}` : ''}</figcaption></figure>`).join('');
 }
 
+function badChip(b) { return `<p class="cos bad">✗ ${esc(b.verb)} the <a href="${esc(b.url)}" rel="noopener" target="_blank">${esc(b.label)}</a></p>`; }
 function cosponsorChip(co) {
   if (!co) return '';
   const link = `<a href="${esc(co.url)}" rel="noopener" target="_blank">${esc(co.label)}</a>`;
+  if (co.bad) return `<p class="cos bad">✗ Cosponsors the ${link}</p>`;
   return co.yes ? `<p class="cos yes">✓ Cosponsors the ${link}</p>` : `<p class="cos no">Not a cosponsor of the ${link}</p>`;
 }
 /** "$X from insurance & pharma PACs" (red) or "No ... PAC money" (green, only for people who could have taken it) */
@@ -44,7 +46,7 @@ function industryChip(ind) {
 function extras(topic, r, rec) {
   if (topic === 'health') return cosponsorChip(r.cosponsor) + industryChip(rec.industry.health);
   if (topic === 'housing') return cosponsorChip(r.cosponsor) + cosponsorChip(r.cosponsor2) + industryChip(rec.industry.realestate);
-  if (topic === 'israel') return cosponsorChip(r.cosponsor) + aipacLines(rec);
+  if (topic === 'israel') return cosponsorChip(r.cosponsor) + (r.badBills || []).map(badChip).join('') + aipacLines(rec);
   if (topic === 'iran') {
     const m = rec.military;
     return (m.headline ? `<p class="cos ${m.tier === 'full' ? 'yes' : m.tier === 'against' ? 'bad' : ''}">${esc(m.headline)}</p>` : '') + industryChip(rec.industry.defense);
@@ -329,6 +331,15 @@ document.addEventListener('click', e => {
 });
 
 // floating portraits in the hero: a random handful of the candidates this project endorses (data/endorsed.json). Each one opens that candidate's record.
+// nav highlight: the search icon is "selected" on the home page, and "About this project" while that section is on screen
+{
+  const search = document.querySelector('.nav-search'), about = document.querySelector('.nav nav a[href="#method"]'), method = document.querySelector('#method');
+  if (search && about && method) {
+    const mark = onAbout => { search.toggleAttribute('aria-current', !onAbout); about.toggleAttribute('aria-current', onAbout); if (!onAbout) search.setAttribute('aria-current', 'page'); else about.setAttribute('aria-current', 'page'); };
+    const update = () => { const r = method.getBoundingClientRect(); mark(r.top < innerHeight * 0.5 && r.bottom > innerHeight * 0.3); };
+    addEventListener('scroll', update, { passive: true }); addEventListener('resize', update); update();
+  }
+}
 fetch('/api/featured').then(r => r.json()).then(({ tiles }) => {
   const box = $('#tiles');
   tiles.slice(0, 8).forEach((t, i) => {

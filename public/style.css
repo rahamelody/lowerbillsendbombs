@@ -479,3 +479,19 @@ a.tile:hover, a.tile:focus-visible { scale: 1.08; box-shadow: 0 24px 50px -12px 
 
 /* phones: no floating portraits behind the headline */
 @media (max-width: 700px) { .hero-tiles { display: none; } }
+
+/* good and bad bill groups on the bills page */
+.bp-tabs { display: grid; gap: 10px; }
+.bp-group { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.bp-glabel { font-size: 12px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--good); min-width: 92px; }
+.bp-glabel.bad { color: var(--bad); }
+.bp-tab.bad[aria-selected="true"] { background: var(--bad); border-color: var(--bad); }
+.bp-head.bad { box-shadow: 0 1px 0 var(--line), 0 24px 48px -30px rgba(80,45,20,.35), inset 4px 0 0 var(--bad); }
+.bp-opp { display: inline-block; margin-left: 10px; padding: 3px 12px; border-radius: 999px; background: var(--bad-bg); color: var(--bad); font-size: 12.5px; font-weight: 600; letter-spacing: 0; vertical-align: middle; }
+@media (max-width: 560px) { .bp-glabel { min-width: 100%; } }
+
+/* good bills mirror the bad ones, in green */
+.bp-tab.good[aria-selected="true"] { background: var(--good); border-color: var(--good); }
+.bp-head.good { box-shadow: 0 1px 0 var(--line), 0 24px 48px -30px rgba(80,45,20,.35), inset 4px 0 0 var(--good); }
+.bp-opp.good { background: var(--good-bg); color: var(--good); }
+.nav nav a.nav-search { display: inline-grid; place-items: center; width: 32px; height: 32px; padding: 0; }
