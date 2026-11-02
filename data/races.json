@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-02T04:38:27.428Z",
- "moneyAsOf": "2026-11-02T04:38:27.197Z",
+ "generated": "2026-11-02T19:34:20.999Z",
+ "moneyAsOf": "2026-11-02T19:34:19.211Z",
  "filingsThrough": "2026-11-01",
  "liveCheckedAt": "2026-11-01T15:52:14.703Z",
  "races": {
@@ -15477,7 +15477,7 @@
       "ieOppose": {},
       "conduitSupport": {},
       "conduitOppose": {
-       "2026": 1426378.66
+       "2026": 1426378.6600000001
       }
      },
      "industry": {
@@ -15492,7 +15492,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 1426378.66
+      "conduitOppose": 1426378.6600000001
      },
      "receipts": 3446463,
      "fromList": false,
@@ -25256,7 +25256,7 @@
       "direct": {},
       "ieSupport": {},
       "ieOppose": {
-       "2026": 20903437.56999999
+       "2026": 20903437.57
       },
       "conduitSupport": {},
       "conduitOppose": {}
@@ -25269,7 +25269,7 @@
      "moneyTotals": {
       "direct": 0,
       "ieSupport": 0,
-      "ieOppose": 20903437.56999999,
+      "ieOppose": 20903437.57,
       "conduitSupport": 0,
       "conduitOppose": 0
      },
@@ -26975,7 +26975,7 @@
       },
       "ieSupport": {
        "2024": 3356279.25,
-       "2026": 685626.1599999999
+       "2026": 685626.16
       },
       "ieOppose": {},
       "conduitSupport": {},
@@ -27801,7 +27801,7 @@
       "conduitSupport": 0,
       "conduitOppose": 0
      },
-     "receipts": 65740,
+     "receipts": 66640,
      "fromList": true,
      "state": "MO",
      "wiki": "Forsyth, Missouri",
@@ -28541,7 +28541,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {
-       "2026": 617787.51
+       "2026": 617787.5099999999
       },
       "conduitOppose": {}
      },
@@ -28554,7 +28554,7 @@
       "direct": 0,
       "ieSupport": 0,
       "ieOppose": 0,
-      "conduitSupport": 617787.51,
+      "conduitSupport": 617787.5099999999,
       "conduitOppose": 0
      },
      "receipts": 5093104,
@@ -47322,7 +47322,7 @@
        "2026": 21800
       },
       "ieSupport": {
-       "2022": 421417.54
+       "2022": 421417.54000000004
       },
       "ieOppose": {},
       "conduitSupport": {},
@@ -47347,7 +47347,7 @@
      },
      "moneyTotals": {
       "direct": 30700,
-      "ieSupport": 421417.54,
+      "ieSupport": 421417.54000000004,
       "ieOppose": 0,
       "conduitSupport": 0,
       "conduitOppose": 0

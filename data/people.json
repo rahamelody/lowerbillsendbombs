@@ -4532,7 +4532,7 @@
    "ieOppose": {},
    "conduitSupport": {},
    "conduitOppose": {
-    "2026": 3187086.68
+    "2026": 3187086.6799999997
    }
   },
   "industry": {
@@ -4552,7 +4552,7 @@
    "ieSupport": 0,
    "ieOppose": 0,
    "conduitSupport": 0,
-   "conduitOppose": 3187086.68
+   "conduitOppose": 3187086.6799999997
   },
   "photo": "https://unitedstates.github.io/images/congress/225x275/N000190.jpg",
   "notOnBallot": true
