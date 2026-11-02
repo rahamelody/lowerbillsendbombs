@@ -1,0 +1,63 @@
+{
+  "_readme": "Hand-assembled state-legislature records for candidates who served in a PAST session (build-state-records.mjs only covers the current one). Same format as state-records.json; merged over it when the site loads.",
+  "records": {
+    "Derek Merrin|OH": {
+      "people_id": 17969,
+      "name": "Derek Merrin",
+      "chamber": "House/Assembly",
+      "district": "HD-042",
+      "state": "OH",
+      "rows": [
+        {
+          "topic": "health",
+          "aligned": false,
+          "tier": "against",
+          "what": "repealing the ACA and block-granting Medicaid",
+          "short": "to repeal the ACA",
+          "role": "Cosponsor",
+          "bill": "HCR6",
+          "title": "Urge repeal and replacement of Affordable Care Act",
+          "url": "https://www.legislature.ohio.gov/legislation/legislation-summary?id=GA132-HCR-6",
+          "session": "132nd General Assembly (2017–2018)"
+        },
+        {
+          "topic": "israel",
+          "aligned": false,
+          "tier": "against",
+          "what": "resolutions supporting Israel",
+          "role": "Cosponsor",
+          "bill": "HCR26",
+          "title": "Recognize Jerusalem as capital of Israel",
+          "url": "https://www.legislature.ohio.gov/legislation/legislation-summary?id=GA132-HCR-26",
+          "session": "132nd General Assembly (2017–2018)",
+          "badgeLabel": "Supports Israel"
+        },
+        {
+          "topic": "israel",
+          "aligned": false,
+          "tier": "against",
+          "what": "resolutions supporting Israel",
+          "role": "Cosponsor",
+          "bill": "HCR10",
+          "title": "Condemn manifestations of anti-semitism",
+          "url": "https://www.legislature.ohio.gov/legislation/legislation-summary?id=GA132-HCR-10",
+          "session": "132nd General Assembly (2017–2018)",
+          "badgeLabel": "Supports Israel"
+        },
+        {
+          "topic": "israel",
+          "aligned": false,
+          "tier": "against",
+          "what": "resolutions supporting Israel",
+          "role": "Cosponsor",
+          "bill": "HR292",
+          "title": "Express support for Israeli people; condemn recent attacks",
+          "url": "https://www.legislature.ohio.gov/legislation/135/hr292",
+          "session": "135th General Assembly (2023–2024)",
+          "badgeLabel": "Supports Israel"
+        }
+      ],
+      "url": "https://legiscan.com/OH/people/derek-merrin/id/17969"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-02T04:06:46.073Z",
- "moneyAsOf": "2026-11-01T23:22:21.364Z",
+ "generated": "2026-11-02T04:38:27.428Z",
+ "moneyAsOf": "2026-11-02T04:38:27.197Z",
  "filingsThrough": "2026-11-01",
  "liveCheckedAt": "2026-11-01T15:52:14.703Z",
  "races": {
@@ -1624,9 +1624,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 99020.2
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {
@@ -1649,7 +1647,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 99020.2
+      "conduitOppose": 0
      },
      "receipts": 7649794,
      "fromList": false,
@@ -4534,9 +4532,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 150000
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {
@@ -4560,7 +4556,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 150000
+      "conduitOppose": 0
      },
      "receipts": 6325324,
      "fromList": false,
@@ -6200,9 +6196,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2024": 132000
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {
@@ -6226,7 +6220,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 132000
+      "conduitOppose": 0
      },
      "receipts": 7050383,
      "fromList": false,
@@ -8157,10 +8151,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2024": 205000,
-       "2026": 100000
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {
@@ -8180,7 +8171,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 305000
+      "conduitOppose": 0
      },
      "receipts": 7248106,
      "fromList": false,
@@ -10113,9 +10104,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 467000
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {},
@@ -10127,7 +10116,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 467000
+      "conduitOppose": 0
      },
      "receipts": 2692713,
      "fromList": false,
@@ -10463,9 +10452,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 299290.22
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {},
@@ -10482,7 +10469,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 299290.22
+      "conduitOppose": 0
      },
      "receipts": 4351792,
      "fromList": false,
@@ -12332,130 +12319,6 @@
   },
   "FL-S": {
    "key": "FL-S",
-   "type": "senate",
-   "state": "FL",
-   "district": null,
-   "special": false,
-   "openSeat": false,
-   "candidates": [
-    {
-     "name": "Ashley Moody",
-     "party": "R",
-     "incumbent": true,
-     "formerMember": false,
-     "sittingElsewhere": null,
-     "bioguide": "M001244",
-     "fecId": "S6FL00640",
-     "hasVotes": true,
-     "money": {
-      "direct": {
-       "2026": 9994
-      },
-      "ieSupport": {},
-      "ieOppose": {},
-      "conduitSupport": {},
-      "conduitOppose": {}
-     },
-     "industry": {
-      "health": {
-       "2026": 130000
-      },
-      "realestate": {
-       "2026": 15000
-      },
-      "defense": {
-       "2026": 73500
-      }
-     },
-     "moneyTotals": {
-      "direct": 9994,
-      "ieSupport": 0,
-      "ieOppose": 0,
-      "conduitSupport": 0,
-      "conduitOppose": 0
-     },
-     "receipts": 14524032,
-     "fromList": false,
-     "state": "FL",
-     "wiki": "Ashley Moody",
-     "featured": true,
-     "photo": "https://unitedstates.github.io/images/congress/225x275/M001244.jpg",
-     "photoCredit": "Official congressional portrait"
-    },
-    {
-     "name": "Angie Nixon",
-     "party": "D",
-     "incumbent": false,
-     "formerMember": false,
-     "sittingElsewhere": null,
-     "bioguide": null,
-     "fecId": "S6FL00830",
-     "hasVotes": false,
-     "money": {
-      "direct": {},
-      "ieSupport": {},
-      "ieOppose": {},
-      "conduitSupport": {},
-      "conduitOppose": {}
-     },
-     "industry": {
-      "health": {},
-      "realestate": {},
-      "defense": {}
-     },
-     "moneyTotals": {
-      "direct": 0,
-      "ieSupport": 0,
-      "ieOppose": 0,
-      "conduitSupport": 0,
-      "conduitOppose": 0
-     },
-     "receipts": 11319380,
-     "fromList": false,
-     "state": "FL",
-     "wiki": "Angie Nixon",
-     "featured": true,
-     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Angie_Nixon_official_portrait.jpg/330px-Angie_Nixon_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-     "photoCredit": "Wikipedia"
-    },
-    {
-     "name": "Neil J. Gillespie",
-     "party": "I",
-     "incumbent": false,
-     "formerMember": false,
-     "sittingElsewhere": null,
-     "bioguide": null,
-     "fecId": null,
-     "hasVotes": false,
-     "money": {
-      "direct": {},
-      "ieSupport": {},
-      "ieOppose": {},
-      "conduitSupport": {},
-      "conduitOppose": {}
-     },
-     "industry": {
-      "health": {},
-      "realestate": {},
-      "defense": {}
-     },
-     "moneyTotals": {
-      "direct": 0,
-      "ieSupport": 0,
-      "ieOppose": 0,
-      "conduitSupport": 0,
-      "conduitOppose": 0
-     },
-     "receipts": 0,
-     "fromList": false,
-     "state": "FL",
-     "wiki": null,
-     "featured": false
-    }
-   ]
-  },
-  "FL-S2": {
-   "key": "FL-S2",
    "type": "senate",
    "state": "FL",
    "district": null,
@@ -17493,9 +17356,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 224343.62
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {
@@ -17519,7 +17380,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 224343.62
+      "conduitOppose": 0
      },
      "receipts": 9101898,
      "fromList": false,
@@ -29626,9 +29487,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 760499.37
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {},
@@ -29640,7 +29499,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 760499.37
+      "conduitOppose": 0
      },
      "receipts": 6762643,
      "fromList": true,
@@ -31719,9 +31578,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 525852.99
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {},
@@ -31733,7 +31590,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 525852.99
+      "conduitOppose": 0
      },
      "receipts": 2527072,
      "fromList": false,
@@ -37320,9 +37177,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 347351.24
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {},
@@ -37334,7 +37189,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 347351.24
+      "conduitOppose": 0
      },
      "receipts": 2217821,
      "fromList": false,
@@ -38057,173 +37912,6 @@
   },
   "OH-S": {
    "key": "OH-S",
-   "type": "senate",
-   "state": "OH",
-   "district": null,
-   "special": false,
-   "openSeat": false,
-   "candidates": [
-    {
-     "name": "Jon Husted",
-     "party": "R",
-     "incumbent": true,
-     "formerMember": false,
-     "sittingElsewhere": null,
-     "bioguide": "H001104",
-     "fecId": "S6OH00304",
-     "hasVotes": true,
-     "money": {
-      "direct": {
-       "2026": 9994
-      },
-      "ieSupport": {},
-      "ieOppose": {},
-      "conduitSupport": {},
-      "conduitOppose": {}
-     },
-     "industry": {
-      "health": {
-       "2026": 142625
-      },
-      "realestate": {
-       "2026": 16000
-      },
-      "defense": {
-       "2026": 48500
-      }
-     },
-     "moneyTotals": {
-      "direct": 9994,
-      "ieSupport": 0,
-      "ieOppose": 0,
-      "conduitSupport": 0,
-      "conduitOppose": 0
-     },
-     "receipts": 19894786,
-     "fromList": false,
-     "state": "OH",
-     "wiki": "Jon Husted",
-     "featured": true,
-     "photo": "https://unitedstates.github.io/images/congress/225x275/H001104.jpg",
-     "photoCredit": "Official congressional portrait"
-    },
-    {
-     "name": "Sherrod Brown",
-     "party": "D",
-     "incumbent": false,
-     "formerMember": true,
-     "sittingElsewhere": null,
-     "bioguide": "B000944",
-     "fecId": "S6OH00163",
-     "hasVotes": true,
-     "money": {
-      "direct": {},
-      "ieSupport": {},
-      "ieOppose": {},
-      "conduitSupport": {},
-      "conduitOppose": {}
-     },
-     "industry": {
-      "health": {
-       "2022": 6000,
-       "2024": 28000
-      },
-      "realestate": {
-       "2022": 3500,
-       "2024": 55000
-      },
-      "defense": {
-       "2022": 2500,
-       "2024": 37000
-      }
-     },
-     "moneyTotals": {
-      "direct": 0,
-      "ieSupport": 0,
-      "ieOppose": 0,
-      "conduitSupport": 0,
-      "conduitOppose": 0
-     },
-     "receipts": 68409200,
-     "fromList": false,
-     "state": "OH",
-     "wiki": "Sherrod Brown",
-     "featured": true,
-     "photo": "https://unitedstates.github.io/images/congress/225x275/B000944.jpg",
-     "photoCredit": "Official congressional portrait"
-    },
-    {
-     "name": "Bill Redpath",
-     "party": "L",
-     "incumbent": false,
-     "formerMember": false,
-     "sittingElsewhere": null,
-     "bioguide": null,
-     "fecId": "S6OH00429",
-     "hasVotes": false,
-     "money": {
-      "direct": {},
-      "ieSupport": {},
-      "ieOppose": {},
-      "conduitSupport": {},
-      "conduitOppose": {}
-     },
-     "industry": {
-      "health": {},
-      "realestate": {},
-      "defense": {}
-     },
-     "moneyTotals": {
-      "direct": 0,
-      "ieSupport": 0,
-      "ieOppose": 0,
-      "conduitSupport": 0,
-      "conduitOppose": 0
-     },
-     "receipts": 55256,
-     "fromList": false,
-     "state": "OH",
-     "wiki": null,
-     "featured": false
-    },
-    {
-     "name": "Greg Levy",
-     "party": "I",
-     "incumbent": false,
-     "formerMember": false,
-     "sittingElsewhere": null,
-     "bioguide": null,
-     "fecId": "S6OH00395",
-     "hasVotes": false,
-     "money": {
-      "direct": {},
-      "ieSupport": {},
-      "ieOppose": {},
-      "conduitSupport": {},
-      "conduitOppose": {}
-     },
-     "industry": {
-      "health": {},
-      "realestate": {},
-      "defense": {}
-     },
-     "moneyTotals": {
-      "direct": 0,
-      "ieSupport": 0,
-      "ieOppose": 0,
-      "conduitSupport": 0,
-      "conduitOppose": 0
-     },
-     "receipts": 132712,
-     "fromList": false,
-     "state": "OH",
-     "wiki": null,
-     "featured": true
-    }
-   ]
-  },
-  "OH-S2": {
-   "key": "OH-S2",
    "type": "senate",
    "state": "OH",
    "district": null,
@@ -40618,9 +40306,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 249313.95
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {
@@ -40641,7 +40327,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 249313.95
+      "conduitOppose": 0
      },
      "receipts": 6519139,
      "fromList": false,
@@ -42685,9 +42371,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 11568.55
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {},
@@ -42699,7 +42383,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 11568.55
+      "conduitOppose": 0
      },
      "receipts": 24216841,
      "fromList": false,
@@ -46443,9 +46127,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 1499381.98
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {
@@ -46468,7 +46150,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 1499381.98
+      "conduitOppose": 0
      },
      "receipts": 6814267,
      "fromList": false,
@@ -47187,9 +46869,7 @@
        "2024": 1061283.9600000002
       },
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 100720
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {},
@@ -47201,7 +46881,7 @@
       "ieSupport": 0,
       "ieOppose": 1061283.9600000002,
       "conduitSupport": 0,
-      "conduitOppose": 100720
+      "conduitOppose": 0
      },
      "receipts": 3115205,
      "fromList": false,
@@ -47694,9 +47374,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 604763.9099999999
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {},
@@ -47708,7 +47386,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 604763.9099999999
+      "conduitOppose": 0
      },
      "receipts": 1862407,
      "fromList": false,
@@ -48235,9 +47913,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 1200584.12
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {},
@@ -48249,7 +47925,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 1200584.12
+      "conduitOppose": 0
      },
      "receipts": 4009074,
      "fromList": false,
@@ -48315,9 +47991,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 100720
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {},
@@ -48329,7 +48003,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 100720
+      "conduitOppose": 0
      },
      "receipts": 2021118,
      "fromList": false,
@@ -49281,9 +48955,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2024": 150000
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {
@@ -49305,7 +48977,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 150000
+      "conduitOppose": 0
      },
      "receipts": 7589812,
      "fromList": false,
@@ -52142,9 +51814,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {},
-      "conduitOppose": {
-       "2026": 299631.98
-      }
+      "conduitOppose": {}
      },
      "industry": {
       "health": {
@@ -52166,7 +51836,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 299631.98
+      "conduitOppose": 0
      },
      "receipts": 9101596,
      "fromList": true,

@@ -55,7 +55,7 @@ for (const cid of [UDP, ...conduits]) {
   const items = await pages('schedules/schedule_e/efile', { committee_id: cid, min_dissemination_date: since, sort: '-expenditure_amount', most_recent: 'true' });
   for (const r of items) {
     if (!r.candidate_id || !r.support_oppose_indicator) continue;
-    rows.push({ spe_id: cid, cand_id: r.candidate_id, sup_opp: r.support_oppose_indicator, amount: Number(r.expenditure_amount) || 0, dissem: r.dissemination_date, file_number: r.file_number, tran_id: r.transaction_id });
+    rows.push({ spe_id: cid, cand_id: r.candidate_id, sup_opp: r.support_oppose_indicator, ele: r.election_type || r.election_type_full || null, amount: Number(r.expenditure_amount) || 0, dissem: r.dissemination_date, file_number: r.file_number, tran_id: r.transaction_id });
   }
   await sleep(400);
 }

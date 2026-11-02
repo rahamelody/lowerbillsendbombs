@@ -126,6 +126,13 @@ for (const [st, state] of Object.entries(STATES)) {
     if (parsed) result[`${st}-${suffix}`] = { type: 'senate', state: st, special: suffix === 'S2', candidates: parsed.cands };
   }
 }
+// Wikipedia redirects the "special election" title to the regular page in states that only have the special this year (Ohio, Florida):
+// when both pages hold the same candidates, keep one race, flagged as a special election, instead of showing the same ballot twice
+for (const key of Object.keys(result)) {
+  if (!key.endsWith('-S2')) continue;
+  const reg = result[key.replace(/-S2$/, '-S')], names = r => r.candidates.map(c => c.name).sort().join('|');
+  if (reg && names(reg) === names(result[key])) { reg.special = true; delete result[key]; }
+}
 writeJSON(`${DATA}/nominees.json`, result);
 const houses = Object.values(result).filter(r => r.type === 'house').length;
 const senates = Object.values(result).filter(r => r.type === 'senate').length;

@@ -168,7 +168,16 @@
             "date": "Oct. 23, 2026",
             "kind": "news"
           }
-        ]
+        ],
+        "badge": {
+          "tier": "against",
+          "label": "States opposition to Medicare for All"
+        },
+        "note": {
+          "text": "Based on her Oct. 16 debate remarks, where she called Medicare for All “a pipedream.” Not a vote.",
+          "source": "Minnesota Reformer",
+          "url": "https://www.kaxe.org/local-news/2026-10-23/in-senate-debate-tafoya-and-flanagan-cant-shake-ties-to-unpopular-men"
+        }
       }
     },
     "S6MT00295": {
@@ -538,6 +547,116 @@
           "source": "KCUR, Oct. 26, 2026",
           "url": "https://www.kcur.org/podcast/up-to-date/2026-10-26/u-s-senate-candidate-adam-hamilton-blasts-trumps-tariffs-for-hurting-kansas-businesses"
         }
+      }
+    },
+    "H6MI10359": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "Let’s defang Iran and then you can have the conversation about War Powers after the fact.",
+            "source": "WJR “Focus with Paul W” radio interview, as transcribed on a DCCC research page (a Democratic committee)",
+            "url": "https://dccc.org/races/mi-10/research/bouchard-jr-supported-the-iran-war-and-said-it-was-necessary-while-gas-prices/",
+            "date": "Mar. 4, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "I’ve seen peace through strength save my friends’ lives, and that’s what this is",
+            "source": "Politico, as quoted on a DCCC research page (a Democratic committee)",
+            "url": "https://dccc.org/races/mi-10/research/bouchard-jr-supported-the-iran-war-and-said-it-was-necessary-while-gas-prices/",
+            "date": "Mar. 30, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "I have been clear, the war in Iran needs to end.",
+            "source": "Campaign website",
+            "url": "https://www.bouchardforcongress.com/",
+            "date": "retrieved Nov 2, 2026",
+            "kind": "campaign-site"
+          }
+        ],
+        "badge": {
+          "tier": "mixed",
+          "label": "Changed position on the war"
+        },
+        "flag": "Defended the war in March 2026, saying to “defang Iran” first and discuss war powers later, and his campaign site now says the war needs to end. The March quotes come from a Democratic committee’s research page, so check them against the original outlets."
+      },
+      "health": {
+        "quotes": [
+          {
+            "text": "My opponent wants to pick your health care for you, in a one-size fits all socialist program. It would cost trillions and raise all of our taxes.",
+            "source": "Campaign website",
+            "url": "https://www.bouchardforcongress.com/",
+            "date": "retrieved Nov 2, 2026",
+            "kind": "campaign-site"
+          },
+          {
+            "text": "I want you to pick the health care that works for you and your family. It should be low cost, high quality, and transparent about what you are paying for.",
+            "source": "Campaign website",
+            "url": "https://www.bouchardforcongress.com/",
+            "date": "retrieved Nov 2, 2026",
+            "kind": "campaign-site"
+          }
+        ],
+        "badge": {
+          "tier": "against",
+          "label": "Opposes a one-size-fits-all health plan"
+        },
+        "note": {
+          "text": "Based on his campaign website, where he opposes a “one-size fits all socialist program” that he says his opponent backs. He doesn’t name Medicare for All.",
+          "source": "Bouchard for Congress",
+          "url": "https://www.bouchardforcongress.com/"
+        }
+      }
+    },
+    "H6MI10276": {
+      "housing": {
+        "quotes": [
+          {
+            "text": "Regardless of what happens with this or any other bill in Washington, the reality for families here in Michigan is the same: housing costs are too high, supply is too low, and too many people feel locked out of the American Dream.",
+            "source": "Christina Hines, “The American Dream Is Frozen” (campaign Substack)",
+            "url": "https://christinahinesforcongress.substack.com/p/the-american-dream-is-frozen",
+            "date": "Jun. 25, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "Reduce tariffs that increase the cost of building materials and ultimately make homes more expensive.",
+            "source": "Christina Hines, “The American Dream Is Frozen” (campaign Substack)",
+            "url": "https://christinahinesforcongress.substack.com/p/the-american-dream-is-frozen",
+            "date": "Jun. 25, 2026",
+            "kind": "news"
+          }
+        ]
+      }
+    },
+    "H4OH09169": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "I do trust [Trump] on this issue…I hope the conflict with Iran comes to an end here very, very quickly.",
+            "source": "Ohio Capital Journal debate coverage, as quoted by Guides.vote",
+            "url": "https://guides.vote/guide/2026-ohio-oh-09-us-house-voters-guide/",
+            "date": "Apr. 20, 2026",
+            "kind": "news"
+          }
+        ]
+      },
+      "health": {
+        "quotes": [
+          {
+            "text": "We need to focus on lowering our prescription drug costs.",
+            "source": "Candidate video, as quoted by Guides.vote",
+            "url": "https://guides.vote/guide/2026-ohio-oh-09-us-house-voters-guide/",
+            "date": "undated",
+            "kind": "news"
+          },
+          {
+            "text": "better patient access through fewer regulations",
+            "source": "Campaign website, as quoted by Guides.vote",
+            "url": "https://guides.vote/guide/2026-ohio-oh-09-us-house-voters-guide/",
+            "date": "undated",
+            "kind": "campaign-site"
+          }
+        ]
       }
     }
   }

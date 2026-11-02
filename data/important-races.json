@@ -1,38 +1,37 @@
 {
  "AL-2": {
-  "level": "lean",
+  "level": "tilt",
   "ratings": [
-   "likely",
-   "likely",
-   "likely",
-   "lean"
+   "lean",
+   "lean",
+   "tilt"
   ]
  },
  "AK-AL": {
   "level": "lean",
   "ratings": [
+   "lean",
+   "lean",
    "likely",
-   "likely",
-   "likely",
-   "likely",
+   "lean",
    "lean"
   ]
  },
  "AK-S": {
-  "level": "lean",
+  "level": "tossup",
   "ratings": [
    "lean",
    "lean",
-   "lean",
-   "lean",
-   "lean",
+   "tossup",
    "lean"
   ]
  },
  "AZ-1": {
-  "level": "lean",
+  "level": "tilt",
   "ratings": [
    "lean",
+   "lean",
+   "tilt",
    "lean",
    "likely"
   ]
@@ -41,42 +40,29 @@
   "level": "lean",
   "ratings": [
    "likely",
+   "lean",
+   "lean",
+   "lean"
+  ]
+ },
+ "AZ-5": {
+  "level": "lean",
+  "ratings": [
    "likely",
-   "likely",
-   "likely",
+   "solid",
+   "solid",
+   "safe",
    "lean"
   ]
  },
  "AZ-6": {
-  "level": "lean",
+  "level": "tilt",
   "ratings": [
    "likely",
-   "lean"
-  ]
- },
- "AR-S": {
-  "level": "likely",
-  "ratings": [
-   "solid",
-   "safe",
-   "likely",
-   "safe",
-   "solid",
-   "solid",
-   "solid",
-   "safe",
-   "solid",
-   "safe"
-  ]
- },
- "CA-6": {
-  "level": "lean",
-  "ratings": [
-   "safe",
    "lean",
-   "solid",
-   "likely",
-   "safe"
+   "tilt",
+   "lean",
+   "likely"
   ]
  },
  "CA-13": {
@@ -84,8 +70,8 @@
   "ratings": [
    "likely",
    "tilt",
-   "lean",
-   "lean",
+   "likely",
+   "likely",
    "likely"
   ]
  },
@@ -103,11 +89,20 @@
    "likely",
    "tilt",
    "lean",
-   "lean",
+   "likely",
    "likely"
   ]
  },
  "CO-3": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "likely",
+   "likely",
+   "lean"
+  ]
+ },
+ "CO-4": {
   "level": "lean",
   "ratings": [
    "lean",
@@ -117,13 +112,22 @@
    "lean"
   ]
  },
- "CO-5": {
+ "CO-8": {
   "level": "tilt",
   "ratings": [
    "likely",
    "lean",
    "tilt",
+   "lean"
+  ]
+ },
+ "FL-4": {
+  "level": "lean",
+  "ratings": [
    "lean",
+   "solid",
+   "solid",
+   "safe",
    "likely"
   ]
  },
@@ -131,8 +135,7 @@
   "level": "lean",
   "ratings": [
    "lean",
-   "likely",
-   "likely",
+   "lean",
    "likely",
    "likely"
   ]
@@ -141,7 +144,6 @@
   "level": "lean",
   "ratings": [
    "lean",
-   "likely",
    "likely",
    "likely"
   ]
@@ -159,40 +161,37 @@
  "FL-13": {
   "level": "lean",
   "ratings": [
-   "likely",
    "lean",
    "lean",
-   "likely",
-   "likely"
+   "lean",
+   "lean",
+   "lean"
   ]
  },
  "FL-14": {
-  "level": "lean",
+  "level": "tilt",
   "ratings": [
    "lean",
-   "safe"
+   "tilt",
+   "lean"
   ]
  },
  "FL-16": {
   "level": "lean",
   "ratings": [
    "likely",
-   "solid",
+   "likely",
    "likely",
    "likely",
    "lean"
   ]
  },
- "FL-22": {
+ "FL-25": {
   "level": "tilt",
   "ratings": [
-   "tilt"
-  ]
- },
- "FL-25": {
-  "level": "lean",
-  "ratings": [
    "lean",
+   "lean",
+   "tilt",
    "lean",
    "lean"
   ]
@@ -210,31 +209,16 @@
  "FL-S": {
   "level": "lean",
   "ratings": [
-   "solid",
    "likely",
    "likely",
    "likely",
+   "likely",
    "solid",
-   "solid",
+   "likely",
+   "likely",
    "likely",
    "lean",
-   "safe",
    "likely",
-   "likely"
-  ]
- },
- "FL-S2": {
-  "level": "lean",
-  "ratings": [
-   "solid",
-   "likely",
-   "likely",
-   "likely",
-   "solid",
-   "solid",
-   "likely",
-   "lean",
-   "safe",
    "likely",
    "likely"
   ]
@@ -248,27 +232,22 @@
    "likely",
    "safe",
    "likely",
-   "lean",
-   "lean",
+   "likely",
    "lean",
    "likely",
-   "safe",
+   "likely",
+   "likely",
+   "solid",
    "safe"
   ]
  },
- "ID-S": {
-  "level": "likely",
+ "IN-5": {
+  "level": "lean",
   "ratings": [
-   "solid",
-   "safe",
    "likely",
-   "safe",
-   "solid",
-   "solid",
-   "solid",
-   "safe",
-   "solid",
-   "safe"
+   "lean",
+   "likely",
+   "likely"
   ]
  },
  "IA-1": {
@@ -282,9 +261,9 @@
   ]
  },
  "IA-2": {
-  "level": "tilt",
+  "level": "lean",
   "ratings": [
-   "tilt"
+   "lean"
   ]
  },
  "IA-3": {
@@ -293,14 +272,15 @@
    "lean",
    "lean",
    "tilt",
+   "lean",
    "likely"
   ]
  },
  "IA-S": {
-  "level": "tilt",
+  "level": "lean",
   "ratings": [
    "lean",
-   "tilt",
+   "lean",
    "lean"
   ]
  },
@@ -309,17 +289,12 @@
   "ratings": [
    "lean",
    "lean",
-   "lean",
-   "lean",
-   "likely"
+   "lean"
   ]
  },
  "KY-6": {
   "level": "lean",
   "ratings": [
-   "likely",
-   "lean",
-   "lean",
    "lean"
   ]
  },
@@ -331,11 +306,13 @@
    "likely",
    "likely",
    "solid",
-   "solid",
-   "solid",
+   "likely",
    "safe",
    "solid",
-   "safe"
+   "solid",
+   "likely",
+   "likely",
+   "likely"
   ]
  },
  "ME-2": {
@@ -343,7 +320,6 @@
   "ratings": [
    "lean",
    "lean",
-   "likely",
    "lean"
   ]
  },
@@ -352,28 +328,29 @@
   "ratings": [
    "lean",
    "lean",
+   "likely",
+   "lean",
    "lean",
    "lean"
   ]
  },
  "MI-4": {
-  "level": "tilt",
+  "level": "lean",
   "ratings": [
-   "lean",
-   "tilt",
    "lean"
   ]
  },
  "MI-7": {
   "level": "lean",
   "ratings": [
-   "lean",
+   "likely",
    "lean"
   ]
  },
  "MI-10": {
   "level": "tilt",
   "ratings": [
+   "lean",
    "tilt",
    "likely",
    "lean"
@@ -385,23 +362,36 @@
    "lean",
    "lean",
    "lean",
+   "likely",
    "tilt",
    "lean",
+   "lean",
    "likely",
+   "likely"
+  ]
+ },
+ "MN-1": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "lean",
    "lean"
   ]
  },
  "MN-S": {
   "level": "lean",
   "ratings": [
-   "likely",
+   "lean",
    "likely",
    "lean",
    "likely",
+   "lean",
+   "lean",
+   "lean",
    "likely",
    "lean",
-   "lean",
-   "lean",
+   "likely",
    "likely",
    "likely"
   ]
@@ -409,34 +399,26 @@
  "MS-S": {
   "level": "likely",
   "ratings": [
-   "solid",
+   "likely",
    "likely",
    "likely",
    "safe",
-   "solid",
-   "solid",
-   "solid",
+   "likely",
+   "likely",
+   "likely",
+   "likely",
+   "likely",
    "likely",
    "solid",
-   "safe"
+   "likely"
   ]
  },
  "MO-2": {
   "level": "lean",
   "ratings": [
+   "lean",
    "likely",
-   "likely",
-   "solid",
-   "lean"
-  ]
- },
- "MT-1": {
-  "level": "lean",
-  "ratings": [
-   "lean",
-   "lean",
-   "lean",
-   "lean"
+   "solid"
   ]
  },
  "MT-S": {
@@ -444,35 +426,38 @@
   "ratings": [
    "solid",
    "likely",
-   "safe",
+   "likely",
    "likely",
    "solid",
    "solid",
+   "safe",
+   "likely",
    "likely",
    "safe",
-   "solid",
+   "likely",
    "safe"
   ]
  },
  "NE-2": {
-  "level": "tilt",
-  "ratings": [
-   "likely",
-   "likely",
-   "tilt",
-   "likely"
-  ]
- },
- "NE-S": {
   "level": "lean",
   "ratings": [
    "likely",
    "likely",
    "lean",
+   "likely"
+  ]
+ },
+ "NE-S": {
+  "level": "tilt",
+  "ratings": [
+   "lean",
+   "lean",
    "likely",
    "likely",
    "lean",
+   "tilt",
    "likely",
+   "lean",
    "lean",
    "lean",
    "lean",
@@ -488,13 +473,22 @@
    "likely"
   ]
  },
+ "NV-2": {
+  "level": "tilt",
+  "ratings": [
+   "lean",
+   "lean",
+   "tilt",
+   "lean"
+  ]
+ },
  "NV-3": {
   "level": "lean",
   "ratings": [
    "likely",
    "likely",
    "lean",
-   "lean"
+   "likely"
   ]
  },
  "NH-1": {
@@ -503,11 +497,11 @@
    "likely",
    "likely",
    "lean",
-   "lean"
+   "likely"
   ]
  },
  "NH-S": {
-  "level": "lean",
+  "level": "tilt",
   "ratings": [
    "lean",
    "lean",
@@ -515,7 +509,18 @@
    "likely",
    "likely",
    "lean",
+   "tilt",
    "lean",
+   "lean",
+   "lean",
+   "likely",
+   "likely",
+   "likely"
+  ]
+ },
+ "NJ-2": {
+  "level": "lean",
+  "ratings": [
    "lean",
    "likely",
    "likely",
@@ -550,6 +555,8 @@
    "safe",
    "solid",
    "solid",
+   "safe",
+   "solid",
    "likely",
    "safe",
    "solid",
@@ -580,18 +587,46 @@
    "likely",
    "likely",
    "tilt",
+   "likely"
+  ]
+ },
+ "NY-17": {
+  "level": "lean",
+  "ratings": [
+   "lean"
+  ]
+ },
+ "NY-21": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "lean",
+   "lean",
    "lean"
   ]
  },
  "NC-1": {
   "level": "tilt",
   "ratings": [
-   "tilt"
+   "lean",
+   "tilt",
+   "lean"
+  ]
+ },
+ "NC-3": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "likely",
+   "likely",
+   "likely"
   ]
  },
  "NC-11": {
-  "level": "lean",
+  "level": "tilt",
   "ratings": [
+   "lean",
+   "tilt",
    "lean"
   ]
  },
@@ -607,12 +642,66 @@
    "lean",
    "lean",
    "likely",
-   "lean",
+   "likely",
+   "likely",
    "solid",
    "safe"
   ]
  },
  "OH-1": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "likely",
+   "lean",
+   "likely"
+  ]
+ },
+ "OH-7": {
+  "level": "tossup",
+  "ratings": [
+   "tossup",
+   "tilt"
+  ]
+ },
+ "OH-9": {
+  "level": "tilt",
+  "ratings": [
+   "lean",
+   "lean",
+   "tilt"
+  ]
+ },
+ "OH-10": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "lean",
+   "lean",
+   "lean"
+  ]
+ },
+ "OH-15": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "lean",
+   "lean",
+   "lean",
+   "lean"
+  ]
+ },
+ "OH-S": {
+  "level": "tilt",
+  "ratings": [
+   "lean",
+   "lean",
+   "tilt",
+   "lean",
+   "lean"
+  ]
+ },
+ "PA-7": {
   "level": "tilt",
   "ratings": [
    "likely",
@@ -621,94 +710,45 @@
    "lean"
   ]
  },
- "OH-7": {
-  "level": "tossup",
-  "ratings": [
-   "tossup"
-  ]
- },
- "OH-9": {
+ "PA-8": {
   "level": "tilt",
   "ratings": [
    "lean",
-   "tilt"
-  ]
- },
- "OH-15": {
-  "level": "lean",
-  "ratings": [
-   "likely",
-   "likely",
-   "likely",
-   "likely",
-   "lean"
-  ]
- },
- "OH-S": {
-  "level": "lean",
-  "ratings": [
-   "lean",
-   "lean",
-   "lean",
-   "lean"
-  ]
- },
- "OH-S2": {
-  "level": "lean",
-  "ratings": [
-   "lean",
-   "lean",
-   "lean",
-   "lean"
-  ]
- },
- "PA-1": {
-  "level": "lean",
-  "ratings": [
-   "lean",
-   "lean",
-   "lean",
-   "lean"
-  ]
- },
- "PA-7": {
-  "level": "lean",
-  "ratings": [
-   "lean",
-   "lean",
+   "tilt",
    "lean"
   ]
  },
  "PA-10": {
-  "level": "lean",
+  "level": "tilt",
   "ratings": [
    "lean",
+   "lean",
+   "tilt",
    "lean"
   ]
  },
  "SC-1": {
-  "level": "lean",
+  "level": "tilt",
   "ratings": [
    "lean",
-   "likely",
-   "likely",
-   "likely"
+   "tilt",
+   "lean"
   ]
  },
  "SC-S": {
-  "level": "lean",
+  "level": "tilt",
   "ratings": [
-   "likely",
    "lean",
    "lean",
    "lean",
-   "likely",
-   "likely",
-   "likely",
    "lean",
-   "likely",
-   "likely",
-   "likely"
+   "lean",
+   "tilt",
+   "lean",
+   "lean",
+   "lean",
+   "lean",
+   "lean"
   ]
  },
  "SD-S": {
@@ -716,9 +756,11 @@
   "ratings": [
    "solid",
    "safe",
-   "likely",
+   "safe",
    "safe",
    "solid",
+   "solid",
+   "safe",
    "solid",
    "solid",
    "safe",
@@ -726,32 +768,44 @@
    "likely"
   ]
  },
+ "TX-9": {
+  "level": "lean",
+  "ratings": [
+   "likely",
+   "likely",
+   "lean",
+   "likely"
+  ]
+ },
  "TX-15": {
   "level": "tilt",
   "ratings": [
-   "tilt"
+   "tilt",
+   "lean"
+  ]
+ },
+ "TX-23": {
+  "level": "lean",
+  "ratings": [
+   "lean",
+   "lean",
+   "likely",
+   "lean"
   ]
  },
  "TX-28": {
-  "level": "tilt",
+  "level": "lean",
   "ratings": [
    "likely",
+   "likely",
    "lean",
-   "tilt",
    "lean"
   ]
  },
  "TX-34": {
   "level": "lean",
   "ratings": [
-   "lean",
-   "lean"
-  ]
- },
- "TX-35": {
-  "level": "lean",
-  "ratings": [
-   "lean",
+   "likely",
    "lean",
    "lean"
   ]
@@ -759,30 +813,32 @@
  "TX-S": {
   "level": "tilt",
   "ratings": [
-   "tilt",
    "lean",
-   "lean"
+   "tilt",
+   "likely",
+   "likely"
   ]
  },
  "VA-1": {
-  "level": "lean",
+  "level": "tilt",
   "ratings": [
    "lean",
-   "lean"
+   "tilt"
   ]
  },
  "VA-2": {
-  "level": "lean",
+  "level": "tilt",
   "ratings": [
    "likely",
+   "lean",
+   "tilt",
    "lean"
   ]
  },
  "VA-5": {
   "level": "lean",
   "ratings": [
-   "likely",
-   "likely",
+   "lean",
    "likely",
    "lean"
   ]
@@ -801,7 +857,16 @@
   "ratings": [
    "lean",
    "lean",
+   "lean",
+   "lean"
+  ]
+ },
+ "WI-3": {
+  "level": "tilt",
+  "ratings": [
    "likely",
+   "lean",
+   "tilt",
    "lean"
   ]
  }

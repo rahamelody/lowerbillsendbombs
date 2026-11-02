@@ -2262,28 +2262,6 @@
  "FL-S": {
   "type": "senate",
   "state": "FL",
-  "special": false,
-  "candidates": [
-   {
-    "name": "Ashley Moody (incumbent)",
-    "party": "R",
-    "wiki": "Ashley Moody"
-   },
-   {
-    "name": "Angie Nixon",
-    "party": "D",
-    "wiki": "Angie Nixon"
-   },
-   {
-    "name": "Neil J. Gillespie",
-    "party": "I",
-    "wiki": null
-   }
-  ]
- },
- "FL-S2": {
-  "type": "senate",
-  "state": "FL",
   "special": true,
   "candidates": [
    {
@@ -7247,33 +7225,6 @@
   ]
  },
  "OH-S": {
-  "type": "senate",
-  "state": "OH",
-  "special": false,
-  "candidates": [
-   {
-    "name": "Jon Husted (incumbent)",
-    "party": "R",
-    "wiki": "Jon Husted"
-   },
-   {
-    "name": "Sherrod Brown",
-    "party": "D",
-    "wiki": "Sherrod Brown"
-   },
-   {
-    "name": "Bill Redpath",
-    "party": "L",
-    "wiki": null
-   },
-   {
-    "name": "Greg Levy",
-    "party": "I",
-    "wiki": null
-   }
-  ]
- },
- "OH-S2": {
   "type": "senate",
   "state": "OH",
   "special": true,

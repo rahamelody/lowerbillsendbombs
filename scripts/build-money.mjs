@@ -58,6 +58,9 @@ const seen2 = new Set();
 for (const r of ieRows) {
   if (!conduits[r.spe_id]) continue;
   const key = `${r.spe_id}|${r.tran_id}|${r.cy}`; if (seen2.has(key)) continue; seen2.add(key);
+  // Opposition in a GENERAL election is ordinary partisan spending (a group backing one party's nominee attacks the other), so it says nothing about the opposed
+  // candidate's stance on Israel. Only primary-stage opposition counts as a signal. Support always counts.
+  if (r.sup_opp !== 'S' && r.ele_type === 'G') continue;
   add(r.cand_id, r.sup_opp === 'S' ? 'conduitSupport' : 'conduitOppose', r.cy, Number(r.exp_amo) || 0);
 }
 
@@ -69,6 +72,8 @@ if (live) {
   for (const r of live.rows || []) {
     if (bulkFiles.has(String(r.file_number)) || !/^2026-/.test(r.dissem || '')) continue;      // bogus future dates (typos in filings) are ignored too
     const key = `${r.spe_id}|${r.tran_id}`; if (seenLive.has(key)) continue; seenLive.add(key);
+    const general = /^G/i.test(r.ele || '') || (!r.ele && (r.dissem || '') >= '2026-09-01');   // no election type in older live rows: after the primaries are over it is the general election
+    if (r.spe_id !== 'C00799031' && r.sup_opp !== 'S' && general) continue;   // general-election opposition by a conduit group is partisan, not a signal (see above)
     const kind = r.spe_id === 'C00799031' ? (r.sup_opp === 'S' ? 'ieSupport' : 'ieOppose') : (r.sup_opp === 'S' ? 'conduitSupport' : 'conduitOppose');
     add(r.cand_id, kind, 2026, r.amount); liveAdded++;
   }
