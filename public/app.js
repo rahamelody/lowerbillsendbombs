@@ -111,14 +111,13 @@ function splitTitle(title) {
 }
 
 function card(c, extra = false) {
-  const first = c.party.split('/')[0];
   const focus = FOCUS && c.name === FOCUS;
   const photo = c.photo
     ? `<img class="photo" src="${esc(c.photo)}" alt="Portrait of ${esc(c.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'initials',textContent:'${esc(initials(c.name))}'}))">`
     : `<div class="initials" aria-hidden="true">${esc(initials(c.name))}</div>`;
   const status = c.incumbent ? '<p class="status-line inc">★ Incumbent</p>' : c.sittingElsewhere ? `<p class="status-line">Currently serves in the ${esc(c.sittingElsewhere)}</p>` : c.formerMember ? '<p class="status-line">Former member of Congress</p>' : '<p class="status-line">Challenger</p>';
-  return `<article class="ccard ${esc(first)}${focus ? ' focus' : ''}${extra ? ' extra' : ''}"${focus ? ' id="focus-col"' : ''}>
-    <div class="c-head">${photo}${c.photo && c.photoCredit && c.photoCredit !== 'Official congressional portrait' ? `<span class="credit">Photo: ${esc(c.photoCredit)}</span>` : ''}<h3>${esc(c.name)}</h3><span class="party ${esc(first)}">${esc(partyName(c.party))}</span>${status}</div>
+  return `<article class="ccard${focus ? ' focus' : ''}${extra ? ' extra' : ''}"${focus ? ' id="focus-col"' : ''}>
+    <div class="c-head">${photo}${c.photo && c.photoCredit && c.photoCredit !== 'Official congressional portrait' ? `<span class="credit">Photo: ${esc(c.photoCredit)}</span>` : ''}<h3>${esc(c.name)}</h3>${status}</div>
     ${[['health', 'Health care'], ['housing', 'Housing'], ['iran', 'Iran war'], ['israel', 'Israel / Palestine']].map(([t, label]) => `<div class="c-sec" data-topic="${t}"><button type="button" class="sec-head" aria-expanded="false"><h4>${label}</h4>${topicSummary(t, c.record)}<span class="chev" aria-hidden="true"></span></button><div class="c-detail" hidden>${topicCell(t, c.record, c)}</div></div>`).join('')}
   </article>`;
 }
@@ -177,7 +176,7 @@ function renderState(d) {
   if (d.houseRaces.length) {
     parts.push(`<section class="race"><div class="race-head"><h2>U.S. House · ${esc(d.stateName)}</h2><span class="tag">${d.houseRaces.length} district${d.houseRaces.length > 1 ? 's' : ''}</span></div><ul class="dlist">${d.houseRaces.map(h => `
       <li class="drow" data-key="${esc(h.key)}"><div class="dhead"><strong>${d.houseRaces.length === 1 && h.district === 0 ? 'At-large' : h.district === 0 ? 'At-large' : 'District ' + h.district}</strong>${h.openSeat ? '<span class="tag open">Open seat</span>' : ''}
-        <span class="chips">${h.candidates.map(c => `<span class="mini ${esc(c.party.split('/')[0])}">${esc(c.name)}${c.incumbent ? ' ★' : ''} <i>${esc(c.party.split('/')[0])}</i></span>`).join('')}${h.more ? `<span class="mini">+${h.more} more</span>` : ''}</span>
+        <span class="chips">${h.candidates.map(c => `<span class="mini">${esc(c.name)}${c.incumbent ? ' ★' : ''}</span>`).join('')}${h.more ? `<span class="mini">+${h.more} more</span>` : ''}</span>
         <button class="linkbtn" type="button" data-compare="${esc(h.key)}">Compare →</button></div><div class="dbody"></div></li>`).join('')}</ul></section>`);
   }
   parts.push(footerHTML());
@@ -196,7 +195,7 @@ function renderPeople(d) {
   results.innerHTML = one === 1 ? '<div id="detail"></div>' : `<p class="where">${one} matches for <strong>“${esc(d.query)}”</strong></p><ul class="people">${d.matches.map((m, i) => `
     <li><button type="button" class="pcard" data-i="${i}">
       ${m.photo ? `<img class="pphoto" src="${esc(m.photo)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'pphoto ini',textContent:'${esc(initials(m.name))}'}))">` : `<div class="pphoto ini">${esc(initials(m.name))}</div>`}
-      <span class="ptext"><strong>${esc(m.name)}</strong> <span class="party ${esc(m.party.split('/')[0])}">${esc(partyName(m.party))}</span><br><span class="sub">${esc(m.office)}</span><br><span class="sub">${esc(m.status)}</span></span><span class="go">View ›</span></button></li>`).join('')}</ul><div id="detail"></div>`;
+      <span class="ptext"><strong>${esc(m.name)}</strong><br><span class="sub">${esc(m.office)}</span><br><span class="sub">${esc(m.status)}</span></span><span class="go">View ›</span></button></li>`).join('')}</ul><div id="detail"></div>`;
   const open = async m => {
     const box = $('#detail'); box.innerHTML = `<p class="status"><span class="spinner"></span>Loading…</p>`;
     FOCUS = m.name;
