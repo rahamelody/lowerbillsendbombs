@@ -12,6 +12,10 @@ const ROOT = import.meta.dirname;
 const PUBLIC = path.join(ROOT, 'public');
 
 let app = load();
+// pick up edits to the data files (quotes, sites, bills...) without restarting: reload when any data file is newer than what we loaded
+const dataStamp = () => Math.max(...fs.readdirSync(DATA).filter(f => f.endsWith('.json')).map(f => fs.statSync(path.join(DATA, f)).mtimeMs));
+let loadedStamp = dataStamp();
+const freshApp = () => { const s = dataStamp(); if (s > loadedStamp && !status.running) { try { app = load(); loadedStamp = s; console.log('[data] reloaded after a data file changed'); } catch (e) { console.error('[data] reload failed, keeping the old data:', e.message); } } return app; };
 
 // ---------------------------------------------------------------- daily refresh
 // Every day at REFRESH_HOUR (local time, default 5am) -- and once at startup if the data is over a day old -- the server runs:
@@ -62,7 +66,7 @@ const send = (res, code, body, type = 'application/json') => {
 http.createServer(async (req, res) => {
   const url = new URL(req.url, 'http://x');
   const p = url.pathname;
-  const a = app;   // one consistent snapshot per request, even if a refresh swaps `app` mid-flight
+  const a = freshApp();   // one consistent snapshot per request, even if a refresh swaps `app` mid-flight
   if (p === '/api/search' || p === '/api/lookup') {
     const result = await a.search(url.searchParams.get('q') ?? url.searchParams.get('address'));
     return send(res, 200, { ...result, meta: a.meta });

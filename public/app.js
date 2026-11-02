@@ -91,7 +91,7 @@ function topicCell(topic, rec, c) {
   // a badge exists only when there is a vote or cosponsorship behind it; otherwise we show quotes, or say there's no record
   const stateHtml = stateBlock(r);
   if (r.badge?.basis === 'state') return `<p class="sub">Based on their state legislative record, not votes in Congress.</p>${stateHtml}${quotes}${ex}${votes}`;
-  if (r.badge?.basis === 'statements') return `<p class="sub">Based on their own words below, not votes.</p>${quotes}${ex}${votes}`;
+  if (r.badge?.basis === 'statements') return `<p class="sub">${r.note ? `${esc(r.note.text)} <a href="${esc(r.note.url)}" rel="noopener">${esc(r.note.source)} ↗</a>` : 'Based on their own words below, not votes.'}</p>${quotes}${ex}${votes}`;
   if (r.badge) return `${r.headline ? `<p class="txt">${esc(r.headline)}.</p>` : ''}${ex}${votes}`;   // the badge itself is the collapsed header
   if (quotes) return `${quotes}${ex}`;
   if (ex) return `${ex}<div class="sub">${c.incumbent || c.formerMember ? 'No recorded votes in our list, and no sourced quote yet.' : 'No voting record, and no sourced quote on file yet.'}</div>`;

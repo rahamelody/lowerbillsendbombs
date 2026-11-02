@@ -1,317 +1,530 @@
 {
- "_readme": "Sourced public statements, keyed by bioguide id (if the person has served in Congress) or FEC candidate id. Each entry may have 'iran' and/or 'israel': { quotes:[{text, source, url, date}] } (shown only when the candidate has no voting record). RULES: quote text must be verbatim from the linked source (keep it short; use an ellipsis rather than paraphrase); date is when it was SAID or published; max 3 per topic; never attribute a quote to a speaker unless the source does. Optional 'stance'/'summary' fields are only used when we have no votes. Optional 'flag' (short text) marks a documented change of position. Optional 'badge': {tier: full|partial|mixed|against, label} sets the collapsed label by hand when a position can't be read from phrases (used for documented changes of position).",
- "entries": {
-  "S6MI00418": {
-   "iran": {
-    "quotes": [
-     {
-      "text": "a war we don’t need to be fighting",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/media/michigan-senate-candidate-responds-backlash-over-khamenei-comments-iran-conflict-war-we-dont-need",
-      "date": "Apr. 1, 2026",
-      "kind": "news"
-     },
-     {
-      "text": "There is no legal authority for a war that Donald Trump is using to torch our tax dollars",
-      "source": "The State News (campus rally)",
-      "url": "https://statenews.com/article/2026/04/abdul-el-sayed-denounces-iran-war-calls-for-abolishing-ice-in-campus-rally",
-      "date": "Apr. 7, 2026",
-      "kind": "news"
-     },
-     {
-      "text": "Donald Trump is on the ballot through Mike Rogers. They are hip-to-hip on this war, and you are paying the cost",
-      "source": "Al Jazeera (Senate debate)",
-      "url": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash",
-      "date": "Oct. 22, 2026",
-      "kind": "news"
-     }
-    ]
-   },
-   "israel": {
-    "quotes": [
-     {
-      "text": "There is a word for annihilating 60,000-plus people",
-      "source": "The Intercept (on Gaza)",
-      "url": "https://theintercept.com/2025/11/20/abdul-el-sayed-michigan-senate-israel-gaza/",
-      "date": "Nov. 20, 2025",
-      "kind": "news"
-     },
-     {
-      "text": "I think Gaza was a Rorschach test on your values",
-      "source": "The Intercept",
-      "url": "https://theintercept.com/2025/11/20/abdul-el-sayed-michigan-senate-israel-gaza/",
-      "date": "Nov. 20, 2025",
-      "kind": "news"
-     }
-    ]
-   }
-  },
-  "S4MI00595": {
-   "iran": {
-    "quotes": [
-     {
-      "text": "Iran is an imminent threat to our country—and must not have a nuclear weapon.",
-      "source": "X post, via Bridge Michigan",
-      "url": "https://bridgemi.com/michigan-politics/fact-check-mike-rogers-john-james-shift-positions-on-iran-war/",
-      "date": "Feb. 28, 2026",
-      "kind": "news"
-     },
-     {
-      "text": "The war with Iran needs to end and end quickly.",
-      "source": "Campaign video, via Bridge Michigan",
-      "url": "https://bridgemi.com/michigan-politics/fact-check-mike-rogers-john-james-shift-positions-on-iran-war/",
-      "date": "Sept. 21, 2026",
-      "kind": "news"
-     },
-     {
-      "text": "Now's the time to start winding this thing up.",
-      "source": "Press conference, via Bridge Michigan",
-      "url": "https://bridgemi.com/michigan-politics/fact-check-mike-rogers-john-james-shift-positions-on-iran-war/",
-      "date": "late Sept. 2026",
-      "kind": "news"
-     }
-    ],
-    "flag": "Backed the war early in 2026, then called for ending it in September. Both are his own words, below.",
-    "badge": {
-     "tier": "mixed",
-     "label": "Changed position on the war"
+  "_readme": "Sourced public statements, keyed by bioguide id (if the person has served in Congress) or FEC candidate id. Each entry may have 'iran' and/or 'israel': { quotes:[{text, source, url, date}] } (shown only when the candidate has no voting record). RULES: quote text must be verbatim from the linked source (keep it short; use an ellipsis rather than paraphrase); date is when it was SAID or published; max 3 per topic; never attribute a quote to a speaker unless the source does. Optional 'stance'/'summary' fields are only used when we have no votes. Optional 'flag' (short text) marks a documented change of position. Optional 'badge': {tier: full|partial|mixed|against, label} sets the collapsed label by hand when a position can't be read from phrases (used for documented changes of position).",
+  "entries": {
+    "S6MI00418": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "a war we don’t need to be fighting",
+            "source": "Fox News",
+            "url": "https://www.foxnews.com/media/michigan-senate-candidate-responds-backlash-over-khamenei-comments-iran-conflict-war-we-dont-need",
+            "date": "Apr. 1, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "There is no legal authority for a war that Donald Trump is using to torch our tax dollars",
+            "source": "The State News (campus rally)",
+            "url": "https://statenews.com/article/2026/04/abdul-el-sayed-denounces-iran-war-calls-for-abolishing-ice-in-campus-rally",
+            "date": "Apr. 7, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "Donald Trump is on the ballot through Mike Rogers. They are hip-to-hip on this war, and you are paying the cost",
+            "source": "Al Jazeera (Senate debate)",
+            "url": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash",
+            "date": "Oct. 22, 2026",
+            "kind": "news"
+          }
+        ]
+      },
+      "israel": {
+        "quotes": [
+          {
+            "text": "There is a word for annihilating 60,000-plus people",
+            "source": "The Intercept (on Gaza)",
+            "url": "https://theintercept.com/2025/11/20/abdul-el-sayed-michigan-senate-israel-gaza/",
+            "date": "Nov. 20, 2025",
+            "kind": "news"
+          },
+          {
+            "text": "I think Gaza was a Rorschach test on your values",
+            "source": "The Intercept",
+            "url": "https://theintercept.com/2025/11/20/abdul-el-sayed-michigan-senate-israel-gaza/",
+            "date": "Nov. 20, 2025",
+            "kind": "news"
+          }
+        ]
+      }
+    },
+    "S4MI00595": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "Iran is an imminent threat to our country—and must not have a nuclear weapon.",
+            "source": "X post, via Bridge Michigan",
+            "url": "https://bridgemi.com/michigan-politics/fact-check-mike-rogers-john-james-shift-positions-on-iran-war/",
+            "date": "Feb. 28, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "The war with Iran needs to end and end quickly.",
+            "source": "Campaign video, via Bridge Michigan",
+            "url": "https://bridgemi.com/michigan-politics/fact-check-mike-rogers-john-james-shift-positions-on-iran-war/",
+            "date": "Sept. 21, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "Now's the time to start winding this thing up.",
+            "source": "Press conference, via Bridge Michigan",
+            "url": "https://bridgemi.com/michigan-politics/fact-check-mike-rogers-john-james-shift-positions-on-iran-war/",
+            "date": "late Sept. 2026",
+            "kind": "news"
+          }
+        ],
+        "flag": "Backed the war early in 2026, then called for ending it in September. Both are his own words, below.",
+        "badge": {
+          "tier": "mixed",
+          "label": "Changed position on the war"
+        }
+      },
+      "israel": {
+        "quotes": [
+          {
+            "text": "trying to out-left each other",
+            "source": "Washington Examiner (on Michigan Democrats' Israel stances)",
+            "url": "https://www.washingtonexaminer.com/?p=3761753",
+            "date": "Aug. 20, 2025",
+            "kind": "news"
+          },
+          {
+            "text": "[El-Sayed] is more worried about Gaza than your gas prices",
+            "source": "Social media post, via AP/WLOS",
+            "url": "https://wlos.com/news/nation-world/michigans-republican-gop-mike-rogers-looking-for-lead-in-senate-race-attacks-democrat-abdul-el-sayed-from-new-angles-midterm-elections",
+            "date": "Sept. 26, 2026",
+            "kind": "news"
+          }
+        ]
+      }
+    },
+    "H6NY14251": {
+      "health": {
+        "quotes": [
+          {
+            "text": "Get rid of waste and fraud, giving back to the people, not the insurance companies.",
+            "source": "Campaign website (his plan for NY-14)",
+            "url": "https://votefordiamant.com/diamants-plan-for-ny-14",
+            "date": "retrieved Nov 1, 2026",
+            "kind": "campaign-site"
+          }
+        ]
+      },
+      "housing": {
+        "quotes": [
+          {
+            "text": "Affordable Rent. Quality Homes",
+            "source": "Campaign website (home page)",
+            "url": "https://votefordiamant.com/",
+            "date": "retrieved Nov 1, 2026",
+            "kind": "campaign-site"
+          },
+          {
+            "text": "I'm a small business owner in construction, no one knows housing better than me.",
+            "source": "Campaign website (his plan for NY-14)",
+            "url": "https://votefordiamant.com/diamants-plan-for-ny-14",
+            "date": "retrieved Nov 1, 2026",
+            "kind": "campaign-site"
+          }
+        ]
+      }
+    },
+    "S6NC00415": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "I absolutely support the president’s decision to ensure that Iran will never have a nuclear weapon",
+            "source": "WFAE (on the Iran war)",
+            "url": "https://www.wfae.org/politics/2026-07-23/whatley-says-he-will-make-things-cost-less-says-cooper-was-the-states-worst-governor",
+            "date": "Jul. 23, 2026",
+            "kind": "news"
+          }
+        ]
+      }
+    },
+    "S6MN00556": {
+      "israel": {
+        "quotes": [
+          {
+            "text": "I stand with Israel",
+            "source": "Minnesota Reformer (Oct. 16 Senate debate)",
+            "url": "https://www.kaxe.org/local-news/2026-10-23/in-senate-debate-tafoya-and-flanagan-cant-shake-ties-to-unpopular-men",
+            "date": "Oct. 23, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "Calling it a genocide is an absolute misrepresentation",
+            "source": "Minnesota Reformer (Oct. 16 Senate debate, on Gaza)",
+            "url": "https://www.kaxe.org/local-news/2026-10-23/in-senate-debate-tafoya-and-flanagan-cant-shake-ties-to-unpopular-men",
+            "date": "Oct. 23, 2026",
+            "kind": "news"
+          }
+        ]
+      },
+      "health": {
+        "quotes": [
+          {
+            "text": "a pipedream",
+            "source": "Minnesota Reformer (Oct. 16 Senate debate, on Medicare for All)",
+            "url": "https://www.kaxe.org/local-news/2026-10-23/in-senate-debate-tafoya-and-flanagan-cant-shake-ties-to-unpopular-men",
+            "date": "Oct. 23, 2026",
+            "kind": "news"
+          }
+        ]
+      }
+    },
+    "S6MT00295": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "I will never support sending our sons and daughters boots on the ground into another forever war",
+            "source": "NBC Montana (Senate candidates on the Iran war)",
+            "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+            "date": "Oct. 18, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "when we get an enemy regime like the Iranian regime threatening us with nuclear weapons we need to respond",
+            "source": "NBC Montana (Senate candidates on the Iran war)",
+            "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+            "date": "Oct. 18, 2026",
+            "kind": "news"
+          }
+        ]
+      },
+      "housing": {
+        "quotes": [
+          {
+            "text": "we’ve got to rein in Washington spending. If we can do that, we’ll lower inflation",
+            "source": "NBC Montana (on housing costs)",
+            "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+            "date": "Oct. 18, 2026",
+            "kind": "news"
+          }
+        ]
+      }
+    },
+    "S6MT00253": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "I do not support the war in Iran",
+            "source": "NBC Montana (Senate candidates on the Iran war)",
+            "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+            "date": "Oct. 18, 2026",
+            "kind": "news"
+          }
+        ]
+      },
+      "housing": {
+        "quotes": [
+          {
+            "text": "providing tax incentives to construction companies that create affordable housing",
+            "source": "NBC Montana (on housing costs)",
+            "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+            "date": "Oct. 18, 2026",
+            "kind": "news"
+          }
+        ]
+      }
+    },
+    "S6MT00287": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "it’s congresses’ job to make the decision to send our sons and daughters into harm’s way",
+            "source": "NBC Montana (Senate candidates on the Iran war)",
+            "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+            "date": "Oct. 18, 2026",
+            "kind": "news"
+          }
+        ]
+      },
+      "housing": {
+        "quotes": [
+          {
+            "text": "incentivizing the type of zoning and code reform to unlock more supply",
+            "source": "NBC Montana (on housing costs)",
+            "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+            "date": "Oct. 18, 2026",
+            "kind": "news"
+          }
+        ]
+      }
+    },
+    "S6MT00261": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "we need to get out of Iran and we need to bring our troops home",
+            "source": "NBC Montana (Senate candidates on the Iran war)",
+            "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
+            "date": "Oct. 18, 2026",
+            "kind": "news"
+          }
+        ]
+      }
+    },
+    "S4NE00207": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "We were promised no new foreign wars, but here we are 185 days into a new foreign war and Nebraskans are paying the price",
+            "source": "KLKN-TV (Sept. 1 debate, on the Iran war)",
+            "url": "https://www.klkntv.com/?p=5194424",
+            "date": "Sept. 2, 2026",
+            "kind": "news"
+          }
+        ]
+      },
+      "housing": {
+        "quotes": [
+          {
+            "text": "Homeownership is becoming unattainable for the future generations and it’s because tariffs are driving this",
+            "source": "KLKN-TV (Sept. 1 debate)",
+            "url": "https://www.klkntv.com/?p=5194424",
+            "date": "Sept. 2, 2026",
+            "kind": "news"
+          }
+        ]
+      }
+    },
+    "S6NH00208": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "I certainly said that it was a mistake to go in in the first place",
+            "source": "NHPR interview (on the Iran war)",
+            "url": "https://www.nhpr.org/politics/2026-08-28/senate-primary-conversations-john-sununu-nh-newhampshire-midterms-elections-2026",
+            "date": "Aug. 28, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "Those are the objectives here, and I do think we’re on our way to achieving them",
+            "source": "PolitiFact (New Hampshire Journal podcast, on the Iran war)",
+            "url": "https://politifact.com/article/2026/oct/28/new-hampshire-senate-debate-pappas-sununu-tariffs/",
+            "date": "Mar. 12, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "I’ve said I don’t support putting boots on the ground.",
+            "source": "NHPR interview (on the Iran war)",
+            "url": "https://www.nhpr.org/politics/2026-08-28/senate-primary-conversations-john-sununu-nh-newhampshire-midterms-elections-2026",
+            "date": "Aug. 28, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "I’m smart enough to know that money has to be part of it",
+            "source": "NHPR (Oct. 28 debate, on a deal to end the Iran war)",
+            "url": "https://www.nhpr.org/nh-news/2026-10-29/sununu-pappas-wmur-debate-senate-race-nh-newhampshire",
+            "date": "Oct. 29, 2026",
+            "kind": "news"
+          }
+        ],
+        "badge": {
+          "tier": "mixed",
+          "label": "Changed position on the war"
+        },
+        "flag": "Said in March 2026 that the U.S. was on its way to achieving the war’s objectives, then said in August that it was a mistake to go in. Both are his own words, below."
+      },
+      "health": {
+        "quotes": [
+          {
+            "text": "We need to give a health savings account to everyone that wants one.",
+            "source": "NHPR interview (on health care)",
+            "url": "https://www.nhpr.org/politics/2026-08-28/senate-primary-conversations-john-sununu-nh-newhampshire-midterms-elections-2026",
+            "date": "Aug. 28, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "we need to force providers to compete across state lines.",
+            "source": "NHPR interview (on health care)",
+            "url": "https://www.nhpr.org/politics/2026-08-28/senate-primary-conversations-john-sununu-nh-newhampshire-midterms-elections-2026",
+            "date": "Aug. 28, 2026",
+            "kind": "news"
+          }
+        ]
+      },
+      "housing": {
+        "quotes": [
+          {
+            "text": "let’s get rid of the tariffs on building materials.",
+            "source": "NHPR interview (on housing costs)",
+            "url": "https://www.nhpr.org/politics/2026-08-28/senate-primary-conversations-john-sununu-nh-newhampshire-midterms-elections-2026",
+            "date": "Aug. 28, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "Bring down the cost of construction for housing right away",
+            "source": "NHPR interview (on housing costs)",
+            "url": "https://www.nhpr.org/politics/2026-08-28/senate-primary-conversations-john-sununu-nh-newhampshire-midterms-elections-2026",
+            "date": "Aug. 28, 2026",
+            "kind": "news"
+          }
+        ]
+      }
+    },
+    "Ken Paxton|TX": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "I don’t know the intelligence. I’m supportive of what the president is doing. He knows a lot more than I do.",
+            "source": "Texas Tribune Q&A (his remarks on the Iran war, Aug. 2026)",
+            "url": "https://www.texastribune.org/2026/10/13/talarico-paxton-texas-us-senate-2026-election-q-and-a/",
+            "date": "Oct. 13, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "I am very glad that [Trump] did it. Iran is a great threat to our country.",
+            "source": "Guides.vote (on the June 2025 strikes on Iran)",
+            "url": "https://guides.vote/guide/2026-texas-us-senate-voters-guide/",
+            "date": "June 2025",
+            "kind": "news"
+          },
+          {
+            "text": "An open-ended war? I don’t have any intelligence, but I don’t think that’s Trump’s idea. He wants to get this over with",
+            "source": "Associated Press (on the Iran war)",
+            "url": "https://www.news4jax.com/news/politics/2026/03/03/war-in-iran-jolts-final-day-of-campaigning-in-texas-primary/",
+            "date": "Mar. 2, 2026",
+            "kind": "news"
+          }
+        ],
+        "badge": {
+          "tier": "against",
+          "label": "States support for the strikes"
+        }
+      },
+      "housing": {
+        "quotes": [
+          {
+            "text": "I believe every Texan should be able to buy a home, raise a family and live a healthy life",
+            "source": "Texas Tribune (Paxton’s economic agenda statement)",
+            "url": "https://www.texastribune.org/2026/07/31/texas-ken-paxton-us-senate-race-economic-agenda-tax-deductions/",
+            "date": "Jul. 31, 2026",
+            "kind": "news"
+          }
+        ]
+      },
+      "health": {
+        "quotes": [
+          {
+            "text": "a massive government takeover of health care",
+            "source": "Guides.vote (Paxton on the Affordable Care Act, 2021)",
+            "url": "https://guides.vote/guide/2026-texas-us-senate-voters-guide/",
+            "date": "2021",
+            "kind": "news"
+          }
+        ]
+      },
+      "israel": {
+        "quotes": [],
+        "badge": {
+          "tier": "against",
+          "label": "Backs aid to Israel"
+        },
+        "note": {
+          "text": "Based on his actions as Texas attorney general (a 2023 letter urging Congress to provide aid to Israel, and defending Texas’s Israel-boycott law), not on a vote or a direct quote from him.",
+          "source": "American Jewish Congress",
+          "url": "https://www.ajcongress.org/what-we-do/jewish-voter-guide/ken-paxton"
+        }
+      }
+    },
+    "H6OH01138": {
+      "iran": {
+        "quotes": [],
+        "badge": {
+          "tier": "against",
+          "label": "Supports the Iran strikes"
+        },
+        "note": {
+          "text": "Based on news reporting and his campaign website, not on a vote or a direct quote from him.",
+          "source": "Spectrum News, Jul. 28, 2026",
+          "url": "https://spectrumnews1.com/oh/columbus/Capital-This-Week/2026/07/28/conroy-challenges-landsman-in-oh-1"
+        }
+      }
+    },
+    "S6TX00479": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "As your senator, I will vote in support of a war powers resolution to put a stop to this reckless war",
+            "source": "Texas Tribune questionnaire (on the Iran war)",
+            "url": "https://www.texastribune.org/2026/10/13/talarico-paxton-texas-us-senate-2026-election-q-and-a/",
+            "date": "Oct. 13, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "We can support the democracy movement in Iran, we can prevent Iran from getting a nuclear weapon.",
+            "source": "Guides.vote (Talarico on the Iran war)",
+            "url": "https://guides.vote/guide/2026-texas-us-senate-voters-guide/",
+            "date": "2026",
+            "kind": "news"
+          }
+        ]
+      },
+      "health": {
+        "quotes": [
+          {
+            "text": "an affordable not-for-profit health care option for every American",
+            "source": "Guides.vote (Talarico on health care)",
+            "url": "https://guides.vote/guide/2026-texas-us-senate-voters-guide/",
+            "date": "2026",
+            "kind": "news"
+          }
+        ]
+      }
+    },
+    "S6IA00298": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "The American people deserve transparency from their government, and the power to declare war rests with Congress.",
+            "source": "The Gazette (on the U.S.–Israel attack on Iran)",
+            "url": "https://www.thegazette.com/news/state/iowa-elected-officials-and-candidates-respond-to-u-s--israel-attack-on-iran/article_9a9af81d-a266-575b-9aef-de348a34ae2d.html",
+            "date": "Feb. 28, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "This is another example of a betrayal of that promise.",
+            "source": "The Gazette (on the promise to end ‘forever wars’)",
+            "url": "https://www.thegazette.com/news/state/iowa-elected-officials-and-candidates-respond-to-u-s--israel-attack-on-iran/article_9a9af81d-a266-575b-9aef-de348a34ae2d.html",
+            "date": "Feb. 28, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "And an attack that could drag the U.S. into a long, costly conflict should not happen without Congressional approval.",
+            "source": "The Gazette (on the U.S.–Israel attack on Iran)",
+            "url": "https://www.thegazette.com/news/state/iowa-elected-officials-and-candidates-respond-to-u-s--israel-attack-on-iran/article_9a9af81d-a266-575b-9aef-de348a34ae2d.html",
+            "date": "Feb. 28, 2026",
+            "kind": "news"
+          }
+        ],
+        "badge": {
+          "tier": "full",
+          "label": "States opposition to the war"
+        }
+      },
+      "housing": {
+        "quotes": [
+          {
+            "text": "I agree with President Trump that we need to get private equity out of housing",
+            "source": "CNN (Iowa Senate debate)",
+            "url": "https://krdo.com/politics/cnn-us-politics/2026/10/07/takeaways-from-the-first-iowa-senate-debate/",
+            "date": "Oct. 7, 2026",
+            "kind": "news"
+          }
+        ]
+      },
+      "israel": {
+        "quotes": [],
+        "badge": {
+          "tier": "mixed",
+          "label": "Mixed record on Israel"
+        },
+        "note": {
+          "text": "Based on his 2025 votes in the Iowa House, not a quote: he backed an amendment conditioning support for Israel on international humanitarian law, then voted for the final pro-Israel resolution. His campaign declined to comment on arms sales.",
+          "source": "Jewish Insider, Sept. 4, 2025",
+          "url": "https://jewishinsider.com/2025/09/josh-turek-iowa-state-democratic-senate-candidate-u-s-israel/"
+        }
+      }
     }
-   },
-   "israel": {
-    "quotes": [
-     {
-      "text": "trying to out-left each other",
-      "source": "Washington Examiner (on Michigan Democrats' Israel stances)",
-      "url": "https://www.washingtonexaminer.com/?p=3761753",
-      "date": "Aug. 20, 2025",
-      "kind": "news"
-     },
-     {
-      "text": "[El-Sayed] is more worried about Gaza than your gas prices",
-      "source": "Social media post, via AP/WLOS",
-      "url": "https://wlos.com/news/nation-world/michigans-republican-gop-mike-rogers-looking-for-lead-in-senate-race-attacks-democrat-abdul-el-sayed-from-new-angles-midterm-elections",
-      "date": "Sept. 26, 2026",
-      "kind": "news"
-     }
-    ]
-   }
-  },
-  "H6NY14251": {
-   "health": {
-    "quotes": [
-     {
-      "text": "Get rid of waste and fraud, giving back to the people, not the insurance companies.",
-      "source": "Campaign website (his plan for NY-14)",
-      "url": "https://votefordiamant.com/diamants-plan-for-ny-14",
-      "date": "retrieved Nov 1, 2026",
-      "kind": "campaign-site"
-     }
-    ]
-   },
-   "housing": {
-    "quotes": [
-     {
-      "text": "Affordable Rent. Quality Homes",
-      "source": "Campaign website (home page)",
-      "url": "https://votefordiamant.com/",
-      "date": "retrieved Nov 1, 2026",
-      "kind": "campaign-site"
-     },
-     {
-      "text": "I'm a small business owner in construction, no one knows housing better than me.",
-      "source": "Campaign website (his plan for NY-14)",
-      "url": "https://votefordiamant.com/diamants-plan-for-ny-14",
-      "date": "retrieved Nov 1, 2026",
-      "kind": "campaign-site"
-     }
-    ]
-   }
-  },
-  "S6NC00415": {
-   "iran": {
-    "quotes": [
-     {
-      "text": "I absolutely support the president’s decision to ensure that Iran will never have a nuclear weapon",
-      "source": "WFAE (on the Iran war)",
-      "url": "https://www.wfae.org/politics/2026-07-23/whatley-says-he-will-make-things-cost-less-says-cooper-was-the-states-worst-governor",
-      "date": "Jul. 23, 2026",
-      "kind": "news"
-     }
-    ]
-   }
-  },
-  "S6MN00556": {
-   "israel": {
-    "quotes": [
-     {
-      "text": "I stand with Israel",
-      "source": "Minnesota Reformer (Oct. 16 Senate debate)",
-      "url": "https://www.kaxe.org/local-news/2026-10-23/in-senate-debate-tafoya-and-flanagan-cant-shake-ties-to-unpopular-men",
-      "date": "Oct. 23, 2026",
-      "kind": "news"
-     },
-     {
-      "text": "Calling it a genocide is an absolute misrepresentation",
-      "source": "Minnesota Reformer (Oct. 16 Senate debate, on Gaza)",
-      "url": "https://www.kaxe.org/local-news/2026-10-23/in-senate-debate-tafoya-and-flanagan-cant-shake-ties-to-unpopular-men",
-      "date": "Oct. 23, 2026",
-      "kind": "news"
-     }
-    ]
-   },
-   "health": {
-    "quotes": [
-     {
-      "text": "a pipedream",
-      "source": "Minnesota Reformer (Oct. 16 Senate debate, on Medicare for All)",
-      "url": "https://www.kaxe.org/local-news/2026-10-23/in-senate-debate-tafoya-and-flanagan-cant-shake-ties-to-unpopular-men",
-      "date": "Oct. 23, 2026",
-      "kind": "news"
-     }
-    ]
-   }
-  },
-  "S6MT00295": {
-   "iran": {
-    "quotes": [
-     {
-      "text": "I will never support sending our sons and daughters boots on the ground into another forever war",
-      "source": "NBC Montana (Senate candidates on the Iran war)",
-      "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
-      "date": "Oct. 18, 2026",
-      "kind": "news"
-     },
-     {
-      "text": "when we get an enemy regime like the Iranian regime threatening us with nuclear weapons we need to respond",
-      "source": "NBC Montana (Senate candidates on the Iran war)",
-      "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
-      "date": "Oct. 18, 2026",
-      "kind": "news"
-     }
-    ]
-   },
-   "housing": {
-    "quotes": [
-     {
-      "text": "we’ve got to rein in Washington spending. If we can do that, we’ll lower inflation",
-      "source": "NBC Montana (on housing costs)",
-      "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
-      "date": "Oct. 18, 2026",
-      "kind": "news"
-     }
-    ]
-   }
-  },
-  "S6MT00253": {
-   "iran": {
-    "quotes": [
-     {
-      "text": "I do not support the war in Iran",
-      "source": "NBC Montana (Senate candidates on the Iran war)",
-      "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
-      "date": "Oct. 18, 2026",
-      "kind": "news"
-     }
-    ]
-   },
-   "housing": {
-    "quotes": [
-     {
-      "text": "providing tax incentives to construction companies that create affordable housing",
-      "source": "NBC Montana (on housing costs)",
-      "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
-      "date": "Oct. 18, 2026",
-      "kind": "news"
-     }
-    ]
-   }
-  },
-  "S6MT00287": {
-   "iran": {
-    "quotes": [
-     {
-      "text": "it’s congresses’ job to make the decision to send our sons and daughters into harm’s way",
-      "source": "NBC Montana (Senate candidates on the Iran war)",
-      "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
-      "date": "Oct. 18, 2026",
-      "kind": "news"
-     }
-    ]
-   },
-   "housing": {
-    "quotes": [
-     {
-      "text": "incentivizing the type of zoning and code reform to unlock more supply",
-      "source": "NBC Montana (on housing costs)",
-      "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
-      "date": "Oct. 18, 2026",
-      "kind": "news"
-     }
-    ]
-   }
-  },
-  "S6MT00261": {
-   "iran": {
-    "quotes": [
-     {
-      "text": "we need to get out of Iran and we need to bring our troops home",
-      "source": "NBC Montana (Senate candidates on the Iran war)",
-      "url": "https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate",
-      "date": "Oct. 18, 2026",
-      "kind": "news"
-     }
-    ]
-   }
-  },
-  "S4NE00207": {
-   "iran": {
-    "quotes": [
-     {
-      "text": "We were promised no new foreign wars, but here we are 185 days into a new foreign war and Nebraskans are paying the price",
-      "source": "KLKN-TV (Sept. 1 debate, on the Iran war)",
-      "url": "https://www.klkntv.com/?p=5194424",
-      "date": "Sept. 2, 2026",
-      "kind": "news"
-     }
-    ]
-   },
-   "housing": {
-    "quotes": [
-     {
-      "text": "Homeownership is becoming unattainable for the future generations and it’s because tariffs are driving this",
-      "source": "KLKN-TV (Sept. 1 debate)",
-      "url": "https://www.klkntv.com/?p=5194424",
-      "date": "Sept. 2, 2026",
-      "kind": "news"
-     }
-    ]
-   }
-  },
-  "S6NH00208": {
-   "iran": {
-    "quotes": [
-     {
-      "text": "I’m smart enough to know that money has to be part of it",
-      "source": "NHPR (Oct. 28 debate, on a deal to end the Iran war)",
-      "url": "https://www.nhpr.org/nh-news/2026-10-29/sununu-pappas-wmur-debate-senate-race-nh-newhampshire",
-      "date": "Oct. 29, 2026",
-      "kind": "news"
-     }
-    ]
-   }
-  },
-  "Ken Paxton|TX": {
-   "iran": {
-    "quotes": [
-     {
-      "text": "An open-ended war? I don’t have any intelligence, but I don’t think that’s Trump’s idea. He wants to get this over with",
-      "source": "Associated Press (on the Iran war)",
-      "url": "https://www.news4jax.com/news/politics/2026/03/03/war-in-iran-jolts-final-day-of-campaigning-in-texas-primary/",
-      "date": "Mar. 2, 2026",
-      "kind": "news"
-     }
-    ]
-   }
   }
- }
 }
