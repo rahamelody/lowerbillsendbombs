@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T23:22:23.101Z",
+ "generated": "2026-11-02T04:06:46.073Z",
  "moneyAsOf": "2026-11-01T23:22:21.364Z",
  "filingsThrough": "2026-11-01",
  "liveCheckedAt": "2026-11-01T15:52:14.703Z",
@@ -1034,7 +1034,7 @@
       "conduitOppose": 1745053.26
      },
      "receipts": 5654454,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": "Amish Shah",
      "featured": true,
@@ -1070,7 +1070,7 @@
       "conduitOppose": 0
      },
      "receipts": 0,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": "Jay Feely",
      "featured": true,
@@ -1106,7 +1106,7 @@
       "conduitOppose": 0
      },
      "receipts": 9453,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": null,
      "featured": false
@@ -1155,7 +1155,7 @@
       "conduitOppose": 0
      },
      "receipts": 11904946,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": "Eli Crane",
      "featured": true,
@@ -1191,7 +1191,7 @@
       "conduitOppose": 0
      },
      "receipts": 5805341,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": "Jonathan Nez",
      "featured": true,
@@ -1227,7 +1227,7 @@
       "conduitOppose": 0
      },
      "receipts": 0,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": null,
      "featured": false
@@ -1276,7 +1276,7 @@
       "conduitOppose": 0
      },
      "receipts": 1697729,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": "Yassamin Ansari",
      "featured": true,
@@ -1312,14 +1312,14 @@
       "conduitOppose": 0
      },
      "receipts": 0,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": null,
      "featured": true
     },
     {
      "name": "Alan Aversa",
-     "party": "Other",
+     "party": "No Labels",
      "incumbent": false,
      "formerMember": false,
      "sittingElsewhere": null,
@@ -1346,7 +1346,7 @@
       "conduitOppose": 0
      },
      "receipts": 774,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": null,
      "featured": false
@@ -1380,7 +1380,7 @@
       "conduitOppose": 0
      },
      "receipts": 0,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": null,
      "featured": false
@@ -1440,7 +1440,7 @@
       "conduitOppose": 0
      },
      "receipts": 2674367,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": "Greg Stanton",
      "featured": true,
@@ -1476,7 +1476,7 @@
       "conduitOppose": 0
      },
      "receipts": 0,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": "Zuhdi Jasser",
      "featured": true,
@@ -1485,7 +1485,7 @@
     },
     {
      "name": "Tisha Benoit",
-     "party": "Other",
+     "party": "No Labels",
      "incumbent": false,
      "formerMember": false,
      "sittingElsewhere": null,
@@ -1512,7 +1512,7 @@
       "conduitOppose": 0
      },
      "receipts": 0,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": null,
      "featured": false
@@ -1556,12 +1556,46 @@
       "conduitOppose": 0
      },
      "receipts": 375628,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
-     "wiki": "Federal Election Commission",
+     "wiki": null,
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Seal_of_the_United_States_Federal_Election_Commission.svg/330px-Seal_of_the_United_States_Federal_Election_Commission.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
+    },
+    {
+     "name": "Mark Lamb",
+     "party": "R",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H6AZ05265",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 1771671,
+     "fromList": false,
+     "state": "AZ",
+     "wiki": "Mark Lamb",
+     "featured": true
     }
    ]
   },
@@ -1618,7 +1652,7 @@
       "conduitOppose": 99020.2
      },
      "receipts": 7649794,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": "Juan Ciscomani",
      "featured": true,
@@ -1654,9 +1688,9 @@
       "conduitOppose": 0
      },
      "receipts": 11242473,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
-     "wiki": "Tom O'Halleran",
+     "wiki": null,
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Tom_O%27Halleran_official_portrait.jpg/330px-Tom_O%27Halleran_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
@@ -1690,7 +1724,7 @@
       "conduitOppose": 0
      },
      "receipts": 10500,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": null,
      "featured": false
@@ -1724,7 +1758,7 @@
       "conduitOppose": 0
      },
      "receipts": 0,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": null,
      "featured": false
@@ -1770,7 +1804,7 @@
       "conduitOppose": 0
      },
      "receipts": 2559577,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": "Adelita Grijalva",
      "featured": true,
@@ -1806,9 +1840,9 @@
       "conduitOppose": 0
      },
      "receipts": 233882,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
-     "wiki": "2024 United States House of Representatives elections in Arizona",
+     "wiki": null,
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2024_United_States_House_of_Representatives_elections_in_Arizona_results_map.svg/330px-2024_United_States_House_of_Representatives_elections_in_Arizona_results_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
@@ -1861,7 +1895,7 @@
       "conduitOppose": 0
      },
      "receipts": 1434538,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": "Abraham Hamadeh",
      "featured": true,
@@ -1897,9 +1931,9 @@
       "conduitOppose": 0
      },
      "receipts": 0,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
-     "wiki": "The State Press",
+     "wiki": null,
      "featured": true
     }
    ]
@@ -1944,7 +1978,7 @@
       "conduitOppose": 0
      },
      "receipts": 813542,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
      "wiki": "Paul Gosar",
      "featured": true,
@@ -1980,9 +2014,9 @@
       "conduitOppose": 0
      },
      "receipts": 461875,
-     "fromList": true,
+     "fromList": false,
      "state": "AZ",
-     "wiki": "U.S. Navy",
+     "wiki": null,
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Emblem_of_the_United_States_Navy.svg/330px-Emblem_of_the_United_States_Navy.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
@@ -2524,7 +2558,7 @@
      "receipts": 4042811,
      "fromList": false,
      "state": "AR",
-     "wiki": null,
+     "wiki": "Hallie Shoffner",
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Hallie_Shoffner_headshot_003.jpg/330px-Hallie_Shoffner_headshot_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
@@ -4728,12 +4762,12 @@
     },
     {
      "name": "Bob Smith",
-     "party": "I",
+     "party": "R",
      "incumbent": false,
      "formerMember": false,
      "sittingElsewhere": null,
      "bioguide": null,
-     "fecId": null,
+     "fecId": "H6CA24345",
      "hasVotes": false,
      "money": {
       "direct": {},
@@ -4754,7 +4788,7 @@
       "conduitSupport": 0,
       "conduitOppose": 0
      },
-     "receipts": 0,
+     "receipts": 346742,
      "fromList": false,
      "state": "CA",
      "wiki": null,
@@ -7420,6 +7454,108 @@
      "state": "CO",
      "wiki": null,
      "featured": true
+    },
+    {
+     "name": "Shimon Blau",
+     "party": "I",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H6CO01356",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 204361,
+     "fromList": false,
+     "state": "CO",
+     "wiki": null,
+     "featured": true
+    },
+    {
+     "name": "Chad Humphrey",
+     "party": "L",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": null,
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 0,
+     "fromList": false,
+     "state": "CO",
+     "wiki": null,
+     "featured": false
+    },
+    {
+     "name": "Critter Milton",
+     "party": "Unity",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H0CO03173",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 0,
+     "fromList": false,
+     "state": "CO",
+     "wiki": null,
+     "featured": false
     }
    ]
   },
@@ -7516,6 +7652,40 @@
      "state": "CO",
      "wiki": null,
      "featured": true
+    },
+    {
+     "name": "Gaylon Kent",
+     "party": "L",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H2CO03153",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 0,
+     "fromList": false,
+     "state": "CO",
+     "wiki": null,
+     "featured": false
     }
    ]
   },
@@ -8188,7 +8358,7 @@
      "formerMember": false,
      "sittingElsewhere": null,
      "bioguide": null,
-     "fecId": "S6CO00556",
+     "fecId": "S6CO00549",
      "hasVotes": false,
      "money": {
       "direct": {},
@@ -8814,7 +8984,7 @@
      "receipts": 12302,
      "fromList": true,
      "state": "DE",
-     "wiki": null,
+     "wiki": "Maryland's 1st congressional district",
      "featured": true
     }
    ]
@@ -9298,7 +9468,7 @@
       "conduitOppose": 0
      },
      "receipts": 2682267,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": "Aaron Bean",
      "featured": true,
@@ -9306,7 +9476,7 @@
      "photoCredit": "Official congressional portrait"
     },
     {
-     "name": "LaShonda \"L.J.\" Holloway",
+     "name": "LaShonda Holloway",
      "party": "D",
      "incumbent": false,
      "formerMember": false,
@@ -9334,16 +9504,14 @@
       "conduitOppose": 0
      },
      "receipts": 58546,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
-     "wiki": "District of Columbia",
-     "featured": true,
-     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/12-07-13-washington-by-RalfR-08.jpg/330px-12-07-13-washington-by-RalfR-08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-     "photoCredit": "Wikipedia"
+     "wiki": null,
+     "featured": true
     },
     {
      "name": "Mike Sell",
-     "party": "Other",
+     "party": "F",
      "incumbent": false,
      "formerMember": false,
      "sittingElsewhere": null,
@@ -9370,7 +9538,7 @@
       "conduitOppose": 0
      },
      "receipts": 24206,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": null,
      "featured": false
@@ -9404,7 +9572,7 @@
       "conduitOppose": 0
      },
      "receipts": 0,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": null,
      "featured": false
@@ -9417,8 +9585,58 @@
    "state": "FL",
    "district": 5,
    "special": false,
-   "openSeat": true,
+   "openSeat": false,
    "candidates": [
+    {
+     "name": "John Rutherford",
+     "party": "R",
+     "incumbent": true,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": "R000609",
+     "fecId": "H6FL04105",
+     "hasVotes": true,
+     "money": {
+      "direct": {
+       "2022": 10000,
+       "2024": 10000,
+       "2026": 9994
+      },
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {
+       "2022": 8500,
+       "2024": 7000,
+       "2026": 7000
+      },
+      "realestate": {
+       "2022": 22500,
+       "2024": 22500,
+       "2026": 20000
+      },
+      "defense": {
+       "2022": 53500,
+       "2024": 87000,
+       "2026": 80000
+      }
+     },
+     "moneyTotals": {
+      "direct": 29994,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 913650,
+     "fromList": false,
+     "state": "FL",
+     "wiki": "John Rutherford (Florida politician)",
+     "featured": true
+    },
     {
      "name": "Rachel Grage",
      "party": "D",
@@ -9448,9 +9666,9 @@
       "conduitOppose": 0
      },
      "receipts": 448143,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
-     "wiki": "Florida's 16th House of Representatives district",
+     "wiki": null,
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/FLHD14.pdf/page1-330px-FLHD14.pdf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
@@ -9504,7 +9722,7 @@
       "conduitOppose": 0
      },
      "receipts": 4645045,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": "Randy Fine",
      "featured": true,
@@ -9540,7 +9758,7 @@
       "conduitOppose": 0
      },
      "receipts": 619305,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": null,
      "featured": true
@@ -9574,7 +9792,7 @@
       "conduitOppose": 0
      },
      "receipts": 0,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": null,
      "featured": false
@@ -9608,41 +9826,7 @@
       "conduitOppose": 0
      },
      "receipts": 7949,
-     "fromList": true,
-     "state": "FL",
-     "wiki": null,
-     "featured": false
-    },
-    {
-     "name": "Alec Pavlik",
-     "party": "I",
-     "incumbent": false,
-     "formerMember": false,
-     "sittingElsewhere": null,
-     "bioguide": null,
-     "fecId": null,
-     "hasVotes": false,
-     "money": {
-      "direct": {},
-      "ieSupport": {},
-      "ieOppose": {},
-      "conduitSupport": {},
-      "conduitOppose": {}
-     },
-     "industry": {
-      "health": {},
-      "realestate": {},
-      "defense": {}
-     },
-     "moneyTotals": {
-      "direct": 0,
-      "ieSupport": 0,
-      "ieOppose": 0,
-      "conduitSupport": 0,
-      "conduitOppose": 0
-     },
-     "receipts": 0,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": null,
      "featured": false
@@ -9995,7 +10179,7 @@
       "conduitOppose": 0
      },
      "receipts": 3835169,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": "Maxwell Frost",
      "featured": true,
@@ -10041,7 +10225,7 @@
       "conduitOppose": 0
      },
      "receipts": 225868,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": null,
      "featured": true,
@@ -10079,9 +10263,9 @@
       "conduitOppose": 0
      },
      "receipts": 5512075,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
-     "wiki": "Florida Politics",
+     "wiki": null,
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Florida_Politics_logo.png/330px-Florida_Politics_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
@@ -10115,7 +10299,7 @@
       "conduitOppose": 0
      },
      "receipts": 0,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": null,
      "featured": false
@@ -10175,7 +10359,7 @@
       "conduitOppose": 0
      },
      "receipts": 2255342,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": "Gus Bilirakis",
      "featured": true,
@@ -10211,9 +10395,9 @@
       "conduitOppose": 0
      },
      "receipts": 280118,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
-     "wiki": "Hillsborough County, Florida",
+     "wiki": null,
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Downtown_Tampa%2C_Florida.jpg/330px-Downtown_Tampa%2C_Florida.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
@@ -10247,7 +10431,7 @@
       "conduitOppose": 0
      },
      "receipts": 8195,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": null,
      "featured": false
@@ -10301,7 +10485,7 @@
       "conduitOppose": 299290.22
      },
      "receipts": 4351792,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": "Anna Paulina Luna",
      "featured": true,
@@ -10337,9 +10521,9 @@
       "conduitOppose": 0
      },
      "receipts": 2917665,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
-     "wiki": "Brigadier general (United States)",
+     "wiki": null,
      "featured": true
     },
     {
@@ -10371,7 +10555,7 @@
       "conduitOppose": 0
      },
      "receipts": 28181,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": null,
      "featured": false
@@ -10563,7 +10747,7 @@
       "conduitOppose": 0
      },
      "receipts": 2711189,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": "Laurel Lee",
      "featured": true,
@@ -10599,46 +10783,12 @@
       "conduitOppose": 0
      },
      "receipts": 82518,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
-     "wiki": "Tampa Bay Times",
+     "wiki": null,
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/St._Petersburg_Times_May_10%2C_1980_front_page.jpg/330px-St._Petersburg_Times_May_10%2C_1980_front_page.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
-    },
-    {
-     "name": "Angie Boone",
-     "party": "I",
-     "incumbent": false,
-     "formerMember": false,
-     "sittingElsewhere": null,
-     "bioguide": null,
-     "fecId": null,
-     "hasVotes": false,
-     "money": {
-      "direct": {},
-      "ieSupport": {},
-      "ieOppose": {},
-      "conduitSupport": {},
-      "conduitOppose": {}
-     },
-     "industry": {
-      "health": {},
-      "realestate": {},
-      "defense": {}
-     },
-     "moneyTotals": {
-      "direct": 0,
-      "ieSupport": 0,
-      "ieOppose": 0,
-      "conduitSupport": 0,
-      "conduitOppose": 0
-     },
-     "receipts": 0,
-     "fromList": true,
-     "state": "FL",
-     "wiki": null,
-     "featured": false
     }
    ]
   },
@@ -10679,9 +10829,9 @@
       "conduitOppose": 0
      },
      "receipts": 876363,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
-     "wiki": "Sarasota, Florida",
+     "wiki": null,
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Sarasota_Skyline.jpeg/330px-Sarasota_Skyline.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
@@ -10719,9 +10869,9 @@
       "conduitOppose": 0
      },
      "receipts": 1618888,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
-     "wiki": "New College of Florida",
+     "wiki": null,
      "featured": true,
      "photo": "https://grutersforcongress.com/meta.png",
      "photoCredit": "Campaign website"
@@ -10755,9 +10905,9 @@
       "conduitOppose": 0
      },
      "receipts": 66969,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
-     "wiki": "United States Air Force",
+     "wiki": null,
      "featured": false,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/U.S._Air_Force_service_mark.svg/330px-U.S._Air_Force_service_mark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
@@ -10817,7 +10967,7 @@
       "conduitOppose": 0
      },
      "receipts": 1587827,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": "Greg Steube",
      "featured": true,
@@ -10853,9 +11003,9 @@
       "conduitOppose": 0
      },
      "receipts": 156274,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
-     "wiki": "United Nations",
+     "wiki": null,
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/330px-Flag_of_the_United_Nations.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
@@ -10889,7 +11039,7 @@
       "conduitOppose": 0
      },
      "receipts": 32488,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": null,
      "featured": false
@@ -10902,8 +11052,56 @@
    "state": "FL",
    "district": 18,
    "special": false,
-   "openSeat": true,
+   "openSeat": false,
    "candidates": [
+    {
+     "name": "C. Franklin",
+     "party": "R",
+     "incumbent": true,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": "F000472",
+     "fecId": "H0FL15104",
+     "hasVotes": true,
+     "money": {
+      "direct": {
+       "2022": 10000,
+       "2024": 5000,
+       "2026": 9994
+      },
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {
+       "2022": 2000
+      },
+      "realestate": {
+       "2022": 12500,
+       "2024": 10500,
+       "2026": 5000
+      },
+      "defense": {
+       "2022": 41500,
+       "2024": 59500,
+       "2026": 51000
+      }
+     },
+     "moneyTotals": {
+      "direct": 24994,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 1026404,
+     "fromList": false,
+     "state": "FL",
+     "wiki": "Scott Franklin (politician)",
+     "featured": true
+    },
     {
      "name": "Curtis Gibson",
      "party": "D",
@@ -10933,9 +11131,9 @@
       "conduitOppose": 0
      },
      "receipts": 13785,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
-     "wiki": "Lake Wales",
+     "wiki": null,
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Bok_Tower_rear.JPG/330px-Bok_Tower_rear.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
@@ -10969,10 +11167,10 @@
       "conduitOppose": 0
      },
      "receipts": 29704,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": null,
-     "featured": true
+     "featured": false
     }
    ]
   },
@@ -11013,7 +11211,7 @@
       "conduitOppose": 0
      },
      "receipts": 69983,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": null,
      "featured": true
@@ -11051,9 +11249,9 @@
       "conduitOppose": 0
      },
      "receipts": 2828903,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
-     "wiki": "WFSX-FM",
+     "wiki": null,
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/WFSX-FM_92.5_logo.png/330px-WFSX-FM_92.5_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
@@ -11087,7 +11285,7 @@
       "conduitOppose": 0
      },
      "receipts": 0,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": null,
      "featured": false
@@ -11100,12 +11298,12 @@
    "state": "FL",
    "district": 20,
    "special": false,
-   "openSeat": true,
+   "openSeat": false,
    "candidates": [
     {
      "name": "Debbie Wasserman Schultz",
      "party": "D",
-     "incumbent": false,
+     "incumbent": true,
      "formerMember": false,
      "sittingElsewhere": "U.S. House",
      "bioguide": "W000797",
@@ -11147,7 +11345,7 @@
       "conduitOppose": 0
      },
      "receipts": 3707925,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": "Debbie Wasserman Schultz",
      "featured": true,
@@ -11183,7 +11381,7 @@
       "conduitOppose": 0
      },
      "receipts": 100350,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": null,
      "featured": true
@@ -11217,7 +11415,7 @@
       "conduitOppose": 0
      },
      "receipts": 126573,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": null,
      "featured": true
@@ -11273,7 +11471,7 @@
       "conduitOppose": 0
      },
      "receipts": 5097732,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": "Brian Mast",
      "featured": true,
@@ -11309,9 +11507,9 @@
       "conduitOppose": 0
      },
      "receipts": 821779,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
-     "wiki": "U.S. Coast Guard Reserve",
+     "wiki": null,
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Seal_of_the_United_States_Coast_Guard_Reserve.svg/330px-Seal_of_the_United_States_Coast_Guard_Reserve.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
@@ -11345,46 +11543,12 @@
       "conduitOppose": 0
      },
      "receipts": 30244,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
-     "wiki": "Juno Beach, Florida",
+     "wiki": null,
      "featured": false,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Juno_Beach_Town_Center.jpg/330px-Juno_Beach_Town_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
-    },
-    {
-     "name": "David Fabrikant",
-     "party": "I",
-     "incumbent": false,
-     "formerMember": false,
-     "sittingElsewhere": null,
-     "bioguide": null,
-     "fecId": null,
-     "hasVotes": false,
-     "money": {
-      "direct": {},
-      "ieSupport": {},
-      "ieOppose": {},
-      "conduitSupport": {},
-      "conduitOppose": {}
-     },
-     "industry": {
-      "health": {},
-      "realestate": {},
-      "defense": {}
-     },
-     "moneyTotals": {
-      "direct": 0,
-      "ieSupport": 0,
-      "ieOppose": 0,
-      "conduitSupport": 0,
-      "conduitOppose": 0
-     },
-     "receipts": 0,
-     "fromList": true,
-     "state": "FL",
-     "wiki": null,
-     "featured": false
     }
    ]
   },
@@ -11474,12 +11638,12 @@
    "state": "FL",
    "district": 23,
    "special": false,
-   "openSeat": true,
+   "openSeat": false,
    "candidates": [
     {
      "name": "Lois Frankel",
      "party": "D",
-     "incumbent": false,
+     "incumbent": true,
      "formerMember": false,
      "sittingElsewhere": "U.S. House",
      "bioguide": "F000462",
@@ -11521,7 +11685,7 @@
       "conduitOppose": 0
      },
      "receipts": 2631968,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
      "wiki": "Lois Frankel",
      "featured": true,
@@ -11557,9 +11721,9 @@
       "conduitOppose": 0
      },
      "receipts": 201145,
-     "fromList": true,
+     "fromList": false,
      "state": "FL",
-     "wiki": "2022 United States House of Representatives elections in Florida",
+     "wiki": null,
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2022_United_States_House_of_Representatives_elections_in_Florida_results_map.svg/330px-2022_United_States_House_of_Representatives_elections_in_Florida_results_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
@@ -16415,7 +16579,7 @@
       "conduitOppose": 0
      },
      "receipts": 3035422,
-     "fromList": true,
+     "fromList": false,
      "state": "IN",
      "wiki": "Frank J. Mrvan",
      "featured": true,
@@ -16451,9 +16615,9 @@
       "conduitOppose": 0
      },
      "receipts": 2755770,
-     "fromList": true,
+     "fromList": false,
      "state": "IN",
-     "wiki": "Porter County",
+     "wiki": null,
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Porter_County_Courthouse.jpg/330px-Porter_County_Courthouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
@@ -18347,7 +18511,7 @@
      "formerMember": false,
      "sittingElsewhere": null,
      "bioguide": null,
-     "fecId": null,
+     "fecId": "H6KS04280",
      "hasVotes": false,
      "money": {
       "direct": {},
@@ -19357,7 +19521,7 @@
     },
     {
      "name": "Christopher Campbell",
-     "party": "I",
+     "party": "Kentucky",
      "incumbent": false,
      "formerMember": false,
      "sittingElsewhere": null,
@@ -19388,6 +19552,787 @@
      "state": "KY",
      "wiki": null,
      "featured": false
+    }
+   ]
+  },
+  "LA-1": {
+   "key": "LA-1",
+   "type": "house",
+   "state": "LA",
+   "district": 1,
+   "special": false,
+   "openSeat": false,
+   "candidates": [
+    {
+     "name": "Steve Scalise",
+     "party": "R",
+     "incumbent": true,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": "S001176",
+     "fecId": "H0LA01087",
+     "hasVotes": true,
+     "money": {
+      "direct": {
+       "2022": 7600,
+       "2024": 10000,
+       "2026": 9994
+      },
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {
+       "2022": 108000,
+       "2024": 121000,
+       "2026": 119500
+      },
+      "realestate": {
+       "2022": 40000,
+       "2024": 34500,
+       "2026": 40000
+      },
+      "defense": {
+       "2022": 80500,
+       "2024": 78500,
+       "2026": 95000
+      }
+     },
+     "moneyTotals": {
+      "direct": 27594,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 11172078,
+     "fromList": false,
+     "state": "LA",
+     "wiki": "Steve Scalise",
+     "featured": true
+    },
+    {
+     "name": "Lauren Jewett",
+     "party": "D",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H6LA01258",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 716339,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": true
+    },
+    {
+     "name": "Randall Arrington",
+     "party": "R",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H4LA01162",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 0,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": true
+    },
+    {
+     "name": "E. Glass",
+     "party": "I",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": null,
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 0,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": false
+    }
+   ]
+  },
+  "LA-2": {
+   "key": "LA-2",
+   "type": "house",
+   "state": "LA",
+   "district": 2,
+   "special": false,
+   "openSeat": false,
+   "candidates": [
+    {
+     "name": "Troy Carter",
+     "party": "D",
+     "incumbent": true,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": "C001125",
+     "fecId": "H2LA02149",
+     "hasVotes": true,
+     "money": {
+      "direct": {
+       "2022": 10000,
+       "2024": 9400
+      },
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {
+       "2022": 10500,
+       "2024": 33000,
+       "2026": 104000
+      },
+      "realestate": {
+       "2022": 16500,
+       "2024": 23000,
+       "2026": 15000
+      },
+      "defense": {
+       "2022": 10000,
+       "2024": 13000,
+       "2026": 22000
+      }
+     },
+     "moneyTotals": {
+      "direct": 19400,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 1941169,
+     "fromList": false,
+     "state": "LA",
+     "wiki": "Troy Carter (politician)",
+     "featured": true
+    },
+    {
+     "name": "Renada Collins",
+     "party": "D",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": null,
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 0,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": true
+    },
+    {
+     "name": "Peter Williams",
+     "party": "R",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H4LA05171",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 0,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": true
+    },
+    {
+     "name": "Lisa Ballay",
+     "party": "L",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H2LA02305",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 1110,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": false
+    },
+    {
+     "name": "Walker Beach",
+     "party": "I",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": null,
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 0,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": false
+    }
+   ]
+  },
+  "LA-3": {
+   "key": "LA-3",
+   "type": "house",
+   "state": "LA",
+   "district": 3,
+   "special": false,
+   "openSeat": false,
+   "candidates": [
+    {
+     "name": "Clay Higgins",
+     "party": "R",
+     "incumbent": true,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": "H001077",
+     "fecId": "H6LA03148",
+     "hasVotes": true,
+     "money": {
+      "direct": {
+       "2022": 10000,
+       "2024": 5000,
+       "2026": 5000
+      },
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {
+       "2022": 1000
+      },
+      "realestate": {
+       "2022": 9000,
+       "2024": 8000,
+       "2026": 5000
+      },
+      "defense": {
+       "2022": 7500,
+       "2024": 4000,
+       "2026": 3000
+      }
+     },
+     "moneyTotals": {
+      "direct": 20000,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 904294,
+     "fromList": false,
+     "state": "LA",
+     "wiki": "Clay Higgins",
+     "featured": true
+    },
+    {
+     "name": "John Day",
+     "party": "D",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H6LA03205",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 222557,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": true
+    },
+    {
+     "name": "Priscilla Gonzalez",
+     "party": "D",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H4LA03135",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 0,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": true
+    },
+    {
+     "name": "Caleb Walker",
+     "party": "D",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": null,
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 0,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": true
+    },
+    {
+     "name": "Kate Cotten",
+     "party": "R",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": null,
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 0,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": true
+    },
+    {
+     "name": "Tia LeBrun",
+     "party": "I",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H2LA03105",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 7383,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": false
+    }
+   ]
+  },
+  "LA-4": {
+   "key": "LA-4",
+   "type": "house",
+   "state": "LA",
+   "district": 4,
+   "special": false,
+   "openSeat": false,
+   "candidates": [
+    {
+     "name": "Mike Johnson",
+     "party": "R",
+     "incumbent": true,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": "J000299",
+     "fecId": null,
+     "hasVotes": true,
+     "money": {
+      "direct": {
+       "2022": 10000,
+       "2024": 10000,
+       "2026": 9994
+      },
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {
+       "2022": 9500,
+       "2024": 95000,
+       "2026": 126000
+      },
+      "realestate": {
+       "2022": 15000,
+       "2024": 40000,
+       "2026": 35000
+      },
+      "defense": {
+       "2022": 52000,
+       "2024": 73500,
+       "2026": 106000
+      }
+     },
+     "moneyTotals": {
+      "direct": 29994,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 24583416,
+     "fromList": false,
+     "state": "LA",
+     "wiki": "Mike Johnson",
+     "featured": true
+    },
+    {
+     "name": "Conrad Cable",
+     "party": "D",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H6LA04187",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 1842506,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": true
+    },
+    {
+     "name": "Matt Gromlich",
+     "party": "D",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H6LA04195",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 452199,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": true
+    },
+    {
+     "name": "Gordan Heslop",
+     "party": "R",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H6LA04229",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 128720,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": true
+    },
+    {
+     "name": "Mike Nichols",
+     "party": "R",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H6LA04203",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 71605,
+     "fromList": false,
+     "state": "LA",
+     "wiki": null,
+     "featured": true
     }
    ]
   },
@@ -22168,7 +23113,7 @@
     },
     {
      "name": "Doc Kovaly",
-     "party": "C",
+     "party": "Other",
      "incumbent": false,
      "formerMember": false,
      "sittingElsewhere": null,
@@ -22611,7 +23556,7 @@
      "formerMember": false,
      "sittingElsewhere": null,
      "bioguide": "H001058",
-     "fecId": null,
+     "fecId": "H0MI02094",
      "hasVotes": true,
      "money": {
       "direct": {
@@ -22858,7 +23803,7 @@
     },
     {
      "name": "Sharon Marie Reiner",
-     "party": "C",
+     "party": "Other",
      "incumbent": false,
      "formerMember": false,
      "sittingElsewhere": null,
@@ -23052,7 +23997,7 @@
     },
     {
      "name": "Mike Mickevicius",
-     "party": "C",
+     "party": "Other",
      "incumbent": false,
      "formerMember": false,
      "sittingElsewhere": null,
@@ -23598,7 +24543,7 @@
     },
     {
      "name": "John Vlahos",
-     "party": "C",
+     "party": "Other",
      "incumbent": false,
      "formerMember": false,
      "sittingElsewhere": null,
@@ -24145,7 +25090,7 @@
     },
     {
      "name": "Marc Sosnowski",
-     "party": "C",
+     "party": "Other",
      "incumbent": false,
      "formerMember": false,
      "sittingElsewhere": null,
@@ -24327,7 +25272,7 @@
     },
     {
      "name": "Chris Dardzinski",
-     "party": "C",
+     "party": "Other",
      "incumbent": false,
      "formerMember": false,
      "sittingElsewhere": null,
@@ -24557,7 +25502,7 @@
     },
     {
      "name": "Tim Long",
-     "party": "C",
+     "party": "Other",
      "incumbent": false,
      "formerMember": false,
      "sittingElsewhere": null,
@@ -25431,6 +26376,42 @@
    "openSeat": true,
    "candidates": [
     {
+     "name": "Peggy Flanagan",
+     "party": "D",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "S6MN00440",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 11563963,
+     "fromList": false,
+     "state": "MN",
+     "wiki": "Peggy Flanagan",
+     "featured": true,
+     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/2026PeggyFlanagan_%28newcropped%29.jpg/330px-2026PeggyFlanagan_%28newcropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+     "photoCredit": "Wikipedia"
+    },
+    {
      "name": "Michele Tafoya",
      "party": "R",
      "incumbent": false,
@@ -25464,42 +26445,6 @@
      "wiki": "Michele Tafoya",
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/MicheleTafoya2023.jpg/330px-MicheleTafoya2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-     "photoCredit": "Wikipedia"
-    },
-    {
-     "name": "Peggy Flanagan",
-     "party": "Other",
-     "incumbent": false,
-     "formerMember": false,
-     "sittingElsewhere": null,
-     "bioguide": null,
-     "fecId": null,
-     "hasVotes": false,
-     "money": {
-      "direct": {},
-      "ieSupport": {},
-      "ieOppose": {},
-      "conduitSupport": {},
-      "conduitOppose": {}
-     },
-     "industry": {
-      "health": {},
-      "realestate": {},
-      "defense": {}
-     },
-     "moneyTotals": {
-      "direct": 0,
-      "ieSupport": 0,
-      "ieOppose": 0,
-      "conduitSupport": 0,
-      "conduitOppose": 0
-     },
-     "receipts": 0,
-     "fromList": false,
-     "state": "MN",
-     "wiki": "Peggy Flanagan",
-     "featured": false,
-     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/2026PeggyFlanagan_%28newcropped%29.jpg/330px-2026PeggyFlanagan_%28newcropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
     },
     {
@@ -25568,7 +26513,7 @@
      "fromList": false,
      "state": "MN",
      "wiki": null,
-     "featured": true,
+     "featured": false,
      "photo": "https://whiting4senate.us/wp-content/uploads/2024/02/whiting4senate-seo-image.png",
      "photoCredit": "Campaign website"
     }
@@ -26419,7 +27364,7 @@
      "formerMember": false,
      "sittingElsewhere": null,
      "bioguide": "O000177",
-     "fecId": null,
+     "fecId": "H4MO03221",
      "hasVotes": true,
      "money": {
       "direct": {
@@ -34831,7 +35776,7 @@
      "receipts": 5869453,
      "fromList": false,
      "state": "NC",
-     "wiki": null,
+     "wiki": "Jamie Ager",
      "featured": true
     },
     {
@@ -35913,7 +36858,7 @@
      "formerMember": false,
      "sittingElsewhere": null,
      "bioguide": "L000566",
-     "fecId": null,
+     "fecId": "H8OH05036",
      "hasVotes": true,
      "money": {
       "direct": {
@@ -37214,7 +38159,7 @@
      "formerMember": false,
      "sittingElsewhere": null,
      "bioguide": null,
-     "fecId": null,
+     "fecId": "S6OH00429",
      "hasVotes": false,
      "money": {
       "direct": {},
@@ -37235,7 +38180,7 @@
       "conduitSupport": 0,
       "conduitOppose": 0
      },
-     "receipts": 0,
+     "receipts": 55256,
      "fromList": false,
      "state": "OH",
      "wiki": null,
@@ -37381,7 +38326,7 @@
      "formerMember": false,
      "sittingElsewhere": null,
      "bioguide": null,
-     "fecId": null,
+     "fecId": "S6OH00429",
      "hasVotes": false,
      "money": {
       "direct": {},
@@ -37402,7 +38347,7 @@
       "conduitSupport": 0,
       "conduitOppose": 0
      },
-     "receipts": 0,
+     "receipts": 55256,
      "fromList": false,
      "state": "OH",
      "wiki": null,
@@ -39074,7 +40019,7 @@
      "formerMember": false,
      "sittingElsewhere": null,
      "bioguide": null,
-     "fecId": null,
+     "fecId": "H6PA01181",
      "hasVotes": false,
      "money": {
       "direct": {},
@@ -39095,7 +40040,7 @@
       "conduitSupport": 0,
       "conduitOppose": 0
      },
-     "receipts": 0,
+     "receipts": 3167942,
      "fromList": false,
      "state": "PA",
      "wiki": null,
@@ -40175,7 +41120,7 @@
      "formerMember": false,
      "sittingElsewhere": null,
      "bioguide": null,
-     "fecId": null,
+     "fecId": "H4PA13298",
      "hasVotes": false,
      "money": {
       "direct": {},
@@ -40196,7 +41141,7 @@
       "conduitSupport": 0,
       "conduitOppose": 0
      },
-     "receipts": 0,
+     "receipts": 107708,
      "fromList": false,
      "state": "PA",
      "wiki": null,
@@ -41016,7 +41961,7 @@
      "formerMember": false,
      "sittingElsewhere": null,
      "bioguide": null,
-     "fecId": null,
+     "fecId": "H6SC01342",
      "hasVotes": false,
      "money": {
       "direct": {},
@@ -41037,11 +41982,11 @@
       "conduitSupport": 0,
       "conduitOppose": 0
      },
-     "receipts": 0,
+     "receipts": 115492,
      "fromList": false,
      "state": "SC",
      "wiki": null,
-     "featured": false
+     "featured": true
     },
     {
      "name": "Margo Ellis",
@@ -41264,6 +42209,40 @@
      "state": "SC",
      "wiki": null,
      "featured": true
+    },
+    {
+     "name": "Brian Corriea",
+     "party": "L",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": null,
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 0,
+     "fromList": false,
+     "state": "SC",
+     "wiki": null,
+     "featured": false
     }
    ]
   },
@@ -41881,6 +42860,40 @@
      "featured": true,
      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/US_District_Attorney_Marty_Jackley.png/330px-US_District_Attorney_Marty_Jackley.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "photoCredit": "Wikipedia"
+    },
+    {
+     "name": "Jack Pittman",
+     "party": "I",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H6SD01166",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 0,
+     "fromList": false,
+     "state": "SD",
+     "wiki": null,
+     "featured": false
     }
    ]
   },
@@ -44015,6 +45028,40 @@
      "sittingElsewhere": null,
      "bioguide": null,
      "fecId": "S6TN00414",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 0,
+     "fromList": false,
+     "state": "TN",
+     "wiki": null,
+     "featured": false
+    },
+    {
+     "name": "Andrew Mixon",
+     "party": "I",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "S6TN00323",
      "hasVotes": false,
      "money": {
       "direct": {},
@@ -46181,7 +47228,7 @@
      "formerMember": false,
      "sittingElsewhere": null,
      "bioguide": "V000134",
-     "fecId": null,
+     "fecId": "H0TX24209",
      "hasVotes": true,
      "money": {
       "direct": {
@@ -48043,7 +49090,7 @@
      "formerMember": false,
      "sittingElsewhere": null,
      "bioguide": "B001318",
-     "fecId": null,
+     "fecId": "H2VT01076",
      "hasVotes": true,
      "money": {
       "direct": {},
@@ -48397,7 +49444,7 @@
      "formerMember": false,
      "sittingElsewhere": null,
      "bioguide": "S000185",
-     "fecId": null,
+     "fecId": "H6VA01117",
      "hasVotes": true,
      "money": {
       "direct": {},
@@ -51682,7 +52729,7 @@
    "openSeat": true,
    "candidates": [
     {
-     "name": "Lisa F. Kinney",
+     "name": "Lisa Kinney",
      "party": "D",
      "incumbent": false,
      "formerMember": false,
@@ -51710,14 +52757,48 @@
       "conduitOppose": 0
      },
      "receipts": 99131,
-     "fromList": true,
+     "fromList": false,
      "state": "WY",
-     "wiki": "Lisa F. Kinney",
+     "wiki": "Lisa Kinney",
+     "featured": true
+    },
+    {
+     "name": "Chuck Gray",
+     "party": "R",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H6WY00217",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 2011264,
+     "fromList": false,
+     "state": "WY",
+     "wiki": "Chuck Gray (Wyoming politician)",
      "featured": true
     },
     {
      "name": "Jeffrey Haggit",
-     "party": "I",
+     "party": "C",
      "incumbent": false,
      "formerMember": false,
      "sittingElsewhere": null,
@@ -51744,14 +52825,14 @@
       "conduitOppose": 0
      },
      "receipts": 0,
-     "fromList": true,
+     "fromList": false,
      "state": "WY",
-     "wiki": "Constitution Party (United States)",
-     "featured": true
+     "wiki": null,
+     "featured": false
     },
     {
      "name": "Shawn Johnson",
-     "party": "I",
+     "party": "L",
      "incumbent": false,
      "formerMember": false,
      "sittingElsewhere": null,
@@ -51778,9 +52859,43 @@
       "conduitOppose": 0
      },
      "receipts": 0,
-     "fromList": true,
+     "fromList": false,
      "state": "WY",
-     "wiki": "Libertarian Party of Wyoming",
+     "wiki": null,
+     "featured": false
+    },
+    {
+     "name": "Daniel Workman",
+     "party": "I",
+     "incumbent": false,
+     "formerMember": false,
+     "sittingElsewhere": null,
+     "bioguide": null,
+     "fecId": "H6WY01108",
+     "hasVotes": false,
+     "money": {
+      "direct": {},
+      "ieSupport": {},
+      "ieOppose": {},
+      "conduitSupport": {},
+      "conduitOppose": {}
+     },
+     "industry": {
+      "health": {},
+      "realestate": {},
+      "defense": {}
+     },
+     "moneyTotals": {
+      "direct": 0,
+      "ieSupport": 0,
+      "ieOppose": 0,
+      "conduitSupport": 0,
+      "conduitOppose": 0
+     },
+     "receipts": 0,
+     "fromList": false,
+     "state": "WY",
+     "wiki": null,
      "featured": false
     }
    ]

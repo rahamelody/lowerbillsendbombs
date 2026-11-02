@@ -195,19 +195,16 @@
    {
     "name": "Jay Feely",
     "party": "R",
-    "fromList": true,
     "wiki": "Jay Feely"
    },
    {
     "name": "Amish Shah",
     "party": "D",
-    "fromList": true,
     "wiki": "Amish Shah"
    },
    {
     "name": "Monica Alponte",
     "party": "L",
-    "fromList": true,
     "wiki": null
    }
   ]
@@ -218,21 +215,18 @@
   "district": 2,
   "candidates": [
    {
-    "name": "Eli Crane",
+    "name": "Eli Crane (incumbent)",
     "party": "R",
-    "fromList": true,
     "wiki": "Eli Crane"
    },
    {
     "name": "Jonathan Nez",
     "party": "D",
-    "fromList": true,
     "wiki": "Jonathan Nez"
    },
    {
     "name": "Curtis Goodwin",
     "party": "L",
-    "fromList": true,
     "wiki": null
    }
   ]
@@ -243,27 +237,23 @@
   "district": 3,
   "candidates": [
    {
-    "name": "Yassamin Ansari",
+    "name": "Yassamin Ansari (incumbent)",
     "party": "D",
-    "fromList": true,
     "wiki": "Yassamin Ansari"
    },
    {
     "name": "Jacob Parkman",
     "party": "R",
-    "fromList": true,
     "wiki": null
    },
    {
     "name": "Alan Aversa",
-    "party": "Other",
-    "fromList": true,
+    "party": "No Labels",
     "wiki": null
    },
    {
     "name": "David Redkey",
     "party": "G",
-    "fromList": true,
     "wiki": null
    }
   ]
@@ -274,21 +264,18 @@
   "district": 4,
   "candidates": [
    {
-    "name": "Greg Stanton",
+    "name": "Greg Stanton (incumbent)",
     "party": "D",
-    "fromList": true,
     "wiki": "Greg Stanton"
    },
    {
     "name": "Zuhdi Jasser",
     "party": "R",
-    "fromList": true,
     "wiki": "Zuhdi Jasser"
    },
    {
     "name": "Tisha Benoit",
-    "party": "Other",
-    "fromList": true,
+    "party": "No Labels",
     "wiki": null
    }
   ]
@@ -299,10 +286,14 @@
   "district": 5,
   "candidates": [
    {
+    "name": "Mark Lamb",
+    "party": "R",
+    "wiki": "Mark Lamb"
+   },
+   {
     "name": "Elizabeth Lee",
     "party": "D",
-    "fromList": true,
-    "wiki": "Federal Election Commission"
+    "wiki": null
    }
   ]
  },
@@ -312,27 +303,23 @@
   "district": 6,
   "candidates": [
    {
-    "name": "Juan Ciscomani",
+    "name": "Juan Ciscomani (incumbent)",
     "party": "R",
-    "fromList": true,
     "wiki": "Juan Ciscomani"
    },
    {
     "name": "JoAnna Mendoza",
     "party": "D",
-    "fromList": true,
-    "wiki": "Tom O'Halleran"
+    "wiki": null
    },
    {
     "name": "Jereme Peters",
     "party": "L",
-    "fromList": true,
     "wiki": null
    },
    {
     "name": "Gary Swing",
     "party": "G",
-    "fromList": true,
     "wiki": null
    }
   ]
@@ -343,16 +330,14 @@
   "district": 7,
   "candidates": [
    {
-    "name": "Adelita Grijalva",
+    "name": "Adelita Grijalva (incumbent)",
     "party": "D",
-    "fromList": true,
     "wiki": "Adelita Grijalva"
    },
    {
     "name": "Daniel Butierez",
     "party": "R",
-    "fromList": true,
-    "wiki": "2024 United States House of Representatives elections in Arizona"
+    "wiki": null
    }
   ]
  },
@@ -362,16 +347,14 @@
   "district": 8,
   "candidates": [
    {
-    "name": "Abraham Hamadeh",
+    "name": "Abraham Hamadeh (incumbent)",
     "party": "R",
-    "fromList": true,
     "wiki": "Abraham Hamadeh"
    },
    {
     "name": "Bernadette Greene-Placentia",
     "party": "D",
-    "fromList": true,
-    "wiki": "The State Press"
+    "wiki": null
    }
   ]
  },
@@ -381,16 +364,14 @@
   "district": 9,
   "candidates": [
    {
-    "name": "Paul Gosar",
+    "name": "Paul Gosar (incumbent)",
     "party": "R",
-    "fromList": true,
     "wiki": "Paul Gosar"
    },
    {
     "name": "Danielle Sterbinsky",
     "party": "D",
-    "fromList": true,
-    "wiki": "U.S. Navy"
+    "wiki": null
    }
   ]
  },
@@ -485,7 +466,7 @@
    {
     "name": "Hallie Shoffner",
     "party": "D",
-    "wiki": null
+    "wiki": "Hallie Shoffner"
    },
    {
     "name": "Jeff Wadlin",
@@ -897,7 +878,7 @@
    },
    {
     "name": "Bob Smith",
-    "party": "I",
+    "party": "R",
     "wiki": null
    }
   ]
@@ -1384,9 +1365,24 @@
   "district": 1,
   "candidates": [
    {
+    "name": "Shimon Blau",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Chad Humphrey",
+    "party": "L",
+    "wiki": null
+   },
+   {
     "name": "Melat Kiros",
     "party": "D",
     "wiki": "Melat Kiros"
+   },
+   {
+    "name": "Critter Milton",
+    "party": "Unity",
+    "wiki": null
    },
    {
     "name": "Christy Peterson",
@@ -1408,6 +1404,11 @@
    {
     "name": "Kelley Dennison",
     "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Gaylon Kent",
+    "party": "L",
     "wiki": null
    }
   ]
@@ -1661,7 +1662,7 @@
     "name": "Joseph Arminio",
     "party": "R",
     "fromList": true,
-    "wiki": null
+    "wiki": "Maryland's 1st congressional district"
    }
   ]
  },
@@ -1749,27 +1750,23 @@
   "district": 4,
   "candidates": [
    {
-    "name": "Aaron Bean",
+    "name": "Aaron Bean (incumbent)",
     "party": "R",
-    "fromList": true,
     "wiki": "Aaron Bean"
    },
    {
-    "name": "LaShonda \"L.J.\" Holloway",
+    "name": "LaShonda Holloway",
     "party": "D",
-    "fromList": true,
-    "wiki": "District of Columbia"
+    "wiki": null
    },
    {
     "name": "Mike Sell",
-    "party": "Other",
-    "fromList": true,
+    "party": "F",
     "wiki": null
    },
    {
     "name": "Todd Schaefer",
     "party": "I",
-    "fromList": true,
     "wiki": null
    }
   ]
@@ -1780,10 +1777,14 @@
   "district": 5,
   "candidates": [
    {
+    "name": "John Rutherford (incumbent)",
+    "party": "R",
+    "wiki": "John Rutherford (Florida politician)"
+   },
+   {
     "name": "Rachel Grage",
     "party": "D",
-    "fromList": true,
-    "wiki": "Florida's 16th House of Representatives district"
+    "wiki": null
    }
   ]
  },
@@ -1793,33 +1794,23 @@
   "district": 6,
   "candidates": [
    {
-    "name": "Randy Fine",
+    "name": "Randy Fine (incumbent)",
     "party": "R",
-    "fromList": true,
     "wiki": "Randy Fine"
    },
    {
     "name": "Eric Yonce",
     "party": "D",
-    "fromList": true,
     "wiki": null
    },
    {
     "name": "Andrew Parrott",
     "party": "L",
-    "fromList": true,
     "wiki": null
    },
    {
     "name": "Michael Gist",
     "party": "I",
-    "fromList": true,
-    "wiki": null
-   },
-   {
-    "name": "Alec Pavlik",
-    "party": "I",
-    "fromList": true,
     "wiki": null
    }
   ]
@@ -1886,9 +1877,8 @@
   "district": 10,
   "candidates": [
    {
-    "name": "Maxwell Frost",
+    "name": "Maxwell Frost (incumbent)",
     "party": "D",
-    "fromList": true,
     "wiki": "Maxwell Frost"
    }
   ]
@@ -1901,19 +1891,16 @@
    {
     "name": "Joe Strada",
     "party": "R",
-    "fromList": true,
-    "wiki": "Florida Politics"
+    "wiki": null
    },
    {
     "name": "James Pericola",
     "party": "D",
-    "fromList": true,
     "wiki": null
    },
    {
     "name": "Ralph Groves",
     "party": "L",
-    "fromList": true,
     "wiki": null
    }
   ]
@@ -1924,21 +1911,18 @@
   "district": 12,
   "candidates": [
    {
-    "name": "Gus Bilirakis",
+    "name": "Gus Bilirakis (incumbent)",
     "party": "R",
-    "fromList": true,
     "wiki": "Gus Bilirakis"
    },
    {
     "name": "Kimberly Overman",
     "party": "D",
-    "fromList": true,
-    "wiki": "Hillsborough County, Florida"
+    "wiki": null
    },
    {
     "name": "Branden Scrivener",
     "party": "I",
-    "fromList": true,
     "wiki": null
    }
   ]
@@ -1949,21 +1933,18 @@
   "district": 13,
   "candidates": [
    {
-    "name": "Anna Paulina Luna",
+    "name": "Anna Paulina Luna (incumbent)",
     "party": "R",
-    "fromList": true,
     "wiki": "Anna Paulina Luna"
    },
    {
     "name": "Leela Gray",
     "party": "D",
-    "fromList": true,
-    "wiki": "Brigadier general (United States)"
+    "wiki": null
    },
    {
     "name": "Tony D'Arrigo",
     "party": "I",
-    "fromList": true,
     "wiki": null
    }
   ]
@@ -1996,21 +1977,13 @@
   "district": 15,
   "candidates": [
    {
-    "name": "Laurel Lee",
+    "name": "Laurel Lee (incumbent)",
     "party": "R",
-    "fromList": true,
     "wiki": "Laurel Lee"
    },
    {
     "name": "Robert People",
     "party": "D",
-    "fromList": true,
-    "wiki": "Tampa Bay Times"
-   },
-   {
-    "name": "Angie Boone",
-    "party": "I",
-    "fromList": true,
     "wiki": null
    }
   ]
@@ -2023,20 +1996,17 @@
    {
     "name": "Sydney Gruters",
     "party": "R",
-    "fromList": true,
-    "wiki": "New College of Florida"
+    "wiki": null
    },
    {
     "name": "Kelly Kirschner",
     "party": "D",
-    "fromList": true,
-    "wiki": "Sarasota, Florida"
+    "wiki": null
    },
    {
     "name": "Mark Davis",
     "party": "I",
-    "fromList": true,
-    "wiki": "United States Air Force"
+    "wiki": null
    }
   ]
  },
@@ -2046,21 +2016,18 @@
   "district": 17,
   "candidates": [
    {
-    "name": "Greg Steube",
+    "name": "Greg Steube (incumbent)",
     "party": "R",
-    "fromList": true,
     "wiki": "Greg Steube"
    },
    {
     "name": "Matthew Montavon",
     "party": "D",
-    "fromList": true,
-    "wiki": "United Nations"
+    "wiki": null
    },
    {
     "name": "Michael Quirk",
     "party": "I",
-    "fromList": true,
     "wiki": null
    }
   ]
@@ -2071,15 +2038,18 @@
   "district": 18,
   "candidates": [
    {
+    "name": "Scott Franklin (incumbent)",
+    "party": "R",
+    "wiki": "Scott Franklin (politician)"
+   },
+   {
     "name": "Curtis Gibson",
     "party": "D",
-    "fromList": true,
-    "wiki": "Lake Wales"
+    "wiki": null
    },
    {
     "name": "Deva Simmons",
     "party": "I",
-    "fromList": true,
     "wiki": null
    }
   ]
@@ -2092,19 +2062,16 @@
    {
     "name": "Jim Schwartzel",
     "party": "R",
-    "fromList": true,
-    "wiki": "WFSX-FM"
+    "wiki": null
    },
    {
     "name": "Victor Arias",
     "party": "D",
-    "fromList": true,
     "wiki": null
    },
    {
     "name": "Seth Haskins",
     "party": "I",
-    "fromList": true,
     "wiki": null
    }
   ]
@@ -2115,21 +2082,18 @@
   "district": 20,
   "candidates": [
    {
-    "name": "Debbie Wasserman Schultz",
+    "name": "Debbie Wasserman Schultz (incumbent)",
     "party": "D",
-    "fromList": true,
     "wiki": "Debbie Wasserman Schultz"
    },
    {
     "name": "Brent Andersen",
     "party": "R",
-    "fromList": true,
     "wiki": null
    },
    {
     "name": "Kedner Maxime",
     "party": "I",
-    "fromList": true,
     "wiki": null
    }
   ]
@@ -2140,27 +2104,18 @@
   "district": 21,
   "candidates": [
    {
-    "name": "Brian Mast",
+    "name": "Brian Mast (incumbent)",
     "party": "R",
-    "fromList": true,
     "wiki": "Brian Mast"
    },
    {
     "name": "James Martin",
     "party": "D",
-    "fromList": true,
-    "wiki": "U.S. Coast Guard Reserve"
+    "wiki": null
    },
    {
     "name": "Alexander Cooke",
     "party": "I",
-    "fromList": true,
-    "wiki": "Juno Beach, Florida"
-   },
-   {
-    "name": "David Fabrikant",
-    "party": "I",
-    "fromList": true,
     "wiki": null
    }
   ]
@@ -2188,16 +2143,14 @@
   "district": 23,
   "candidates": [
    {
-    "name": "Lois Frankel",
+    "name": "Lois Frankel (incumbent)",
     "party": "D",
-    "fromList": true,
     "wiki": "Lois Frankel"
    },
    {
     "name": "Deborah Adeimy",
     "party": "R",
-    "fromList": true,
-    "wiki": "2022 United States House of Representatives elections in Florida"
+    "wiki": null
    }
   ]
  },
@@ -3083,16 +3036,14 @@
   "district": 1,
   "candidates": [
    {
-    "name": "Frank Mrvan",
+    "name": "Frank Mrvan (incumbent)",
     "party": "D",
-    "fromList": true,
     "wiki": "Frank J. Mrvan"
    },
    {
     "name": "Barb Regnitz",
     "party": "R",
-    "fromList": true,
-    "wiki": "Porter County"
+    "wiki": null
    }
   ]
  },
@@ -3608,7 +3559,135 @@
    },
    {
     "name": "Christopher Campbell",
+    "party": "Kentucky",
+    "wiki": null
+   }
+  ]
+ },
+ "LA-1": {
+  "type": "house",
+  "state": "LA",
+  "district": 1,
+  "candidates": [
+   {
+    "name": "Randall Arrington",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "E. Glass",
     "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Lauren Jewett",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Steve Scalise (incumbent)",
+    "party": "R",
+    "wiki": "Steve Scalise"
+   }
+  ]
+ },
+ "LA-2": {
+  "type": "house",
+  "state": "LA",
+  "district": 2,
+  "candidates": [
+   {
+    "name": "Lisa Ballay",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Walker Beach",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Troy Carter (incumbent)",
+    "party": "D",
+    "wiki": "Troy Carter (politician)"
+   },
+   {
+    "name": "Renada Collins",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Peter Williams",
+    "party": "R",
+    "wiki": null
+   }
+  ]
+ },
+ "LA-3": {
+  "type": "house",
+  "state": "LA",
+  "district": 3,
+  "candidates": [
+   {
+    "name": "Kate Cotten",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "John Day",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Priscilla Gonzalez",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Clay Higgins (incumbent)",
+    "party": "R",
+    "wiki": "Clay Higgins"
+   },
+   {
+    "name": "Tia LeBrun",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Caleb Walker",
+    "party": "D",
+    "wiki": null
+   }
+  ]
+ },
+ "LA-4": {
+  "type": "house",
+  "state": "LA",
+  "district": 4,
+  "candidates": [
+   {
+    "name": "Conrad Cable",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Matt Gromlich",
+    "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Gordan Heslop",
+    "party": "R",
+    "wiki": null
+   },
+   {
+    "name": "Mike Johnson (incumbent)",
+    "party": "R",
+    "wiki": "Mike Johnson"
+   },
+   {
+    "name": "Mike Nichols",
+    "party": "R",
     "wiki": null
    }
   ]
@@ -4126,7 +4205,7 @@
    },
    {
     "name": "Doc Kovaly",
-    "party": "C",
+    "party": "Other",
     "wiki": null
    },
    {
@@ -4239,7 +4318,7 @@
    },
    {
     "name": "Sharon Marie Reiner",
-    "party": "C",
+    "party": "Other",
     "wiki": null
    },
    {
@@ -4271,7 +4350,7 @@
    },
    {
     "name": "Mike Mickevicius",
-    "party": "C",
+    "party": "Other",
     "wiki": null
    },
    {
@@ -4362,7 +4441,7 @@
    },
    {
     "name": "John Vlahos",
-    "party": "C",
+    "party": "Other",
     "wiki": null
    },
    {
@@ -4458,7 +4537,7 @@
    },
    {
     "name": "Marc Sosnowski",
-    "party": "C",
+    "party": "Other",
     "wiki": null
    },
    {
@@ -4490,7 +4569,7 @@
    },
    {
     "name": "Chris Dardzinski",
-    "party": "C",
+    "party": "Other",
     "wiki": null
    },
    {
@@ -4527,7 +4606,7 @@
    },
    {
     "name": "Tim Long",
-    "party": "C",
+    "party": "Other",
     "wiki": null
    },
    {
@@ -4707,7 +4786,7 @@
   "candidates": [
    {
     "name": "Peggy Flanagan",
-    "party": "Other",
+    "party": "D",
     "wiki": "Peggy Flanagan"
    },
    {
@@ -6768,7 +6847,7 @@
    {
     "name": "Jamie Ager",
     "party": "D",
-    "wiki": null
+    "wiki": "Jamie Ager"
    },
    {
     "name": "Travis Groo",
@@ -7910,6 +7989,11 @@
     "name": "Eunice Lehmacher",
     "party": "D",
     "wiki": null
+   },
+   {
+    "name": "Brian Corriea",
+    "party": "L",
+    "wiki": null
    }
   ]
  },
@@ -8021,6 +8105,11 @@
    {
     "name": "Nicole Gronli",
     "party": "D",
+    "wiki": null
+   },
+   {
+    "name": "Jack Pittman",
+    "party": "I",
     "wiki": null
    }
   ]
@@ -8421,6 +8510,11 @@
    },
    {
     "name": "Catherine Whitson",
+    "party": "I",
+    "wiki": null
+   },
+   {
+    "name": "Andrew Mixon",
     "party": "I",
     "wiki": null
    }
@@ -9858,22 +9952,29 @@
   "district": 0,
   "candidates": [
    {
-    "name": "Lisa F. Kinney",
-    "party": "D",
-    "fromList": true,
-    "wiki": "Lisa F. Kinney"
+    "name": "Chuck Gray",
+    "party": "R",
+    "wiki": "Chuck Gray (Wyoming politician)"
    },
    {
     "name": "Jeffrey Haggit",
-    "party": "I",
-    "fromList": true,
-    "wiki": "Constitution Party (United States)"
+    "party": "C",
+    "wiki": null
    },
    {
     "name": "Shawn Johnson",
+    "party": "L",
+    "wiki": null
+   },
+   {
+    "name": "Lisa Kinney",
+    "party": "D",
+    "wiki": "Lisa Kinney"
+   },
+   {
+    "name": "Daniel Workman",
     "party": "I",
-    "fromList": true,
-    "wiki": "Libertarian Party of Wyoming"
+    "wiki": null
    }
   ]
  },

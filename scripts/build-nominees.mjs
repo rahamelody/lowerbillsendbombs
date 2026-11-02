@@ -28,7 +28,7 @@ function splitTemplate(body) {
 }
 const unlink = s => s.replace(/\[\[(?:[^\]|]*\|)?([^\]]*)\]\]/g, '$1').replace(/<ref[\s\S]*?(<\/ref>|\/>)/g, '').replace(/'''?/g, '').replace(/\{\{[^}]*\}\}/g, '').trim();
 const PARTY = { Democratic: 'D', Republican: 'R', Libertarian: 'L', Green: 'G', Independent: 'I', 'Working Families': 'WFP', Constitution: 'C', Forward: 'F', 'No party': 'NPA', 'Independent American': 'IAP', 'Natural Law': 'NL', 'Socialist Workers': 'SWP', Conservative: 'CON', 'Liberal': 'LIB' };
-const shortParty = p => { const x = unlink(p || ''); for (const [k, v] of Object.entries(PARTY)) if (x.startsWith(k)) return v; const o = x.replace(/ Party.*$/, '').trim(); return o && o.length <= 10 ? o : (o ? 'Other' : '?'); };
+const shortParty = p => { const x = unlink(p || ''); if (/Democratic[–-](Farmer[–-]Labor|NPL)|\bDFL\b/i.test(x)) return 'D'; for (const [k, v] of Object.entries(PARTY)) if (x.startsWith(k)) return v; const o = x.replace(/ Party.*$/, '').trim(); return o && o.length <= 10 ? o : (o ? 'Other' : '?'); };
 
 const wikiTarget = raw => { const m = (raw || '').match(/\[\[([^\]|#]+)/); return m ? m[1].trim() : null; };
 

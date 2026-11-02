@@ -2084,56 +2084,6 @@
   "notOnBallot": true
  },
  {
-  "name": "Steve Scalise",
-  "party": "R",
-  "bioguide": "S001176",
-  "state": "LA",
-  "chamber": "house",
-  "district": 1,
-  "termEnds": "2027-01-03",
-  "incumbent": true,
-  "formerMember": false,
-  "fecId": "H0LA01087",
-  "hasVotes": true,
-  "money": {
-   "direct": {
-    "2022": 7600,
-    "2024": 10000,
-    "2026": 9994
-   },
-   "ieSupport": {},
-   "ieOppose": {},
-   "conduitSupport": {},
-   "conduitOppose": {}
-  },
-  "industry": {
-   "health": {
-    "2022": 108000,
-    "2024": 121000,
-    "2026": 119500
-   },
-   "realestate": {
-    "2022": 40000,
-    "2024": 34500,
-    "2026": 40000
-   },
-   "defense": {
-    "2022": 80500,
-    "2024": 78500,
-    "2026": 95000
-   }
-  },
-  "moneyTotals": {
-   "direct": 27594,
-   "ieSupport": 0,
-   "ieOppose": 0,
-   "conduitSupport": 0,
-   "conduitOppose": 0
-  },
-  "photo": "https://unitedstates.github.io/images/congress/225x275/S001176.jpg",
-  "notOnBallot": true
- },
- {
   "name": "Jan Schakowsky",
   "party": "D",
   "bioguide": "S001145",
@@ -4230,56 +4180,6 @@
   "notOnBallot": true
  },
  {
-  "name": "John Rutherford",
-  "party": "R",
-  "bioguide": "R000609",
-  "state": "FL",
-  "chamber": "house",
-  "district": 5,
-  "termEnds": "2027-01-03",
-  "incumbent": true,
-  "formerMember": false,
-  "fecId": "H6FL04105",
-  "hasVotes": true,
-  "money": {
-   "direct": {
-    "2022": 10000,
-    "2024": 10000,
-    "2026": 9994
-   },
-   "ieSupport": {},
-   "ieOppose": {},
-   "conduitSupport": {},
-   "conduitOppose": {}
-  },
-  "industry": {
-   "health": {
-    "2022": 8500,
-    "2024": 7000,
-    "2026": 7000
-   },
-   "realestate": {
-    "2022": 22500,
-    "2024": 22500,
-    "2026": 20000
-   },
-   "defense": {
-    "2022": 53500,
-    "2024": 87000,
-    "2026": 80000
-   }
-  },
-  "moneyTotals": {
-   "direct": 29994,
-   "ieSupport": 0,
-   "ieOppose": 0,
-   "conduitSupport": 0,
-   "conduitOppose": 0
-  },
-  "photo": "https://unitedstates.github.io/images/congress/225x275/R000609.jpg",
-  "notOnBallot": true
- },
- {
   "name": "Raja Krishnamoorthi",
   "party": "D",
   "bioguide": "K000391",
@@ -4374,104 +4274,6 @@
    "conduitOppose": 0
   },
   "photo": "https://unitedstates.github.io/images/congress/225x275/B001299.jpg",
-  "notOnBallot": true
- },
- {
-  "name": "Clay Higgins",
-  "party": "R",
-  "bioguide": "H001077",
-  "state": "LA",
-  "chamber": "house",
-  "district": 3,
-  "termEnds": "2027-01-03",
-  "incumbent": true,
-  "formerMember": false,
-  "fecId": "H6LA03148",
-  "hasVotes": true,
-  "money": {
-   "direct": {
-    "2022": 10000,
-    "2024": 5000,
-    "2026": 5000
-   },
-   "ieSupport": {},
-   "ieOppose": {},
-   "conduitSupport": {},
-   "conduitOppose": {}
-  },
-  "industry": {
-   "health": {
-    "2022": 1000
-   },
-   "realestate": {
-    "2022": 9000,
-    "2024": 8000,
-    "2026": 5000
-   },
-   "defense": {
-    "2022": 7500,
-    "2024": 4000,
-    "2026": 3000
-   }
-  },
-  "moneyTotals": {
-   "direct": 20000,
-   "ieSupport": 0,
-   "ieOppose": 0,
-   "conduitSupport": 0,
-   "conduitOppose": 0
-  },
-  "photo": "https://unitedstates.github.io/images/congress/225x275/H001077.jpg",
-  "notOnBallot": true
- },
- {
-  "name": "Mike Johnson",
-  "party": "R",
-  "bioguide": "J000299",
-  "state": "LA",
-  "chamber": "house",
-  "district": 4,
-  "termEnds": "2027-01-03",
-  "incumbent": true,
-  "formerMember": false,
-  "fecId": "H6LA04138",
-  "hasVotes": true,
-  "money": {
-   "direct": {
-    "2022": 10000,
-    "2024": 10000,
-    "2026": 9994
-   },
-   "ieSupport": {},
-   "ieOppose": {},
-   "conduitSupport": {},
-   "conduitOppose": {}
-  },
-  "industry": {
-   "health": {
-    "2022": 9500,
-    "2024": 95000,
-    "2026": 126000
-   },
-   "realestate": {
-    "2022": 15000,
-    "2024": 40000,
-    "2026": 35000
-   },
-   "defense": {
-    "2022": 52000,
-    "2024": 73500,
-    "2026": 106000
-   }
-  },
-  "moneyTotals": {
-   "direct": 29994,
-   "ieSupport": 0,
-   "ieOppose": 0,
-   "conduitSupport": 0,
-   "conduitOppose": 0
-  },
-  "photo": "https://unitedstates.github.io/images/congress/225x275/J000299.jpg",
   "notOnBallot": true
  },
  {
@@ -5571,54 +5373,6 @@
   "notOnBallot": true
  },
  {
-  "name": "C. Franklin",
-  "party": "R",
-  "bioguide": "F000472",
-  "state": "FL",
-  "chamber": "house",
-  "district": 18,
-  "termEnds": "2027-01-03",
-  "incumbent": true,
-  "formerMember": false,
-  "fecId": "H0FL15104",
-  "hasVotes": true,
-  "money": {
-   "direct": {
-    "2022": 10000,
-    "2024": 5000,
-    "2026": 9994
-   },
-   "ieSupport": {},
-   "ieOppose": {},
-   "conduitSupport": {},
-   "conduitOppose": {}
-  },
-  "industry": {
-   "health": {
-    "2022": 2000
-   },
-   "realestate": {
-    "2022": 12500,
-    "2024": 10500,
-    "2026": 5000
-   },
-   "defense": {
-    "2022": 41500,
-    "2024": 59500,
-    "2026": 51000
-   }
-  },
-  "moneyTotals": {
-   "direct": 24994,
-   "ieSupport": 0,
-   "ieOppose": 0,
-   "conduitSupport": 0,
-   "conduitOppose": 0
-  },
-  "photo": "https://unitedstates.github.io/images/congress/225x275/F000472.jpg",
-  "notOnBallot": true
- },
- {
   "name": "Byron Donalds",
   "party": "R",
   "bioguide": "D000032",
@@ -5944,55 +5698,6 @@
    "conduitOppose": 0
   },
   "photo": "https://unitedstates.github.io/images/congress/225x275/W000790.jpg",
-  "notOnBallot": true
- },
- {
-  "name": "Troy Carter",
-  "party": "D",
-  "bioguide": "C001125",
-  "state": "LA",
-  "chamber": "house",
-  "district": 2,
-  "termEnds": "2027-01-03",
-  "incumbent": true,
-  "formerMember": false,
-  "fecId": "H2LA02149",
-  "hasVotes": true,
-  "money": {
-   "direct": {
-    "2022": 10000,
-    "2024": 9400
-   },
-   "ieSupport": {},
-   "ieOppose": {},
-   "conduitSupport": {},
-   "conduitOppose": {}
-  },
-  "industry": {
-   "health": {
-    "2022": 10500,
-    "2024": 33000,
-    "2026": 104000
-   },
-   "realestate": {
-    "2022": 16500,
-    "2024": 23000,
-    "2026": 15000
-   },
-   "defense": {
-    "2022": 10000,
-    "2024": 13000,
-    "2026": 22000
-   }
-  },
-  "moneyTotals": {
-   "direct": 19400,
-   "ieSupport": 0,
-   "ieOppose": 0,
-   "conduitSupport": 0,
-   "conduitOppose": 0
-  },
-  "photo": "https://unitedstates.github.io/images/congress/225x275/C001125.jpg",
   "notOnBallot": true
  },
  {
