@@ -495,3 +495,20 @@ a.tile:hover, a.tile:focus-visible { scale: 1.08; box-shadow: 0 24px 50px -12px 
 .bp-head.good { box-shadow: 0 1px 0 var(--line), 0 24px 48px -30px rgba(80,45,20,.35), inset 4px 0 0 var(--good); }
 .bp-opp.good { background: var(--good-bg); color: var(--good); }
 .nav nav a.nav-search { display: inline-grid; place-items: center; width: 32px; height: 32px; padding: 0; }
+
+/* answers: Yes / Somewhat yes / Unclear / Somewhat no / No, and the question each row asks */
+.badge.t-lean, .g-c.t-lean, .lens-key .lean { background: #fbe6d8; color: #a2481a; }
+.c-sec h4, .sec-head h4 { text-transform: none; letter-spacing: -.005em; font-size: 15.5px; font-weight: 600; color: var(--ink); line-height: 1.25; }
+.lens-key .k { font-weight: 600; }
+.why { margin: 0 0 10px; font-size: 13.5px; color: var(--muted); line-height: 1.4; }
+.why b { color: var(--ink); font-weight: 600; }
+.badge.t-full, .badge.t-partial, .badge.t-mixed, .badge.t-lean, .badge.t-against { font-weight: 700; }
+
+/* money lives under the answer as plain text with a marker, not as a second pill */
+.money { flex: 0 0 100%; display: block; font-size: 12.5px; font-weight: 600; line-height: 1.3; padding-left: 9px; border-left: 3px solid currentColor; margin-top: 4px; }
+.money.bad { color: var(--bad); }
+.money.ok { color: var(--good); }
+.badge.t-mixed { background: #fbf0b9; color: #7a5b00; }
+.lens-key { display: none; }
+/* money sits on the same line as the answer when it fits, and wraps below it when it doesn't */
+.money { flex: 0 1 auto; margin-top: 0; }

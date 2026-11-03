@@ -2,7 +2,11 @@ const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const usd = n => '$' + Math.round(n).toLocaleString('en-US');
 const PARTY = { CON: 'Conservative', D: 'Democrat', R: 'Republican', L: 'Libertarian', G: 'Green', I: 'Independent', C: 'Constitution', WFP: 'Working Families', NL: 'Natural Law' };
-const badge = b => `<span class="badge t-${esc(b.tier)}${b.basis === 'statements' ? ' words' : ''}"${b.basis === 'statements' ? ' title="From their own words, not votes"' : ''}>${esc(b.label)}</span>`;
+// The four questions, and the one-word answers. Internal tiers stay as they are; here they become Yes / Somewhat yes / Unclear / Somewhat no / No.
+const QUESTIONS = { health: 'Expand public access to health care?', housing: 'Treat housing as a human right?', iran: 'End the war on Iran?', israel: 'Stop arming Israel?' };
+const ANSWER = { full: ['Yes', 'full'], partial: ['Somewhat yes', 'partial'], mixed: ['Mixed record', 'mixed'], against: ['No', 'against'] };
+const answerOf = b => (b.lean ? ['Somewhat no', 'lean'] : ANSWER[b.tier] || ['Unclear', 'quoted']);
+const badge = b => { const [word, cls] = answerOf(b); return `<span class="badge t-${cls}${b.basis === 'statements' ? ' words' : ''}"${b.basis === 'statements' ? ' title="From their own words, not votes"' : ''}>${esc(word)}</span>`; };
 
 const cycles = o => Object.entries(o || {}).filter(([, v]) => v).sort(([a], [b]) => b - a).map(([cy, v]) => `${cy}: ${usd(v)}`).join(' · ');
 const partyName = p => p.split('/').map(x => PARTY[x] || x).join(' / ');
@@ -58,22 +62,22 @@ function extras(topic, r, rec) {
 function pacPill(topic, rec) {
   if (topic === 'israel') {
     const total = backing(rec), opp = rec.money.opposed || 0;
-    if (total) return `<span class="badge t-against">${usd(total)} from AIPAC-linked PACs</span>`;
-    if (opp) return `<span class="badge t-full">AIPAC-linked groups spent ${usd(opp)} against them</span>`;
+    if (total) return `<span class="money bad">${usd(total)} from AIPAC-linked PACs</span>`;
+    if (opp) return `<span class="money ok">AIPAC-linked groups spent ${usd(opp)} against them</span>`;
     return '';
   }
   const ind = rec.industry[{ health: 'health', housing: 'realestate', iran: 'defense' }[topic]];
-  return ind?.total > 0 ? `<span class="badge t-against">${usd(ind.total)} from ${esc(ind.label)}</span>` : '';
+  return ind?.total > 0 ? `<span class="money bad">${usd(ind.total)} from ${esc(ind.label)}</span>` : '';
 }
 
 /** Collapsed view: only the high-level label. Details live in topicCell(), revealed on click.
  *  With no vote or cosponsorship record, we show whatever else we know (their quotes, any PAC money) before falling back to "No record". */
 function topicSummary(topic, rec) {
   const r = rec[topic];
-  if (r.badge) return badge(r.badge);
-  const quoted = r.quotes?.length ? '<span class="badge t-quoted">Has stated a position</span>' : r.stateRows?.length ? '<span class="badge t-quoted">Has a state record</span>' : '';
+  if (r.badge) return badge(r.badge) + pacPill(topic, rec);
+  const quoted = r.quotes?.length ? '<span class="badge t-quoted">Unclear</span>' : r.stateRows?.length ? '<span class="badge t-quoted">Unclear</span>' : '';
   const money = pacPill(topic, rec);
-  return quoted + money || '<span class="badge t-none">No record</span>';
+  return (quoted || '<span class="badge t-none">No record</span>') + money;   // the answer pill always shows; money sits under it as a line
 }
 
 /** state-legislature record: each sponsorship / floor vote with a link to the bill */
@@ -86,15 +90,16 @@ function stateBlock(r) {
 
 function topicCell(topic, rec, c) {
   const r = rec[topic];
+  const why = r.badge ? `<p class="why"><b>Why:</b> ${esc(r.badge.label)}</p>` : '';
   const flag = r.flag ? `<div class="shift">↻ Position has shifted. ${esc(r.flag)}</div>` : '';
   const quotes = r.quotes?.length ? `${flag}<div class="qlabel">In their own words</div>${quotesHTML(r.quotes)}` : '';
   const votes = r.votes.length ? votesList(r.votes) : '';
   const ex = extras(topic, r, rec);
   // a badge exists only when there is a vote or cosponsorship behind it; otherwise we show quotes, or say there's no record
   const stateHtml = stateBlock(r);
-  if (r.badge?.basis === 'state') return `<p class="sub">Based on their state legislative record, not votes in Congress.</p>${stateHtml}${quotes}${ex}${votes}`;
-  if (r.badge?.basis === 'statements') return `<p class="sub">${r.note ? `${esc(r.note.text)} <a href="${esc(r.note.url)}" rel="noopener">${esc(r.note.source)} ↗</a>` : 'Based on their own words below, not votes.'}</p>${quotes}${ex}${votes}`;
-  if (r.badge) return `${r.headline ? `<p class="txt">${esc(r.headline)}.</p>` : ''}${ex}${votes}`;   // the badge itself is the collapsed header
+  if (r.badge?.basis === 'state') return `${why}<p class="sub">Based on their state legislative record, not votes in Congress.</p>${stateHtml}${quotes}${ex}${votes}`;
+  if (r.badge?.basis === 'statements') return `${why}<p class="sub">${r.note ? `${esc(r.note.text)} <a href="${esc(r.note.url)}" rel="noopener">${esc(r.note.source)} ↗</a>` : 'Based on their own words below, not votes.'}</p>${quotes}${ex}${votes}`;
+  if (r.badge) return `${why}${r.headline ? `<p class="txt">${esc(r.headline)}.</p>` : ''}${ex}${votes}`;   // the badge itself is the collapsed header
   if (stateHtml) return `<p class="sub">State legislative record. These are symbolic resolutions, so they carry no label.</p>${stateHtml}${quotes}${ex}`;
   if (quotes) return `${quotes}${ex}`;
   if (ex) return `${ex}<div class="sub">${c.incumbent || c.formerMember ? 'No recorded votes in our list, and no sourced quote yet.' : 'No voting record, and no sourced quote on file yet.'}</div>`;
@@ -121,7 +126,7 @@ function card(c, extra = false) {
   const status = c.incumbent ? '<p class="status-line inc">★ Incumbent</p>' : c.sittingElsewhere ? `<p class="status-line">Currently serves in the ${esc(c.sittingElsewhere)}</p>` : c.formerMember ? '<p class="status-line">Former member of Congress</p>' : '<p class="status-line">Challenger</p>';
   return `<article class="ccard${focus ? ' focus' : ''}${extra ? ' extra' : ''}"${focus ? ' id="focus-col"' : ''}>
     <div class="c-head">${photo}${c.photo && c.photoCredit && c.photoCredit !== 'Official congressional portrait' ? `<span class="credit">Photo: ${esc(c.photoCredit)}</span>` : ''}<h3>${esc(c.name)}</h3>${status}</div>
-    ${[['health', 'Health care'], ['housing', 'Housing'], ['iran', 'Iran war'], ['israel', 'Israel / Palestine']].map(([t, label]) => `<div class="c-sec" data-topic="${t}"><button type="button" class="sec-head" aria-expanded="false"><h4>${label}</h4>${topicSummary(t, c.record)}<span class="chev" aria-hidden="true"></span></button><div class="c-detail" hidden>${topicCell(t, c.record, c)}</div></div>`).join('')}
+    ${Object.entries(QUESTIONS).map(([t, label]) => `<div class="c-sec" data-topic="${t}"><button type="button" class="sec-head" aria-expanded="false"><h4>${label}</h4>${topicSummary(t, c.record)}<span class="chev" aria-hidden="true"></span></button><div class="c-detail" hidden>${topicCell(t, c.record, c)}</div></div>`).join('')}
   </article>`;
 }
 
@@ -144,7 +149,6 @@ const results = $('#results');
 const footerHTML = () => `<aside class="before-vote reveal"><div><h3>Before you vote</h3><p>Election Day is <strong>Tuesday, Nov. 3</strong>. Check your polling place and what’s on your full ballot:</p>
   <p class="links"><a href="https://www.vote.gov/" rel="noopener" target="_blank">Find your polling place ↗</a><a href="https://ballotpedia.org/Sample_Ballot_Lookup_Tool" rel="noopener" target="_blank">See your full sample ballot ↗</a><a href="https://www.vote411.org/" rel="noopener" target="_blank">Vote411 voter guide ↗</a></p></div>
   <div><h3>About this guide</h3><p>Lower my Bills, End the Bombs has a point of view. It looks at two themes: affordability (health care and housing) and foreign policy (the Iran war, Israel/Palestine and AIPAC-linked money). It isn’t a full picture of any candidate. <a href="#method">About this project.</a></p></div></aside>`;
-const legendHTML = () => `<p class="lens-key" aria-label="Color key"><span class="k full">Aligned with this guide’s priorities</span><span class="k partial">Partially aligned</span><span class="k mixed">Mixed</span><span class="k against">Not aligned</span><span class="k none">No record</span></p>`;
 const noteHTML = n => `<p class="note">${esc(n)}</p>`;
 const houseTitle = r => `U.S. House · ${r.state}-${r.district === 0 ? 'AL' : r.district}`;
 const io = 'IntersectionObserver' in window ? new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } }), { threshold: 0.08 }) : null;
@@ -163,7 +167,6 @@ const afterRender = d => {
 
 function renderBallot(d) {
   const parts = [`<p class="where">Showing races for <strong>${esc(d.label)}</strong>${d.approx ? ' · approximate area' : ''}</p>`];
-  parts.push(legendHTML());
   d.notes.forEach(n => parts.push(noteHTML(n)));
   d.senate.forEach(r => parts.push(race(r, `U.S. Senate · ${r.state}`)));
   d.houses.forEach(r => parts.push(race(r, houseTitle(r) + (d.houses.length > 1 ? ` (${r.districtLabel})` : ''))));
@@ -173,7 +176,6 @@ function renderBallot(d) {
 
 function renderState(d) {
   const parts = [`<p class="where">All 2026 U.S. House and Senate races in <strong>${esc(d.stateName)}</strong></p>`];
-  parts.push(legendHTML());
   d.notes.forEach(n => parts.push(noteHTML(n)));
   d.senate.forEach(r => parts.push(race(r, `U.S. Senate · ${r.state}`)));
   if (d.houseRaces.length) {
@@ -202,7 +204,7 @@ function renderPeople(d) {
   const open = async m => {
     const box = $('#detail'); box.innerHTML = `<p class="status"><span class="spinner"></span>Loading…</p>`;
     FOCUS = m.name;
-    if (m.raceKey) { const r = await (await fetch('/api/race?key=' + encodeURIComponent(m.raceKey))).json(); box.innerHTML = legendHTML() + race(r, m.office); reveal(box); }
+    if (m.raceKey) { const r = await (await fetch('/api/race?key=' + encodeURIComponent(m.raceKey))).json(); box.innerHTML = race(r, m.office); reveal(box); }
     else {
       const c = await (await fetch('/api/person?bioguide=' + encodeURIComponent(m.bioguide))).json();
       box.innerHTML = race({ candidates: [c] }, m.office, { tags: [m.status] }) + noteHTML('This official is not on the 2026 ballot. Their money and voting record are shown for reference.'); reveal(box);

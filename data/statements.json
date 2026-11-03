@@ -658,6 +658,183 @@
           }
         ]
       }
+    },
+    "H2IA02111": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "It has killed tens of thousands of innocent people, and it needs to end, just as the Iran war needs to end.",
+            "source": "Jewish Insider, quoting an August local TV interview (on Gaza and Iran)",
+            "url": "https://jewishinsider.com/2026/10/christina-bohannan-iowa-israel-support-gaza-war-miller-meeks/",
+            "date": "Aug. 2026 interview, reported Oct. 27, 2026",
+            "kind": "news"
+          }
+        ]
+      },
+      "israel": {
+        "quotes": [
+          {
+            "text": "there is no question that the war in Gaza has gone on for far too long.",
+            "source": "Jewish Insider, quoting an August local TV interview",
+            "url": "https://jewishinsider.com/2026/10/christina-bohannan-iowa-israel-support-gaza-war-miller-meeks/",
+            "date": "Aug. 2026 interview, reported Oct. 27, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "we have to make sure that Israel can continue to defend itself and make sure that we do not have a nuclear Iran.",
+            "source": "Jewish Insider, quoting an August local TV interview",
+            "url": "https://jewishinsider.com/2026/10/christina-bohannan-iowa-israel-support-gaza-war-miller-meeks/",
+            "date": "Aug. 2026 interview, reported Oct. 27, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "I have always thought that Israel is an ally of the United States.",
+            "source": "Jewish Insider, quoting an August local TV interview",
+            "url": "https://jewishinsider.com/2026/10/christina-bohannan-iowa-israel-support-gaza-war-miller-meeks/",
+            "date": "Aug. 2026 interview, reported Oct. 27, 2026",
+            "kind": "news"
+          }
+        ],
+        "badge": {
+          "tier": "mixed",
+          "label": "Backs Israel, but says the Gaza war must end"
+        },
+        "note": {
+          "text": "Based on her own words below, not votes. Jewish Insider reports she did not say how she would handle U.S. aid to Israel.",
+          "source": "Jewish Insider, Oct. 27, 2026",
+          "url": "https://jewishinsider.com/2026/10/christina-bohannan-iowa-israel-support-gaza-war-miller-meeks/"
+        }
+      }
+    },
+    "H6IA02211": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "It is time to end the war immediately, bring our troops home",
+            "source": "Iowa PBS Iowa Press debate (on the Iran war)",
+            "url": "https://www.iowapbs.org/shows/iowapress/special/14525/iowa-press-debates-2nd-congressional-district",
+            "date": "Oct. 8, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "there has been no plan when it comes to war in the Middle East.",
+            "source": "Iowa PBS Iowa Press debate (on the Iran war)",
+            "url": "https://www.iowapbs.org/shows/iowapress/special/14525/iowa-press-debates-2nd-congressional-district",
+            "date": "Oct. 8, 2026",
+            "kind": "news"
+          }
+        ],
+        "badge": {
+          "tier": "full",
+          "label": "States opposition to the war"
+        }
+      },
+      "health": {
+        "quotes": [
+          {
+            "text": "I believe that health care is a human right",
+            "source": "Iowa PBS Iowa Press debate (on Medicaid and the ACA)",
+            "url": "https://www.iowapbs.org/shows/iowapress/special/14525/iowa-press-debates-2nd-congressional-district",
+            "date": "Oct. 8, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "which is why I support a public option.",
+            "source": "Iowa PBS Iowa Press debate (on Medicaid and the ACA)",
+            "url": "https://www.iowapbs.org/shows/iowapress/special/14525/iowa-press-debates-2nd-congressional-district",
+            "date": "Oct. 8, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "we need to roll back the cuts to Medicaid and Medicare and to roll back the cuts to the ACA",
+            "source": "Iowa PBS Iowa Press debate (on Medicaid and the ACA)",
+            "url": "https://www.iowapbs.org/shows/iowapress/special/14525/iowa-press-debates-2nd-congressional-district",
+            "date": "Oct. 8, 2026",
+            "kind": "news"
+          }
+        ]
+      },
+      "housing": {
+        "quotes": [
+          {
+            "text": "they're driving up costs, in particular housing costs. I've been a champion for housing in the state legislature.",
+            "source": "Iowa PBS Iowa Press debate (on tariffs and costs)",
+            "url": "https://www.iowapbs.org/shows/iowapress/special/14525/iowa-press-debates-2nd-congressional-district",
+            "date": "Oct. 8, 2026",
+            "kind": "news"
+          }
+        ]
+      }
+    },
+    "H6IA02237": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "I've said the war should end as soon as we can end it.",
+            "source": "Iowa PBS Iowa Press debate (on the Iran war)",
+            "url": "https://www.iowapbs.org/shows/iowapress/special/14525/iowa-press-debates-2nd-congressional-district",
+            "date": "Oct. 8, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "I just believe that the current resolutions that have been brought up have been partisan actions by the Democrats.",
+            "source": "Iowa PBS Iowa Press debate (on war powers resolutions)",
+            "url": "https://www.iowapbs.org/shows/iowapress/special/14525/iowa-press-debates-2nd-congressional-district",
+            "date": "Oct. 8, 2026",
+            "kind": "news"
+          }
+        ]
+      },
+      "health": {
+        "quotes": [
+          {
+            "text": "Yeah, I would vote to repeal it. And I've said that we have to keep in preexisting conditions.",
+            "source": "Iowa PBS Iowa Press debate (asked whether he would repeal the Affordable Care Act)",
+            "url": "https://www.iowapbs.org/shows/iowapress/special/14525/iowa-press-debates-2nd-congressional-district",
+            "date": "Oct. 8, 2026",
+            "kind": "news"
+          }
+        ],
+        "badge": {
+          "tier": "against",
+          "label": "States support for repealing the ACA"
+        }
+      },
+      "housing": {
+        "quotes": [
+          {
+            "text": "I've invested tens of millions of dollars into Rural Iowa building housing.",
+            "source": "Iowa PBS Iowa Press debate (on housing)",
+            "url": "https://www.iowapbs.org/shows/iowapress/special/14525/iowa-press-debates-2nd-congressional-district",
+            "date": "Oct. 8, 2026",
+            "kind": "news"
+          }
+        ]
+      }
+    },
+    "H6IA03268": {
+      "iran": {
+        "quotes": [
+          {
+            "text": "I’ve always been against this war",
+            "source": "Iowa Capital Dispatch via Yahoo News (on the Iran war powers vote)",
+            "url": "https://www.yahoo.com/news/politics/articles/reps-nunn-miller-meeks-said-221317340.html",
+            "date": "Sept. 16, 2026",
+            "kind": "news"
+          },
+          {
+            "text": "If you want this war to continue, vote for Zach Nunn, if you want this war to end, I’m asking for your vote this election.",
+            "source": "Iowa Capital Dispatch via Yahoo News (on the Iran war powers vote)",
+            "url": "https://www.yahoo.com/news/politics/articles/reps-nunn-miller-meeks-said-221317340.html",
+            "date": "Sept. 16, 2026",
+            "kind": "news"
+          }
+        ],
+        "badge": {
+          "tier": "full",
+          "label": "States opposition to the war"
+        }
+      }
     }
   }
 }
