@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-02T19:34:20.999Z",
- "moneyAsOf": "2026-11-02T19:34:19.211Z",
- "filingsThrough": "2026-11-01",
+ "generated": "2026-11-03T17:08:53.219Z",
+ "moneyAsOf": "2026-11-03T17:08:51.502Z",
+ "filingsThrough": "2026-11-03",
  "liveCheckedAt": "2026-11-01T15:52:14.703Z",
  "races": {
   "AL-1": {
@@ -3917,7 +3917,7 @@
       "conduitSupport": 0,
       "conduitOppose": 0
      },
-     "receipts": 981645,
+     "receipts": 986645,
      "fromList": false,
      "state": "CA",
      "wiki": "Kevin Mullin",
@@ -5637,7 +5637,7 @@
        "2026": 4994
       },
       "ieSupport": {
-       "2024": 1723990.1500000001
+       "2024": 1723990.15
       },
       "ieOppose": {},
       "conduitSupport": {
@@ -5664,7 +5664,7 @@
      },
      "moneyTotals": {
       "direct": 22894,
-      "ieSupport": 1723990.1500000001,
+      "ieSupport": 1723990.15,
       "ieOppose": 0,
       "conduitSupport": 359524.58999999997,
       "conduitOppose": 0
@@ -6859,7 +6859,7 @@
       "direct": {},
       "ieSupport": {},
       "ieOppose": {
-       "2024": 4615288.759999999
+       "2024": 4615288.76
       },
       "conduitSupport": {},
       "conduitOppose": {}
@@ -6877,7 +6877,7 @@
      "moneyTotals": {
       "direct": 0,
       "ieSupport": 0,
-      "ieOppose": 4615288.759999999,
+      "ieOppose": 4615288.76,
       "conduitSupport": 0,
       "conduitOppose": 0
      },
@@ -15477,7 +15477,7 @@
       "ieOppose": {},
       "conduitSupport": {},
       "conduitOppose": {
-       "2026": 1426378.6600000001
+       "2026": 1426378.66
       }
      },
      "industry": {
@@ -15492,7 +15492,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 1426378.6600000001
+      "conduitOppose": 1426378.66
      },
      "receipts": 3446463,
      "fromList": false,
@@ -25256,7 +25256,7 @@
       "direct": {},
       "ieSupport": {},
       "ieOppose": {
-       "2026": 20903437.57
+       "2026": 20903437.569999997
       },
       "conduitSupport": {},
       "conduitOppose": {}
@@ -25269,7 +25269,7 @@
      "moneyTotals": {
       "direct": 0,
       "ieSupport": 0,
-      "ieOppose": 20903437.57,
+      "ieOppose": 20903437.569999997,
       "conduitSupport": 0,
       "conduitOppose": 0
      },
@@ -26975,7 +26975,7 @@
       },
       "ieSupport": {
        "2024": 3356279.25,
-       "2026": 685626.16
+       "2026": 685626.1599999999
       },
       "ieOppose": {},
       "conduitSupport": {},
@@ -37388,7 +37388,7 @@
        "2026": 4994
       },
       "ieSupport": {
-       "2022": 83172.02
+       "2022": 83172.01999999999
       },
       "ieOppose": {},
       "conduitSupport": {},
@@ -37413,7 +37413,7 @@
      },
      "moneyTotals": {
       "direct": 20394,
-      "ieSupport": 83172.02,
+      "ieSupport": 83172.01999999999,
       "ieOppose": 0,
       "conduitSupport": 0,
       "conduitOppose": 0
@@ -42329,7 +42329,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {
-       "2026": 711205.9700000001
+       "2026": 711205.97
       },
       "conduitOppose": {}
      },
@@ -42346,7 +42346,7 @@
       "direct": 0,
       "ieSupport": 0,
       "ieOppose": 0,
-      "conduitSupport": 711205.9700000001,
+      "conduitSupport": 711205.97,
       "conduitOppose": 0
      },
      "receipts": 1917646,
@@ -47322,7 +47322,7 @@
        "2026": 21800
       },
       "ieSupport": {
-       "2022": 421417.54000000004
+       "2022": 421417.54
       },
       "ieOppose": {},
       "conduitSupport": {},
@@ -47347,7 +47347,7 @@
      },
      "moneyTotals": {
       "direct": 30700,
-      "ieSupport": 421417.54000000004,
+      "ieSupport": 421417.54,
       "ieOppose": 0,
       "conduitSupport": 0,
       "conduitOppose": 0
