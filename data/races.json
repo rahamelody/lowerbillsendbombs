@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-03T17:08:53.219Z",
- "moneyAsOf": "2026-11-03T17:08:51.502Z",
+ "generated": "2026-11-04T17:21:08.369Z",
+ "moneyAsOf": "2026-11-04T17:21:07.053Z",
  "filingsThrough": "2026-11-03",
  "liveCheckedAt": "2026-11-01T15:52:14.703Z",
  "races": {
@@ -5637,7 +5637,7 @@
        "2026": 4994
       },
       "ieSupport": {
-       "2024": 1723990.15
+       "2024": 1723990.1500000001
       },
       "ieOppose": {},
       "conduitSupport": {
@@ -5664,7 +5664,7 @@
      },
      "moneyTotals": {
       "direct": 22894,
-      "ieSupport": 1723990.15,
+      "ieSupport": 1723990.1500000001,
       "ieOppose": 0,
       "conduitSupport": 359524.58999999997,
       "conduitOppose": 0
@@ -14723,7 +14723,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {
-       "2026": 4379242.74
+       "2026": 4379242.739999999
       },
       "conduitOppose": {}
      },
@@ -14740,7 +14740,7 @@
       "direct": 0,
       "ieSupport": 0,
       "ieOppose": 0,
-      "conduitSupport": 4379242.74,
+      "conduitSupport": 4379242.739999999,
       "conduitOppose": 0
      },
      "receipts": 2700313,
@@ -19993,7 +19993,7 @@
       "conduitSupport": 0,
       "conduitOppose": 0
      },
-     "receipts": 7383,
+     "receipts": 7443,
      "fromList": false,
      "state": "LA",
      "wiki": null,
@@ -26974,7 +26974,7 @@
        "2026": 14994
       },
       "ieSupport": {
-       "2024": 3356279.25,
+       "2024": 3356279.2500000005,
        "2026": 685626.1599999999
       },
       "ieOppose": {},
@@ -28541,7 +28541,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {
-       "2026": 617787.5099999999
+       "2026": 617787.51
       },
       "conduitOppose": {}
      },
@@ -28554,7 +28554,7 @@
       "direct": 0,
       "ieSupport": 0,
       "ieOppose": 0,
-      "conduitSupport": 617787.5099999999,
+      "conduitSupport": 617787.51,
       "conduitOppose": 0
      },
      "receipts": 5093104,
@@ -33402,7 +33402,7 @@
        "2026": 9994
       },
       "ieSupport": {
-       "2024": 4682560.29
+       "2024": 4682560.290000001
       },
       "ieOppose": {
        "2024": 84325.84
@@ -33424,7 +33424,7 @@
      },
      "moneyTotals": {
       "direct": 16994,
-      "ieSupport": 4682560.29,
+      "ieSupport": 4682560.290000001,
       "ieOppose": 84325.84,
       "conduitSupport": 0,
       "conduitOppose": 0
@@ -45217,7 +45217,7 @@
       "conduitSupport": 0,
       "conduitOppose": 0
      },
-     "receipts": 1526218,
+     "receipts": 1526518,
      "fromList": false,
      "state": "TX",
      "wiki": "Lance Gooden",
@@ -49819,7 +49819,7 @@
       "conduitSupport": 0,
       "conduitOppose": 0
      },
-     "receipts": 68912,
+     "receipts": 74221,
      "fromList": false,
      "state": "VA",
      "wiki": "Randall Terry",
