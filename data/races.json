@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-05T17:28:58.525Z",
- "moneyAsOf": "2026-11-05T17:28:57.123Z",
- "filingsThrough": "2026-11-04",
+ "generated": "2026-11-06T16:50:07.263Z",
+ "moneyAsOf": "2026-11-06T16:50:05.192Z",
+ "filingsThrough": "2026-11-05",
  "liveCheckedAt": "2026-11-01T15:52:14.703Z",
  "races": {
   "AL-1": {
@@ -3840,7 +3840,7 @@
      "money": {
       "direct": {},
       "ieSupport": {
-       "2026": 825292.7699999999
+       "2026": 825292.77
       },
       "ieOppose": {},
       "conduitSupport": {
@@ -3855,7 +3855,7 @@
      },
      "moneyTotals": {
       "direct": 0,
-      "ieSupport": 825292.7699999999,
+      "ieSupport": 825292.77,
       "ieOppose": 0,
       "conduitSupport": 1838225.31,
       "conduitOppose": 0
@@ -6859,7 +6859,7 @@
       "direct": {},
       "ieSupport": {},
       "ieOppose": {
-       "2024": 4615288.759999999
+       "2024": 4615288.76
       },
       "conduitSupport": {},
       "conduitOppose": {}
@@ -6877,7 +6877,7 @@
      "moneyTotals": {
       "direct": 0,
       "ieSupport": 0,
-      "ieOppose": 4615288.759999999,
+      "ieOppose": 4615288.76,
       "conduitSupport": 0,
       "conduitOppose": 0
      },
@@ -15388,7 +15388,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {
-       "2026": 3985697.61
+       "2026": 3985697.6099999994
       },
       "conduitOppose": {}
      },
@@ -15407,7 +15407,7 @@
       "direct": 10000,
       "ieSupport": 0,
       "ieOppose": 0,
-      "conduitSupport": 3985697.61,
+      "conduitSupport": 3985697.6099999994,
       "conduitOppose": 0
      },
      "receipts": 2457207,
@@ -21537,7 +21537,7 @@
        "2026": 4994
       },
       "ieSupport": {
-       "2022": 1734184.4200000002
+       "2022": 1734184.42
       },
       "ieOppose": {},
       "conduitSupport": {},
@@ -21556,7 +21556,7 @@
      },
      "moneyTotals": {
       "direct": 4994,
-      "ieSupport": 1734184.4200000002,
+      "ieSupport": 1734184.42,
       "ieOppose": 0,
       "conduitSupport": 0,
       "conduitOppose": 0
@@ -21659,7 +21659,7 @@
      "money": {
       "direct": {},
       "ieSupport": {
-       "2026": 5734013.279999999
+       "2026": 5734013.28
       },
       "ieOppose": {},
       "conduitSupport": {},
@@ -21672,7 +21672,7 @@
      },
      "moneyTotals": {
       "direct": 0,
-      "ieSupport": 5734013.279999999,
+      "ieSupport": 5734013.28,
       "ieOppose": 0,
       "conduitSupport": 0,
       "conduitOppose": 0
@@ -25256,7 +25256,7 @@
       "direct": {},
       "ieSupport": {},
       "ieOppose": {
-       "2026": 20903437.569999997
+       "2026": 20903437.57
       },
       "conduitSupport": {},
       "conduitOppose": {}
@@ -25269,7 +25269,7 @@
      "moneyTotals": {
       "direct": 0,
       "ieSupport": 0,
-      "ieOppose": 20903437.569999997,
+      "ieOppose": 20903437.57,
       "conduitSupport": 0,
       "conduitOppose": 0
      },
@@ -26974,7 +26974,7 @@
        "2026": 14994
       },
       "ieSupport": {
-       "2024": 3356279.2499999995,
+       "2024": 3356279.25,
        "2026": 685626.16
       },
       "ieOppose": {},
@@ -26997,7 +26997,7 @@
      },
      "moneyTotals": {
       "direct": 23626,
-      "ieSupport": 4041905.4099999997,
+      "ieSupport": 4041905.41,
       "ieOppose": 0,
       "conduitSupport": 0,
       "conduitOppose": 0
@@ -28541,7 +28541,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {
-       "2026": 617787.5099999999
+       "2026": 617787.51
       },
       "conduitOppose": {}
      },
@@ -28554,7 +28554,7 @@
       "direct": 0,
       "ieSupport": 0,
       "ieOppose": 0,
-      "conduitSupport": 617787.5099999999,
+      "conduitSupport": 617787.51,
       "conduitOppose": 0
      },
      "receipts": 5093104,
@@ -47322,7 +47322,7 @@
        "2026": 21800
       },
       "ieSupport": {
-       "2022": 421417.54000000004
+       "2022": 421417.54
       },
       "ieOppose": {},
       "conduitSupport": {},
@@ -47347,7 +47347,7 @@
      },
      "moneyTotals": {
       "direct": 30700,
-      "ieSupport": 421417.54000000004,
+      "ieSupport": 421417.54,
       "ieOppose": 0,
       "conduitSupport": 0,
       "conduitOppose": 0
