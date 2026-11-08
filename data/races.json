@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-07T15:44:09.929Z",
- "moneyAsOf": "2026-11-07T15:44:08.126Z",
+ "generated": "2026-11-08T16:02:21.315Z",
+ "moneyAsOf": "2026-11-08T16:02:19.744Z",
  "filingsThrough": "2026-11-06",
  "liveCheckedAt": "2026-11-01T15:52:14.703Z",
  "races": {
@@ -5637,7 +5637,7 @@
        "2026": 4994
       },
       "ieSupport": {
-       "2024": 1723990.15
+       "2024": 1723990.1500000001
       },
       "ieOppose": {},
       "conduitSupport": {
@@ -5664,7 +5664,7 @@
      },
      "moneyTotals": {
       "direct": 22894,
-      "ieSupport": 1723990.15,
+      "ieSupport": 1723990.1500000001,
       "ieOppose": 0,
       "conduitSupport": 359524.58999999997,
       "conduitOppose": 0
@@ -6859,7 +6859,7 @@
       "direct": {},
       "ieSupport": {},
       "ieOppose": {
-       "2024": 4615288.76
+       "2024": 4615288.759999998
       },
       "conduitSupport": {},
       "conduitOppose": {}
@@ -6877,7 +6877,7 @@
      "moneyTotals": {
       "direct": 0,
       "ieSupport": 0,
-      "ieOppose": 4615288.76,
+      "ieOppose": 4615288.759999998,
       "conduitSupport": 0,
       "conduitOppose": 0
      },
@@ -15388,7 +15388,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {
-       "2026": 3985697.6099999994
+       "2026": 3985697.61
       },
       "conduitOppose": {}
      },
@@ -15407,7 +15407,7 @@
       "direct": 10000,
       "ieSupport": 0,
       "ieOppose": 0,
-      "conduitSupport": 3985697.6099999994,
+      "conduitSupport": 3985697.61,
       "conduitOppose": 0
      },
      "receipts": 2457207,
@@ -15477,7 +15477,7 @@
       "ieOppose": {},
       "conduitSupport": {},
       "conduitOppose": {
-       "2026": 1426378.66
+       "2026": 1426378.6600000001
       }
      },
      "industry": {
@@ -15492,7 +15492,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 1426378.66
+      "conduitOppose": 1426378.6600000001
      },
      "receipts": 3446463,
      "fromList": false,
@@ -25256,7 +25256,7 @@
       "direct": {},
       "ieSupport": {},
       "ieOppose": {
-       "2026": 20903437.569999993
+       "2026": 20903437.57
       },
       "conduitSupport": {},
       "conduitOppose": {}
@@ -25269,7 +25269,7 @@
      "moneyTotals": {
       "direct": 0,
       "ieSupport": 0,
-      "ieOppose": 20903437.569999993,
+      "ieOppose": 20903437.57,
       "conduitSupport": 0,
       "conduitOppose": 0
      },
@@ -26975,7 +26975,7 @@
       },
       "ieSupport": {
        "2024": 3356279.25,
-       "2026": 685626.16
+       "2026": 685626.1599999999
       },
       "ieOppose": {},
       "conduitSupport": {},
@@ -33402,7 +33402,7 @@
        "2026": 9994
       },
       "ieSupport": {
-       "2024": 4682560.290000001
+       "2024": 4682560.29
       },
       "ieOppose": {
        "2024": 84325.84
@@ -33424,7 +33424,7 @@
      },
      "moneyTotals": {
       "direct": 16994,
-      "ieSupport": 4682560.290000001,
+      "ieSupport": 4682560.29,
       "ieOppose": 84325.84,
       "conduitSupport": 0,
       "conduitOppose": 0
@@ -37388,7 +37388,7 @@
        "2026": 4994
       },
       "ieSupport": {
-       "2022": 83172.01999999999
+       "2022": 83172.02
       },
       "ieOppose": {},
       "conduitSupport": {},
@@ -37413,7 +37413,7 @@
      },
      "moneyTotals": {
       "direct": 20394,
-      "ieSupport": 83172.01999999999,
+      "ieSupport": 83172.02,
       "ieOppose": 0,
       "conduitSupport": 0,
       "conduitOppose": 0
@@ -47322,7 +47322,7 @@
        "2026": 21800
       },
       "ieSupport": {
-       "2022": 421417.54
+       "2022": 421417.54000000004
       },
       "ieOppose": {},
       "conduitSupport": {},
@@ -47347,7 +47347,7 @@
      },
      "moneyTotals": {
       "direct": 30700,
-      "ieSupport": 421417.54,
+      "ieSupport": 421417.54000000004,
       "ieOppose": 0,
       "conduitSupport": 0,
       "conduitOppose": 0
