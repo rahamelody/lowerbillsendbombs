@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-09T19:53:46.976Z",
- "moneyAsOf": "2026-11-09T19:53:45.823Z",
- "filingsThrough": "2026-11-06",
+ "generated": "2026-11-10T17:08:13.593Z",
+ "moneyAsOf": "2026-11-10T17:08:11.643Z",
+ "filingsThrough": "2026-11-09",
  "liveCheckedAt": "2026-11-01T15:52:14.703Z",
  "races": {
   "AL-1": {
@@ -5637,7 +5637,7 @@
        "2026": 4994
       },
       "ieSupport": {
-       "2024": 1723990.1500000001
+       "2024": 1723990.15
       },
       "ieOppose": {},
       "conduitSupport": {
@@ -5664,7 +5664,7 @@
      },
      "moneyTotals": {
       "direct": 22894,
-      "ieSupport": 1723990.1500000001,
+      "ieSupport": 1723990.15,
       "ieOppose": 0,
       "conduitSupport": 359524.58999999997,
       "conduitOppose": 0
@@ -15477,7 +15477,7 @@
       "ieOppose": {},
       "conduitSupport": {},
       "conduitOppose": {
-       "2026": 1426378.6600000001
+       "2026": 1426378.66
       }
      },
      "industry": {
@@ -15492,7 +15492,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 1426378.6600000001
+      "conduitOppose": 1426378.66
      },
      "receipts": 3446463,
      "fromList": false,
@@ -21537,7 +21537,7 @@
        "2026": 4994
       },
       "ieSupport": {
-       "2022": 1734184.42
+       "2022": 1734184.4200000002
       },
       "ieOppose": {},
       "conduitSupport": {},
@@ -21556,7 +21556,7 @@
      },
      "moneyTotals": {
       "direct": 4994,
-      "ieSupport": 1734184.42,
+      "ieSupport": 1734184.4200000002,
       "ieOppose": 0,
       "conduitSupport": 0,
       "conduitOppose": 0
@@ -22561,7 +22561,7 @@
       "conduitSupport": 0,
       "conduitOppose": 0
      },
-     "receipts": 1052703,
+     "receipts": 1060203,
      "fromList": true,
      "state": "MA",
      "wiki": "Stephen F. Lynch",
@@ -26974,7 +26974,7 @@
        "2026": 14994
       },
       "ieSupport": {
-       "2024": 3356279.25,
+       "2024": 3356279.2500000005,
        "2026": 685626.16
       },
       "ieOppose": {},
@@ -26997,7 +26997,7 @@
      },
      "moneyTotals": {
       "direct": 23626,
-      "ieSupport": 4041905.41,
+      "ieSupport": 4041905.4100000006,
       "ieOppose": 0,
       "conduitSupport": 0,
       "conduitOppose": 0
@@ -28541,7 +28541,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {
-       "2026": 617787.51
+       "2026": 617787.5099999999
       },
       "conduitOppose": {}
      },
@@ -28554,7 +28554,7 @@
       "direct": 0,
       "ieSupport": 0,
       "ieOppose": 0,
-      "conduitSupport": 617787.51,
+      "conduitSupport": 617787.5099999999,
       "conduitOppose": 0
      },
      "receipts": 5093104,
@@ -33402,7 +33402,7 @@
        "2026": 9994
       },
       "ieSupport": {
-       "2024": 4682560.290000001
+       "2024": 4682560.29
       },
       "ieOppose": {
        "2024": 84325.84
@@ -33424,7 +33424,7 @@
      },
      "moneyTotals": {
       "direct": 16994,
-      "ieSupport": 4682560.290000001,
+      "ieSupport": 4682560.29,
       "ieOppose": 84325.84,
       "conduitSupport": 0,
       "conduitOppose": 0
@@ -37388,7 +37388,7 @@
        "2026": 4994
       },
       "ieSupport": {
-       "2022": 83172.02
+       "2022": 83172.01999999999
       },
       "ieOppose": {},
       "conduitSupport": {},
@@ -37413,7 +37413,7 @@
      },
      "moneyTotals": {
       "direct": 20394,
-      "ieSupport": 83172.02,
+      "ieSupport": 83172.01999999999,
       "ieOppose": 0,
       "conduitSupport": 0,
       "conduitOppose": 0
@@ -42329,7 +42329,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {
-       "2026": 711205.9700000001
+       "2026": 711205.97
       },
       "conduitOppose": {}
      },
@@ -42346,7 +42346,7 @@
       "direct": 0,
       "ieSupport": 0,
       "ieOppose": 0,
-      "conduitSupport": 711205.9700000001,
+      "conduitSupport": 711205.97,
       "conduitOppose": 0
      },
      "receipts": 1917646,
