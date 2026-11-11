@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-10T17:08:13.593Z",
- "moneyAsOf": "2026-11-10T17:08:11.643Z",
- "filingsThrough": "2026-11-09",
+ "generated": "2026-11-11T17:15:26.155Z",
+ "moneyAsOf": "2026-11-11T17:15:24.874Z",
+ "filingsThrough": "2026-11-10",
  "liveCheckedAt": "2026-11-01T15:52:14.703Z",
  "races": {
   "AL-1": {
@@ -14723,7 +14723,7 @@
       "ieSupport": {},
       "ieOppose": {},
       "conduitSupport": {
-       "2026": 4379242.74
+       "2026": 4379242.740000001
       },
       "conduitOppose": {}
      },
@@ -14740,7 +14740,7 @@
       "direct": 0,
       "ieSupport": 0,
       "ieOppose": 0,
-      "conduitSupport": 4379242.74,
+      "conduitSupport": 4379242.740000001,
       "conduitOppose": 0
      },
      "receipts": 2700313,
@@ -15477,7 +15477,7 @@
       "ieOppose": {},
       "conduitSupport": {},
       "conduitOppose": {
-       "2026": 1426378.66
+       "2026": 1426378.6600000001
       }
      },
      "industry": {
@@ -15492,7 +15492,7 @@
       "ieSupport": 0,
       "ieOppose": 0,
       "conduitSupport": 0,
-      "conduitOppose": 1426378.66
+      "conduitOppose": 1426378.6600000001
      },
      "receipts": 3446463,
      "fromList": false,
@@ -21537,7 +21537,7 @@
        "2026": 4994
       },
       "ieSupport": {
-       "2022": 1734184.4200000002
+       "2022": 1734184.42
       },
       "ieOppose": {},
       "conduitSupport": {},
@@ -21556,7 +21556,7 @@
      },
      "moneyTotals": {
       "direct": 4994,
-      "ieSupport": 1734184.4200000002,
+      "ieSupport": 1734184.42,
       "ieOppose": 0,
       "conduitSupport": 0,
       "conduitOppose": 0
@@ -26974,8 +26974,8 @@
        "2026": 14994
       },
       "ieSupport": {
-       "2024": 3356279.2500000005,
-       "2026": 685626.16
+       "2024": 3356279.2499999995,
+       "2026": 685626.1599999999
       },
       "ieOppose": {},
       "conduitSupport": {},
@@ -26997,7 +26997,7 @@
      },
      "moneyTotals": {
       "direct": 23626,
-      "ieSupport": 4041905.4100000006,
+      "ieSupport": 4041905.409999999,
       "ieOppose": 0,
       "conduitSupport": 0,
       "conduitOppose": 0

@@ -4532,7 +4532,7 @@
    "ieOppose": {},
    "conduitSupport": {},
    "conduitOppose": {
-    "2026": 3187086.6799999997
+    "2026": 3187086.68
    }
   },
   "industry": {
@@ -4552,7 +4552,7 @@
    "ieSupport": 0,
    "ieOppose": 0,
    "conduitSupport": 0,
-   "conduitOppose": 3187086.6799999997
+   "conduitOppose": 3187086.68
   },
   "photo": "https://unitedstates.github.io/images/congress/225x275/N000190.jpg",
   "notOnBallot": true
@@ -4709,7 +4709,7 @@
    },
    "ieSupport": {
     "2022": 3878030.46,
-    "2026": 10498735.229999999
+    "2026": 10498735.23
    },
    "ieOppose": {},
    "conduitSupport": {},
@@ -4734,7 +4734,7 @@
   },
   "moneyTotals": {
    "direct": 22100,
-   "ieSupport": 14376765.689999998,
+   "ieSupport": 14376765.690000001,
    "ieOppose": 0,
    "conduitSupport": 0,
    "conduitOppose": 0
