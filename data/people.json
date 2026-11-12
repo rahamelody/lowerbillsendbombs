@@ -2732,7 +2732,7 @@
    "ieSupport": {},
    "ieOppose": {
     "2024": 319783.3,
-    "2026": 3576968.08
+    "2026": 3576968.0800000005
    },
    "conduitSupport": {},
    "conduitOppose": {}
@@ -2753,7 +2753,7 @@
   "moneyTotals": {
    "direct": 0,
    "ieSupport": 0,
-   "ieOppose": 3896751.38,
+   "ieOppose": 3896751.3800000004,
    "conduitSupport": 0,
    "conduitOppose": 0
   },
@@ -4532,7 +4532,7 @@
    "ieOppose": {},
    "conduitSupport": {},
    "conduitOppose": {
-    "2026": 3187086.68
+    "2026": 3187086.6799999997
    }
   },
   "industry": {
@@ -4552,7 +4552,7 @@
    "ieSupport": 0,
    "ieOppose": 0,
    "conduitSupport": 0,
-   "conduitOppose": 3187086.68
+   "conduitOppose": 3187086.6799999997
   },
   "photo": "https://unitedstates.github.io/images/congress/225x275/N000190.jpg",
   "notOnBallot": true
