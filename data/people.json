@@ -4709,7 +4709,7 @@
    },
    "ieSupport": {
     "2022": 3878030.4599999995,
-    "2026": 10498735.229999999
+    "2026": 10498735.23
    },
    "ieOppose": {},
    "conduitSupport": {},
@@ -4734,7 +4734,7 @@
   },
   "moneyTotals": {
    "direct": 22100,
-   "ieSupport": 14376765.689999998,
+   "ieSupport": 14376765.69,
    "ieOppose": 0,
    "conduitSupport": 0,
    "conduitOppose": 0
